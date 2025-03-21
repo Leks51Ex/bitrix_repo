@@ -1,4 +1,0 @@
-<?
-$MESS["REPORT_FEEDBACK_BUTTON_TITLE"] = "Masukan";
-$MESS["REPORT_FEEDBACK_TITLE"] = "Masukan";
-?>

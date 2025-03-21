@@ -1,5 +1,0 @@
-<?php
-$MESS["CRM_ITEM_AUTOMATION_INVALID_ENTITY_TYPE"] = "Geçersiz varlık türü";
-$MESS["CRM_ITEM_AUTOMATION_TITLE"] = "Otomasyon kuralları #ENTITY#";
-$MESS["CRM_ITEM_AUTOMATION_TITLE_CATEGORY"] = "Otomasyon kuralları #ENTITY# (#CATEGORY#)";
-$MESS["CRM_ITEM_AUTOMATION_WRONG_CATEGORY"] = "Geçersiz kategori";

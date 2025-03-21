@@ -1,5 +1,0 @@
-<?
-$MESS["LANDING_CMP_DESCRIPTION"] = "用資料區塊填充登陸頁面。";
-$MESS["LANDING_CMP_NAME"] = "檢視和編輯登陸";
-$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";
-?>

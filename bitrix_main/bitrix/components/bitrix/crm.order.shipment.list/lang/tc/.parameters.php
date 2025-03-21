@@ -1,3 +1,0 @@
-<?
-$MESS["CRM_ORDER_SHIPMENT_COUNT"] = "每頁出貨";
-?>

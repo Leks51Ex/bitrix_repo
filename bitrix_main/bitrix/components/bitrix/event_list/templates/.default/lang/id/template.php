@@ -1,7 +1,0 @@
-<?php
-$MESS["EVENT_LIST_FILTER_CREATED_BY"] = "Dibuat oleh";
-$MESS["EVENT_LIST_FILTER_DATE"] = "Tanggal";
-$MESS["EVENT_LIST_FILTER_FEATURES_TITLE"] = "Event";
-$MESS["EVENT_LIST_FILTER_HIDE"] = "sembunyikan";
-$MESS["EVENT_LIST_FILTER_SHOW"] = "tunjukkan";
-$MESS["EVENT_LIST_FILTER_TITLE"] = "Atur Filter";

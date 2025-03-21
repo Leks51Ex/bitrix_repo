@@ -1,7 +1,0 @@
-<?
-$MESS["TASKS_EMP_CURRENT_COUNT"] = "選択済み";
-$MESS["TASKS_EMP_HEAD"] = "部署長";
-$MESS["TASKS_LAST_SELECTED"] = "最近のタスク";
-$MESS["TASKS_USER_SEARCH"] = "検索";
-$MESS["TASKS_USER_STRUCTURE"] = "組織図から選択";
-?>

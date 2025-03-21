@@ -1,8 +1,0 @@
-<?
-$MESS["CRM_ALL"] = "总计";
-$MESS["CRM_PRESET_UFIELDS_ACTION_MENU_DELETE"] = "删除";
-$MESS["CRM_PRESET_UFIELDS_ACTION_MENU_DELETE_CONF"] = "删除记录？";
-$MESS["CRM_PRESET_UFIELDS_NOTE"] = "该列表包含那些目前没有在任何模板中使用的自定义字段。这些字段可能不再需要。删除字段还将删除与之关联的任何数据，且不可逆转。";
-$MESS["CRM_PRESET_UFIELDS_TOOLBAR_LIST"] = "模板";
-$MESS["CRM_PRESET_UFIELDS_TOOLBAR_LIST_TITLE"] = "模板：#NAME#";
-?>

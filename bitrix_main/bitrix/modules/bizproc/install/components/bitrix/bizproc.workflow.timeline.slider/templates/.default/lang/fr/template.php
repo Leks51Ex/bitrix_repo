@@ -1,4 +1,0 @@
-<?php
-$MESS["BIZPROC_WORKFLOW_TIMELINE_SLIDER_HELP_BUTTON"] = "Aide";
-$MESS["BIZPROC_WORKFLOW_TIMELINE_SLIDER_TITLE"] = "Journal du processus d'entreprise";
-$MESS["BIZPROC_WORKFLOW_TIMELINE_SLIDER_TITLE_MSGVER_1"] = "Journal du processus d'entreprise";

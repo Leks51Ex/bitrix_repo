@@ -1,2 +1,0 @@
-<?php
-$MESS["CRM_CONFIG_SALE_SETTINGS_ACCESS_DENIED_TITLE"] = "權限不足，無法存取區段設定。";

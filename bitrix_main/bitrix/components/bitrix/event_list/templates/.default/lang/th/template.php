@@ -1,7 +1,0 @@
-<?php
-$MESS["EVENT_LIST_FILTER_CREATED_BY"] = "สร้างขึ้นโดย";
-$MESS["EVENT_LIST_FILTER_DATE"] = "วันที่";
-$MESS["EVENT_LIST_FILTER_FEATURES_TITLE"] = "เหตุการณ์";
-$MESS["EVENT_LIST_FILTER_HIDE"] = "ซ่อน";
-$MESS["EVENT_LIST_FILTER_SHOW"] = "แสดง";
-$MESS["EVENT_LIST_FILTER_TITLE"] = "ตั้งค่าตัวกรอง";

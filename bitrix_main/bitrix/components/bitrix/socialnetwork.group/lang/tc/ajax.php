@@ -1,3 +1,0 @@
-<?php
-$MESS["SOCIALNETWORK_GROUP_AJAX_EMPTY_GROUP_ID"] = "權限不足，無法編輯工作群組。";
-$MESS["SOCIALNETWORK_GROUP_AJAX_FAILED"] = "執行動作時，發生錯誤。";

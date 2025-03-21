@@ -1,7 +1,0 @@
-<?
-$MESS["SENDER_UI_BUTTON_PANEL_ABUSES"] = "ニュースレターの乱用に関する苦情を表示";
-$MESS["SENDER_UI_BUTTON_PANEL_CANCEL"] = "キャンセル";
-$MESS["SENDER_UI_BUTTON_PANEL_EXPORT"] = "データのエクスポート";
-$MESS["SENDER_UI_BUTTON_PANEL_FEEDBACK"] = "フィードバックフォーム";
-$MESS["SENDER_UI_BUTTON_PANEL_SAVE"] = "保存";
-?>

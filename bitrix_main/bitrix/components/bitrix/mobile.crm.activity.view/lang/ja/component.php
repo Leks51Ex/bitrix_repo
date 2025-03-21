@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_ACTIVITY_VIEW_NOT_FOUND"] = "##ID#アクティビティが見つかりません";
-$MESS["CRM_ACTIVITY_VIEW_RESPONSIBLE_NOT_ASSIGNED"] = "[未割り当て]";
-$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM はインストールされていません.";
-$MESS["CRM_PERMISSION_DENIED"] = "アクセス拒否されました";
-?>

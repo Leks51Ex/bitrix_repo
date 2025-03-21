@@ -1,3 +1,0 @@
-<?
-$MESS["DISK_BREADCRUMBS_ERROR_COULD_NOT_FIND_OBJECT"] = "無法找到物件。";
-?>

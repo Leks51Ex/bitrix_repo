@@ -1,3 +1,0 @@
-<?
-$MESS["RPA_TASK_FIELD_VALIDATION_ERROR"] = "必填字段缺失。";
-?>

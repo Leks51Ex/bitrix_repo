@@ -1,7 +1,0 @@
-<?
-$MESS["SONET_GROUP_NAME"] = "Grup: #GROUP_NAME#";
-$MESS["SONET_GROUP_TITLE_CREATE"] = "Grup baru";
-$MESS["SONET_GROUP_TITLE_EDIT"] = "Edit Grup #GROUP_NAME#";
-$MESS["SONET_GROUP_TITLE_FEATURES"] = "Konfigurasi pengaturan untuk #GROUP_NAME#";
-$MESS["SONET_GROUP_TITLE_INVITE"] = "Undang ke #GROUP_NAME#";
-?>

@@ -1,3 +1,0 @@
-<?
-$MESS["LANDING_CMP_PAR_LANDING_TYPE"] = "站点类型";
-?>

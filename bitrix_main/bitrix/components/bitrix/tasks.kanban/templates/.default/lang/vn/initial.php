@@ -1,5 +1,0 @@
-<?
-$MESS["TASKS_KANBAN_VIEWS_DIALOG"] = "Chọn màn xem giai đoạn";
-$MESS["TASKS_KANBAN_VIEWS_DIALOG_DEFAULT"] = "Mặc định";
-$MESS["TASKS_KANBAN_VIEWS_DIALOG_OK"] = "Chọn";
-?>

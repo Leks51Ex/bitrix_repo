@@ -1,6 +1,0 @@
-<?
-$MESS["BPWC_WTCT_DESCR"] = "描述";
-$MESS["BPWC_WTCT_NAME"] = "名稱";
-$MESS["BPWTC_WRCT_2LIST"] = "商務程序";
-$MESS["BPWTC_WRCT_SUBTITLE"] = "任務";
-?>

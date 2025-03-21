@@ -1,2 +1,0 @@
-<?php
-$MESS["TASKS_CONFIG_PERMISSIONS_HELP_LINK"] = "我要如何指派存取權限？";

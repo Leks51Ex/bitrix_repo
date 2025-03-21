@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安裝 CRM 模組。";
-$MESS["CRM_PERMISSION_DENIED"] = "已拒絕存取";
-$MESS["CRM_WEBFORM_DESIGN_TITLE"] = "表單樣式";
-?>

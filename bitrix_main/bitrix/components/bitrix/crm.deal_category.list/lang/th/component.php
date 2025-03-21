@@ -1,9 +1,0 @@
-<?
-$MESS["CRM_COLUMN_DEAL_CATEGORY_CREATED_DATE"] = "สร้างขึ้นเมื่อ";
-$MESS["CRM_COLUMN_DEAL_CATEGORY_ID"] = "ไอดี";
-$MESS["CRM_COLUMN_DEAL_CATEGORY_NAME"] = "ชื่อ";
-$MESS["CRM_COLUMN_DEAL_CATEGORY_SORT"] = "เรียงลำดับ";
-$MESS["CRM_DEAL_CATEGORY_DEFAULT_NAME"] = "ไปป์ไลน์ใหม่";
-$MESS["CRM_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล CRM";
-$MESS["CRM_PERMISSION_DENIED"] = "ปฏิเสธการเข้าใช้";
-?>

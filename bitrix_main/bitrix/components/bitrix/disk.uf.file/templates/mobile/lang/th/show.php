@@ -1,3 +1,0 @@
-<?php
-$MESS["DISK_UF_FILE_MOBILE_FILES_MORE_LINK"] = "ไฟล์เพิ่มเติม: #NUM#";
-$MESS["DISK_UF_FILE_MOBILE_GRID_TOGGLE_VIEW_GRID"] = "แสดงเป็นตาราง";

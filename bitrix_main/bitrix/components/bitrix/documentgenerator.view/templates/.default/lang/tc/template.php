@@ -1,3 +1,0 @@
-<?
-$MESS["DOCGEN_PUBLIC_VIEW_WAIT_TRANSFORMATION"] = "請等候轉換完成";
-?>

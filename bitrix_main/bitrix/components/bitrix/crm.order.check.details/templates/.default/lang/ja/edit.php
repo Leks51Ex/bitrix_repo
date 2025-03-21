@@ -1,7 +1,0 @@
-<?
-$MESS["CRM_BUTTONS_CANCEL"] = "キャンセル";
-$MESS["CRM_BUTTONS_SAVE"] = "保存";
-$MESS["CRM_ORDER_CHECK_ADDITION_ENTITY"] = "追加の支払い/出荷を選択";
-$MESS["CRM_ORDER_CHECK_MAIN_ENTITY"] = "支払いまたは出荷を選択";
-$MESS["CRM_ORDER_CHECK_TYPE"] = "領収書の種類";
-?>

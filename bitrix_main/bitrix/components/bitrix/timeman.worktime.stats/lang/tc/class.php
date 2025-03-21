@@ -1,5 +1,0 @@
-<?
-$MESS["TIMEMAN_MODULE_NOT_INSTALLED"] = "未安裝<strong>工作時間管理</strong>模組。";
-$MESS["TM_WORKTIME_SCHEDULE_STATS_TITLE"] = "#SCHEDULE_NAME#工作時間";
-$MESS["TM_WORKTIME_STATS_TITLE"] = "工作時間";
-?>

@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM はインストールされていません.";
-$MESS["CRM_PERMISSION_DENIED"] = "アクセスが拒否されました";
-$MESS["CRM_WEBFORM_DESIGN_TITLE"] = "フォームのスタイル";
-?>

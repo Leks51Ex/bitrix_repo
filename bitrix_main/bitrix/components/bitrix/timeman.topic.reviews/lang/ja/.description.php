@@ -1,4 +1,0 @@
-<?
-$MESS["FORUM_TOPIC_REVIEWS"] = "レビュー";
-$MESS["FORUM_TOPIC_REVIEWS_DESCRIPTION"] = "InfoBlock要素のレビュー";
-?>

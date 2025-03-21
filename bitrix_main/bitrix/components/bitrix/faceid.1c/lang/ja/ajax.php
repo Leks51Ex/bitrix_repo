@@ -1,4 +1,0 @@
-<?
-$MESS["FACEID_TRACKER1C_CMP_AJAX_NO_AGREEMENT"] = "ライセンス契約が承認されなかった";
-$MESS["FACEID_TRACKER1C_CMP_AJAX_NO_AUTH"] = "認証エラー";
-?>

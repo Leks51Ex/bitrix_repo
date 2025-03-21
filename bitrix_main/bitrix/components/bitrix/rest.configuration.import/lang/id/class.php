@@ -1,9 +1,0 @@
-<?php
-$MESS["REST_CONFIGURATION_IMPORT_ACCESS_DENIED"] = "Akses ditolak.";
-$MESS["REST_CONFIGURATION_IMPORT_ERROR_PROCESS_REGISTRATION"] = "Kesalahan mendaftarkan impor";
-$MESS["REST_CONFIGURATION_IMPORT_MANIFEST_NOT_CURRENT"] = "File yang salah diunggah";
-$MESS["REST_CONFIGURATION_IMPORT_MANIFEST_NOT_FOUND"] = "Manifest tidak ditemukan";
-$MESS["REST_CONFIGURATION_IMPORT_PREPARATION_TITLE"] = "Bersiap untuk impor";
-$MESS["REST_CONFIGURATION_IMPORT_ROLLBACK_TITLE"] = "Pulihkan preset solusi";
-$MESS["REST_CONFIGURATION_IMPORT_TITLE"] = "Impor preset solusi";
-$MESS["REST_CONFIGURATION_ROLLBACK_DEFAULT_TITLE"] = "konfigurasi sebelumnya sebelum menerapkan preset solusi (#CREATE_TIME#)";

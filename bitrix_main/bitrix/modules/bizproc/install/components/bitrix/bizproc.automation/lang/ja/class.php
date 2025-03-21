@@ -1,9 +1,0 @@
-<?php
-$MESS["BIZPROC_AUTOMATION_ACCESS_DENIED"] = "エンティティへのアクセスが拒否されました。";
-$MESS["BIZPROC_AUTOMATION_DELAY_MIN_LIMIT"] = "最小待機時間: #VAL#";
-$MESS["BIZPROC_AUTOMATION_NOT_AVAILABLE"] = "自動化は利用できません";
-$MESS["BIZPROC_AUTOMATION_NOT_SUPPORTED"] = "コンポーネントはこのCRMエンティティをサポートしていません。";
-$MESS["BIZPROC_AUTOMATION_NO_EDIT_PERMISSIONS"] = "自動化ルールを設定するための権限が不足しています。";
-$MESS["BIZPROC_AUTOMATION_TITLE"] = "自動化";
-$MESS["BIZPROC_AUTOMATION_TO_HEAD"] = "責任者宛";
-$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "ワークフローモジュールがインストールされていません。";

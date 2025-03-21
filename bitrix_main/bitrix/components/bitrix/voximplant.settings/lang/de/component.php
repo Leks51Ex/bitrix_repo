@@ -1,4 +1,0 @@
-<?
-$MESS["COMP_VI_ACCESS_DENIED"] = "Nicht genügend Rechte";
-$MESS["VI_CRM_INTEGRATION_WORKFLOW_EXECUTION_IMMEDIATE"] = "Beim Erhalten des Anrufs";
-$MESS["VI_CRM_INTEGRATION_WORKFLOW_EXECUTION_DEFERRED"] = "Beim Beenden des Anrufs";

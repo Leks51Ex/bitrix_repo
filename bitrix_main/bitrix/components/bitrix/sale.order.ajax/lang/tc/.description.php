@@ -1,5 +1,0 @@
-<?
-$MESS["SOF_DEFAULT_TEMPLATE_DESCRIPTION"] = "一步訂購程序，無需重新載入頁面";
-$MESS["SOF_DEFAULT_TEMPLATE_NAME1"] = "結帳";
-$MESS["SOF_NAME"] = "訂購程序";
-?>

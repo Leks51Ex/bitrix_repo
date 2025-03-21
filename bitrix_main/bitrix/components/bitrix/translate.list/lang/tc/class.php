@@ -1,4 +1,0 @@
-<?
-$MESS["TR_LIST_COLUMN_FILE_NAME"] = "檔案名稱";
-$MESS["TR_LIST_COLUMN_LANGUAGE_ID"] = "語言";
-?>

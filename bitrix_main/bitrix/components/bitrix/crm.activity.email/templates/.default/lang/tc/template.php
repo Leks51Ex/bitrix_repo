@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_ACT_EMAIL_HISTORY_MORE"] = "顯示更多";
-$MESS["CRM_ACT_EMAIL_RCPT"] = "收件者";
-?>

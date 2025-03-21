@@ -1,7 +1,0 @@
-<?
-$MESS["CRM_GRID_ENTITY_SEL_BTN"] = "เลือก";
-$MESS["CRM_GRID_ENTITY_SEL_LAST"] = "สุดท้าย";
-$MESS["CRM_GRID_ENTITY_SEL_SEARCH"] = "ค้นหา";
-$MESS["CRM_GRID_SEL_SEARCH_NO_RESULT"] = "ไม่พบรายการ";
-$MESS["CRM_INT_FILTER_NAV_BAR_TITLE"] = "มุมมอง";
-?>

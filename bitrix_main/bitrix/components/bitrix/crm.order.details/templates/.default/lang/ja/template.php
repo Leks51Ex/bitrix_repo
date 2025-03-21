@@ -1,8 +1,0 @@
-<?
-$MESS["CRM_ORDER_CANCEL_DIALOG_COMMENT_TITLE"] = "コメント";
-$MESS["CRM_ORDER_CANCEL_DIALOG_CONTENT"] = "この注文を本当にキャンセルしますか？";
-$MESS["CRM_ORDER_CANCEL_TITLE"] = "注文をキャンセル";
-$MESS["CRM_ORDER_DETAIL_HISTORY_STUB"] = "注文を作成しています...";
-$MESS["CRM_ORDER_RESTORE_DIALOG_CONTENT"] = "削除した注文を復元してもよろしいですか?";
-$MESS["CRM_ORDER_RESTORE_TITLE"] = "注文を復元";
-?>

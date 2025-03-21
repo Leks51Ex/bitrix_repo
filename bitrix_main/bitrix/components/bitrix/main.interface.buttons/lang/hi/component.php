@@ -1,3 +1,0 @@
-<?
-$MESS["MIB_DEFAULT_MORE_ITEM_TEXT"] = "अधिक";
-?>

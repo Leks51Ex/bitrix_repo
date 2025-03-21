@@ -1,6 +1,0 @@
-<?
-$MESS["DISK_MOBILE_CREATE"] = "创建时间";
-$MESS["DISK_MOBILE_MODIFIED"] = "修订时间";
-$MESS["DISK_MOBILE_SIZE"] = "大小";
-$MESS["DISK_MOBILE_VIEW_FILE"] = "查看文件";
-?>

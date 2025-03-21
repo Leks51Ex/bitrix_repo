@@ -1,7 +1,0 @@
-<?
-$MESS["CRM_PRODUCT_LRP_DLG_BTN_CLOSE"] = "Đóng";
-$MESS["CRM_PRODUCT_LRP_DLG_BTN_START"] = "Chạy";
-$MESS["CRM_PRODUCT_LRP_DLG_BTN_STOP"] = "Dừng";
-$MESS["CRM_PRODUCT_LRP_DLG_REQUEST_ERR"] = "Lỗi xử lý yêu cầu.";
-$MESS["CRM_PRODUCT_LRP_DLG_WAIT"] = "Vui lòng chờ...";
-?>

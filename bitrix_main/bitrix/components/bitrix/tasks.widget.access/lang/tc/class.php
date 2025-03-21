@@ -1,4 +1,0 @@
-<?
-$MESS["TASKS_COMPONENT_NO_ACCESS_LEVELS"] = "未定義存取層級";
-$MESS["TASKS_COMPONENT_TWR_CAN_NOT_READ"] = "您無法檢視存取權限。";
-?>

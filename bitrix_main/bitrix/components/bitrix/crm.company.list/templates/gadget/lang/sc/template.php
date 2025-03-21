@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_COLUMN_COMPANY_TYPE"] = "类型";
-$MESS["CRM_DATA_EMPTY"] = "无记录";
-?>

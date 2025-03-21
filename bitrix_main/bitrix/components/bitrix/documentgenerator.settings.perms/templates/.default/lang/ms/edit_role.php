@@ -1,8 +1,0 @@
-<?
-$MESS["DOCGEN_ROLE_ACTION"] = "Tindakan";
-$MESS["DOCGEN_ROLE_CANCEL"] = "Batal";
-$MESS["DOCGEN_ROLE_ENTITY"] = "Entiti";
-$MESS["DOCGEN_ROLE_LABEL"] = "Peranan";
-$MESS["DOCGEN_ROLE_PERMISSION"] = "Kebenaran";
-$MESS["DOCGEN_ROLE_SAVE"] = "Simpan";
-?>

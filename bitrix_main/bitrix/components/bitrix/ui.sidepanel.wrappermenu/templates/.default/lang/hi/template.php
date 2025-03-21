@@ -1,5 +1,0 @@
-<?
-$MESS["UI_SIDEPANEL_MENU_ADD_ITEM"] = "पेज जोड़ें";
-$MESS["UI_SIDEPANEL_MENU_BUTTON_CLOSE"] = "सिकोड़ें";
-$MESS["UI_SIDEPANEL_MENU_BUTTON_OPEN"] = "फैलाएँ";
-?>

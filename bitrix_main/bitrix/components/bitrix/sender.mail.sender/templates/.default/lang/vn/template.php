@@ -1,4 +1,0 @@
-<?
-$MESS["SENDER_UI_MAILBOX_SELECTOR_ADD"] = "Thêm email";
-$MESS["SENDER_UI_MAILBOX_SELECTOR_SETUP"] = "Chọn người gửi";
-?>

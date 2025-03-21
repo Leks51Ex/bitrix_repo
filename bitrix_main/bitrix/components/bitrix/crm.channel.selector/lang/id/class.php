@@ -1,2 +1,0 @@
-<?php
-$MESS["CRM_CHANNEL_SELECTOR_OPENLINE_CHANNEL_TITLE"] = "Saluran Terbuka";

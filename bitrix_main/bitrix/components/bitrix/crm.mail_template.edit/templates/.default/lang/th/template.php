@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_MAIL_TEMPLATE_ENTITY_FIELD_SELECTOR"] = "เลือกฟิลด์";
-$MESS["CRM_MAIL_TEMPLATE_ENTITY_FIELD_SELECTOR_ADD_BTN"] = "เพิ่ม";
-$MESS["CRM_MAIL_TEMPLATE_TAB_1"] = "เทมเพลตอีเมล";
-$MESS["CRM_MAIL_TEMPLATE_TAB_1_TITLE"] = "พารามิเตอร์เทมเพลตอีเมล";
-?>

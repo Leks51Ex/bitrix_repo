@@ -1,4 +1,0 @@
-<?
-$MESS["RPA_AUTOMATION_TASK_NOT_FOUND"] = "找不到任何指派";
-$MESS["RPA_AUTOMATION_TASK_TITLE"] = "指派";
-?>

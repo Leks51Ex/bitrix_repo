@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_DEAL_CATEGORY_PANEL_ADD_CATEGORY"] = "Tambah talian paip";
-$MESS["CRM_DEAL_CATEGORY_PANEL_MENU_BUTTON"] = "Lebih lagi...";
-?>

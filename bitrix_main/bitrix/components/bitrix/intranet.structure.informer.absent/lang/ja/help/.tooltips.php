@@ -1,3 +1,0 @@
-<?
-$MESS["NAME_TEMPLATE_TIP"] = "使用可能マクロ:#NAME#- 名;#LAST_NAME#- 姓,#SECOND_NAME#- ミドルネーム;#NAME_SHORT#,#LAST_NAME_SHORT#,#SECOND_NAME_SHORT#- それぞれの氏名の略";
-?>

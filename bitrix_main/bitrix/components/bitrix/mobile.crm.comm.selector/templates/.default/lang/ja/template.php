@@ -1,7 +1,0 @@
-<?
-$MESS["M_CRM_COMM_SELECTOR_DOWN_TEXT"] = "離すと更新されます";
-$MESS["M_CRM_COMM_SELECTOR_LOAD_TEXT"] = "更新中...";
-$MESS["M_CRM_COMM_SELECTOR_NOTHING_FOUND"] = "エントリは見つかりませんでした";
-$MESS["M_CRM_COMM_SELECTOR_PULL_TEXT"] = "下に引っ張ると更新されます";
-$MESS["M_CRM_COMM_SELECT_SEARCH_BUTTON"] = "検索";
-?>

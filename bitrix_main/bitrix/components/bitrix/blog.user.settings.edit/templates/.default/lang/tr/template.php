@@ -1,6 +1,0 @@
-<?
-$MESS["B_B_USE_CANCEL"] = "İptal";
-$MESS["B_B_USE_SAVE"] = "Kaydet";
-$MESS["B_B_USE_USER"] = "Kullanıcı:";
-$MESS["B_B_USE_U_GROUPS"] = "Kullanıcı şu grupların bir üyesi:";
-?>

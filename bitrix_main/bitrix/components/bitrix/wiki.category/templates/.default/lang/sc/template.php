@@ -1,6 +1,0 @@
-<?
-$MESS["NAV_TITLE"] = "页";
-$MESS["WIKI_CONTINUED"] = "续";
-$MESS["WIKI_PAGES_IN_SUBCATEGORY"] = "类别页";
-$MESS["WIKI_SUBCATEGORY"] = "子类别";
-?>

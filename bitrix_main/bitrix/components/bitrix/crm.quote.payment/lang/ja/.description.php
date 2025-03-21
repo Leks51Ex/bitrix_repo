@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_NAME"] = "CRM";
-$MESS["CRM_QUOTE_NAME"] = "請求書";
-$MESS["CRM_QUOTE_PAYMENT_DESCRIPTION"] = "請求書をHTML/PDFとして表示";
-$MESS["CRM_QUOTE_PAYMENT_NAME"] = "請求書をHTML/PDFとして表示";
-?>

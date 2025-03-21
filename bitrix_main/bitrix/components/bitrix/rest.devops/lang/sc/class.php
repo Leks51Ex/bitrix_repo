@@ -1,2 +1,0 @@
-<?php
-$MESS["REST_DEVOPS_DEFAULT_TITLE_PAGE"] = "开发人员资源";

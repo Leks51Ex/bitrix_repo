@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_DONT_HAVE_CONFIG_PERMS"] = "您沒有設定 CRM 的權限。";
-$MESS["CRM_MODULE_IS_NOT_INSTALLED"] = "未安裝 CRM 模組。";
-?>

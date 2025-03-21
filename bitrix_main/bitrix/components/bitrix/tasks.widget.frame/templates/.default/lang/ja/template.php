@@ -1,5 +1,0 @@
-<?
-$MESS["TASKS_TWF_T_ADDITIONAL_CLOSE"] = "非表示";
-$MESS["TASKS_TWF_T_ADDITIONAL_OPEN"] = "もっと見る";
-$MESS["TASKS_TWF_T_PINNER_HINT"] = "ブロックの固定または固定解除";
-?>

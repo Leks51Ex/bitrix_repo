@@ -1,4 +1,0 @@
-<?php
-$MESS["BICONNECTOR_SUPERSET_EXTERNAL_DATASET_CONTROLLER_PERMISSION_ERROR"] = "Niewystarczające uprawnienia dostępu do Centrum analitycznego";
-$MESS["BICONNECTOR_SUPERSET_EXTERNAL_DATASET_CONTROLLER_PERMISSION_SUPERSET_ERROR"] = "Niewystarczające uprawnienia do korzystania z Kreatora BI";
-$MESS["BICONNECTOR_SUPERSET_EXTERNAL_DATASET_CONTROLLER_TITLE"] = "Zestawy danych";

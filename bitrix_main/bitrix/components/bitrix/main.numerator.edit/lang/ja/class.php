@@ -1,4 +1,0 @@
-<?
-$MESS["NUMERATOR_EDIT_BTN_CANCEL"] = "キャンセル";
-$MESS["NUMERATOR_EDIT_BTN_SAVE"] = "保存";
-?>

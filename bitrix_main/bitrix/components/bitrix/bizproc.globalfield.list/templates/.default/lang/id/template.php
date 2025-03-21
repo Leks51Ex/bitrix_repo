@@ -1,4 +1,0 @@
-<?php
-$MESS["BIZPROC_GLOBALFIELDS_LIST_BTN_DELETE"] = "Hapus";
-$MESS["BIZPROC_GLOBALFIELDS_LIST_CONFIRM_CONSTANT_DELETE"] = "Anda yakin ingin menghapus konstanta?";
-$MESS["BIZPROC_GLOBALFIELDS_LIST_CONFIRM_VARIABLE_DELETE"] = "Anda yakin ingin menghapus variabel?";

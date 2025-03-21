@@ -1,4 +1,0 @@
-<?
-$MESS["MAIN_UL_TPL_INFO_CLOSE"] = "關閉";
-$MESS["MAIN_UL_TPL_INFO_LOADING"] = "正在載入……";
-?>

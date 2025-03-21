@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_EVENT_DEFAULT_TITLE"] = "没有数据。";
-$MESS["CRM_PERMISSION_DENIED"] = "访问被拒绝";
-?>

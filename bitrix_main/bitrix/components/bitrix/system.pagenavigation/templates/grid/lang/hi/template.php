@@ -1,7 +1,0 @@
-<?
-$MESS["MAIN_UI_PAGINATION__ALL"] = "सभी";
-$MESS["MAIN_UI_PAGINATION__NEXT"] = "अगला";
-$MESS["MAIN_UI_PAGINATION__PAGED"] = "पृष्ठांकित";
-$MESS["MAIN_UI_PAGINATION__PAGES"] = "पेज";
-$MESS["MAIN_UI_PAGINATION__PREV"] = "पिछला";
-?>

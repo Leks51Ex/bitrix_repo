@@ -1,6 +1,0 @@
-<?
-$MESS["SDP_SALESCENTER_DELIVERY_ADD"] = "配送サービスを追加";
-$MESS["SDP_SALESCENTER_DELIVERY_LIST"] = "配送";
-$MESS["SDP_SALESCENTER_DELIVERY_RECOMMEND"] = "提案する";
-$MESS["SDP_SALESCENTER_MODULE_ERROR"] = "\"Chat Enabled Sales\" モジュールがインストールされていません。";
-?>

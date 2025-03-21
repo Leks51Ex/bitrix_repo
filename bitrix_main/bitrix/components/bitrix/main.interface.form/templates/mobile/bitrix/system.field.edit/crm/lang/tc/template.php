@@ -1,7 +1,0 @@
-<?
-$MESS["CRM_ENTITY_TYPE_COMPANY"] = "公司";
-$MESS["CRM_ENTITY_TYPE_CONTACT"] = "連絡人";
-$MESS["CRM_ENTITY_TYPE_DEAL"] = "交易";
-$MESS["CRM_ENTITY_TYPE_LEAD"] = "潛在客戶";
-$MESS["MPF_ADD"] = "新增";
-?>

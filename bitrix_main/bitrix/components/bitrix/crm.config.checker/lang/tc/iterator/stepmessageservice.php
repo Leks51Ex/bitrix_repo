@@ -1,8 +1,0 @@
-<?
-$MESS["STEP_MESSAGESERVICES_DESCRIPTION"] = "連結簡訊供應商，並向您的客戶傳送群發簡訊";
-$MESS["STEP_MESSAGESERVICES_IS_NOT_CONFIGURED"] = "找不到正確配置的簡訊服務。";
-$MESS["STEP_MESSAGESERVICES_TITLE"] = "傳送手機簡訊";
-$MESS["STEP_MESSAGESERVICE_ERROR_NONEXISTENT_PROVIDER"] = "使用了在 #provider# 中不存在的簡訊供應商。 ";
-$MESS["STEP_MESSAGESERVICE_ERROR_NONWORKING_PROVIDER"] = "供應商 #provider# 已使用但未配置。";
-$MESS["STEP_MESSAGESERVICE_IS_NOT_INSTALLED"] = "未安裝「傳訊服務」模組 (messageservice)。請安裝該模組。";
-?>

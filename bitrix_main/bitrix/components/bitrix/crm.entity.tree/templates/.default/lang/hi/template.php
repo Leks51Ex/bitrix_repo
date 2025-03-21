@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_ENTITY_TREE_QUOTE"] = "कोट";
-$MESS["CRM_ENTITY_TREE_SOURCE"] = "स्रोत";

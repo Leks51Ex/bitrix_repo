@@ -1,4 +1,0 @@
-<?
-$MESS["BIZPROC_DO_TASK_AJAX_ERROR_ALREADY_DONE"] = "タスクは既に完了しています";
-$MESS["BIZPROC_DO_TASK_AJAX_ERROR_NOT_FOUND"] = "タスクが見つかりませんでした";
-?>

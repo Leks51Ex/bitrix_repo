@@ -1,4 +1,0 @@
-<?
-$MESS["M_CRM_CONFIG_USER_EMAIL_CANCEL_BTN"] = "ยกเลิก";
-$MESS["M_CRM_CONFIG_USER_EMAIL_SAVE_BTN"] = "บันทึก";
-?>

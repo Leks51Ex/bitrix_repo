@@ -1,4 +1,0 @@
-<?
-$MESS["REPORT_FEEDBACK_BUTTON_TITLE"] = "Phản hồi";
-$MESS["REPORT_FEEDBACK_TITLE"] = "Phản hồi";
-?>

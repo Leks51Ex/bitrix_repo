@@ -1,4 +1,0 @@
-<?
-$MESS["LANDING_TPL_BUTTON_SAVE"] = "保存";
-$MESS["LANDING_TPL_TITLE"] = "编辑域";
-?>

@@ -1,5 +1,0 @@
-<?php
-$MESS["TSE_SELECTOR_ADD"] = "Thêm";
-$MESS["TSE_SELECTOR_EDIT"] = "sửa";
-$MESS["TSE_SELECTOR_ERROR_POPUP_TITLE"] = "Có lỗi xảy ra";
-$MESS["TSE_SELECTOR_SEARCHER_EPIC_ADD"] = "Tạo sử thi";

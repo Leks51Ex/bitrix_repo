@@ -1,7 +1,0 @@
-<?php
-$MESS["EVENT_LIST_FILTER_CREATED_BY"] = "Tạo bởi";
-$MESS["EVENT_LIST_FILTER_DATE"] = "Ngày";
-$MESS["EVENT_LIST_FILTER_FEATURES_TITLE"] = "Các sự kiện";
-$MESS["EVENT_LIST_FILTER_HIDE"] = "ẩn";
-$MESS["EVENT_LIST_FILTER_SHOW"] = "hiển thị";
-$MESS["EVENT_LIST_FILTER_TITLE"] = "Thiết lập bộ lọc";

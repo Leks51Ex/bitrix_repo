@@ -1,9 +1,0 @@
-<?
-$MESS["MESSAGESERVICE_HEADER_CURRENT"] = "Dikirim hari ini";
-$MESS["MESSAGESERVICE_HEADER_LIMIT"] = "Batas pengiriman harian";
-$MESS["MESSAGESERVICE_HEADER_SENDER"] = "Layanan";
-$MESS["MESSAGESERVICE_HEADER_SENDER_FROM"] = "Pengirim";
-$MESS["MESSAGESERVICE_MODULE_NOT_INSTALLED"] = "Modul \"Layanan Mengirim Pesan\" belum diinstal.";
-$MESS["MESSAGESERVICE_PERMISSION_DENIED"] = "Akses ditolak";
-$MESS["MESSAGESERVICE_ROW_EDIT"] = "Edit";
-?>

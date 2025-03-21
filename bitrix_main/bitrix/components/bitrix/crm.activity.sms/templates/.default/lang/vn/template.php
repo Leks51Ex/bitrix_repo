@@ -1,9 +1,0 @@
-<?
-$MESS["CRM_ACTIVITY_SMS_DESCRIPTION"] = "Nội dung thư";
-$MESS["CRM_ACTIVITY_SMS_MESSAGE_STATUS"] = "Trạng thái thư";
-$MESS["CRM_ACTIVITY_SMS_PHONE_NUMBER"] = "Gửi đến số";
-$MESS["CRM_ACTIVITY_SMS_RECIPIENT_CLIENT"] = "khách hàng";
-$MESS["CRM_ACTIVITY_SMS_RECIPIENT_NAME"] = "Người nhận";
-$MESS["CRM_ACTIVITY_SMS_RECIPIENT_USER"] = "nhân viên";
-$MESS["CRM_ACTIVITY_SMS_SENDER_ROBOT"] = "Thư đã được gửi đi bởi rôbốt SMS";
-?>

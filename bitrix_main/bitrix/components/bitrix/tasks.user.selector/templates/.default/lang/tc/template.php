@@ -1,7 +1,0 @@
-<?
-$MESS["TASKS_EMP_CURRENT_COUNT"] = "已選定";
-$MESS["TASKS_EMP_HEAD"] = "部門主管";
-$MESS["TASKS_LAST_SELECTED"] = "最近任務";
-$MESS["TASKS_USER_SEARCH"] = "搜尋";
-$MESS["TASKS_USER_STRUCTURE"] = "從架構中選取";
-?>

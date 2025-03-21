@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_SL_EVENT_EDIT_MPF_WHERE_1"] = "新增客戶、公司、交易或潛在客戶";
-$MESS["CRM_SL_EVENT_EDIT_MPF_WHERE_2"] = "新增更多";
-$MESS["CRM_SL_MPF_DESTINATION_WHERE"] = "關於：";
-?>

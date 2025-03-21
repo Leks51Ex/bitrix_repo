@@ -1,5 +1,0 @@
-<?
-$MESS["LANDING_CMP_DESCRIPTION"] = "用数据块填充登陆页面。";
-$MESS["LANDING_CMP_NAME"] = "查看和编辑登陆页";
-$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";
-?>

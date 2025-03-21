@@ -1,6 +1,0 @@
-<?
-$MESS["ORDER_SHIPMENT_ADD"] = "出荷を追加";
-$MESS["ORDER_SHIPMENT_ADD_TITLE"] = "出荷を追加";
-$MESS["ORDER_SHIPMENT_DELETE"] = "出荷を削除";
-$MESS["ORDER_SHIPMENT_DELETE_TITLE"] = "出荷を削除";
-?>

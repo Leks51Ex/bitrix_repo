@@ -1,6 +1,0 @@
-<?
-$MESS["SDP_SALESCENTER_DELIVERY_RECOMMENDATION_SUB_TITLE"] = "Önerilen teslimat hizmetleri";
-$MESS["SDP_SALESCENTER_DELIVERY_SUB_TITLE"] = "Teslim servisleri";
-$MESS["SDP_SALESCENTER_JS_POPUP_CLOSE"] = "Kapat";
-$MESS["SDP_SALESCENTER_TITLE"] = "Teslimatı seç";
-?>

@@ -1,3 +1,0 @@
-<?php
-$MESS["LANDING_CMP_ACCESS_DENIED"] = "访问被拒绝";
-$MESS["LANDING_CMP_PAGE_NOT_FOUND"] = "找不到页面或区块";

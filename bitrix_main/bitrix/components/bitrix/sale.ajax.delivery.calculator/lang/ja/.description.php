@@ -1,5 +1,0 @@
-<?
-$MESS["SADC_DEFAULT_TEMPLATE_DESCRIPTION"] = "配達のリアルタイム計算機";
-$MESS["SADC_DEFAULT_TEMPLATE_NAME"] = "配送計算機(AJAX)";
-$MESS["SAL_NAME"] = "注文手続き";
-?>

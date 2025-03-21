@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_ACT_CUST_TYPE_BUTTON_CANCEL"] = "रद्द करें";
-$MESS["CRM_ACT_CUST_TYPE_BUTTON_SAVE"] = "सेव करें";
-?>

@@ -1,7 +1,0 @@
-<?php
-$MESS["VOX_INVOICES_DATE_RANGE"] = "Khoảng ngày";
-$MESS["VOX_INVOICES_DOCUMENT_DATE"] = "Ngày lập hóa đơn";
-$MESS["VOX_INVOICES_DOCUMENT_NUMBER"] = "#";
-$MESS["VOX_INVOICES_DOCUMENT_TYPE"] = "Loại tài liệu";
-$MESS["VOX_INVOICES_DOWNLOAD"] = "Tải về";
-$MESS["VOX_INVOICES_TOTAL_AMOUNT"] = "Tổng số tiền";

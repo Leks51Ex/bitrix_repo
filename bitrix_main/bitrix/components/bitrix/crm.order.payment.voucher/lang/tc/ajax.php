@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_ORDER_ACCESS_DENIED"] = "已拒絕存取。";
-$MESS["CRM_ORDER_PAYMENT_NOT_FOUND"] = "未找到付款";
-?>

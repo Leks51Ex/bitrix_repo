@@ -1,5 +1,0 @@
-<?
-$MESS["SONET_GROUP_DELETE_TEMPLATE_DESCRIPTION"] = "既存のグループを削除します";
-$MESS["SONET_GROUP_DELETE_TEMPLATE_NAME"] = "グループの削除";
-$MESS["SONET_NAME"] = "ソーシャルネットワーク";
-?>

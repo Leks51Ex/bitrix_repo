@@ -1,9 +1,0 @@
-<?
-$MESS["CRM_ACTIVITY_CALL_COMMENT"] = "Yorum";
-$MESS["CRM_ACTIVITY_CALL_DESCRIPTION"] = "Açıklama";
-$MESS["CRM_ACTIVITY_CALL_DOWNLOAD_RECORD"] = "arama kaydını indir";
-$MESS["CRM_ACTIVITY_CALL_DURATION"] = "Süre";
-$MESS["CRM_ACTIVITY_CALL_FAILED"] = "Arama başarısız";
-$MESS["CRM_ACTIVITY_CALL_TYPE"] = "Arama türü";
-$MESS["CRM_ACTIVITY_CALL_VOTE"] = "Değerlendirme";
-?>

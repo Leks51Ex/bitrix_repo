@@ -1,4 +1,0 @@
-<?
-$MESS["SENDER_CONFIG_ROLE_LIST_COMP_TITLE"] = "Izin akses";
-$MESS["SENDER_CONFIG_ROLE_LIST_COMP_UNKNOWN_ACCESS_CODE"] = "(ID akses tidak dikenal)";
-?>

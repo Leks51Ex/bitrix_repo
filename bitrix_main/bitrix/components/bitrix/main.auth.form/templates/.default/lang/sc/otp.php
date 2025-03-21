@@ -1,8 +1,0 @@
-<?php
-$MESS["MAIN_AUTH_OTP_FIELD_CAPTCHA"] = "键入您在图片中看到的字符";
-$MESS["MAIN_AUTH_OTP_FIELD_OTP"] = "一次性密码";
-$MESS["MAIN_AUTH_OTP_FIELD_REMEMBER"] = "在这台电脑上记住代码";
-$MESS["MAIN_AUTH_OTP_FIELD_SUBMIT"] = "登录";
-$MESS["MAIN_AUTH_OTP_HEADER"] = "请输入您的一次性密码";
-$MESS["MAIN_AUTH_OTP_URL_AUTH_URL"] = "身份验证";
-$MESS["MAIN_AUTH_OTP_URL_REGISTER_URL"] = "注册";

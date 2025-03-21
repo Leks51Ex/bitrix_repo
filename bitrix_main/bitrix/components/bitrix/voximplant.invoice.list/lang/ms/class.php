@@ -1,7 +1,0 @@
-<?php
-$MESS["VOX_INVOICES_DATE_RANGE"] = "Julat tarikh";
-$MESS["VOX_INVOICES_DOCUMENT_DATE"] = "Tarikh invois";
-$MESS["VOX_INVOICES_DOCUMENT_NUMBER"] = "#";
-$MESS["VOX_INVOICES_DOCUMENT_TYPE"] = "Jenis dokumen";
-$MESS["VOX_INVOICES_DOWNLOAD"] = "Muat turun";
-$MESS["VOX_INVOICES_TOTAL_AMOUNT"] = "Jumlah amaun";

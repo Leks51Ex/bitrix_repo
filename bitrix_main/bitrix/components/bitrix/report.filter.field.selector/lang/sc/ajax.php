@@ -1,3 +1,0 @@
-<?
-$MESS["REPORT_ERR_USER_FIELD_NOT_FOUND"] = "找不到实体 \"#ENTITY_ID#\" 的自定义字段 #FIELD_NAME#";
-?>

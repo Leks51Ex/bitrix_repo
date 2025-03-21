@@ -1,6 +1,0 @@
-<?
-$MESS["BPWHA_EMPTY_TEXT"] = "未指定处理程序";
-$MESS["BPWHA_HANDLER_NAME"] = "处理程序";
-$MESS["BPWHA_HANDLER_WRONG_PROTOCOL"] = "处理程序 URL 协议不支持";
-$MESS["BPWHA_HANDLER_WRONG_URL"] = "处理程序 URL 不正确";
-?>

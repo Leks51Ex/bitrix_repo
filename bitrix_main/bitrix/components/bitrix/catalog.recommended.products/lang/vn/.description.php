@@ -1,6 +1,0 @@
-<?
-$MESS["CATALOG_RECOMMENDED_PRODUCTS_COMPONENT_DEFAULT_TEMPLATE_DESCRIPTION"] = "Hiển thị các sản phẩm được đề nghị cho người dùng hiện tại";
-$MESS["CATALOG_RECOMMENDED_PRODUCTS_COMPONENT_DEFAULT_TEMPLATE_NAME"] = "Các sản phẩm được đề nghị";
-$MESS["CP_CATALOG_SERVICES_MAIN_SECTION"] = "Gian hàng điện tử";
-$MESS["CP_CATALOG_SERVICES_PARENT_SECTION"] = "Thông tin Sản phẩm";
-?>

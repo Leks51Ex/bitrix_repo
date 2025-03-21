@@ -1,5 +1,0 @@
-<?php
-$MESS["VOTE_RESUBMIT_BUTTON"] = "再び投票する";
-$MESS["VOTE_RESUME_BUTTON"] = "再開";
-$MESS["VOTE_STOP_BUTTON"] = "中止";
-$MESS["VOTE_SUBMIT_BUTTON"] = "投票";

@@ -1,5 +1,0 @@
-<?
-$MESS["SONET_NAME"] = "ソーシャルネットワーク";
-$MESS["SONET_SUBSCR_LIST_TEMPLATE_DESCRIPTION"] = "ユーザーの購読を表示します";
-$MESS["SONET_SUBSCR_LIST_TEMPLATE_NAME"] = "ユーザー登録";
-?>

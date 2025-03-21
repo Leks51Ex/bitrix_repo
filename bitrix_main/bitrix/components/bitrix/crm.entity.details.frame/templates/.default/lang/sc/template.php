@@ -1,3 +1,0 @@
-<?
-$MESS["CRM_ENT_DETAIL_FRAME_COMPONENT_NOT_DEFINED"] = "找不到适当的组件来显示\"#TYPE_NAME#\"实体。";
-?>

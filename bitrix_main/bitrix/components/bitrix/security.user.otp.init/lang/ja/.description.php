@@ -1,5 +1,0 @@
-<?
-$MESS["SECURITY_USER_OTP_INIT_DESCRIPTION"] = "新しいOTPデバイスを接続するためのフォームを表示します";
-$MESS["SECURITY_USER_OTP_INIT_NAME"] = "OTPデバイスを接続する";
-$MESS["SECURITY_USER_OTP_INIT_SECURITY_SERVICE"] = "セキュリティ";
-?>

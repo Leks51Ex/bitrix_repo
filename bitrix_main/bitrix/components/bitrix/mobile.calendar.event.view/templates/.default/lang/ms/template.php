@@ -1,9 +1,0 @@
-<?
-$MESS["MBCAL_VIEWEV_FR"] = "Jum";
-$MESS["MBCAL_VIEWEV_MO"] = "Isn";
-$MESS["MBCAL_VIEWEV_SA"] = "Sab";
-$MESS["MBCAL_VIEWEV_SU"] = "Aha";
-$MESS["MBCAL_VIEWEV_TH"] = "Kha";
-$MESS["MBCAL_VIEWEV_TU"] = "Sel";
-$MESS["MBCAL_VIEWEV_WE"] = "Rab";
-?>

@@ -1,4 +1,0 @@
-<?
-$MESS["COMP_IM_NOTIFY_MOBILE_DESCR"] = "未読の通知";
-$MESS["COMP_IM_NOTIFY_MOBILE_TITLE"] = "IM:新しい通知(モバイル版)";
-?>

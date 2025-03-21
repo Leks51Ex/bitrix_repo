@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_ENTITY_TYPE_COMPANY"] = "Syarikat";
-$MESS["CRM_ENTITY_TYPE_CONTACT"] = "Kenalan";
-$MESS["CRM_ENTITY_TYPE_DEAL"] = "Tawaran";
-$MESS["CRM_ENTITY_TYPE_LEAD"] = "Pendahulu";
-?>

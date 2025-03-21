@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_ORDER_BUYER_GROUP_LIST_NAME"] = "Kundengruppen";
-$MESS["CRM_ORDER_BUYER_GROUP_LIST_DESCRIPTION"] = "Kundengruppen";
-$MESS["CRM_NAME"] = "CRM";
-?>

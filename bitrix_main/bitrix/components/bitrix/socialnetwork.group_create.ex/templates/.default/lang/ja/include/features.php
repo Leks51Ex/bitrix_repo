@@ -1,7 +1,0 @@
-<?php
-$MESS["SONET_GCE_TAB_2"] = "特徴";
-$MESS["SONET_GCE_T_FEATURES_DESCRIPTION"] = "ワークグループのツール";
-$MESS["SONET_GCE_T_FEATURES_DESCRIPTION_PROJECT"] = "プロジェクトのツール";
-$MESS["SONET_GCE_T_FEATURES_DESCRIPTION_SCRUM"] = "スクラムチームのツール";
-$MESS["SONET_GCE_T_FEATURES_HINT"] = "チームのツールを選択してください。必要に応じていつでも選択を変更できます。";
-$MESS["SONET_GCE_T_SLIDE_FIELDS_SETTINGS_SWITCHER"] = "拡張パラメータ";

@@ -1,3 +1,0 @@
-<?php
-$MESS["WIDGET_CALENDAR_DETAILS"] = "もっと見る";
-$MESS["WIDGET_CALENDAR_TITLE"] = "イベント予定";

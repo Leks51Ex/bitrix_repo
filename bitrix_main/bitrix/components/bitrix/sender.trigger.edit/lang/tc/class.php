@@ -1,4 +1,0 @@
-<?
-$MESS["SENDER_COMP_TRIGGER_EDIT_TITLE_ADD"] = "新觸發的電子報";
-$MESS["SENDER_COMP_TRIGGER_EDIT_TITLE_EDIT"] = "編輯觸發的電子報";
-?>

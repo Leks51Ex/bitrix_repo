@@ -1,5 +1,0 @@
-<?
-$MESS["IBLOCK_ELEMENT_TEMPLATE_DESCRIPTION"] = "カタログ要素の詳細情報を表示します";
-$MESS["IBLOCK_ELEMENT_TEMPLATE_NAME"] = "カタログ要素の詳細";
-$MESS["T_IBLOCK_DESC_PHOTO"] = "フォトギャラリー";
-?>

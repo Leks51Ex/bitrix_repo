@@ -1,6 +1,0 @@
-<?
-$MESS["VOTE_RESUBMIT_BUTTON"] = "Tekrar oyla";
-$MESS["VOTE_RESUME_BUTTON"] = "Devam et";
-$MESS["VOTE_STOP_BUTTON"] = "Dur";
-$MESS["VOTE_SUBMIT_BUTTON"] = "Oy";
-?>

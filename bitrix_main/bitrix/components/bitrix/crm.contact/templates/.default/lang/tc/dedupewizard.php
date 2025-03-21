@@ -1,3 +1,0 @@
-<?
-$MESS["CRM_CONTACT_DEDUPE_WIZARD_PAGE_TITLE"] = "查找並合併重複的連絡人";
-?>

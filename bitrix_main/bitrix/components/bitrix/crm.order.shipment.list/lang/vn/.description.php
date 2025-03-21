@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_ORDER_SHIPMENT_LIST_DESCRIPTION"] = "Kiện hàng";
-$MESS["CRM_ORDER_SHIPMENT_LIST_NAME"] = "Kiện hàng";
-$MESS["CRM_ORDER_SHIPMENT_NAME"] = "Kiện hàng";
-?>

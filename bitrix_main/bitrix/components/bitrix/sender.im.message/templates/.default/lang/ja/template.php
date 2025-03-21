@@ -1,4 +1,0 @@
-<?
-$MESS["SENDER_IM_MESSAGE_TEXT_COUNT"] = "記号";
-$MESS["SENDER_IM_MESSAGE_TEXT_TITLE"] = "メッセージ本文";
-?>

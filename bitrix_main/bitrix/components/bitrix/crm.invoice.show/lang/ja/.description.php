@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_INVOICE_NAME"] = "請求書";
-$MESS["CRM_INVOICE_SHOW_DESCRIPTION"] = "請求書を見る";
-$MESS["CRM_INVOICE_SHOW_NAME"] = "請求書を見る";
-$MESS["CRM_NAME"] = "CRM";
-?>

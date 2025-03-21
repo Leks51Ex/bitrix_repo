@@ -1,8 +1,0 @@
-<?
-$MESS["VOX_INVOICES_DATE_RANGE"] = "Zeitraum";
-$MESS["VOX_INVOICES_DOCUMENT_DATE"] = "Rechnungsdatum";
-$MESS["VOX_INVOICES_DOCUMENT_NUMBER"] = "Nr.";
-$MESS["VOX_INVOICES_DOCUMENT_TYPE"] = "Dokmenttyp";
-$MESS["VOX_INVOICES_DOWNLOAD"] = "Herunterladen";
-$MESS["VOX_INVOICES_TOTAL_AMOUNT"] = "Gesamtbetrag";
-?>

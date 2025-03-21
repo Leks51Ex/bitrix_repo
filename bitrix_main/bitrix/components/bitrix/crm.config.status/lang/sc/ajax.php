@@ -1,8 +1,0 @@
-<?
-$MESS["CRM_STATUS_DELETION_ALERT_DEAL_STATUS"] = "在这一阶段有活动项。请先移动交易，再删除阶段。";
-$MESS["CRM_STATUS_DELETION_ALERT_INVOICE_STATUS"] = "在这一状态有活动项。请先移动发票，再删除状态。";
-$MESS["CRM_STATUS_DELETION_ALERT_QUOTE_STATUS"] = "在这一状态有活动项。请先移动报价，再删除状态。";
-$MESS["CRM_STATUS_DELETION_ALERT_STATUS"] = "在这一状态有活动项。请先移动线索，再删除状态。";
-$MESS["CRM_STATUS_DELETION_ALERT_TITLE_DEAL_STATUS"] = "删除阶段";
-$MESS["CRM_STATUS_DELETION_ALERT_TITLE_STATUS"] = "删除状态";
-?>

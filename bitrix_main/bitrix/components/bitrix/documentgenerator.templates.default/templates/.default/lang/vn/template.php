@@ -1,7 +1,0 @@
-<?
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_INSTALL_PROGRESS"] = "Vui lòng chờ trong khi khuôn mẫu được cài đặt";
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_REINSTALL"] = "Cài đặt lại";
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_REINSTALL_COMPLETE"] = "Khuôn mẫu #NAME# đã được cài đặt";
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_REINSTALL_CONFIRM"] = "Bạn có chắc bạn muốn thay khuôn mẫu được cài đặt?";
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_REINSTALL_ERROR"] = "Không thể cài đặt khuôn mẫu #NAME#";
-?>

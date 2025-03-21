@@ -1,8 +1,0 @@
-<?
-$MESS["CRM_DURATION_FROM"] = "From";
-$MESS["CRM_DURATION_TO"] = "を通して";
-$MESS["CRM_ENT_SMR_HIDE_DETAILS"] = "詳細を非表示にする";
-$MESS["CRM_ENT_SMR_SHOW_DETAILS"] = "詳細を表示";
-$MESS["CRM_SIP_MGR_MAKE_CALL"] = "通話";
-$MESS["CRM_SIP_MGR_UNKNOWN_RECIPIENT"] = "不明な発信者";
-?>

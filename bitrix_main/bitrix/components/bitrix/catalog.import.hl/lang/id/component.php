@@ -1,3 +1,0 @@
-<?php
-$MESS["CC_BCIH_XML_FIELD_TYPE_STRING"] = "String";
-$MESS["CC_BCIH_XML_ID"] = "ID";

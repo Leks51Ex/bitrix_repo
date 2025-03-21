@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_ELEMENT_BUTTON_SELECT"] = "选择";
-$MESS["CRM_ENTITY_ITEM_DELETED"] = "已删除项目";

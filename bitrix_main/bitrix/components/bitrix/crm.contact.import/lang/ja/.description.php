@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_CONTACT_IMPORT_DESCRIPTION"] = "連絡先のインポート";
-$MESS["CRM_CONTACT_IMPORT_NAME"] = "連絡先のインポート";
-$MESS["CRM_CONTACT_NAME"] = "連絡先";
-$MESS["CRM_NAME"] = "CRM";
-?>

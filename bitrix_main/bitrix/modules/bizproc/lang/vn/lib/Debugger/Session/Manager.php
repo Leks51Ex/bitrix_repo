@@ -1,4 +1,0 @@
-<?php
-$MESS["BIZPROC_DEBUGGER_SESSION_MANAGER_ERROR_INCORRECT_MODE"] = "Đã quy định sai chế độ thử nghiệm";
-$MESS["BIZPROC_DEBUGGER_SESSION_MANAGER_ERROR_SESSION_NOT_FOUND"] = "Không tìm thấy nhật ký thử nghiệm";
-$MESS["BIZPROC_DEBUGGER_SESSION_MANAGER_ERROR_SESSION_STILL_ACTIVE"] = "Chế độ thử nghiệm vẫn hoạt động";

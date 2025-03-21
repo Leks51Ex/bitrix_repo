@@ -1,4 +1,0 @@
-<?php
-$MESS["TELEPHONY_REPORT_AVG_CALL_TIME"] = "Ortalama arama süresi";
-$MESS["TELEPHONY_REPORT_AVG_CALL_TIME_DYNAMICS"] = "Arama istatistikleri";
-$MESS["TELEPHONY_REPORT_AVG_CALL_TIME_EMPLOYEE"] = "Çalışan";

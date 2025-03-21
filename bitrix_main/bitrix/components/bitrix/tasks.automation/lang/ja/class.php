@@ -1,5 +1,0 @@
-<?php
-$MESS["TASKS_AUTOMATION_ACCESS_DENIED"] = "エンティティへのアクセスが拒否されました。";
-$MESS["TASKS_AUTOMATION_GROUPS_CAPTION"] = "プロジェクト";
-$MESS["TASKS_AUTOMATION_NOT_AVAILABLE"] = "自動化ルールは利用できません";
-$MESS["TASKS_AUTOMATION_TITLE"] = "タスクの自動化";

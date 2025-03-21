@@ -1,6 +1,0 @@
-<?
-$MESS["CP_CATALOG_STORE_CSD_DESCRIPTION"] = "指定された倉庫に関する詳細情報を表示するコンポーネント";
-$MESS["CP_CATALOG_STORE_CSD_NAME"] = "倉庫情報";
-$MESS["CP_CATALOG_STORE_MAIN_SECTION"] = "オンラインショップ";
-$MESS["CP_CATALOG_STORE_STORE_SECTION"] = "倉庫一覧";
-?>

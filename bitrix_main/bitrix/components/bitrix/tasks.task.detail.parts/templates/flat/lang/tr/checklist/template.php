@@ -1,6 +1,0 @@
-<?
-$MESS["TASKS_TTDP_CHECKLIST_ADD"] = "Ekle";
-$MESS["TASKS_TTDP_CHECKLIST_COMPLETE"] = "Tamamlanan";
-$MESS["TASKS_TTDP_CHECKLIST_IN_PROGRESS"] = "Üzerinde çalışılıyor";
-$MESS["TASKS_TTDP_CHECKLIST_WHAT_TO_BE_DONE"] = "Yapılacak şeyler";
-?>

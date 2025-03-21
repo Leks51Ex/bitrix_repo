@@ -1,4 +1,0 @@
-<?php
-$MESS["MAIN_AUTH_FORM_DESCR"] = "独立的用户登录表";
-$MESS["MAIN_AUTH_FORM_GROUP_NAME"] = "用户";
-$MESS["MAIN_AUTH_FORM_TITLE"] = "登录表单";

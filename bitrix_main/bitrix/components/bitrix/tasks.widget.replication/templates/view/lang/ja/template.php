@@ -1,6 +1,0 @@
-<?
-$MESS["TASKS_SIDEBAR_TASK_REPEATS"] = "タスクの繰り返し";
-$MESS["TASKS_SIDEBAR_TEMPLATE_NOT_ACCESSIBLE"] = "繰り返しタスクのテンプレートを表示できません";
-$MESS["TASKS_TWRV_DISABLE_REPLICATION"] = "繰り返しタスクを中断する";
-$MESS["TASKS_TWRV_ENABLE_REPLICATION"] = "繰り返しタスクを再開する";
-?>

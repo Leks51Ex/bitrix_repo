@@ -1,8 +1,0 @@
-<?
-$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安裝 CRM 模組。";
-$MESS["CRM_PERMISSION_DENIED"] = "已拒絕存取";
-$MESS["CRM_PERMS_ENTITY_LIST"] = "存取權限";
-$MESS["CRM_PERM_DEPARTAMENT"] = "部門";
-$MESS["CRM_PERM_GROUP"] = "群組";
-$MESS["CRM_PERM_USER"] = "使用者";
-?>

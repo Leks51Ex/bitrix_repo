@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_MAIL_TEMPLATE_ENTITY_FIELD_SELECTOR"] = "फ़ील्ड चुनें";
-$MESS["CRM_MAIL_TEMPLATE_ENTITY_FIELD_SELECTOR_ADD_BTN"] = "जोड़ें";
-$MESS["CRM_MAIL_TEMPLATE_TAB_1"] = "ईमेल टेम्पलेट";
-$MESS["CRM_MAIL_TEMPLATE_TAB_1_TITLE"] = "ईमेल टेम्पलेट पैरामीटर";
-?>

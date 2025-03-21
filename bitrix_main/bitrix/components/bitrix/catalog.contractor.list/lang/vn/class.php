@@ -1,9 +1,0 @@
-<?php
-$MESS["CONTRACTOR_LIST_ACTION_DELETE_CONFIRM"] = "Bạn có chắc bạn muốn xóa nhà cung cấp này?";
-$MESS["CONTRACTOR_LIST_ACTION_DELETE_TEXT"] = "Xóa";
-$MESS["CONTRACTOR_LIST_ACTION_DELETE_TITLE"] = "Xóa";
-$MESS["CONTRACTOR_LIST_ACTION_OPEN_TEXT"] = "Sửa";
-$MESS["CONTRACTOR_LIST_ACTION_OPEN_TITLE"] = "Sửa";
-$MESS["CONTRACTOR_LIST_ADD_CONTRACTOR_BUTTON"] = "Thêm";
-$MESS["CONTRACTOR_LIST_NO_VIEW_RIGHTS_ERROR"] = "Không đủ quyền để xem danh sách nhà cung cấp.";
-$MESS["CONTRACTOR_LIST_NO_WRITE_RIGHTS_ERROR"] = "Không đủ quyền để chỉnh sửa nhà cung cấp.";

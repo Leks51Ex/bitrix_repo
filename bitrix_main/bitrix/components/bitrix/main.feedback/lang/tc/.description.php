@@ -1,3 +1,0 @@
-<?
-$MESS["MAIN_FEEDBACK_COMPONENT_NAME"] = "回函表單";
-?>

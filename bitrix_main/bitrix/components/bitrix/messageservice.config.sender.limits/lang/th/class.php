@@ -1,9 +1,0 @@
-<?
-$MESS["MESSAGESERVICE_HEADER_CURRENT"] = "ที่ส่งวันนี้";
-$MESS["MESSAGESERVICE_HEADER_LIMIT"] = "ขีดจำกัดการส่งต่อวัน";
-$MESS["MESSAGESERVICE_HEADER_SENDER"] = "บริการ";
-$MESS["MESSAGESERVICE_HEADER_SENDER_FROM"] = "ผู้ส่ง";
-$MESS["MESSAGESERVICE_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล \"บริการส่งข้อความ\"";
-$MESS["MESSAGESERVICE_PERMISSION_DENIED"] = "ปฏิเสธการเข้าใช้";
-$MESS["MESSAGESERVICE_ROW_EDIT"] = "แก้ไข";
-?>

@@ -1,5 +1,0 @@
-<?
-$MESS["LANDING_CMP_DESCRIPTION"] = "可用登陸清單：";
-$MESS["LANDING_CMP_NAME"] = "登陸";
-$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";
-?>

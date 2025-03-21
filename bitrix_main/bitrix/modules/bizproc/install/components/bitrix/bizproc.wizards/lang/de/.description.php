@@ -1,5 +1,0 @@
-<?
-$MESS["BPWC_GROUP"] = "Workflow";
-$MESS["BPWC_COMPONENT_NAME_DESCRIPTION"] = "Workflow";
-$MESS["BPWC_COMPONENT_NAME"] = "Workflow";
-?>

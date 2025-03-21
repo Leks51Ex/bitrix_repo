@@ -1,3 +1,0 @@
-<?php
-$MESS["CATALOG_SECTION_NOT_FOUND"] = "未找到區段。";
-$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "未安裝資訊區塊模組";

@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_DEDUPE_GRID_CALL_TO"] = "呼叫";
-$MESS["CRM_DEDUPE_GRID_MAIL_TO"] = "发送消息";
-?>

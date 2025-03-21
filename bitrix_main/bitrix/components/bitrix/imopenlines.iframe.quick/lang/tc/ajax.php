@@ -1,4 +1,0 @@
-<?
-$MESS["IMOP_QUICK_ANSWERS_AJAX_EDIT_EDIT"] = "儲存快速回應時，發生錯誤。";
-$MESS["IMOP_QUICK_ANSWERS_AJAX_EDIT_SUCCESS"] = "快速回應已經儲存";
-?>

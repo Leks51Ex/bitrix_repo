@@ -1,3 +1,0 @@
-<?
-$MESS["RPA_AUTOMATION_ADDROBOT_TITLE"] = "指派範本";
-?>

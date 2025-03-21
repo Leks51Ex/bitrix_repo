@@ -1,5 +1,0 @@
-<?
-$MESS["RPA_ITEMS_LIST_TITLE"] = "item #TITLE#";
-$MESS["RPA_ITEM_SORT_COLUMN"] = "Isih";
-$MESS["RPA_ITEM_STAGE_COLUMN"] = "Tahap";
-?>

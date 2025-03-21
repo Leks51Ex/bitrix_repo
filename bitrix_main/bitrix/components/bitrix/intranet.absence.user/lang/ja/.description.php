@@ -1,7 +1,0 @@
-<?
-$MESS["INTR_ABSENCE_GROUP_NAME"] = "欠勤表";
-$MESS["INTR_GROUP_NAME"] = "イントラネットポータル";
-$MESS["INTR_HR_GROUP_NAME"] = "HR";
-$MESS["INTR_IAU_COMPONENT_DESCR"] = "人の不在のグラフを示します";
-$MESS["INTR_IAU_COMPONENT_NAME"] = "人の不在";
-?>

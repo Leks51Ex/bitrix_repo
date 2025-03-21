@@ -1,4 +1,0 @@
-<?
-$MESS["SENDER_CONFIG_PERMISSIONS_DB_ERROR"] = "更新访问权限时出错";
-$MESS["SENDER_CONFIG_ROLE_DELETE_DB_ERROR"] = "删除角色时出错。";
-?>

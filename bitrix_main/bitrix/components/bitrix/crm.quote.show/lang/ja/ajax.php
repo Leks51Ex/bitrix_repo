@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_QUOTE_CONVERSION_ACCESS_DENIED"] = "アクセス拒否されました";
-$MESS["CRM_QUOTE_CONVERSION_ID_NOT_DEFINED"] = "見積りIDが見つかりませんでした";
-$MESS["CRM_QUOTE_CONVERSION_NOT_FOUND"] = "見積もりが見つかりませんでした";
-?>

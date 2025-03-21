@@ -1,3 +1,0 @@
-<?
-$MESS["TASKS_EFFICIENCY_REPORT"] = "效率報告";
-?>

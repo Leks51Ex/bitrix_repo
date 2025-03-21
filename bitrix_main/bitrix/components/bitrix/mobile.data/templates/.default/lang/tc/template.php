@@ -1,4 +1,0 @@
-<?
-$MESS["MOBILE_APP_OFFLINE_MESSAGE"] = "沒有網路連線";
-$MESS["MOBILE_APP_OFFLINE_TITLE"] = "錯誤";
-?>

@@ -1,7 +1,0 @@
-<?php
-$MESS["VI_CONFIG_ERROR_ACCESS_DENIED"] = "您没有编辑语音电话设置的权限。";
-$MESS["VI_CONFIG_ERROR_EMPTY_NAME"] = "队列组名称为必填";
-$MESS["VI_CONFIG_ERROR_MAX_GROUP_COUNT_REACHED"] = "您的 Bitrix24 已达到电话语音用户组的最大数量";
-$MESS["VI_CONFIG_ERROR_NUMBER_IN_USE_BY_GROUP"] = "该分机号码已被 #NAME# 群组使用。";
-$MESS["VI_CONFIG_ERROR_NUMBER_IN_USE_BY_USER"] = "该分机号码已被 #NAME# 使用。";
-$MESS["VI_CONFIG_ERROR_PHONE_NUMBER_TOO_LONG"] = "分机号码长度不得超过 4 个数字。";

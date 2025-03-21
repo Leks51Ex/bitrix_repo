@@ -1,3 +1,0 @@
-<?php
-$MESS["MIB_DEFAULT_MORE_ITEM_TEXT"] = "Thêm";
-$MESS["MIB_NEW_ITEM_LABEL"] = "Mới";

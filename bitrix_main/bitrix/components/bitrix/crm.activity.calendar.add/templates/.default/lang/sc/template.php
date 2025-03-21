@@ -1,6 +1,0 @@
-<?
-$MESS["BX_CRM_CACA_REM_DAY"] = "天";
-$MESS["CRM_CALENDAR_ADD_BUTTON"] = "添加";
-$MESS["CRM_CALENDAR_DESC"] = "描述";
-$MESS["CRM_CALENDAR_TOPIC"] = "主题";
-?>

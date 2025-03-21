@@ -1,4 +1,0 @@
-<?
-$MESS["DISK_BIZPROC_BACK_TEXT"] = "返回";
-$MESS["DISK_BIZPROC_BACK_TITLE"] = "返回";
-?>

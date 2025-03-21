@@ -1,4 +1,0 @@
-<?
-$MESS["IMOP_QUICK_ANSWERS_AJAX_EDIT_EDIT"] = "保存预设回复时出错";
-$MESS["IMOP_QUICK_ANSWERS_AJAX_EDIT_SUCCESS"] = "已保存预设回复";
-?>

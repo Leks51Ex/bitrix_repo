@@ -1,6 +1,0 @@
-<?php
-$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_CANCEL"] = "เหตุการณ์ยกเลิกแล้ว";
-$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_EDIT"] = "เหตุการณ์เปลี่ยนแปลงแล้ว";
-$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_REPLY_ACCEPTED"] = "ยอมรับคำเชิญแล้ว";
-$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_REPLY_DECLINED"] = "คำเชิญถูกปฏิเสธ";
-$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_REQUEST"] = "คำเชิญ";

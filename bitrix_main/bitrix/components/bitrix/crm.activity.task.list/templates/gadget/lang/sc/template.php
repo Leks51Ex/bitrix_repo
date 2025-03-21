@@ -1,7 +1,0 @@
-<?
-$MESS["CRM_ENTITY_COMPANY"] = "公司";
-$MESS["CRM_ENTITY_CONTACT"] = "联系人";
-$MESS["CRM_ENTITY_DEAL"] = "交易";
-$MESS["CRM_ENTITY_LEAD"] = "线索";
-$MESS["CRM_TASK_EMPTY"] = "无记录";
-?>

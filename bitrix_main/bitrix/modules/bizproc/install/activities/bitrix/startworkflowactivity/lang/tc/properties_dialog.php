@@ -1,7 +1,0 @@
-<?php
-$MESS["BPSWFA_PD_ACCESS_DENIED_1"] = "只有帳戶管理員可以存取活動屬性。";
-$MESS["BPSWFA_PD_DOCUMENT_ID"] = "文件 ID";
-$MESS["BPSWFA_PD_DOCUMENT_TYPE"] = "文件類型";
-$MESS["BPSWFA_PD_ENTITY"] = "實體";
-$MESS["BPSWFA_PD_TEMPLATE"] = "範本";
-$MESS["BPSWFA_PD_USE_SUBSCRIPTION"] = "等候工作流程完成";

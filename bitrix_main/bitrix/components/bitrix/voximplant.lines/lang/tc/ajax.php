@@ -1,7 +1,0 @@
-<?php
-$MESS["VOX_LINES_ERROR_EMPTY_NAME"] = "輸入號碼池名稱";
-$MESS["VOX_LINES_ERROR_GROUP_NOT_FOUND"] = "找不到號碼池";
-$MESS["VOX_LINES_ERROR_NAME_EXISTS"] = "具有此名稱的號碼池或 SIP 連線已存在";
-$MESS["VOX_LINES_ERROR_NO_NUMBERS"] = "選擇至少一個號碼";
-$MESS["VOX_LINES_ERROR_NUMBER_NOT_FOUND"] = "找不到號碼";
-$MESS["VOX_LINES_ERROR_NUMBER_NOT_IN_GROUP"] = "該號碼不屬於任何已知號碼池";

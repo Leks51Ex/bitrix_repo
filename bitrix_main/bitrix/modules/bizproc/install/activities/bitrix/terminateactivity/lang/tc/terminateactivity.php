@@ -1,8 +1,0 @@
-<?php
-$MESS["BPTA1_KILL_WF_NAME"] = "刪除工作流程資料";
-$MESS["BPTA1_STATE_TITLE"] = "執行已中斷。";
-$MESS["BPTA1_STATE_TITLE_NAME"] = "狀態文字";
-$MESS["BPTA1_TERMINATE"] = "中止工作流程";
-$MESS["BPTA1_TERMINATE_ALL"] = "所有範本工作流程";
-$MESS["BPTA1_TERMINATE_ALL_EXCEPT_CURRENT"] = "除了當前的所有範本工作流程";
-$MESS["BPTA1_TERMINATE_CURRENT"] = "目前";

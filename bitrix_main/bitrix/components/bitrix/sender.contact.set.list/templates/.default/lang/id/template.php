@@ -1,6 +1,0 @@
-<?
-$MESS["SENDER_CONTACT_SET_LIST_BTN_EDIT"] = "Edit";
-$MESS["SENDER_CONTACT_SET_LIST_BTN_EDIT_TITLE"] = "Edit daftar penerima tetap";
-$MESS["SENDER_CONTACT_SET_LIST_BTN_REMOVE"] = "Hapus";
-$MESS["SENDER_CONTACT_SET_LIST_BTN_REMOVE_TITLE"] = "Hapus daftar penerima tetap";
-?>

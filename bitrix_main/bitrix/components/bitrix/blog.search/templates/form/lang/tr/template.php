@@ -1,4 +1,0 @@
-<?
-$MESS["BLOG_MAIN_SEARCH_SEARCH"] = "Ara";
-$MESS["BLOG_SEARCH_BUTTON"] = "Bul";
-?>

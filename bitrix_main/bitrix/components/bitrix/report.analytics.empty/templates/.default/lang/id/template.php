@@ -1,3 +1,0 @@
-<?
-$MESS["REPORT_VISUALCONSTRUCTOR_DASHBOARD_MASK_TEXT"] = "Akan ada laporan segera";
-?>

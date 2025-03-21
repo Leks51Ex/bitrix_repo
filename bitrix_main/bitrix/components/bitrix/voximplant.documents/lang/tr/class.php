@@ -1,5 +1,0 @@
-<?
-$MESS["VOX_DOCUMENT_STATUS_DECLINED"] = "Reddedildi";
-$MESS["VOX_DOCUMENT_STATUS_IN_PROGRESS"] = "Doğrulama devam ediyor";
-$MESS["VOX_DOCUMENT_STATUS_VERIFIED"] = "Onaylandı";
-?>

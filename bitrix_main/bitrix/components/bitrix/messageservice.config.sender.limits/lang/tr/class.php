@@ -1,9 +1,0 @@
-<?
-$MESS["MESSAGESERVICE_HEADER_CURRENT"] = "Bugün gönderildi";
-$MESS["MESSAGESERVICE_HEADER_LIMIT"] = "Günlük gönderim limiti";
-$MESS["MESSAGESERVICE_HEADER_SENDER"] = "Hizmet";
-$MESS["MESSAGESERVICE_HEADER_SENDER_FROM"] = "Gönderen";
-$MESS["MESSAGESERVICE_MODULE_NOT_INSTALLED"] = "\"Mesajlaşma Hizmeti\" modülü yüklü değil.";
-$MESS["MESSAGESERVICE_PERMISSION_DENIED"] = "Erişim engellendi";
-$MESS["MESSAGESERVICE_ROW_EDIT"] = "Düzenle";
-?>

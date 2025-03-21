@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_ACTIVITY_VISIT_DOWNLOAD_RECORD"] = "Muat turun rakaman";
-$MESS["CRM_ACTIVITY_VISIT_FIELD_DESCRIPTION"] = "Penerangan";
-?>

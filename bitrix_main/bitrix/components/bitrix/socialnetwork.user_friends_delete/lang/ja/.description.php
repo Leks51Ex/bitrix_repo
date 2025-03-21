@@ -1,5 +1,0 @@
-<?
-$MESS["SONET_FRIENDS_DELETE_TEMPLATE_DESCRIPTION"] = "ユーザーをフレンドにすることができます";
-$MESS["SONET_FRIENDS_DELETE_TEMPLATE_NAME"] = "友達を削除";
-$MESS["SONET_NAME"] = "ソーシャルネットワーク";
-?>

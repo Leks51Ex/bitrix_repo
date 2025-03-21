@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_CALL_LIST_ENTITY_CONTACTS"] = "संपर्क";
-$MESS["CRM_CALL_LIST_ENTITY_LEADS"] = "लीड";
-?>

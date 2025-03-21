@@ -1,8 +1,0 @@
-<?
-$MESS["TASKS_SONET_LOG_DESCRIPTION"] = "รายละเอียด";
-$MESS["TASKS_SONET_LOG_LABEL_TITLE"] = "งาน";
-$MESS["TASKS_SONET_LOG_RESPONSIBLE_ID"] = "ผู้รับผิดชอบ";
-$MESS["TASKS_SONET_LOG_STATUS"] = "สถานะ";
-$MESS["TASKS_SONET_LOG_STATUS_CHANGED"] = "สถานะงานมีการเปลี่ยนแปลง";
-$MESS["TASKS_SONET_LOG_TAGS"] = "แท็ก:";
-?>

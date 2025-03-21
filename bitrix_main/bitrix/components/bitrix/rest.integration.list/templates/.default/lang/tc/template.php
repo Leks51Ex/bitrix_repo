@@ -1,3 +1,0 @@
-<?php
-$MESS["REST_INTEGRATION_LIST_ERROR_OPEN_URL"] = "開啟頁面時，發生未知錯誤。";
-$MESS["REST_INTEGRATION_LIST_OPEN_PROCESS"] = "解決方案正在上傳...";

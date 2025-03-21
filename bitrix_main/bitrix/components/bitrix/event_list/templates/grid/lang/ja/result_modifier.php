@@ -1,5 +1,0 @@
-<?
-$MESS["EVENT_LIST_DATE_FIELD"] = "日付";
-$MESS["EVENT_LIST_IP_FIELD"] = "IP";
-$MESS["EVENT_LIST_USER_FIELD"] = "従業員";
-?>

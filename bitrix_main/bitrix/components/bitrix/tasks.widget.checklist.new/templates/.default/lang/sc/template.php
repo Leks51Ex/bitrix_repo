@@ -1,2 +1,0 @@
-<?php
-$MESS["TASKS_CHECKLIST_TEMPLATE_ADD_CHECKLIST"] = "添加检查清单";

@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_ERROR_COMPONENT_DESCRIPTION_DEFAULT"] = "請聯繫任務參與者或 Bitrix24 管理員";
-$MESS["TASKS_ERROR_COMPONENT_TITLE_DEFAULT"] = "未找到任務或已拒絕存取";

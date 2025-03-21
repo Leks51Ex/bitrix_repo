@@ -1,3 +1,0 @@
-<?
-$MESS["TASKS_TTDP_CHECKLIST_ENTITY_NAME"] = "檢查清單項目";
-?>

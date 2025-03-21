@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_SUBSCRIBE_ADD_BUTTON"] = "ส่ง";
-$MESS["CRM_SUBSCRIBE_SUBJECT"] = "ชื่อ";
-$MESS["CRM_SUBSCRIBE_TITLE"] = "หัวข้อ";
-$MESS["CRM_SUBSCRIBE_TO_HIDE"] = "ซ่อน";
-?>

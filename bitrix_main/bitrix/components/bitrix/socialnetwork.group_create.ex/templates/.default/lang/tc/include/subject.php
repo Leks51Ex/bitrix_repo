@@ -1,3 +1,0 @@
-<?php
-$MESS["SONET_GCE_T_SUBJECT"] = "群組主題";
-$MESS["SONET_GCE_T_SUBJECT_PROJECT"] = "專案主旨";

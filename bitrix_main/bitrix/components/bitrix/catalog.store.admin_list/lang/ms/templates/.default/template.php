@@ -1,3 +1,0 @@
-<?php
-$MESS["CATALOG_STORE_ADMIN_LIST_ACCESS_DENIED_DESCRIPTION"] = "Sila hubungi pentadbir Bitrix24 anda";
-$MESS["CATALOG_STORE_LIST_TITLE"] = "Gudang";

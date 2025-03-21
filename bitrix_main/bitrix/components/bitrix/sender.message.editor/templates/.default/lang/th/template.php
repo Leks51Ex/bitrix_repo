@@ -1,4 +1,0 @@
-<?php
-$MESS["SENDER_MESSAGE_EDITOR_ADDITIONAL"] = "เพิ่มเติม";
-$MESS["SENDER_MESSAGE_EDITOR_CONSENT_PREVIEW"] = "ดูตัวอย่าง";
-$MESS["SENDER_MESSAGE_EDITOR_UNSUB"] = "ยกเลิกการเป็นสมาชิก";

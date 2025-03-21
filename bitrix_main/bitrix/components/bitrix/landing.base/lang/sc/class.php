@@ -1,7 +1,0 @@
-<?php
-$MESS["LANDING_CMP_NOT_INSTALLED"] = "登录页服务当前不可用";
-$MESS["LANDING_ERROR_ACCESS_DENIED"] = "访问被拒绝";
-$MESS["LANDING_ERROR_PAGE_NOT_FOUND"] = "找不到页面或访问被拒绝。";
-$MESS["LANDING_ERROR_SESS_EXPIRED"] = "您的会话已过期。";
-$MESS["LANDING_ERROR_SETTINGS_ACCESS_DENIED"] = "您无权编辑设置。请联系您的 Bitrix24 管理员。";
-$MESS["LANDING_GOTO_EDIT"] = "编辑设置";

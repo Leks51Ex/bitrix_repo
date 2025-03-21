@@ -1,3 +1,0 @@
-<?php
-$MESS["CP_BC_TPL_MESS_NOT_AVAILABLE_SERVICE"] = "サービス利用不可のメッセージ";
-$MESS["CP_BC_TPL_MESS_NOT_AVAILABLE_SERVICE_DEFAULT"] = "利用できません";

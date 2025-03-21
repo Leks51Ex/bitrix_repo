@@ -1,3 +1,0 @@
-<?
-$MESS["WIDGET_SETTINGS_CONTENT_TITLE"] = "小部件参数";
-?>

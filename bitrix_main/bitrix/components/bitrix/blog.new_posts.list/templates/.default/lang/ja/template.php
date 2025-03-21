@@ -1,7 +1,0 @@
-<?
-$MESS["BLOG_BLOG_BLOG_CATEGORY"] = "タグ:";
-$MESS["BLOG_BLOG_BLOG_COMMENTS"] = "コメント:";
-$MESS["BLOG_BLOG_BLOG_MORE"] = "続きを読む...";
-$MESS["BLOG_BLOG_BLOG_VIEWS"] = "表示数:";
-$MESS["BLOG_PHOTO"] = "写真:";
-?>

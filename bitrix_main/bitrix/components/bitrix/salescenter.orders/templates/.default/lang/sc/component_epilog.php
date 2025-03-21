@@ -1,3 +1,0 @@
-<?
-$MESS["SALESCENTER_ORDERS_TITLE"] = "客户订单";
-?>

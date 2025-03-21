@@ -1,9 +1,0 @@
-<?
-$MESS["CRM_CLL2_CRM_MODULE_NOT_INSTALL"] = "未安裝 CRM 模組。";
-$MESS["CRM_CLL2_IMPORT_ERROR"] = "地點匯入過程可能已經失敗。請再次匯入地點。";
-$MESS["CRM_CLL2_INTS_TASKS_NAV"] = "記錄";
-$MESS["CRM_CLL2_LOC_DELETION_GENERAL_ERROR"] = "刪除位置時，發生錯誤。";
-$MESS["CRM_CLL2_LOC_UPDATE_GENERAL_ERROR"] = "更新位置時，發生錯誤。";
-$MESS["CRM_CLL2_PERMISSION_DENIED"] = "已拒絕存取";
-$MESS["CRM_CLL2_SALE_MODULE_NOT_INSTALL"] = "未安裝 e-Store 模組。";
-?>

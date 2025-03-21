@@ -1,5 +1,0 @@
-<?
-$MESS["LANDING_CMP_DESCRIPTION"] = "使用操作按钮进行过滤。";
-$MESS["LANDING_CMP_NAME"] = "筛选器";
-$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";
-?>

@@ -1,6 +1,0 @@
-<?
-$MESS["RPA_KANBAN_PERMISSION_ERROR"] = "您没有权限编辑工作流首选项";
-$MESS["RPA_KANBAN_POPUP_CANCEL"] = "取消";
-$MESS["RPA_KANBAN_POPUP_SAVE"] = "保存";
-$MESS["RPA_KANBAN_STAGE_NOT_FOUND"] = "未找到阶段";
-?>

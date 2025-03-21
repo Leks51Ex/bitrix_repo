@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_INVOICE_LIST_SWITCHER_RECUR"] = "Định kỳ";
-$MESS["CRM_INVOICE_LIST_SWITCHER_STANDART"] = "Tiêu chuẩn";
-?>

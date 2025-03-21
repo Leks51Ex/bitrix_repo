@@ -1,5 +1,0 @@
-<?
-$MESS["BMN_DEFAULT_TEMPLATE_DESCRIPTION"] = "新しいブログを表示する";
-$MESS["BMN_DEFAULT_TEMPLATE_NAME"] = "新しいブログ";
-$MESS["BMN_NAME"] = "ブログ";
-?>

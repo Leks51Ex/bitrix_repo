@@ -1,3 +1,0 @@
-<?php
-$MESS["CATALOG_CREATE_VARIATION_PROPERTY_TITLE"] = "Properti varian baru";
-$MESS["CATALOG_EDIT_VARIATION_PROPERTY_TITLE"] = "Edit properti";

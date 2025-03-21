@@ -1,6 +1,0 @@
-<?php
-$MESS["BPDDA_DESCR_DESCR"] = "删除文档";
-$MESS["BPDDA_DESCR_DESCR_1"] = "删除不再需要的项目。";
-$MESS["BPDDA_DESCR_NAME"] = "删除文档";
-$MESS["BPDDA_DESCR_ROBOT_TITLE"] = "删除 CRM 记录";
-$MESS["BPDDA_DESCR_ROBOT_TITLE_1"] = "删除项目";

@@ -1,4 +1,0 @@
-<?php
-$MESS["MAIN_MAIL_UNSUBSCRIBE_DESC_DESC"] = "實施表單以取消訂閱新聞電子郵件";
-$MESS["MAIN_MAIL_UNSUBSCRIBE_DESC_NAME"] = "取消訂閱表格";
-$MESS["MAIN_USER_GROUP_NAME"] = "使用者";

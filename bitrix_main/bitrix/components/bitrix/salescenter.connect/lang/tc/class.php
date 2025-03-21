@@ -1,4 +1,0 @@
-<?php
-$MESS["SALESCENTER_CONNECT_TITLE"] = "連線";
-$MESS["SALESCENTER_IM_APP_ERROR"] = "無法安裝即時聊天室應用程式";
-$MESS["SALESCENTER_MODULE_ERROR"] = "未安裝「銷售中心」模組。";

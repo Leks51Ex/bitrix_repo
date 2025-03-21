@@ -1,5 +1,0 @@
-<?
-$MESS["TASKS_TWF_T_ADDITIONAL_CLOSE"] = "隐藏";
-$MESS["TASKS_TWF_T_ADDITIONAL_OPEN"] = "更多";
-$MESS["TASKS_TWF_T_PINNER_HINT"] = "置顶或取消置顶块";
-?>

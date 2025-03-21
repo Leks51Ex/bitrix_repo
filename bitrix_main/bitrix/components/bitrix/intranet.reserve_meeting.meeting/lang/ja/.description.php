@@ -1,6 +1,0 @@
-<?
-$MESS["INTRANET_RESMIT"] = "会議室予約";
-$MESS["INTRANET_RESMIT_ITEM"] = "会議室";
-$MESS["INTRANET_RESMIT_ITEM_DESCRIPTION"] = "会議室を表示します";
-$MESS["INTR_GROUP_NAME"] = "イントラネットポータル";
-?>

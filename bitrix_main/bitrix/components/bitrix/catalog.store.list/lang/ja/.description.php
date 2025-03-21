@@ -1,6 +1,0 @@
-<?
-$MESS["CP_CATALOG_STORE_CSL_DESCRIPTION"] = "詳細を含む倉庫のリストを表示します";
-$MESS["CP_CATALOG_STORE_CSL_NAME"] = "倉庫";
-$MESS["CP_CATALOG_STORE_MAIN_SECTION"] = "オンラインショップ";
-$MESS["CP_CATALOG_STORE_STORE_SECTION"] = "倉庫一覧";
-?>

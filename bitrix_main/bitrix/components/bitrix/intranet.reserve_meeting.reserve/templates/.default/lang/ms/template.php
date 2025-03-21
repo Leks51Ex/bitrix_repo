@@ -1,9 +1,0 @@
-<?
-$MESS["INTASK_C29T_RWD_1"] = "Isn";
-$MESS["INTASK_C29T_RWD_2"] = "Sel";
-$MESS["INTASK_C29T_RWD_3"] = "Rab";
-$MESS["INTASK_C29T_RWD_4"] = "Kha";
-$MESS["INTASK_C29T_RWD_5"] = "Jum";
-$MESS["INTASK_C29T_RWD_6"] = "Sab";
-$MESS["INTASK_C29T_RWD_7"] = "Aha";
-?>

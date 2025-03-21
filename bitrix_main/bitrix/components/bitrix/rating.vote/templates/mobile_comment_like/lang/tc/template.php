@@ -1,4 +1,0 @@
-<?
-$MESS["RATING_COMMENT_LIKE"] = "讚";
-$MESS["RATING_COMMENT_LIST_BACK"] = "上一步";
-?>

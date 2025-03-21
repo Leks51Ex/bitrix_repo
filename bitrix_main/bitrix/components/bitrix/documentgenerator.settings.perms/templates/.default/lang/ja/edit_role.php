@@ -1,8 +1,0 @@
-<?
-$MESS["DOCGEN_ROLE_ACTION"] = "アクション";
-$MESS["DOCGEN_ROLE_CANCEL"] = "キャンセル";
-$MESS["DOCGEN_ROLE_ENTITY"] = "エンティティ";
-$MESS["DOCGEN_ROLE_LABEL"] = "ロール";
-$MESS["DOCGEN_ROLE_PERMISSION"] = "権限";
-$MESS["DOCGEN_ROLE_SAVE"] = "保存";
-?>

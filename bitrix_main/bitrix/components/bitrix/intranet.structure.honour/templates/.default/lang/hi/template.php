@@ -1,5 +1,0 @@
-<?
-$MESS["INTR_ISBN_TPL_FILTER_DEPARTMENT"] = "विभाग";
-$MESS["ISL_ID"] = "आईडी";
-$MESS["ISL_PERSONAL_ICQ"] = "ICQ";
-?>

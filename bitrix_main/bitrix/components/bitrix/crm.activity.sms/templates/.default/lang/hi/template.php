@@ -1,9 +1,0 @@
-<?
-$MESS["CRM_ACTIVITY_SMS_DESCRIPTION"] = "मैसज टेक्स्ट";
-$MESS["CRM_ACTIVITY_SMS_MESSAGE_STATUS"] = "मैसेज स्टेटस";
-$MESS["CRM_ACTIVITY_SMS_PHONE_NUMBER"] = "नंबर पर भेजें";
-$MESS["CRM_ACTIVITY_SMS_RECIPIENT_CLIENT"] = "क्लाइंट";
-$MESS["CRM_ACTIVITY_SMS_RECIPIENT_NAME"] = "प्राप्तकर्ता";
-$MESS["CRM_ACTIVITY_SMS_RECIPIENT_USER"] = "कर्मचारी";
-$MESS["CRM_ACTIVITY_SMS_SENDER_ROBOT"] = "मैसेज को SMS रोबोट द्वारा भेजा गया था";
-?>

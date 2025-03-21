@@ -1,3 +1,0 @@
-<?
-$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_DISABLE_DEMO_ERROR"] = "テストモード完了条件が満たされていませんでした。";
-?>

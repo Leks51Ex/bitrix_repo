@@ -1,4 +1,0 @@
-<?
-$MESS["MAIL_SIGNATURE_DELETED_SUCCESS"] = "簽章已經刪除";
-$MESS["MAIL_SIGNATURE_DELETE_CONFIRM"] = "您是否確定要刪除簽章？";
-?>

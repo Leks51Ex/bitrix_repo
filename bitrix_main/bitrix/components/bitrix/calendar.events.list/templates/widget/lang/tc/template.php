@@ -1,3 +1,0 @@
-<?php
-$MESS["WIDGET_CALENDAR_DETAILS"] = "其他";
-$MESS["WIDGET_CALENDAR_TITLE"] = "即將進行的活動";

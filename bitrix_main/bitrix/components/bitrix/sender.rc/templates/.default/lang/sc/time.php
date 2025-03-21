@@ -1,9 +1,0 @@
-<?
-$MESS["SENDER_RC_LETTER_TIME_OUTSIDE_ADD_SUCCESS"] = "任务已保存！<br>
-您现在可以在 CRM 营销区域中访问 (<a href=\"%path%\">销售促进</a>)";
-$MESS["SENDER_RC_LETTER_TIME_TMPL_ACT_SEND"] = "开始";
-$MESS["SENDER_RC_LETTER_TIME_TMPL_ACT_SENT"] = "已开始";
-$MESS["SENDER_RC_LETTER_TIME_TMPL_DATE_SEND"] = "开始时间";
-$MESS["SENDER_RC_LETTER_TIME_TMPL_TITLE_EXISTS"] = "%name%";
-$MESS["SENDER_RC_LETTER_TIME_TMPL_TITLE_NEW"] = "%name% 已就绪！";
-?>

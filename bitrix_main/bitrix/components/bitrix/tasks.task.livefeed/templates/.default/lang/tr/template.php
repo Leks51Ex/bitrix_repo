@@ -1,8 +1,0 @@
-<?
-$MESS["TASKS_SONET_LOG_DESCRIPTION"] = "Açıklama";
-$MESS["TASKS_SONET_LOG_LABEL_TITLE"] = "Görev";
-$MESS["TASKS_SONET_LOG_RESPONSIBLE_ID"] = "Sorumlu Kişi";
-$MESS["TASKS_SONET_LOG_STATUS"] = "Durum";
-$MESS["TASKS_SONET_LOG_STATUS_CHANGED"] = "Görev durumu değişti";
-$MESS["TASKS_SONET_LOG_TAGS"] = "Etiketler:";
-?>

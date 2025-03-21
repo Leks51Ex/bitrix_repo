@@ -1,3 +1,0 @@
-<?
-$MESS["pages"] = "Sayfalar:";
-?>

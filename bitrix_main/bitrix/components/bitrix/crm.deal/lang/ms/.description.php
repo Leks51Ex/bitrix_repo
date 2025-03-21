@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_DEAL_COMPLEX_DESCRIPTION"] = "Tawaran";
-$MESS["CRM_DEAL_COMPLEX_NAME"] = "Tawaran";
-$MESS["CRM_DEAL_NAME"] = "Tawaran";
-?>

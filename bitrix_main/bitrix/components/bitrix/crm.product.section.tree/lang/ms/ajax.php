@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_PRODUCT_SECTION_TREE_AJAX_ERROR_EMPTY_ACTION"] = "Tiada tindakan dipilih.";
-$MESS["CRM_PRODUCT_SECTION_TREE_AJAX_ERROR_REQUIRED_PARAMETER"] = "Parameter #PARAM# diperlukan tetapi hilang.";
-$MESS["CRM_PRODUCT_SECTION_TREE_AJAX_ERROR_UNKNOWN_ACTION"] = "Tindakan tidak diketahui: #ACTION#.";
-?>

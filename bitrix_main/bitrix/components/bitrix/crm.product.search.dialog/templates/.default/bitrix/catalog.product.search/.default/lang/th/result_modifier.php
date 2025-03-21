@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_COLUMN_PRODUCT_PRICE"] = "ราคา";
-$MESS["CRM_PRODUCT_PROP_DOWNLOAD"] = "ดาวน์โหลด";
-$MESS["CRM_PRODUCT_PROP_ENLARGE"] = "ขยาย";
-?>

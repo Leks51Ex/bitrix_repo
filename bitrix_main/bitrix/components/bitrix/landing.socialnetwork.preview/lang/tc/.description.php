@@ -1,5 +1,0 @@
-<?
-$MESS["LANDING_CMP_DESCRIPTION"] = "在活動動態中預覽頁面。";
-$MESS["LANDING_CMP_NAME"] = "在活動動態中預覽";
-$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";
-?>

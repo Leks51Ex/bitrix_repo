@@ -1,4 +1,0 @@
-<?
-$MESS["INTR_ISS_TPL_CANCEL"] = "取消";
-$MESS["INTR_ISS_TPL_DEPARTMENT"] = "部门";
-?>

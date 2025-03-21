@@ -1,7 +1,0 @@
-<?
-$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安裝 CRM 模組。";
-$MESS["CRM_PRESET_ENTITY_TYPE_INVALID"] = "不正確的連絡人或公司詳細資料範本";
-$MESS["CRM_REQUISITE_ENTITY_TYPE_INVALID"] = "不正確的連絡人或公司詳細資料實體類型";
-$MESS["CRM_REQUISITE_FORM_ID_INVALID"] = "不正確的連絡人或公司詳細資料表單 ID";
-$MESS["CRM_REQUISITE_PRESET_NAME_EMPTY"] = "未命名的範本";
-?>

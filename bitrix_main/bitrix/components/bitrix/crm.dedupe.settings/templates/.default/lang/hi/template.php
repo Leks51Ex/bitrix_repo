@@ -1,6 +1,0 @@
-<?php
-$MESS["CRM_DEDUPE_WIZARD_SCANNING_CONFIG_CRITERION"] = "तुलना करने हेतु फ़ील्ड चुनें";
-$MESS["CRM_DEDUPE_WIZARD_SCANNING_CONFIG_SCOPE"] = "देश";
-$MESS["CRM_DEDUPE_WIZARD_SCANNING_CONFIG_TITLE"] = "डुप्लिकेट स्कैन सेटिंग";
-$MESS["CRM_DEDUPE_WIZARD_SELECT_ALL"] = "सभी चुनें";
-$MESS["CRM_DEDUPE_WIZARD_UNSELECT_ALL"] = "सभी का चयन हटाएँ";

@@ -1,7 +1,0 @@
-<?
-$MESS["MOBILE_MFU_CONFIRM_MESSAGE"] = "Xóa hình ảnh đã tải lên?";
-$MESS["MOBILE_MFU_CONFIRM_NO"] = "Không";
-$MESS["MOBILE_MFU_CONFIRM_TITLE"] = "Cảnh báo";
-$MESS["MOBILE_MFU_CONFIRM_YES"] = "Có";
-$MESS["MOBILE_MFU_DELETE"] = "Xoá";
-?>

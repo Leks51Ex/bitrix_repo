@@ -1,6 +1,0 @@
-<?
-$MESS["ADD_TO_BOARD"] = "Ekle";
-$MESS["CREATE_REPORT_TYPE_TITLE_IN_ADD_FORM"] = "Rapor oluştur";
-$MESS["SELECT_REPORT_CATEGORY"] = "Rapor kategorisi";
-$MESS["SELECT_REPORT_TYPE_TITLE_IN_ADD_FORM"] = "Rapor seç";
-?>

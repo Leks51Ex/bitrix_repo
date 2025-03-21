@@ -1,5 +1,0 @@
-<?
-$MESS["IBLOCK_SECTIONS_TOP_2_TEMPLATE_DESCRIPTION"] = "情報ブロックセクションを各セクションの合計要素数で表示します";
-$MESS["IBLOCK_SECTIONS_TOP_2_TEMPLATE_NAME"] = "セクションリスト";
-$MESS["T_IBLOCK_DESC_CATALOG"] = "カタログ";
-?>

@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_KANBAN_FIELD_OBSERVER"] = "ऑब्जर्वर";
-$MESS["CRM_KANBAN_FIELD_OPPORTUNITY_WITH_CURRENCY"] = "राशि और मुद्रा";
-$MESS["CRM_KANBAN_FIELD_RECURRING"] = "आवर्ती डील";
-$MESS["CRM_KANBAN_FIELD_SOURCE_DESCRIPTION"] = "सोर्स का विवरण";
-?>

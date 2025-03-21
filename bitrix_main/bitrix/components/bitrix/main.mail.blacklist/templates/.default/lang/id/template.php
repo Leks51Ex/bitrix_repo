@@ -1,9 +1,0 @@
-<?php
-$MESS["MAIN_MAIL_BLACKLIST_BLACKLIST_TITLE"] = "Daftar hitam";
-$MESS["MAIN_MAIL_BLACKLIST_BTN_REMOVE_FROM_L"] = "Hapus dari daftar";
-$MESS["MAIN_MAIL_BLACKLIST_BTN_REMOVE_FROM_L_TITLE"] = "Hapus dari daftar";
-$MESS["MAIN_MAIL_BLACKLIST_DELETE_CONFIRM"] = "Anda yakin ingin menghapus item ini?";
-$MESS["MAIN_MAIL_BLACKLIST_DELETE_CONFIRM_TITLE"] = "Konfirmasikan penghapusan";
-$MESS["MAIN_MAIL_BLACKLIST_DELETE_ERROR"] = "Tidak dapat menghapus item";
-$MESS["MAIN_MAIL_BLACKLIST_REMOVE_BTN"] = "Hapus";
-$MESS["MAIN_MAIL_BLACKLIST_REMOVE_BTN_TITLE"] = "Hapus";

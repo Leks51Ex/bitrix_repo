@@ -1,7 +1,0 @@
-<?php
-$MESS["CRM_COMPANY_DETAIL_ATTR_GR_TYPE_GENERAL"] = "सभी स्टेज और फ़नल";
-$MESS["CRM_COMPANY_DETAIL_ATTR_GR_TYPE_JUNK"] = "गंवाई";
-$MESS["CRM_COMPANY_DETAIL_ATTR_GR_TYPE_PIPELINE"] = "प्रगति में + जीती";
-$MESS["CRM_COMPANY_DETAIL_ATTR_REQUIRED_FULL"] = "स्टेज से प्रारंभ अपेक्षित";
-$MESS["CRM_COMPANY_DETAIL_ATTR_REQUIRED_SHORT"] = "अपेक्षित";
-$MESS["CRM_COMPANY_DETAIL_HISTORY_STUB"] = "अब आप एक कंपनी जोड़ रहे हैं...";

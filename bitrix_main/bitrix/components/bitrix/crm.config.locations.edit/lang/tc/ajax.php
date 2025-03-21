@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_LOC_EDT_ERROR_ACCESS_DENIED"] = "已拒絕存取";
-$MESS["CRM_LOC_EDT_MODULE_NOT_INSTALLED"] = "未安裝 e-Store 模組。";
-?>

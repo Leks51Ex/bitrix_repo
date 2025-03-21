@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_SUBSCRIBE_ADD_BUTTON"] = "Hantar";
-$MESS["CRM_SUBSCRIBE_SUBJECT"] = "Jawatan";
-$MESS["CRM_SUBSCRIBE_TITLE"] = "Subjek";
-$MESS["CRM_SUBSCRIBE_TO_HIDE"] = "Sembunyikan";
-?>

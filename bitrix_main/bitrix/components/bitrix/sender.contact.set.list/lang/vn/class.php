@@ -1,5 +1,0 @@
-<?
-$MESS["SENDER_CONTACT_SET_LIST_TITLE"] = "Danh sách người nhận tĩnh";
-$MESS["SENDER_CONTACT_SET_LIST_UI_COLUMN_CODE"] = "Mã ký hiệu";
-$MESS["SENDER_CONTACT_SET_LIST_UI_COLUMN_NAME"] = "Tên";
-?>

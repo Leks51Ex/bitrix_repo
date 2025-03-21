@@ -1,4 +1,0 @@
-<?
-$MESS["BP_INTERFACE_FILTER_CANCEL"] = "Hủy bỏ";
-$MESS["BP_INTERFACE_FILTER_SAVE"] = "Lưu";
-?>

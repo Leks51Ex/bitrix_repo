@@ -1,5 +1,0 @@
-<?
-$MESS["TASKS_TWF_T_ADDITIONAL_CLOSE"] = "Ẩn";
-$MESS["TASKS_TWF_T_ADDITIONAL_OPEN"] = "Thêm";
-$MESS["TASKS_TWF_T_PINNER_HINT"] = "Ghim hoặc bỏ ghim khối";
-?>

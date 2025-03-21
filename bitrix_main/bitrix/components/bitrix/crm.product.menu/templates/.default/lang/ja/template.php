@@ -1,7 +1,0 @@
-<?
-$MESS["CRM_PRODUCT_LRP_DLG_BTN_CLOSE"] = "閉じる";
-$MESS["CRM_PRODUCT_LRP_DLG_BTN_START"] = "実行";
-$MESS["CRM_PRODUCT_LRP_DLG_BTN_STOP"] = "停止";
-$MESS["CRM_PRODUCT_LRP_DLG_REQUEST_ERR"] = "リクエストを処理中にエラーが発生しました。";
-$MESS["CRM_PRODUCT_LRP_DLG_WAIT"] = "お待ちください...";
-?>

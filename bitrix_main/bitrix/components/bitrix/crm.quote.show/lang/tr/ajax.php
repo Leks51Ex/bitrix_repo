@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_QUOTE_CONVERSION_ACCESS_DENIED"] = "Erişim Reddedildi";
-$MESS["CRM_QUOTE_CONVERSION_ID_NOT_DEFINED"] = "Teklif ID bulunamadı";
-$MESS["CRM_QUOTE_CONVERSION_NOT_FOUND"] = "Teklif bulunamadı.";
-?>

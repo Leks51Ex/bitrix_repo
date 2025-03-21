@@ -1,6 +1,0 @@
-<?php
-$MESS["CRM_COMMON_ACTION_CREATE_36"] = "Firma";
-$MESS["SIGN_CMP_START_TPL_DOCS_TITLE"] = "Documenti da firmare";
-$MESS["SIGN_CMP_START_TPL_MENU_CONTACTS"] = "Contatti";
-$MESS["SIGN_CMP_START_TPL_MENU_INDEX"] = "Documenti";
-$MESS["SIGN_CMP_START_TPL_MENU_MYSAFE"] = "La mia cassaforte";

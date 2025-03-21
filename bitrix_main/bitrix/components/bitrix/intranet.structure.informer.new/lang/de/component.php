@@ -1,5 +1,0 @@
-<?
-$MESS["INTR_ISIN_ICON_ADD"] = "Neuer Eintrag";
-$MESS["INTR_ISIN_ACCEPTED"] = "Angestellt";
-$MESS["INTR_ISIN_NAME_TEMPLATE_DEFAULT"] = "#NOBR##NAME# #LAST_NAME##/NOBR#";
-?>

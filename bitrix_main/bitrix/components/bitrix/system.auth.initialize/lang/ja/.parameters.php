@@ -1,4 +1,0 @@
-<?
-$MESS["COMP_MAIN_REG_INIT_P_CHECKWORD_NAME"] = "チェックワードを含む変数";
-$MESS["COMP_MAIN_REG_INIT_P_USER_ID_NAME"] = "ユーザIDパラメータ名";
-?>

@@ -1,4 +1,0 @@
-<?php
-$MESS["INTR_IAU_TPL_ALL_DAY"] = "全天";
-$MESS["INTR_IAU_TPL_IN_NEXT_DAYS"] = "接下来几天：";
-$MESS["INTR_IAU_TPL_TODAY"] = "今天：#TIME_LIST#";

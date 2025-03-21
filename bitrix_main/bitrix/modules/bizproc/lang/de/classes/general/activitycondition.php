@@ -1,2 +1,0 @@
-<?php
-$MESS["BIZPROC_ACTIVITY_CONDITION_FALSE_CONDITION"] = "Bedingung ist falsch: #FIELD# #OPERATOR# #VALUE#";

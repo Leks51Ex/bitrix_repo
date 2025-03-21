@@ -1,3 +1,0 @@
-<?
-$MESS["SEARCH_CONTENT_TYPE_TASKS"] = "टास्क";
-?>

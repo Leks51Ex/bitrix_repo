@@ -1,3 +1,0 @@
-<?
-$MESS["CRM_ORDER_SHIPMENT_LIST_ROW_COUNT"] = "總計：#ROW_COUNT#";
-?>

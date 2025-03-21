@@ -1,4 +1,0 @@
-<?
-$MESS["DISK_AGGREGATOR_GROUP_TITLE"] = "群組雲碟";
-$MESS["DISK_AGGREGATOR_USER_TITLE"] = "員工雲碟";
-?>

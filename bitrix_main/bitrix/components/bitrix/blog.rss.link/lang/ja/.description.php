@@ -1,5 +1,0 @@
-<?
-$MESS["BRL_DEFAULT_TEMPLATE_DESCRIPTION"] = "ブログのRSSリンクを表示する";
-$MESS["BRL_DEFAULT_TEMPLATE_NAME"] = "RSSリンク";
-$MESS["BRL_NAME"] = "ブログ";
-?>

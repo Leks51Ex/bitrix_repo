@@ -1,4 +1,0 @@
-<?
-$MESS["COMP_WEBDAV_RECENT_MOBILE_DESCR"] = "Dosyalar";
-$MESS["COMP_WEBDAV_RECENT_MOBILE_TITLE"] = "Dosyalar (mobil)";
-?>

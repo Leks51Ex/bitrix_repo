@@ -1,8 +1,0 @@
-<?
-$MESS["VOXIMPLANT_ROLE_ACTION"] = "एक्शन";
-$MESS["VOXIMPLANT_ROLE_CANCEL"] = "रद्द करें";
-$MESS["VOXIMPLANT_ROLE_ENTITY"] = "एंटिटी";
-$MESS["VOXIMPLANT_ROLE_LABEL"] = "भूमिका";
-$MESS["VOXIMPLANT_ROLE_PERMISSION"] = "अनुमति";
-$MESS["VOXIMPLANT_ROLE_SAVE"] = "सेव करें";
-?>

@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_DEAL_WGT_DATA_EMPLOYEE_1"] = "Nhân viên 1";
-$MESS["CRM_DEAL_WGT_DATA_EMPLOYEE_2"] = "Nhân viên 2";
-$MESS["CRM_DEAL_WGT_DATA_EMPLOYEE_3"] = "Nhân viên 3";
-?>

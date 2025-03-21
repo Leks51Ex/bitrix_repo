@@ -1,7 +1,0 @@
-<?
-$MESS["CRM_ADDITIONAL_FIELDS"] = "その他";
-$MESS["CRM_FIELD_CONVERT_DEAL"] = "取引に変換する";
-$MESS["CRM_FIELD_EVENT_DATE"] = "開催日";
-$MESS["CRM_FIELD_EVENT_DESCRIPTION"] = "イベントの説明";
-$MESS["CRM_FIELD_EVENT_ID"] = "イベントタイプ";
-?>

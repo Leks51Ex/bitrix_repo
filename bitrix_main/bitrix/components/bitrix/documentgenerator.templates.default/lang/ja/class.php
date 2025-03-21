@@ -1,5 +1,0 @@
-<?
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_NOT_FOUND"] = "テンプレートが見つかりませんでした";
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TITLE"] = "テンプレートのインストール";
-$MESS["DOCGEN_TEMPLATES_PERMISSIONS_ERROR"] = "テンプレートを編集する権限がありません";
-?>

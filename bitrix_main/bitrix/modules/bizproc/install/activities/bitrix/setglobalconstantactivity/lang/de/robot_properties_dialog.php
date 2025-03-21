@@ -1,3 +1,0 @@
-<?php
-$MESS["BIZPROC_AUTOMATION_SGCA_CONSTANTS_LIST"] = "Globale Konstante auswählen";
-$MESS["BIZPROC_AUTOMATION_SGCA_DELETE"] = "Löschen";

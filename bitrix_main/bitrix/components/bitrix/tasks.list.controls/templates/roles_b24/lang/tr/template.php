@@ -1,7 +1,0 @@
-<?
-$MESS["TASK_TOOLBAR_FILTER_BUTTON"] = "Filtre";
-$MESS["TASK_TOOLBAR_FILTER_GANTT"] = "Gantt Grafiği";
-$MESS["TASK_TOOLBAR_FILTER_LIST"] = "Düz görünüm";
-$MESS["TASK_TOOLBAR_FILTER_REPORTS"] = "Raporlar";
-$MESS["TASK_TOOLBAR_FILTER_TREE"] = "Alt görevleri içer";
-?>

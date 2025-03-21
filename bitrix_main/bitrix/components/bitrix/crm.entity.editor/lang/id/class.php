@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_ENTITY_ED_ADDITIONAL_FIELD_SECTION"] = "Selengkapnya";
-$MESS["CRM_ENTITY_ED_REQUIRED_FIELD_SECTION"] = "Bidang wajib diisi";
-?>

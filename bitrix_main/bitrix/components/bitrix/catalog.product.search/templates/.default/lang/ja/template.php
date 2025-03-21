@@ -1,3 +1,0 @@
-<?php
-$MESS["BX_CATALOG_CPS_TPL_MESS_SELECT_BUTTON"] = "選択";
-$MESS["BX_CATALOG_CPS_TPL_MESS_USE_SUBSTRING_QUERY"] = "複雑な検索クエリロジックを使用しないでください";

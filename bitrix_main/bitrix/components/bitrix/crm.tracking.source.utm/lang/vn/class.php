@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_ANALYTICS_SOURCE_UTM_TITLE_ADD"] = "Tạo bộ tham số UTM";
-$MESS["CRM_ANALYTICS_SOURCE_UTM_TITLE_EDIT"] = "Sửa bộ tham số UTM";
-?>

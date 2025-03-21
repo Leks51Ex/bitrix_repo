@@ -1,5 +1,0 @@
-<?php
-$MESS["REST_CONFIGURATION_ACTION_TITLE_EXPORT"] = "ส่งออก";
-$MESS["REST_CONFIGURATION_ACTION_TITLE_IMPORT"] = "นำเข้า";
-$MESS["REST_CONFIGURATION_ACTION_TITLE_LOAD_MARKETPLACE"] = "เผยแพร่ใน Marketplace";
-$MESS["REST_CONFIGURATION_ACTION_TITLE_LOAD_MARKETPLACE_2"] = "เผยแพร่ชุดแก้ปัญหา CRM ที่ตั้งไว้ล่วงหน้าของคุณไปยัง Bitrix24.Market";

@@ -1,5 +1,0 @@
-<?
-$MESS["RATING_COMPONENT_CURRENT_POSITION"] = "Xếp hạng hiên tại";
-$MESS["RATING_COMPONENT_PREVIOUS_POSITION"] = "Xếp hạng trước đó:";
-$MESS["RATING_COMPONENT_PROGRESS"] = "Chỉnh sửa:";
-?>

@@ -1,5 +1,0 @@
-<?
-$MESS["RPA_AUTOMATION_EDITROBOT_SCENARIO"] = "Jenis";
-$MESS["RPA_AUTOMATION_EDITROBOT_TITLE"] = "Tambahkan penugasan";
-$MESS["RPA_AUTOMATION_EDITROBOT_TITLE_EDIT"] = "Konfigurasikan penugasan";
-?>

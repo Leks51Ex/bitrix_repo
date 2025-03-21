@@ -1,7 +1,0 @@
-<?
-$MESS["INTRANET_USTAT_RATING_COMMON_TAB"] = "सामान्य रेटिंग";
-$MESS["INTRANET_USTAT_RATING_INVOLVE_TAB"] = "शामिल नहीं";
-$MESS["INTRANET_USTAT_RATING_LOADING"] = "लोड हो रहा है...";
-$MESS["INTRANET_USTAT_WIDGET_LOADING"] = "लोड हो रहा है...";
-$MESS["INTRANET_USTAT_WIDGET_TITLE"] = "कंपनी पल्स";
-?>

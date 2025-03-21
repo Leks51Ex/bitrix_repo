@@ -1,8 +1,0 @@
-<?
-$MESS["TASKS_BAD_TASK_ID"] = "任務 ID 無效。";
-$MESS["TASKS_DATE_MUST_BE_IN_FUTURE"] = "提醒日期必須晚於目前日期。";
-$MESS["TASKS_LOG_DEADLINE"] = "期限";
-$MESS["TASKS_TASK_NOT_FOUND"] = "未找到任務或已拒絕存取。";
-$MESS["TASKS_TASK_NUM"] = "任務 ##TASK_NUM#";
-$MESS["TASKS_TASK_UNABLE_TO_DELETE"] = "無法刪除任務";
-?>

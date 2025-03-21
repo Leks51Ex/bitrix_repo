@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_ANALYTICS_LIMIT_MASK_TITLE"] = "Batas saat ini";
-$MESS["CRM_ANALYTICS_LIMIT_UPDATE_LINK"] = "Perbarui";
-?>

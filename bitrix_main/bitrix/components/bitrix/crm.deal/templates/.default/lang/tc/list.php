@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_DEAL_LIST_SWITCHER_LIST"] = "標準";
-$MESS["CRM_DEAL_LIST_SWITCHER_RECUR"] = "週期性";
-?>

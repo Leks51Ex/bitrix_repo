@@ -1,6 +1,0 @@
-<?php
-$MESS["CRM_SMS_CANCEL"] = "キャンセル";
-$MESS["CRM_SMS_MANAGE_URL"] = "設定";
-$MESS["CRM_SMS_SEND"] = "送信";
-$MESS["CRM_SMS_SEND_SENDER_SUBTITLE"] = "#SENDER# を使用";
-$MESS["CRM_SMS_TO"] = "To";

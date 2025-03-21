@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_INVOICE_LIST_SWITCHER_RECUR"] = "ที่เกิดซ้ำ";
-$MESS["CRM_INVOICE_LIST_SWITCHER_STANDART"] = "Standard";
-?>

@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_ORDER_COMPLEX_DESCRIPTION"] = "訂單";
-$MESS["CRM_ORDER_COMPLEX_NAME"] = "訂單";
-$MESS["CRM_ORDER_NAME"] = "訂單";
-?>

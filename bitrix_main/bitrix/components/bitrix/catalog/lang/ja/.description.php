@@ -1,5 +1,0 @@
-<?
-$MESS["IBLOCK_CATALOG_DESCRIPTION"] = "カタログ全体";
-$MESS["IBLOCK_CATALOG_NAME"] = "カタログ";
-$MESS["T_IBLOCK_DESC_CATALOG"] = "カタログ";
-?>

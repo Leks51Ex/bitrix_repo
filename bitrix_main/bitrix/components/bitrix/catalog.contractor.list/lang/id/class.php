@@ -1,9 +1,0 @@
-<?php
-$MESS["CONTRACTOR_LIST_ACTION_DELETE_CONFIRM"] = "Anda yakin ingin menghapus vendor?";
-$MESS["CONTRACTOR_LIST_ACTION_DELETE_TEXT"] = "Hapus";
-$MESS["CONTRACTOR_LIST_ACTION_DELETE_TITLE"] = "Hapus";
-$MESS["CONTRACTOR_LIST_ACTION_OPEN_TEXT"] = "Edit";
-$MESS["CONTRACTOR_LIST_ACTION_OPEN_TITLE"] = "Edit";
-$MESS["CONTRACTOR_LIST_ADD_CONTRACTOR_BUTTON"] = "Tambah";
-$MESS["CONTRACTOR_LIST_NO_VIEW_RIGHTS_ERROR"] = "Izin tidak mencukupi untuk melihat daftar vendor.";
-$MESS["CONTRACTOR_LIST_NO_WRITE_RIGHTS_ERROR"] = "Izin tidak mencukupi untuk mengedit vendor.";

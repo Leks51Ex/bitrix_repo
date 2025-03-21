@@ -1,6 +1,0 @@
-<?php
-$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_CANCEL"] = "Wydarzenie odwołane";
-$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_EDIT"] = "Wydarzenie zostało zmienione";
-$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_REPLY_ACCEPTED"] = "Zaproszenie przyjęte";
-$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_REPLY_DECLINED"] = "Zaproszenie odrzucone";
-$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_REQUEST"] = "Zaproszenie";

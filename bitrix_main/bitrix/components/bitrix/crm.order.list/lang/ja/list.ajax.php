@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_ORDER_LIST_ERROR_CANCEL_ORDER_TITLE"] = "注文をキャンセル中にエラーが発生しました";
-$MESS["CRM_ORDER_LIST_ROW_COUNT"] = "合計：#ROW_COUNT#";
-?>

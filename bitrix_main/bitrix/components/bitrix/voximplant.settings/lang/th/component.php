@@ -1,5 +1,0 @@
-<?
-$MESS["COMP_VI_ACCESS_DENIED"] = "สิทธิ์การเข้าถึงไม่เพียงพอ";
-$MESS["VI_CRM_INTEGRATION_WORKFLOW_EXECUTION_DEFERRED"] = "เมื่อวางสาย";
-$MESS["VI_CRM_INTEGRATION_WORKFLOW_EXECUTION_IMMEDIATE"] = "เมื่อรับสาย";
-?>

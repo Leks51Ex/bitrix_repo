@@ -1,4 +1,0 @@
-<?php
-$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安装 CRM 模块。";
-$MESS["CRM_RECYCLE_BIN_PRESET_MAIN_ENTITIES"] = "线索，交易，联系人和公司";
-$MESS["CRM_RECYCLE_LIST_TTL_NOTICE"] = "删除到回收站的文件将保留 #TTL_DAY# 天";

@@ -1,4 +1,0 @@
-<?
-$MESS["BIZPROC_WFEDIT_CANCEL_BUTTON"] = "रद्द करें";
-$MESS["BIZPROC_WFEDIT_SAVE_BUTTON"] = "सेव करें";
-?>

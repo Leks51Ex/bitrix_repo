@@ -1,7 +1,0 @@
-<?php
-$MESS["BPSWFA_RPD_ACCESS_DENIED_1"] = "只有Bitrix24管理員可以存取活動屬性。";
-$MESS["BPSWFA_RPD_DOCUMENT_ID"] = "實體 ID";
-$MESS["BPSWFA_RPD_DOCUMENT_TYPE_1"] = "元素類型";
-$MESS["BPSWFA_RPD_ENTITY"] = "實體";
-$MESS["BPSWFA_RPD_TEMPLATE"] = "範本";
-$MESS["BPSWFA_RPD_USE_SUBSCRIPTION"] = "等候工作流程完成";

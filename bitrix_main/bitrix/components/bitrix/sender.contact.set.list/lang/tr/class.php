@@ -1,5 +1,0 @@
-<?
-$MESS["SENDER_CONTACT_SET_LIST_TITLE"] = "Statik alıcı listeleri";
-$MESS["SENDER_CONTACT_SET_LIST_UI_COLUMN_CODE"] = "Simgesel kod";
-$MESS["SENDER_CONTACT_SET_LIST_UI_COLUMN_NAME"] = "Ad";
-?>

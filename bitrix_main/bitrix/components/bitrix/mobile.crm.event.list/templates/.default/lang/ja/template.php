@@ -1,7 +1,0 @@
-<?
-$MESS["M_CRM_EVENT_LIST_DOWN_TEXT"] = "離すと更新されます";
-$MESS["M_CRM_EVENT_LIST_LOAD_TEXT"] = "更新中...";
-$MESS["M_CRM_EVENT_LIST_PULL_TEXT"] = "下に引っ張ると更新されます";
-$MESS["M_CRM_EVENT_LIST_RUBRIC_FILTER_NONE"] = "全て";
-$MESS["M_CRM_EVENT_LIST_RUBRIC_LEGEND"] = "(イベント)";
-?>

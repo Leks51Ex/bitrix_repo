@@ -1,4 +1,0 @@
-<?php
-$MESS["SENDER_MESSAGE_EDITOR_ADDITIONAL"] = "Selengkapnya";
-$MESS["SENDER_MESSAGE_EDITOR_CONSENT_PREVIEW"] = "Pratinjau";
-$MESS["SENDER_MESSAGE_EDITOR_UNSUB"] = "Berhenti berlangganan";

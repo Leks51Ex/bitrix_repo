@@ -1,4 +1,0 @@
-<?
-$MESS["SENDER_IM_MESSAGE_TEXT_COUNT"] = "ký hiệu";
-$MESS["SENDER_IM_MESSAGE_TEXT_TITLE"] = "Nội dung thư";
-?>

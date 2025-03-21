@@ -1,6 +1,0 @@
-<?
-$MESS["BPFEA_DESCR_DESCR"] = "複数の変数の値を列挙します";
-$MESS["BPFEA_DESCR_NAME"] = "反復";
-$MESS["BPFEA_DESCR_RETURN_KEY"] = "キー";
-$MESS["BPFEA_DESCR_RETURN_VALUE"] = "値";
-?>

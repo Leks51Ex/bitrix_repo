@@ -1,4 +1,0 @@
-<?
-$MESS["DISK_VOLUME_LIST_BACK"] = "資料夾清單";
-$MESS["DISK_VOLUME_LIST_DISK_BACK"] = "雲碟清單";
-?>

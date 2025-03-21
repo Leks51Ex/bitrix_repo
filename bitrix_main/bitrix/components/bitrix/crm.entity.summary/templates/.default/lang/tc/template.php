@@ -1,8 +1,0 @@
-<?
-$MESS["CRM_DURATION_FROM"] = "來自";
-$MESS["CRM_DURATION_TO"] = "經由";
-$MESS["CRM_ENT_SMR_HIDE_DETAILS"] = "隱藏詳細資料";
-$MESS["CRM_ENT_SMR_SHOW_DETAILS"] = "顯示詳細資料";
-$MESS["CRM_SIP_MGR_MAKE_CALL"] = "通話";
-$MESS["CRM_SIP_MGR_UNKNOWN_RECIPIENT"] = "未知號碼";
-?>

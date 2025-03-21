@@ -1,4 +1,0 @@
-<?
-$MESS["RATING_COMMENT_LIKE_N"] = "いいね取消";
-$MESS["RATING_COMMENT_LIKE_Y"] = "いいね";
-?>

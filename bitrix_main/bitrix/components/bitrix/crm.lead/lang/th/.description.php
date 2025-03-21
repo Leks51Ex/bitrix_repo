@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_LEAD_COMPLEX_DESCRIPTION"] = "ลีด";
-$MESS["CRM_LEAD_COMPLEX_NAME"] = "ลีด";
-$MESS["CRM_LEAD_NAME"] = "ลีด";
-?>

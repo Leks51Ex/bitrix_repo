@@ -1,5 +1,0 @@
-<?
-$MESS["RPA_ITEMS_LIST_TITLE"] = "#TITLE# mục";
-$MESS["RPA_ITEM_SORT_COLUMN"] = "Sắp xếp";
-$MESS["RPA_ITEM_STAGE_COLUMN"] = "Giai đoạn";
-?>

@@ -1,4 +1,0 @@
-<?php
-$MESS["TELEPHONY_REPORT_AVG_CALL_TIME"] = "Purata tempoh panggilan";
-$MESS["TELEPHONY_REPORT_AVG_CALL_TIME_DYNAMICS"] = "Statistik panggilan";
-$MESS["TELEPHONY_REPORT_AVG_CALL_TIME_EMPLOYEE"] = "Pekerja";

@@ -1,8 +1,0 @@
-<?
-$MESS["BPATL_BEGIN"] = "开始";
-$MESS["BPATL_TASK_LINK_TITLE"] = "详情";
-$MESS["BPATL_TASK_TITLE"] = "任务";
-$MESS["BPATL_USER_STATUS_NO"] = "您已拒绝文档";
-$MESS["BPATL_USER_STATUS_OK"] = "请阅读文档";
-$MESS["BPATL_USER_STATUS_YES"] = "您已批准文档";
-?>

@@ -1,7 +1,0 @@
-<?
-$MESS["CRM_ADDITIONAL_FIELDS"] = "其他";
-$MESS["CRM_FIELD_CONVERT_DEAL"] = "轉換為交易";
-$MESS["CRM_FIELD_EVENT_DATE"] = "計劃的事項日期";
-$MESS["CRM_FIELD_EVENT_DESCRIPTION"] = "計劃的事項描述";
-$MESS["CRM_FIELD_EVENT_ID"] = "計劃的事項類型";
-?>

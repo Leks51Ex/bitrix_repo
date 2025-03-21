@@ -1,3 +1,0 @@
-<?
-$MESS["LICENSE_RESTRICTION_TITLE"] = "Vi phạm EULA";
-?>

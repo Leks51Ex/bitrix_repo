@@ -1,9 +1,0 @@
-<?
-$MESS["MARKETPLACE_LOCAL_ADD_TITLE"] = "添加应用程序";
-$MESS["MARKETPLACE_LOCAL_EDIT_TITLE"] = "编辑应用程序";
-$MESS["MARKETPLACE_LOCAL_NOT_FOUND"] = "未找到应用。";
-$MESS["MP_APP_ADD_ZIP_ERROR"] = "该文件必须为 ZIP 存档。";
-$MESS["MP_ERROR_EMPTY_NAME"] = "未指定应用程序名。";
-$MESS["MP_ERROR_EMPTY_SCOPE"] = "未指定应用程序权限。";
-$MESS["MP_ERROR_INCORRECT_URL"] = "不正确的应用程序 URL。";
-?>

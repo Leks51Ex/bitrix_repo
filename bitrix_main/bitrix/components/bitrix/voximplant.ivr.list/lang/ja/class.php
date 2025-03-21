@@ -1,7 +1,0 @@
-<?
-$MESS["VOX_IVR_LIST_CREATE_MENU"] = "新しいメニュー";
-$MESS["VOX_IVR_LIST_DELETE"] = "削除";
-$MESS["VOX_IVR_LIST_EDIT"] = "編集";
-$MESS["VOX_IVR_LIST_ID"] = "ID";
-$MESS["VOX_IVR_LIST_NAME"] = "名前";
-?>

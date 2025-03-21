@@ -1,4 +1,0 @@
-<?php
-$MESS["SONET_GCE_T_CHANGE_SCRUM_MASTER"] = "Tugaskan Induk";
-$MESS["SONET_GCE_T_CHANGE_SCRUM_MASTER_MORE"] = "Ubah";
-$MESS["SONET_GCE_T_SCRUM_MASTER"] = "Tuan skrum";

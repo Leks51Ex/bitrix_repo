@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_ELEMENT_BUTTON_SELECT"] = "Pilih";
-$MESS["CRM_ENTITY_ITEM_DELETED"] = "Item dipadamkan";

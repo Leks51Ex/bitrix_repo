@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_CHANNEL_PANEL_CLOSE"] = "非表示";
-$MESS["CRM_CHANNEL_PANEL_CLOSE_CONFIRM"] = "CRMで使用可能なチャネルの説明を非表示にしてもよろしいですか?";
-$MESS["CRM_CHANNEL_PANEL_CLOSE_TITLE"] = "説明を非表示にする";
-$MESS["CRM_CHANNEL_PANEL_CONNECT_BUTTON"] = "接続";
-?>

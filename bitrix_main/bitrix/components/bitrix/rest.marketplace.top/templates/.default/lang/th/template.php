@@ -1,8 +1,0 @@
-<?
-$MESS["MARKETPLACE_APP_FREE"] = "ฟรี";
-$MESS["MARKETPLACE_APP_PRICE"] = "#PRICE# ต่อเดือน";
-$MESS["MARKETPLACE_INSTALLED"] = "ติดตั้งแล้ว";
-$MESS["MARKETPLACE_PRICE_FREE"] = "ฟรี";
-$MESS["MARKETPLACE_PRICE_PAID"] = "ที่ต้องชำระเงิน";
-$MESS["MARKETPLACE_SHOW_APP"] = "มุมมอง";
-?>

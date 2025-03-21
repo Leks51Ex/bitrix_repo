@@ -1,6 +1,0 @@
-<?
-$MESS["CP_CATALOG_SERVICES_MAIN_SECTION"] = "オンラインショップ";
-$MESS["CP_CATALOG_SERVICES_PARENT_SECTION"] = "商品情報";
-$MESS["CVP_SECTION_TEMPLATE_DESCRIPTION"] = "指定されたプロパティ、価格などに基づいて推奨製品を表示します";
-$MESS["CVP_SECTION_TEMPLATE_NAME"] = "個人的なおすすめ";
-?>

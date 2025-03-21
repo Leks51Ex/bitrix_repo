@@ -1,4 +1,0 @@
-<?php
-$MESS["LANDING_CMP_DESCRIPTION"] = "指定网站名称和联系人。";
-$MESS["LANDING_CMP_NAME"] = "网站联系人";
-$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";

@@ -1,3 +1,0 @@
-<?php
-$MESS["LANDING_CMP_ACCESS_DENIED"] = "已拒絕存取";
-$MESS["LANDING_CMP_PAGE_NOT_FOUND"] = "找不到頁面或區塊";

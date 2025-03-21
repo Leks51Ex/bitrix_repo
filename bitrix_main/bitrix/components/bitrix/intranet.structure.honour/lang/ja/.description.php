@@ -1,7 +1,0 @@
-<?
-$MESS["INTR_GROUP_NAME"] = "イントラネットポータル";
-$MESS["INTR_HONOUR_GROUP_NAME"] = "表彰台";
-$MESS["INTR_HR_GROUP_NAME"] = "HR";
-$MESS["INTR_ISH_COMPONENT_DESCR"] = "最高の企業従業員を表彰する";
-$MESS["INTR_ISH_COMPONENT_NAME"] = "表彰台";
-?>

@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_NAME"] = "CRM";
-$MESS["CRM_QUOTE_MENU_DESCRIPTION"] = "ツールバー";
-$MESS["CRM_QUOTE_MENU_NAME"] = "ツールバー";
-$MESS["CRM_QUOTE_NAME"] = "見積";
-?>

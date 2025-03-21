@@ -1,5 +1,0 @@
-<?
-$MESS["BITRIXTVBIG_COMPONENTS"] = "メディア";
-$MESS["BITRIXTVBIG_COMPONENT_DESCRIPTION"] = "ツリー構成のビデオファイルを表示します";
-$MESS["BITRIXTVBIG_COMPONENT_NAME"] = "ビデオライブラリ";
-?>

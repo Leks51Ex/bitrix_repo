@@ -1,3 +1,0 @@
-<?
-$MESS["RPA_TASK_FIELD_VALIDATION_ERROR"] = "必要欄位缺失。";
-?>

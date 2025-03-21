@@ -1,8 +1,0 @@
-<?
-$MESS["TIMEMAN_DURATION_TITLE"] = "ระยะเวลา";
-$MESS["TIMEMAN_EDIT_BREAK_LENGTH_TITLE"] = "ระยะเวลาพัก";
-$MESS["TIMEMAN_EDIT_CLOCK_SET_CUSTOM_DATE"] = "เปลี่ยนวัน";
-$MESS["TIMEMAN_EDIT_REASON_TITLE"] = "เหตุผลในการเปลี่ยนแปลง";
-$MESS["TIMEMAN_POPUP_WORK_TIME_END_TITLE"] = "ตอกบัตรออก";
-$MESS["TIMEMAN_POPUP_WORK_TIME_START_TITLE"] = "ตอกบัตรเข้า";
-?>

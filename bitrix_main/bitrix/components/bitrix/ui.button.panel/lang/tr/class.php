@@ -1,7 +1,0 @@
-<?
-$MESS["UI_BUTTON_PANEL_APPLY"] = "Uygula";
-$MESS["UI_BUTTON_PANEL_CANCEL"] = "İptal";
-$MESS["UI_BUTTON_PANEL_CLOSE"] = "Kapat";
-$MESS["UI_BUTTON_PANEL_REMOVE"] = "Sil";
-$MESS["UI_BUTTON_PANEL_SAVE"] = "Kaydet";
-?>

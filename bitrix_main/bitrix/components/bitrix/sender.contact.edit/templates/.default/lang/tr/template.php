@@ -1,9 +1,0 @@
-<?
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_ADDRESS"] = "Alıcı";
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_NAME"] = "Ad";
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_SENT"] = "Alınan bültenler";
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_SET"] = "Statik alıcı listelerinde kullanılır";
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_SUB"] = "Kampanyalara abone oldu";
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_TYPE"] = "Tür";
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_UNSUB"] = "Kampanya aboneliğini iptal etti";
-?>

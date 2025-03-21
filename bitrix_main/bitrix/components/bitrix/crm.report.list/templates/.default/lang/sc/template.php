@@ -1,7 +1,0 @@
-<?
-$MESS["CRM_REPORT_LIST_ACTIVITY"] = "活动报告";
-$MESS["CRM_REPORT_LIST_DEAL"] = "交易报告";
-$MESS["CRM_REPORT_LIST_INVOICE"] = "发票报告";
-$MESS["CRM_REPORT_LIST_LEAD"] = "线索报告";
-$MESS["CRM_REPORT_LIST_PRODUCT"] = "产品报告";
-?>

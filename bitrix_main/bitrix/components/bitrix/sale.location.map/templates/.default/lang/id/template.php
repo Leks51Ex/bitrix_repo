@@ -1,4 +1,0 @@
-<?
-$MESS["SALE_LOCATION_MAP_CANCEL"] = "Batal";
-$MESS["SALE_LOCATION_MAP_CLOSE"] = "Tutup";
-?>

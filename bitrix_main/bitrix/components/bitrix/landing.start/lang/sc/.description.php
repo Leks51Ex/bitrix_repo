@@ -1,5 +1,0 @@
-<?
-$MESS["LANDING_CMP_DESCRIPTION"] = "登陆管理复合组件。";
-$MESS["LANDING_CMP_NAME"] = "管理登陆";
-$MESS["LANDING_CMP_NAMESPACE_NAME"] = "登陆";
-?>

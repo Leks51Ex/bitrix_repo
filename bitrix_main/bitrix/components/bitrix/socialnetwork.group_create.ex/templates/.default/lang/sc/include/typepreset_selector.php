@@ -1,3 +1,0 @@
-<?php
-$MESS["SONET_GCE_T_TYPEPRESET_NEW"] = "新";
-$MESS["SONET_GCE_T_TYPEPRESET_TITLE"] = "选择项目类型";

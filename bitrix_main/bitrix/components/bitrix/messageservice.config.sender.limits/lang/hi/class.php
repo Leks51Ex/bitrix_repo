@@ -1,9 +1,0 @@
-<?
-$MESS["MESSAGESERVICE_HEADER_CURRENT"] = "आज भेजा";
-$MESS["MESSAGESERVICE_HEADER_LIMIT"] = "दैनिक प्रेषण सीमा";
-$MESS["MESSAGESERVICE_HEADER_SENDER"] = "सेवा";
-$MESS["MESSAGESERVICE_HEADER_SENDER_FROM"] = "प्रेषक";
-$MESS["MESSAGESERVICE_MODULE_NOT_INSTALLED"] = "\"मैसेजिंग\" मॉड्यूल इंस्टॉल नहीं है।";
-$MESS["MESSAGESERVICE_PERMISSION_DENIED"] = "पहुँच नामंजूर";
-$MESS["MESSAGESERVICE_ROW_EDIT"] = "संपादित करें";
-?>

@@ -1,4 +1,0 @@
-<?php
-$MESS["BIZPROC_GLOBALFIELDS_LIST_BTN_DELETE"] = "ลบ";
-$MESS["BIZPROC_GLOBALFIELDS_LIST_CONFIRM_CONSTANT_DELETE"] = "คุณแน่ใจหรือไม่ ว่าต้องการลบค่าคงที่?";
-$MESS["BIZPROC_GLOBALFIELDS_LIST_CONFIRM_VARIABLE_DELETE"] = "คุณแน่ใจหรือไม่ ว่าต้องการลบตัวแปร?";

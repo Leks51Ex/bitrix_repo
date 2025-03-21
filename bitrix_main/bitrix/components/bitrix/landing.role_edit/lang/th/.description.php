@@ -1,5 +1,0 @@
-<?
-$MESS["LANDING_CMP_DESCRIPTION"] = "แก้ไขบทบาท";
-$MESS["LANDING_CMP_NAME"] = "แก้ไขบทบาท";
-$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";
-?>

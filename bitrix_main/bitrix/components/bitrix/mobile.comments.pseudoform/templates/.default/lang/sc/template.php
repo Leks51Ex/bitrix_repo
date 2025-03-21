@@ -1,3 +1,0 @@
-<?
-$MESS["MOBILE_PSEUDOFORM_COMMENT_ADD"] = "添加评论";
-?>

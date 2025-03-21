@@ -1,4 +1,0 @@
-<?
-$MESS["RATING_COMMENT_LIKE"] = "いいね";
-$MESS["RATING_COMMENT_LIST_BACK"] = "戻る";
-?>

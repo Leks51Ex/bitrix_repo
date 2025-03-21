@@ -1,3 +1,0 @@
-<?
-$MESS["CRM_ENT_DETAIL_FRAME_COMPONENT_NOT_DEFINED"] = "找不到適當的元件來顯示 \"#TYPE_NAME#\" 實體。";
-?>

@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_SCRUM_BURN_DOWN_ACCESS_DENIED"] = "您無權檢視此內容。";
-$MESS["TASKS_SCRUM_BURN_DOWN_TITLE"] = "任務燃盡圖";

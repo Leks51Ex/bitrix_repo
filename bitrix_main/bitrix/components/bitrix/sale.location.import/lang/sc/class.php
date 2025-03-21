@@ -1,4 +1,0 @@
-<?
-$MESS["SALE_SLI_SALE_MODULE_NOT_INSTALL"] = "未安装电子商店模块。";
-$MESS["SALE_SLI_SALE_MODULE_WRITE_ACCESS_DENIED"] = "访问电子商店模块参数被拒绝。";
-?>

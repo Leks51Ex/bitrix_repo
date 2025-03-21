@@ -1,4 +1,0 @@
-<?
-$MESS["SENDER_COMP_TRIGGER_EDIT_TITLE_ADD"] = "新触发的新闻邮件";
-$MESS["SENDER_COMP_TRIGGER_EDIT_TITLE_EDIT"] = "编辑触发的新闻邮件";
-?>

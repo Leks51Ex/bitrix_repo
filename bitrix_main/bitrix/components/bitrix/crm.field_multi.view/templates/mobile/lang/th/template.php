@@ -1,9 +1,0 @@
-<?
-$MESS["CRM_STATUS_BUTTONS_CANCEL"] = "ยกเลิก";
-$MESS["CRM_STATUS_BUTTONS_SAVE"] = "บันทึก";
-$MESS["CRM_STATUS_LIST_ADD"] = "เพิ่ม";
-$MESS["CRM_STATUS_LIST_DELETE"] = "ลบ";
-$MESS["CRM_STATUS_LIST_DOWN"] = "ลง";
-$MESS["CRM_STATUS_LIST_RECOVERY_NAME"] = "เปลี่ยนกลับเป็นชื่อเดิม";
-$MESS["CRM_STATUS_LIST_UP"] = "ขึ้น";
-?>

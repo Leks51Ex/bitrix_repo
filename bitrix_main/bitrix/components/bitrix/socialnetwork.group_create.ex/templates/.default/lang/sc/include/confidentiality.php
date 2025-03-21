@@ -1,3 +1,0 @@
-<?php
-$MESS["SONET_GCE_T_SLIDE_CONFIDENTIALITY_SUBTITLE"] = "隐私级别规定了哪些人可以加入和查看团队详细信息。";
-$MESS["SONET_GCE_T_SLIDE_CONFIDENTIALITY_TITLE"] = "隐私级别";

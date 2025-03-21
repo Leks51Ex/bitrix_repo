@@ -1,3 +1,0 @@
-<?php
-$MESS["MARKETPLACE_APP_INSTALL_CANCEL"] = "रद्द करें";
-$MESS["MARKETPLACE_UPDATE_BUTTON"] = "अपडेट करें";

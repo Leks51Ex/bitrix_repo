@@ -1,7 +1,0 @@
-<?
-$MESS["MOBILE_MFU_CONFIRM_MESSAGE"] = "アップロードした画像を削除しますか?";
-$MESS["MOBILE_MFU_CONFIRM_NO"] = "いいえ";
-$MESS["MOBILE_MFU_CONFIRM_TITLE"] = "警告";
-$MESS["MOBILE_MFU_CONFIRM_YES"] = "はい";
-$MESS["MOBILE_MFU_DELETE"] = "削除";
-?>

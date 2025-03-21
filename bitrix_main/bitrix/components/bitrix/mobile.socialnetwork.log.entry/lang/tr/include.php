@@ -1,8 +1,0 @@
-<?
-$MESS["SONET_SLM_CREATED_BY_ANONYMOUS"] = "Doğrulanmamış Ziyaretçi";
-$MESS["SONET_SLM_DATETIME_DAYS"] = "#DAYS# g";
-$MESS["SONET_SLM_EXTRANET_SUFFIX"] = " (extranet)";
-$MESS["SONET_SLM_FORMAT_DATE"] = "d F, g:i a";
-$MESS["SONET_SLM_FORMAT_DATE_YEAR"] = "d F Y, g:i a";
-$MESS["SONET_SLM_FORMAT_TIME"] = "g:i a";
-?>

@@ -1,4 +1,0 @@
-<?php
-$MESS["REST_CONFIGURATION_ACTION_TITLE_EXPORT"] = "Esporta";
-$MESS["REST_CONFIGURATION_ACTION_TITLE_IMPORT"] = "Importa";
-$MESS["REST_CONFIGURATION_ACTION_TITLE_LOAD_MARKETPLACE_2"] = "Pubblica la tua preimpostazione soluzione CRM su Bitrix24.Market";

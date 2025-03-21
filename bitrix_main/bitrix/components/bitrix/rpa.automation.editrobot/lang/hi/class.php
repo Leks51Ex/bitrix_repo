@@ -1,5 +1,0 @@
-<?
-$MESS["RPA_AUTOMATION_EDITROBOT_SCENARIO"] = "प्रकार";
-$MESS["RPA_AUTOMATION_EDITROBOT_TITLE"] = "असाइनमेंट जोड़ें";
-$MESS["RPA_AUTOMATION_EDITROBOT_TITLE_EDIT"] = "असाइनमेंट कॉन्फ़िगर करें";
-?>

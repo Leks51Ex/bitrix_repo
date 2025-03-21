@@ -1,5 +1,0 @@
-<?
-$MESS["IBLOCK_MAIN_TEMPLATE_DESCRIPTION"] = "タイプの情報ブロックを表示します";
-$MESS["IBLOCK_MAIN_TEMPLATE_NAME"] = "タイプの情報ブロック";
-$MESS["T_IBLOCK_DESC_CATALOG"] = "カタログ";
-?>

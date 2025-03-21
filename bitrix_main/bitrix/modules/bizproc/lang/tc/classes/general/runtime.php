@@ -1,5 +1,0 @@
-<?
-$MESS["BPCGDOC_LIMIT_SIMULTANEOUS_PROCESSES"] = "至多可由 #NUM# 個程序處理文件。";
-$MESS["BPCGDOC_WORKFLOW_RECURSION_LOCK"] = "範本無法遞迴執行";
-$MESS["BPRA_IS_TIMEOUT"] = "作業逾時";
-?>

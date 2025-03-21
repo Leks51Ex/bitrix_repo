@@ -1,2 +1,0 @@
-<?php
-$MESS["CATALOG_CONTRACTOR_LIST_TITLE"] = "供應商";

@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_DEDUPE_WIZARD_DEFAULT_SCOPE_TITLE"] = "未選択";
-$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM はインストールされていません.";
-$MESS["CRM_PERMISSION_DENIED"] = "アクセスが拒否されました";
-?>

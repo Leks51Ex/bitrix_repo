@@ -1,3 +1,0 @@
-<?
-$MESS["EC_CALENDAR_MODULE_NOT_INSTALLED"] = "未安裝行事曆模組。";
-?>

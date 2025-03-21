@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_LEAD_COMPLEX_DESCRIPTION"] = "Prospek";
-$MESS["CRM_LEAD_COMPLEX_NAME"] = "Prospek";
-$MESS["CRM_LEAD_NAME"] = "Prospek";
-?>

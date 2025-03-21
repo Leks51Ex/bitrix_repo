@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_REPORT_VC_W_C_CHART_CONFIG_BTN"] = "配置";
-$MESS["CRM_REPORT_VC_W_C_CHART_CONFIG_TITLE"] = "来源必须配置";
-?>

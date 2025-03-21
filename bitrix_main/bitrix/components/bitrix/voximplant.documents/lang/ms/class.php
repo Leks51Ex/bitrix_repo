@@ -1,5 +1,0 @@
-<?
-$MESS["VOX_DOCUMENT_STATUS_DECLINED"] = "Ditolak";
-$MESS["VOX_DOCUMENT_STATUS_IN_PROGRESS"] = "Pengesahan sedang dijalankan";
-$MESS["VOX_DOCUMENT_STATUS_VERIFIED"] = "Disahkan";
-?>

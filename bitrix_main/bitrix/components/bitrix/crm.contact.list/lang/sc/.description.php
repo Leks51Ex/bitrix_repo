@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_CONTACT_LIST_DESCRIPTION"] = "联系人";
-$MESS["CRM_CONTACT_LIST_NAME"] = "联系人";
-$MESS["CRM_CONTACT_NAME"] = "联系人";
-?>

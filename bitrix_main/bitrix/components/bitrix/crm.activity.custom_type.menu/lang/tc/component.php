@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_ACT_CUST_TYPE_ADD"] = "新增活動類型";
-$MESS["CRM_ACT_CUST_TYPE_ADD_TITLE"] = "建立新活動類型";
-$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安裝 CRM 模組。";
-$MESS["CRM_PERMISSION_DENIED"] = "已拒絕存取";
-?>

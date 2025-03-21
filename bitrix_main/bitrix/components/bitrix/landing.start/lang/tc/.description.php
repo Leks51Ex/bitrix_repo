@@ -1,5 +1,0 @@
-<?
-$MESS["LANDING_CMP_DESCRIPTION"] = "登陸管理複合元件。";
-$MESS["LANDING_CMP_NAME"] = "管理登陸";
-$MESS["LANDING_CMP_NAMESPACE_NAME"] = "登陸";
-?>

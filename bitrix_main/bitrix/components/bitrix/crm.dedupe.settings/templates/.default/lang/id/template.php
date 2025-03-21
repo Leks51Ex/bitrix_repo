@@ -1,6 +1,0 @@
-<?php
-$MESS["CRM_DEDUPE_WIZARD_SCANNING_CONFIG_CRITERION"] = "Pilih bidang untuk membandingkan";
-$MESS["CRM_DEDUPE_WIZARD_SCANNING_CONFIG_SCOPE"] = "Negara";
-$MESS["CRM_DEDUPE_WIZARD_SCANNING_CONFIG_TITLE"] = "Pengaturan pemindaian duplikat";
-$MESS["CRM_DEDUPE_WIZARD_SELECT_ALL"] = "Pilih semua";
-$MESS["CRM_DEDUPE_WIZARD_UNSELECT_ALL"] = "Batal pilih semua";

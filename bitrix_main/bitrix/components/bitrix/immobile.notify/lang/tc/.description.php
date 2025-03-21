@@ -1,3 +1,0 @@
-<?php
-$MESS["COMP_IM_NOTIFY_MOBILE_DESCR"] = "未讀通知";
-$MESS["COMP_IM_NOTIFY_MOBILE_TITLE"] = "IM：新通知 (行動版)";

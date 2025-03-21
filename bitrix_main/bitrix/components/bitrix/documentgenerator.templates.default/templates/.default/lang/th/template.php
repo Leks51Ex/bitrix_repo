@@ -1,7 +1,0 @@
-<?
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_INSTALL_PROGRESS"] = "กรุณารอสักครู่ขณะที่กำลังติดตั้งเทมเพลต";
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_REINSTALL"] = "ติดตั้งใหม่";
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_REINSTALL_COMPLETE"] = "เทมเพลต #NAME# ได้ติดตั้งแล้ว";
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_REINSTALL_CONFIRM"] = "คุณแน่ใจหรือไม่ ว่าต้องการแทนที่เทมเพลตที่ติดตั้ง?";
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_REINSTALL_ERROR"] = "ไม่สามารถติดตั้งเทมเพลต #NAME#";
-?>

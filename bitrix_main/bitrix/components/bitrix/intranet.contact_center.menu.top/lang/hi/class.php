@@ -1,2 +1,0 @@
-<?php
-$MESS["MENU_CONTACT_CENTER_TELEPHONY_STATISTICS"] = "कॉल आंकड़े";

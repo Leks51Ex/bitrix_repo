@@ -1,3 +1,0 @@
-<?
-$MESS["URLPREVIEW_DETAILS"] = "详情";
-?>

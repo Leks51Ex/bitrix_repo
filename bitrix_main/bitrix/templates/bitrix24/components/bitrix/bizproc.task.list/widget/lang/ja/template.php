@@ -1,8 +1,0 @@
-<?php
-$MESS["BPTLWGT_MODULE_DISK"] = "ドライブ";
-$MESS["BPTLWGT_MODULE_IBLOCK"] = "リスト";
-$MESS["BPTLWGT_MODULE_LISTS"] = "社内掲示板";
-$MESS["BPTLWGT_MY_PROCESSES"] = "私のリクエスト";
-$MESS["BPTLWGT_MY_PROCESSES_1"] = "自分のワークフロー";
-$MESS["BPTLWGT_RUNNING"] = "保留中";
-$MESS["BPTLWGT_TITLE"] = "業務プロセス";

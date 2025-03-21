@@ -1,5 +1,0 @@
-<?php
-$MESS["CRM_ITEM_AUTOMATION_INVALID_ENTITY_TYPE"] = "Jenis entiti tidak sah";
-$MESS["CRM_ITEM_AUTOMATION_TITLE"] = "Peraturan automasi #ENTITY#";
-$MESS["CRM_ITEM_AUTOMATION_TITLE_CATEGORY"] = "Peraturan automasi #ENTITY# (#CATEGORY#)";
-$MESS["CRM_ITEM_AUTOMATION_WRONG_CATEGORY"] = "Kategori tidak sah";

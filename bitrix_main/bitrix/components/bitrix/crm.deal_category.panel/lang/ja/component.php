@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_DEAL_CATEGORY_PANEL_ALL"] = "全ての取引";
-$MESS["CRM_DEAL_CATEGORY_SELECTOR"] = "パイプライン";
-$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM はインストールされていません.";
-$MESS["CRM_PERMISSION_DENIED"] = "アクセス拒否されました";
-?>

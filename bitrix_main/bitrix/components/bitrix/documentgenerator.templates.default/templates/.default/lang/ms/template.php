@@ -1,7 +1,0 @@
-<?
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_INSTALL_PROGRESS"] = "Sila tunggu sementara templat memasang";
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_REINSTALL"] = "Pasang semula";
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_REINSTALL_COMPLETE"] = "Templat #NAME# telah dipasang";
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_REINSTALL_CONFIRM"] = "Adakah anda pasti anda mahu menggantikan templat dipasang?";
-$MESS["DOCGEN_TEMPLATES_DEFAULT_TEMPLATE_REINSTALL_ERROR"] = "Tidak dapat memasang templat #NAME#";
-?>

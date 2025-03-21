@@ -1,5 +1,0 @@
-<?
-$MESS["SENDER_TRIGGER_STAT_COMP_LETTER"] = "電子郵件 %number%";
-$MESS["SENDER_TRIGGER_STAT_COMP_NO_CAMPAIGN"] = "未找到觸發的電子報。";
-$MESS["SENDER_TRIGGER_STAT_COMP_TITLE"] = "觸發的電子報統計資料";
-?>

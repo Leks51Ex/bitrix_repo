@@ -1,9 +1,0 @@
-<?
-$MESS["RECYCLEBIN_CONTEXT_MENU_TITLE_PREVIEW"] = "प्रीव्यू";
-$MESS["RECYCLEBIN_CONTEXT_MENU_TITLE_REMOVE"] = "डिलीट करें";
-$MESS["RECYCLEBIN_CONTEXT_MENU_TITLE_RESTORE"] = "रीस्टोर करें";
-$MESS["RECYCLEBIN_DELETE_SUCCESS"] = "आइटम डिलीट हो गया है";
-$MESS["RECYCLEBIN_GROUP_ACTIONS_DELETE"] = "डिलीट करें";
-$MESS["RECYCLEBIN_GROUP_ACTIONS_RESTORE"] = "रीस्टोर करें";
-$MESS["RECYCLEBIN_RESTORE_SUCCESS"] = "आइटम सफलतापूर्वक रिकवर हो गया है";
-?>

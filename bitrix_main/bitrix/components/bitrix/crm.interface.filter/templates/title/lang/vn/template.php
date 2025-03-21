@@ -1,7 +1,0 @@
-<?
-$MESS["CRM_GRID_ENTITY_SEL_BTN"] = "Chọn";
-$MESS["CRM_GRID_ENTITY_SEL_LAST"] = "Cuối cùng";
-$MESS["CRM_GRID_ENTITY_SEL_SEARCH"] = "Tìm kiếm";
-$MESS["CRM_GRID_SEL_SEARCH_NO_RESULT"] = "Không tìm thấy mục nào.";
-$MESS["CRM_INT_FILTER_NAV_BAR_TITLE"] = "Xem";
-?>

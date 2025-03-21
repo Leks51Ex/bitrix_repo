@@ -1,5 +1,0 @@
-<?
-$MESS["LANDING_CMP_DESCRIPTION"] = "活动流中的预览页面。";
-$MESS["LANDING_CMP_NAME"] = "在活动流中预览";
-$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";
-?>

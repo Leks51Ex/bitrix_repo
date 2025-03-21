@@ -1,4 +1,0 @@
-<?php
-$MESS["SONET_GCE_T_CHANGE_SCRUM_MASTER"] = "Phân công Chủ";
-$MESS["SONET_GCE_T_CHANGE_SCRUM_MASTER_MORE"] = "Thay đổi";
-$MESS["SONET_GCE_T_SCRUM_MASTER"] = "Chủ scrum";

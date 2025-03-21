@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_INVOICE_LIST_DESCRIPTION"] = "इनवॉइस";
-$MESS["CRM_INVOICE_LIST_NAME"] = "इनवॉइस";
-$MESS["CRM_INVOICE_NAME"] = "इनवॉइस";
-?>

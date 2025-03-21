@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_DEAL_CATEGORY_PANEL_TUNNELS"] = "銷售漏斗圖和銷售通路";
-$MESS["CRM_DEAL_CATEGORY_PANEL_TUNNELS2"] = "銷售管道和通路";

@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_DEAL_CATEGORY_PANEL_ALL"] = "Tất cả giao dịch";
-$MESS["CRM_DEAL_CATEGORY_SELECTOR"] = "Đường ống";
-$MESS["CRM_MODULE_NOT_INSTALLED"] = "Mô-đun CRM chưa được cài đặt.";
-$MESS["CRM_PERMISSION_DENIED"] = "Truy cập bị từ chối";
-?>

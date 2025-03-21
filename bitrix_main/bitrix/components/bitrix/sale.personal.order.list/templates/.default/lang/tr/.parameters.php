@@ -1,8 +1,0 @@
-<?
-$MESS["SPOL_PSEUDO_CANCELLED_COLOR"] = "İptal edilen sipariş rengi";
-$MESS["SPOL_STATUS_COLOR"] = "Durum rengi";
-$MESS["SPOL_STATUS_COLOR_GRAY"] = "Gri";
-$MESS["SPOL_STATUS_COLOR_GREEN"] = "Yeşil";
-$MESS["SPOL_STATUS_COLOR_RED"] = "Kırmızı";
-$MESS["SPOL_STATUS_COLOR_YELLOW"] = "Sarı";
-?>

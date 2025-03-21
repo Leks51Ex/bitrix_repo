@@ -1,6 +1,0 @@
-<?
-$MESS["INTR_GROUP_NAME"] = "イントラネットポータル";
-$MESS["INTR_HR_GROUP_NAME"] = "HR";
-$MESS["INTR_ISBN_COMPONENT_DESCR"] = "すぐに誕生日を表示";
-$MESS["INTR_ISBN_COMPONENT_NAME"] = "誕生日";
-?>

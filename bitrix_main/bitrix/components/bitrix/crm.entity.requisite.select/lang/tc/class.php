@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_ENTITY_RQ_SEL_TITLE"] = "使用詳情";
-$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安裝 CRM 模組。";
-?>

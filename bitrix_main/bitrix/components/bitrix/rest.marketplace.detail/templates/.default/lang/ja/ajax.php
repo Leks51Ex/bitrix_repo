@@ -1,5 +1,0 @@
-<?
-$MESS["REST_APP_INSTALL_REQUEST_ACCEPT"] = "はい";
-$MESS["REST_APP_INSTALL_REQUEST_CANCEL"] = "いいえ";
-$MESS["REST_APP_INSTALL_REQUEST_TEXT"] = "ユーザー#USER_NAME#がアプリ \"#APP_NAME#\"のインストールをリクエストしました  続行しますか?";
-?>

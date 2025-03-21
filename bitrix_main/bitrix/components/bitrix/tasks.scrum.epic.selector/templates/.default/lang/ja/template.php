@@ -1,5 +1,0 @@
-<?php
-$MESS["TSE_SELECTOR_ADD"] = "追加";
-$MESS["TSE_SELECTOR_EDIT"] = "編集";
-$MESS["TSE_SELECTOR_ERROR_POPUP_TITLE"] = "エラーが発生しました";
-$MESS["TSE_SELECTOR_SEARCHER_EPIC_ADD"] = "エピックを作成";

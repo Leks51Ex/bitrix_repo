@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_RESULT_COLLAPSE_BUTTON"] = "Thu hẹp";
-$MESS["TASKS_RESULT_EXPAND_BUTTON"] = "#NUM# khác";

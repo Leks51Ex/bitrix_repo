@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_NAME_TEMPLATE"] = " ";
-$MESS["CRM_SEF_PATH_TO_CATALOG"] = " ";
-$MESS["CRM_SEF_PATH_TO_INDEX"] = " ";
-$MESS["CRM_SEF_PATH_TO_INVOICE"] = " ";
-?>

@@ -1,4 +1,0 @@
-<?
-$MESS["IMOPENLINES_REPORT_PAGE_LIMITATION_POPUP_TEXT_1"] = "Dapatkan akses kepada ciri-ciri Bitrix24 yang maju";
-$MESS["IMOPENLINES_REPORT_PAGE_LIMITATION_POPUP_TEXT_2_NEW"] = "Laporan saluran terbuka direka untuk membantu anda meningkatkan perkhidmatan pelanggan dan pengalaman pelanggan. Papan pemuka kami membentangkan semua maklumat penting di satu tempat - ejen yang mana adalah paling berkesan, saluran komunikasi yang berada dalam permintaan tertinggi, betapa berpuas hati pelanggan anda, purata masa respons, masa paling sibuk, dll. Anda juga boleh memilih jenis laporan yang berbeza - nombor mutlak, carta, graf, histogram dan lain-lain.";
-?>

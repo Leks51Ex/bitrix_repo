@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_COMPONENT_NO_ACCESS_LEVELS"] = "未定义访问级别";
-$MESS["TASKS_COMPONENT_TWR_CAN_NOT_READ"] = "您无法查看访问权限。";

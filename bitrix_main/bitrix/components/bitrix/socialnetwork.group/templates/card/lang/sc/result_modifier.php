@@ -1,4 +1,0 @@
-<?php
-$MESS["SONET_C6_CARD_TITLE"] = "关于工作组";
-$MESS["SONET_C6_CARD_TITLE_PROJECT"] = "关于项目";
-$MESS["SONET_C6_CARD_TITLE_SCRUM"] = "关于Scrum团队";

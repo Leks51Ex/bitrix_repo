@@ -1,6 +1,0 @@
-<?
-$MESS["SONET_GUE_BAN_NAV"] = "用户";
-$MESS["SONET_GUE_MODS_NAV"] = "版主";
-$MESS["SONET_GUE_USERS_AUTO_NAV"] = "成员（自动）";
-$MESS["SONET_GUE_USERS_NAV"] = "成员";
-?>

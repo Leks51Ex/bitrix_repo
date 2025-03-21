@@ -1,8 +1,0 @@
-<?
-$MESS["TASKS_TAGS_ADD"] = "添加";
-$MESS["TASKS_TAGS_CANCEL"] = "取消";
-$MESS["TASKS_TAGS_CHANGE"] = "变更";
-$MESS["TASKS_TAGS_DISCARD"] = "取消更改";
-$MESS["TASKS_TAGS_OK"] = "保存";
-$MESS["TASKS_TAGS_SAVE"] = "保存更改";
-?>

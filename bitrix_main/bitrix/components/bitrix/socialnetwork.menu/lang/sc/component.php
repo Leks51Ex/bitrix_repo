@@ -1,5 +1,0 @@
-<?php
-$MESS["SONET_SM_FEATURES_FORM_CANCEL"] = "取消";
-$MESS["SONET_SM_FEATURES_FORM_OK"] = "确定";
-$MESS["SONET_SM_M_LOG"] = "事项动态";
-$MESS["SONET_SM_M_LOG2"] = "事项动态";

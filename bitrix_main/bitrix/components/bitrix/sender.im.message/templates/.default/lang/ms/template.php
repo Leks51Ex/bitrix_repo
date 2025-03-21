@@ -1,4 +1,0 @@
-<?
-$MESS["SENDER_IM_MESSAGE_TEXT_COUNT"] = "simbol";
-$MESS["SENDER_IM_MESSAGE_TEXT_TITLE"] = "Teks mesej";
-?>

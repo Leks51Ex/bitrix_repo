@@ -1,3 +1,0 @@
-<?
-$MESS["MAIN_MAIL_UNSUBSCRIBE_TEMPL_CANCEL"] = "रद्द करें";
-?>

@@ -1,5 +1,0 @@
-<?
-$MESS["SONET_GROUP_CREATE_TEMPLATE_DESCRIPTION"] = "Tạo nhóm mới.";
-$MESS["SONET_GROUP_CREATE_TEMPLATE_NAME"] = "Nhóm Thành lập";
-$MESS["SONET_NAME"] = "Mạng xã hội";
-?>

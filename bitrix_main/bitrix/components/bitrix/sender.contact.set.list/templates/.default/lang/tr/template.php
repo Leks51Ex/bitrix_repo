@@ -1,6 +1,0 @@
-<?
-$MESS["SENDER_CONTACT_SET_LIST_BTN_EDIT"] = "Düzenle";
-$MESS["SENDER_CONTACT_SET_LIST_BTN_EDIT_TITLE"] = "Statik alıcı listesini düzenle";
-$MESS["SENDER_CONTACT_SET_LIST_BTN_REMOVE"] = "Sil";
-$MESS["SENDER_CONTACT_SET_LIST_BTN_REMOVE_TITLE"] = "Statik alıcı listesini sil";
-?>

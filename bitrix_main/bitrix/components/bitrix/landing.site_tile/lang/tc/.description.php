@@ -1,4 +1,0 @@
-<?php
-$MESS["LANDING_CMP_DESCRIPTION"] = "一或多個站點顯示為互動式縮圖";
-$MESS["LANDING_CMP_NAME"] = "網站圖標";
-$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";

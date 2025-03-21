@@ -1,5 +1,0 @@
-<?
-$MESS["TASKS_LAST_SELECTED"] = "最近任务";
-$MESS["TASKS_TASKS_CURRENT_COUNT"] = "已选定";
-$MESS["TASKS_TASK_SEARCH"] = "搜索";
-?>

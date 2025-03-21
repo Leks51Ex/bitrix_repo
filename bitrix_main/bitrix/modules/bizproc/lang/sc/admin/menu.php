@@ -1,5 +1,0 @@
-<?php
-$MESS["BIZPROC_MENU_TASKS_1"] = "任务";
-$MESS["BIZPROC_MENU_TASKS_ALT"] = "任务";
-$MESS["BIZPROC_MENU_TEXT"] = "业务流程";
-$MESS["BIZPROC_MENU_TITLE"] = "业务流程";

@@ -1,8 +1,0 @@
-<?php
-$MESS["SONET_GCE_T_DO_CREATE"] = "创建组";
-$MESS["SONET_GCE_T_DO_CREATE_PROJECT"] = "创建项目";
-$MESS["SONET_GCE_T_DO_EDIT_2"] = "更改";
-$MESS["SONET_GCE_T_DO_INVITE"] = "发送邀请";
-$MESS["SONET_GCE_T_DO_NEXT"] = "下一项";
-$MESS["SONET_GCE_T_T_BACK"] = "返回";
-$MESS["SONET_GCE_T_T_CANCEL"] = "取消";

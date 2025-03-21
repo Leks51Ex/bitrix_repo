@@ -1,3 +1,0 @@
-<?php
-$MESS["LANDING_CMP_PAR_LANDING_TYPE"] = "網站類型";
-$MESS["LANDING_CMP_PAR_PAGE_URL_FOLDER_EDIT"] = "資料夾編輯頁面";

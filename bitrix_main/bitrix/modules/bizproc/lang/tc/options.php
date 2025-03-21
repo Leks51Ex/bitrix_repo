@@ -1,3 +1,0 @@
-<?php
-$MESS["BIZPROC_LOG_SKIP_TYPES_1_1"] = "活動開始";
-$MESS["BIZPROC_LOG_SKIP_TYPES_2_1"] = "活動結束";

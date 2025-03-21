@@ -1,8 +1,0 @@
-<?
-$MESS["VOXIMPLANT_ROLE_ACTION"] = "การกระทำ";
-$MESS["VOXIMPLANT_ROLE_CANCEL"] = "ยกเลิก";
-$MESS["VOXIMPLANT_ROLE_ENTITY"] = "เอนทิตี้";
-$MESS["VOXIMPLANT_ROLE_LABEL"] = "บทบาท";
-$MESS["VOXIMPLANT_ROLE_PERMISSION"] = "สิทธิ์";
-$MESS["VOXIMPLANT_ROLE_SAVE"] = "บันทึก";
-?>

@@ -1,3 +1,0 @@
-<?
-$MESS["CRM_DEAL_LIST_ROW_COUNT"] = "总计：#ROW_COUNT#";
-?>

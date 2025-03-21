@@ -1,4 +1,0 @@
-<?
-$MESS["INTR_ISS_BUTTON_CANCEL"] = "取消";
-$MESS["INTR_ISS_PARAM_DEPARTMENT"] = "部门";
-?>

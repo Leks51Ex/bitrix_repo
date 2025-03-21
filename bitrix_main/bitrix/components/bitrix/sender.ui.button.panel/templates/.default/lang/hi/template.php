@@ -1,5 +1,0 @@
-<?
-$MESS["SENDER_UI_BUTTON_PANEL_CANCEL"] = "रद्द करें";
-$MESS["SENDER_UI_BUTTON_PANEL_CLOSE"] = "बंद करें";
-$MESS["SENDER_UI_BUTTON_PANEL_SAVE"] = "सेव करें";
-?>

@@ -1,4 +1,0 @@
-<?
-$MESS["EC_CALENDAR_MODULE_NOT_INSTALLED"] = "未安装日历模块。";
-$MESS["EC_NOT_CONFIRMED"] = "未确认出席";
-?>

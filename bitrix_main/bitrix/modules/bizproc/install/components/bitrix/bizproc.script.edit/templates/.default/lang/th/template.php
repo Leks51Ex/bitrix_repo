@@ -1,7 +1,0 @@
-<?php
-$MESS["BIZPROC_SCRIPT_EDIT_BTN_CHANGE"] = "แก้ไข";
-$MESS["BIZPROC_SCRIPT_EDIT_MENU_GENERAL"] = "รายละเอียด";
-$MESS["BIZPROC_SCRIPT_EDIT_MENU_ROBOTS"] = "กฎการทำงานอัตโนมัติ";
-$MESS["BIZPROC_SCRIPT_EDIT_MENU_TITLE"] = "สคริปต์สมาร์ต";
-$MESS["BIZPROC_SCRIPT_EDIT_SCRIPT_DESCRIPTION"] = "รายละเอียด";
-$MESS["BIZPROC_SCRIPT_EDIT_SECTION_ROBOTS"] = "กำหนดค่ากฎการทำงานอัตโนมัติ";

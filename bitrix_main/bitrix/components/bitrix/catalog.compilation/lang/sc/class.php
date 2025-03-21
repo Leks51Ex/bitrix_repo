@@ -1,3 +1,0 @@
-<?php
-$MESS["CATALOG_SECTION_NOT_FOUND"] = "未找到节。";
-$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "未安装信息块模块";

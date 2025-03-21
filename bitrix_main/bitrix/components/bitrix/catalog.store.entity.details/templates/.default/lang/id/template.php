@@ -1,3 +1,0 @@
-<?php
-$MESS["CATALOG_STORE_DETAILS_CREATION_TITLE"] = "Gudang baru";
-$MESS["TAB_GENERAL_TITLE"] = "Umum";

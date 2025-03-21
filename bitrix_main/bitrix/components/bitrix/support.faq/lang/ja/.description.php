@@ -1,5 +1,0 @@
-<?
-$MESS["SUPPORT_FAQ_COMPONENTS"] = "よくある質問";
-$MESS["SUPPORT_FAQ_COMPONENT_DESCRIPTION"] = "情報ブロックからFAQセクションと質問を表示";
-$MESS["SUPPORT_FAQ_COMPONENT_NAME"] = "よくある質問";
-?>

@@ -1,4 +1,0 @@
-<?
-$MESS["SENDER_UI_TILE_SELECTOR_ADD"] = "बनाएँ";
-$MESS["SENDER_UI_TILE_SELECTOR_SELECT"] = "चुनें";
-?>

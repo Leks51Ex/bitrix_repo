@@ -1,5 +1,0 @@
-<?php
-$MESS["BIZPROC_MENU_TASKS_1"] = "指派";
-$MESS["BIZPROC_MENU_TASKS_ALT"] = "任務";
-$MESS["BIZPROC_MENU_TEXT"] = "商務程序";
-$MESS["BIZPROC_MENU_TITLE"] = "商務程序";

@@ -1,6 +1,0 @@
-<?php
-$MESS["CHAT_USER_LIST_EXIT"] = "注销";
-$MESS["CHAT_USER_LIST_KICK"] = "移除";
-$MESS["CHAT_USER_LIST_OWNER"] = "设为所有者";
-$MESS["COMPONENT_LOADING_MESSAGES"] = "加载消息...";
-$MESS["IM_M_CHAT_KICK"] = "从聊天中删除";

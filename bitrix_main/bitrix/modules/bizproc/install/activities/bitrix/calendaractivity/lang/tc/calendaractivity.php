@@ -1,6 +1,0 @@
-<?
-$MESS["BPSNMA_EMPTY_CALENDARFROM"] = "「開始日期」屬性缺失。";
-$MESS["BPSNMA_EMPTY_CALENDARNAME"] = "「事項名稱」屬性缺失。";
-$MESS["BPSNMA_EMPTY_CALENDARTO"] = "「結束日期」屬性缺失。";
-$MESS["BPSNMA_EMPTY_CALENDARUSER"] = "「使用者」屬性缺失。";
-?>

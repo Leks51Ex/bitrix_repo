@@ -1,7 +1,0 @@
-<?php
-$MESS["CRM_CATALOG_CONTROLLER_ERR_CATALOG_MODULE_ABSENT"] = "Ticari Katalog modülü kurulu değil.";
-$MESS["CRM_CATALOG_CONTROLLER_ERR_CATALOG_PRODUCT_ABSENT"] = "CRM ürün kataloğu bulunamadı";
-$MESS["CRM_CATALOG_CONTROLLER_ERR_CRM_MODULE_ABSENT"] = "CRM modülü kurulu değil.";
-$MESS["CRM_CATALOG_CONTROLLER_ERR_IBLOCK_MODULE_ABSENT"] = "Bilgi Blokları modülü yüklü değil.";
-$MESS["CRM_CATALOG_CONTROLLER_ERR_PAGE_UNKNOWN"] = "Geçersiz sayfa";
-$MESS["CRM_CATALOG_TITLE"] = "Ürün Kataloğu";

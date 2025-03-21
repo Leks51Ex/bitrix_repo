@@ -1,5 +1,0 @@
-<?
-$MESS["MARKETPLACE_BEST"] = "上";
-$MESS["MARKETPLACE_DEV"] = "開発中";
-$MESS["MARKETPLACE_NEW"] = "ジャストイン";
-?>

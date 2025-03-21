@@ -1,5 +1,0 @@
-<?
-$MESS["M_CRM_CURRENCY_LIST_DOWN_TEXT"] = "放開以進行重新整理";
-$MESS["M_CRM_CURRENCY_LIST_LOAD_TEXT"] = "正在更新...";
-$MESS["M_CRM_CURRENCY_LIST_PULL_TEXT"] = "拉至重新整理";
-?>

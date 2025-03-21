@@ -1,7 +1,0 @@
-<?php
-$MESS["SONET_GCE_T_KEYWORDS"] = "キーワード";
-$MESS["SONET_GCE_T_KEYWORDS_ADD_TAG"] = "さらに追加";
-$MESS["SONET_GCE_T_TAG_ADD"] = "タグを追加";
-$MESS["SONET_GCE_T_TAG_SEARCH_ADD_FOOTER_LABEL"] = "タグを作成:";
-$MESS["SONET_GCE_T_TAG_SEARCH_ADD_HINT"] = "よろしいですか？";
-$MESS["SONET_GCE_T_TAG_SEARCH_FAILED"] = "このタグは存在しません";

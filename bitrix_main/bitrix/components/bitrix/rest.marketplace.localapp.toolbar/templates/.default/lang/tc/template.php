@@ -1,3 +1,0 @@
-<?
-$MESS["MARKETPLACE_CATEGORY_ALL"] = "所有應用程式";
-?>

@@ -1,5 +1,0 @@
-<?
-$MESS["TASKS_TB_TASKS_MODULE_NOT_AVAILABLE"] = "任务模块在此版本中不可用。";
-$MESS["TASKS_TB_TASKS_MODULE_NOT_INSTALLED"] = "未安装任务模块。";
-$MESS["TASKS_TB_USER_NOT_AUTHORIZED"] = "您没有权限查看任务";
-?>

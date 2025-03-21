@@ -1,7 +1,0 @@
-<?
-$MESS["CRM_FIELD_ASSIGNED_BY"] = "負責人";
-$MESS["CRM_FIELD_OPPORTUNITY"] = "金額";
-$MESS["CRM_FIELD_STAGE"] = "交易階段";
-$MESS["CRM_FIELD_TYPE"] = "類型";
-$MESS["CRM_TITLE_DEAL"] = "交易";
-?>

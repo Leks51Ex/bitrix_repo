@@ -1,5 +1,0 @@
-<?
-$MESS["MARKETPLACE_ALL_APPS"] = "所有";
-$MESS["MARKETPLACE_CAT_PLACEMENT"] = "嵌入式應用程式";
-$MESS["MARKETPLACE_CAT_SEARCH"] = "搜尋應用程式";
-?>

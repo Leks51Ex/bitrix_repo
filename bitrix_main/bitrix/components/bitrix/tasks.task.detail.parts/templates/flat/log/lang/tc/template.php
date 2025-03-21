@@ -1,3 +1,0 @@
-<?
-$MESS["TASKS_TTDP_TEMPLATE_LOG_SEPARATOR"] = "分隔符號";
-?>

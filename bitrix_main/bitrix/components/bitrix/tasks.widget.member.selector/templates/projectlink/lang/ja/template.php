@@ -1,6 +1,0 @@
-<?
-$MESS["TASKS_MAIL_FORWARD"] = "転送先アドレス";
-$MESS["TASKS_PRIORITY"] = "優先度";
-$MESS["TASKS_TASK_COMPONENT_TEMPLATE_MAKE_IMPORTANT"] = "高い優先度";
-$MESS["TASKS_TTDP_PROJECT_TASK_IN"] = "このタスクはグループ(プロジェクト)にあります ";
-?>

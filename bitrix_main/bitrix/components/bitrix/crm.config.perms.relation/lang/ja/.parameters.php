@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_PERMS_CX_ENTITY_LIST"] = "ロールバインディングURL";
-$MESS["CRM_PERMS_CX_ROLE_EDIT"] = "ロール編集URL";
-?>

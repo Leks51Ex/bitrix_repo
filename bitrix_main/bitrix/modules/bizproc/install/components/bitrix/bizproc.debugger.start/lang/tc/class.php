@@ -1,4 +1,0 @@
-<?php
-$MESS["BIZPROC_DEBUGGER_START_ERROR_DOCUMENT_TYPE"] = "無法測試此項目";
-$MESS["BIZPROC_DEBUGGER_START_ERROR_RIGHTS"] = "權限不足，無法執行測試模式。請聯繫您的Bitrix24管理員或CRM負責人。";
-$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "未安裝商務程序模組。";

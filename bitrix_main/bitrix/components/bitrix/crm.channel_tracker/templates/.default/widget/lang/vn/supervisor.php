@@ -1,3 +1,0 @@
-<?
-$MESS["CRM_CH_WGT_DATA_EMPLOYEE_WORK_POSITION"] = "nhà quản lý";
-?>

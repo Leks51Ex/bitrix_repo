@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_COLUMN_PRODUCT_NAME"] = "ผลิตภัณฑ์";
-$MESS["CRM_COLUMN_PRODUCT_PRICE"] = "ราคา";
-$MESS["CRM_COLUMN_PRODUCT_QUANTITY"] = "ปริมาณ";
-$MESS["ERROR_LEAD_IS_EMPTY"] = "ไม่มีลีด";
-?>

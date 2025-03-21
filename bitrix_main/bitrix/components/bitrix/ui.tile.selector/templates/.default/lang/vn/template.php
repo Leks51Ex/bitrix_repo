@@ -1,5 +1,0 @@
-<?
-$MESS["UI_TILE_SELECTOR_ADD"] = "tạo";
-$MESS["UI_TILE_SELECTOR_MORE"] = "#NUM# khác";
-$MESS["UI_TILE_SELECTOR_SELECT"] = "chọn";
-?>

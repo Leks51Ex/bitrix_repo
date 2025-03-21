@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_ANALYTICS_SOURCE_EDIT_TITLE"] = "ソースの設定";
-$MESS["CRM_ANALYTICS_SOURCE_EDIT_TITLE_ADS"] = "%name% 広告ソース";
-?>

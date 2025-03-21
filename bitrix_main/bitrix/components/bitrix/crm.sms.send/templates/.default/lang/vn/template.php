@@ -1,4 +1,0 @@
-<?php
-$MESS["CRM_SMS_CANCEL"] = "Hủy bỏ";
-$MESS["CRM_SMS_SEND"] = "Gửi";
-$MESS["CRM_SMS_SEND_SENDER_SUBTITLE"] = "Sử dụng #SENDER#";

@@ -1,4 +1,0 @@
-<?
-$MESS["DISK_BIZPROC_BACK_TEXT"] = "雲碟";
-$MESS["DISK_BIZPROC_BACK_TITLE"] = "回到雲碟";
-?>

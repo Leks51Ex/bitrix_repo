@@ -1,3 +1,0 @@
-<?
-$MESS["MAIL_BLACKLIST_LIST_POPUP_CHECKBOX_TITLE"] = "對所有使用者";
-?>

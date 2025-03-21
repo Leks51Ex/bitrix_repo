@@ -1,3 +1,0 @@
-<?
-$MESS["CRM_CONTACT_DEDUPE_LIST_PAGE_TITLE"] = "連絡先の重複";
-?>

@@ -1,3 +1,0 @@
-<?
-$MESS["DefaultColor"] = "Mặc định";
-?>

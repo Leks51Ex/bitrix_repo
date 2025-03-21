@@ -1,7 +1,0 @@
-<?
-$MESS["REPORT_VIEW_STEXPORT_COMPLETED_SUMMARY1"] = "Fail laporan telah dicipta.";
-$MESS["REPORT_VIEW_STEXPORT_COMPLETED_SUMMARY2"] = "Rekod diproses: #PROCESSED_ITEMS#.";
-$MESS["REPORT_VIEW_STEXPORT_DOWNLOAD"] = "Muat turun fail eksport";
-$MESS["REPORT_VIEW_STEXPORT_NO_DATA"] = "Tiada data untuk dieksport.";
-$MESS["REPORT_VIEW_STEXPORT_PROGRESS_SUMMARY"] = "Rekod diproses: #PROCESSED_ITEMS# daripada #TOTAL_ITEMS#.";
-?>
