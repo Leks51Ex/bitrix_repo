@@ -1,0 +1,7 @@
+<?
+$MESS["TASK_TOOLBAR_FILTER_BUTTON"] = "ตัวกรอง";
+$MESS["TASK_TOOLBAR_FILTER_GANTT"] = "แผนภูมิแกนต์";
+$MESS["TASK_TOOLBAR_FILTER_LIST"] = "มุมมองแบบแบนราบ";
+$MESS["TASK_TOOLBAR_FILTER_REPORTS"] = "รายงาน";
+$MESS["TASK_TOOLBAR_FILTER_TREE"] = "รวมงานลูก";
+?>

@@ -1,0 +1,11 @@
+<?php
+$MESS["MAIN_MAIL_FORM_CANCEL_BTN"] = "İptal";
+$MESS["MAIN_MAIL_FORM_EDITOR_HTML_MODE_BTN_HINT"] = "HTML Modu";
+$MESS["MAIN_MAIL_FORM_FROM_FIELD"] = "Gönderen";
+$MESS["MAIN_MAIL_FORM_FROM_FIELD_COPY"] = "Kopyasını bana da gönder";
+$MESS["MAIN_MAIL_FORM_FROM_FIELD_HINT"] = "Varsayılan gönderici (\"Gönderen\")";
+$MESS["MAIN_MAIL_FORM_FROM_FIELD_REQUIRED_HINT"] = "Göndereni seç";
+$MESS["MAIN_MAIL_FORM_RCPT_MORE_HINT"] = "#NUM# tane daha";
+$MESS["MAIN_MAIL_FORM_SAVE_BTN"] = "Kaydet";
+$MESS["MAIN_MAIL_FORM_TO_FIELD"] = "Alıcı";
+$MESS["MAIN_MAIL_FORM_TO_FIELD_HINT"] = "Alıcı ekle";

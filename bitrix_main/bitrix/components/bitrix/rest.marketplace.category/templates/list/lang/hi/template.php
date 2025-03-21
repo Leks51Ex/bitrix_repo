@@ -1,0 +1,15 @@
+<?
+$MESS["MARKETPLACE_APP_FREE"] = "मुफ्त";
+$MESS["MARKETPLACE_APP_PRICE"] = "#PRICE# प्रति माह";
+$MESS["MARKETPLACE_EMPTY_CATEGORY"] = "कोई ऐप्लिकेशन नहीं मिला है।";
+$MESS["MARKETPLACE_INSTALLED"] = "इन्सटॉल किए";
+$MESS["MARKETPLACE_MORE_APPS"] = "अधिक ऐप्स दिखाएँ";
+$MESS["MARKETPLACE_PRICE_FREE"] = "मुफ्त";
+$MESS["MARKETPLACE_PRICE_PAID"] = "सशुल्क";
+$MESS["MARKETPLACE_SALE"] = "सेल";
+$MESS["MARKETPLACE_SHOW_APP"] = "देखें";
+$MESS["MARKETPLACE_TITLE_BEST"] = "टॉप";
+$MESS["MARKETPLACE_TITLE_NEW"] = "नया";
+$MESS["MENU_MARKETPLACE_ADD"] = "ऐप्लिकेशन जोड़ें";
+$MESS["MENU_MARKETPLACE_ADD_WIDGET"] = "विजेट जोड़ें";
+?>

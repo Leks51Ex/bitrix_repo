@@ -1,0 +1,20 @@
+<?php
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_ACCESS_DENIED_PRODUCT_CREATION_HINT"] = "Kebenaran yang tidak mencukupi untuk mencipta produk dalam katalog.";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_ACCESS_DENIED_PURCHASING_PRICE_HINT"] = "Kebenaran yang tidak mencukupi untuk melihat harga beli.";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_ACCESS_DENIED_STORE_HINT"] = "Anda tidak mempunyai kebenaran untuk mencapai gudang destinasi produk. Sila hubungi penyelia anda atau pentadbir anda untuk mendapatkan akses.";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_ACCESS_DENIED_TEXT"] = "Kebenaran tidak mencukupi.";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_ADD_PRODUCT"] = "Tambah baris";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_ADD_PRODUCT_TITLE"] = "Cari atau cipta produk baharu";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_BARCODE_SETTING_PRODUCT"] = "Tetapan imbasan";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_BARCODE_SETTING_PRODUCT_TITLE"] = "Tetapan imbasan";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_COPY_ACTION"] = "Salin";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_CREATE_PRODUCT"] = "Cipta produk";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_CREATE_PRODUCT_TITLE"] = "Cipta produk katalog baharu";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_DELETE_ACTION"] = "Hapus";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_INVALID_AMOUNT"] = "Tentukan kuantiti barangan yang tiba di gudang untuk memproses penerimaan stok";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_INVALID_AMOUNT_2"] = "Masukkan kuantiti produk untuk memproses objek inventori";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_IS_EMPTY"] = "Masukkan sekurang-kurangnya satu produk";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_NEGATIVE_PRICE_NOTICE"] = "Harga tidak boleh negatif.";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_SETTING_DISABLED"] = "Parameter \"#NAME#\" dilumpuhkan.";
+$MESS["CATALOG_DOCUMENT_PRODUCT_LIST_SETTING_ENABLED"] = "Parameter \"#NAME#\" dibolehkan";
+$MESS["CATALOG_PRODUCT_SUM_TOTAL"] = "Jumlah amaun";

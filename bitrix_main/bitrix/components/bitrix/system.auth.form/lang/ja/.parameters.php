@@ -1,0 +1,6 @@
+<?
+$MESS["COMP_AUTH_FORM_FORGOT_PASSWORD_URL"] = "忘れたパスワードページ";
+$MESS["COMP_AUTH_FORM_PROFILE_URL"] = "プロフィールページ";
+$MESS["COMP_AUTH_FORM_REGISTER_URL"] = "登録ページ";
+$MESS["COMP_AUTH_FORM_SHOW_ERRORS"] = "エラーを表示する";
+?>

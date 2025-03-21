@@ -1,0 +1,6 @@
+<?
+$MESS["SONET_GUE_BAN_NAV"] = "使用者";
+$MESS["SONET_GUE_MODS_NAV"] = "審核者";
+$MESS["SONET_GUE_USERS_AUTO_NAV"] = "成員（自動）";
+$MESS["SONET_GUE_USERS_NAV"] = "成員";
+?>

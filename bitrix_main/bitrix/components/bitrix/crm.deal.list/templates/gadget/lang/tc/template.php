@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_COLUMN_STAGE_ID"] = "階段";
+$MESS["CRM_DATA_EMPTY"] = "無記錄";
+$MESS["CRM_DEAL_CLIENT"] = "客戶";
+$MESS["CRM_DEAL_OPPORTUNITY"] = "商機";
+?>

@@ -1,0 +1,29 @@
+<?
+$MESS["ISV_ADD_DEPARTMENT"] = "Departman Ekle";
+$MESS["ISV_B24_INVITE"] = "Kullanıcı davet et";
+$MESS["ISV_CHILDREN_COUNT_1"] = "#NUM# departman daha";
+$MESS["ISV_CHILDREN_COUNT_2"] = "#NUM# departman daha";
+$MESS["ISV_CHILDREN_COUNT_3"] = "#NUM# departman daha";
+$MESS["ISV_CHILDREN_COUNT_4"] = "#NUM# departman daha";
+$MESS["ISV_CHILDREN_COUNT_MUL"] = "#NUM# departman daha";
+$MESS["ISV_EMPLOYEES"] = "Çalışanlar";
+$MESS["ISV_EMP_COUNT_1"] = "#NUM# çalışan";
+$MESS["ISV_EMP_COUNT_2"] = "#NUM# çalışan";
+$MESS["ISV_EMP_COUNT_3"] = "#NUM# çalışan";
+$MESS["ISV_EMP_COUNT_4"] = "#NUM# çalışan";
+$MESS["ISV_EMP_COUNT_MUL"] = "#NUM# çalışan";
+$MESS["ISV_EMP_LIST"] = "Çalışan listesi";
+$MESS["ISV_HINT_ADD"] = "Alt departman ekle";
+$MESS["ISV_HINT_DELETE"] = "Departmanı sil";
+$MESS["ISV_HINT_EDIT"] = "Departmanı Düzenle";
+$MESS["ISV_SHOW_SUBTREE"] = "Bölüm Yapısını Göster";
+$MESS["ISV_UNDO"] = "İptal";
+$MESS["ISV_add_dep"] = "Alt departman ekle";
+$MESS["ISV_add_emp"] = "Çalışan ekle";
+$MESS["ISV_confirm_change_department_0"] = "#EMP_NAME# ismini #DPT_NAME# ismine taşı?";
+$MESS["ISV_confirm_change_department_1"] = "#EMP_NAME#, #DPT_NAME# departmanına atansın mı?";
+$MESS["ISV_confirm_delete_department"] = "Bölümü silmek istiyor musunuz? Tüm alt bölümler aktarılacaktır.";
+$MESS["ISV_confirm_move_department"] = "#DPT_NAME# ismini #DPT_NAME_TO# ismine taşı?";
+$MESS["ISV_confirm_set_head"] = "#DPT_NAME# departmanının başı olarak #EMP_NAME# atansın mı?";
+$MESS["ISV_set_head"] = "Üst yönetici olarak ata";
+?>

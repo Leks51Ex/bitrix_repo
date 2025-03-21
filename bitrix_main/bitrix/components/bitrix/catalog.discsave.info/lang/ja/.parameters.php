@@ -1,0 +1,6 @@
+<?
+$MESS["BX_CMP_CDI_ERR_MODULE_CATALOG_ABSENT"] = " 製品カタログはインストールされていません";
+$MESS["BX_CMP_CDI_PARAM_TITLE_SHOW_NEXT_LEVEL"] = "次の割引レベルに関する情報を表示する";
+$MESS["BX_CMP_CDI_PARAM_TITLE_SITE_ID"] = "Webサイト";
+$MESS["BX_CMP_CDI_PARAM_TITLE_USER_ID"] = "ユーザーID";
+?>

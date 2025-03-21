@@ -1,0 +1,8 @@
+<?
+$MESS["INTASK_C87_DESCR"] = "説明";
+$MESS["INTASK_C87_FLOOR"] = "フロア";
+$MESS["INTASK_C87_NAME"] = "名前";
+$MESS["INTASK_C87_PHONE"] = "電話番号";
+$MESS["INTASK_C87_PLACE"] = "座席";
+$MESS["INTASK_C87_SAVE"] = "保存";
+?>

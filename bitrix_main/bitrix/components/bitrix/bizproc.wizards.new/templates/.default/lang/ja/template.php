@@ -1,0 +1,26 @@
+<?php
+$MESS["BPWC_WNCT_2LIST"] = "業務プロセス";
+$MESS["BPWC_WNCT_CANCEL"] = "キャンセル";
+$MESS["BPWC_WNCT_COMP_LIST_TPL"] = "ビジネスプロセスリストコンポーネントテンプレート";
+$MESS["BPWC_WNCT_COMP_START_TPL"] = "ビジネスプロセス起動コンポーネントテンプレート";
+$MESS["BPWC_WNCT_COMP_TPL_DEF"] = "(デフォルト)";
+$MESS["BPWC_WNCT_COMP_VIEW_TPL"] = "ビジネスプロセスコンポーネントテンプレート";
+$MESS["BPWC_WNCT_DESCR"] = "業務プロセスの説明";
+$MESS["BPWC_WNCT_EADD"] = "「エレメントの追加」タイトル";
+$MESS["BPWC_WNCT_FILTERABLEFIELDS"] = "利用可能なフィルタ";
+$MESS["BPWC_WNCT_ICON"] = "業務プロセスのアイコン";
+$MESS["BPWC_WNCT_NAME"] = "業務プロセス名";
+$MESS["BPWC_WNCT_NEW_TMPL"] = "テンプレートの作成(シーケンシャルビジネスプロセス)";
+$MESS["BPWC_WNCT_NEW_TMPL_1"] = "テンプレートを作成 (ステータス駆動型ビジネスプロセス)";
+$MESS["BPWC_WNCT_P"] = "ビジネスプロセス要素の一意の名前";
+$MESS["BPWC_WNCT_PERMS"] = "この業務プロセスを利用できる人";
+$MESS["BPWC_WNCT_PS"] = "ビジネスプロセス要素の複数の名前";
+$MESS["BPWC_WNCT_SAVE0"] = "編集";
+$MESS["BPWC_WNCT_SAVE1"] = "業務プロセスの作成";
+$MESS["BPWC_WNCT_SAVE2"] = "次へ";
+$MESS["BPWC_WNCT_SORT"] = "業務プロセスのソート順";
+$MESS["BPWC_WNCT_SUBTITLE1"] = "新規業務プロセスの作成";
+$MESS["BPWC_WNCT_SUBTITLE2"] = "新たな業務プロセスの設定";
+$MESS["BPWC_WNCT_SUBTITLE11"] = "業務プロセスの編集";
+$MESS["BPWC_WNCT_TMPL"] = "業務プロセステンプレート";
+$MESS["BPWC_WNCT_VISIBLEFIELDS"] = "表示可能なフィールド";

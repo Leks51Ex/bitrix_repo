@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_PRODUCT_PROP_DOWNLOAD"] = "ดาวน์โหลด";
+$MESS["CRM_PRODUCT_PROP_ENLARGE"] = "ขยาย";
+?>

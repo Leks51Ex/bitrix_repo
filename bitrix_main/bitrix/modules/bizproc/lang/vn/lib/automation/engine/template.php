@@ -1,0 +1,5 @@
+<?
+$MESS["BIZPROC_AUTOMATION_DELAY_ACTIVITY"] = "Tạm ngừng";
+$MESS["BIZPROC_AUTOMATION_PARALLEL_ACTIVITY"] = "Thực thi song song";
+$MESS["BIZPROC_AUTOMATION_TEMPLATE_NAME"] = "Khuôn mẫu tự động hóa (#STATUS#)";
+?>

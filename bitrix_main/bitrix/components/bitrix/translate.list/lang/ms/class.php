@@ -1,0 +1,4 @@
+<?
+$MESS["TR_LIST_COLUMN_FILE_NAME"] = "Nama fail";
+$MESS["TR_LIST_COLUMN_LANGUAGE_ID"] = "Bahasa";
+?>

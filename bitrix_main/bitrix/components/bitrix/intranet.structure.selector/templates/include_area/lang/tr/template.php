@@ -1,0 +1,5 @@
+<?
+$MESS["INTR_ISS_TPL_DEPARTMENT"] = "Departman";
+$MESS["INTR_ISS_TPL_FIO"] = "Ad";
+$MESS["INTR_ISS_TPL_SUBMIT"] = "Ara";
+?>

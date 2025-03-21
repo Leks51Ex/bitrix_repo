@@ -1,0 +1,24 @@
+<?php
+$MESS["BPAR_PD_TASK_BUTTON_CANCEL_MESSAGE"] = "辞退ボタンのテキスト";
+$MESS["BPRIA_PD_CANCEL_TYPE"] = "で拒否することができます";
+$MESS["BPRIA_PD_CANCEL_TYPE_ALL"] = "全ての従業員";
+$MESS["BPRIA_PD_CANCEL_TYPE_ANY"] = "すべて従業員";
+$MESS["BPRIA_PD_SAVE_VARIABLES"] = "失敗時に値を保存する";
+$MESS["BPRIOA_ACT_APPROVE_TRACK"] = "ユーザー#PERSON#は追加情報を供給されました#COMMENT#";
+$MESS["BPRIOA_ACT_BUTTON1"] = "保存";
+$MESS["BPRIOA_ACT_BUTTON2"] = "辞退";
+$MESS["BPRIOA_ACT_CANCEL_TRACK"] = "ユーザー#PERSON#は追加情報をキャンセルされました#COMMENT#";
+$MESS["BPRIOA_ACT_COMMENT"] = "コメント";
+$MESS["BPRIOA_ACT_COMMENT_ERROR"] = "#COMMENT_LABEL#' フィールドが必要です";
+$MESS["BPRIOA_ACT_INFO"] = "追加情報を待っています";
+$MESS["BPRIOA_ACT_PROP_EMPTY1"] = "ユーザー' プロパティは指定されていません";
+$MESS["BPRIOA_ACT_PROP_EMPTY2"] = "少なくとも1つのフィールドが必要です";
+$MESS["BPRIOA_ACT_PROP_EMPTY4"] = "名前' プロパティが見つかりません";
+$MESS["BPRIOA_ACT_TRACK1"] = "追加情報は#VAL#によって供給されます";
+$MESS["BPRIOA_ARGUMENT_NULL"] = "必須の値 '#PARAM#' が見つかりません";
+$MESS["BPRIOA_LOG_COMMENTS"] = "コメント";
+$MESS["BPSFA_COMMENT_REQUIRED_YA"] = "承認時のみ";
+$MESS["BPSFA_COMMENT_REQUIRED_YR"] = "却下時のみ";
+$MESS["BPSFA_PD_CANCEL"] = "キャンセル";
+$MESS["BPSFA_PD_NO"] = "いいえ";
+$MESS["BPSFA_PD_YES"] = "はい";

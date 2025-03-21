@@ -1,0 +1,5 @@
+<?php
+$MESS["BIZPROC_SCRIPT_QUEUE_LIST_BTN_DELETE"] = "Xóa";
+$MESS["BIZPROC_SCRIPT_QUEUE_LIST_BTN_TERMINATE"] = "Dừng";
+$MESS["BIZPROC_SCRIPT_QUEUE_LIST_CONFIRM_DELETE"] = "Bạn có chắc bạn muốn xóa kịch bản đang chạy?";
+$MESS["BIZPROC_SCRIPT_QUEUE_LIST_CONFIRM_TERMINATE"] = "Bạn có chắc bạn muốn dừng kịch bản?";

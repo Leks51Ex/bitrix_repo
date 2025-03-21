@@ -1,0 +1,31 @@
+<?
+$MESS["CRM_FE_DELETE_TITLE"] = "ลบ";
+$MESS["CRM_FE_ENUM_DEFAULT"] = "ค่าเริ่มต้น";
+$MESS["CRM_FE_ENUM_DEFAULTS"] = "ค่าเริ่มต้น";
+$MESS["CRM_FE_ENUM_IMPORT"] = "นำเข้าเป็นรายการ";
+$MESS["CRM_FE_ENUM_IMPORT_HINT"] = "แต่ละบรรทัดจะกลายเป็นรายการลิสต์ หากค่าของรายการไม่เหมือนกับชื่อรายการ ให้ระบุไว้ในวงเล็บก้ามปูหน้าชื่อ ตัวอย่างเช่น: \"[v1]ค่าที่ 1\"";
+$MESS["CRM_FE_ENUM_NO_DEFAULT"] = "(ไม่มีเลย)";
+$MESS["CRM_FE_FIELD_COMMON_LABEL"] = "ชื่อ";
+$MESS["CRM_FE_FIELD_IS_REQUIRED"] = "จำเป็นต้องมี";
+$MESS["CRM_FE_FIELD_MULTIPLE"] = "หลาย";
+$MESS["CRM_FE_FIELD_NAME"] = "ชื่อ";
+$MESS["CRM_FE_FIELD_SHOW_FILTER"] = "แสดงในตัวกรอง";
+$MESS["CRM_FE_FIELD_SHOW_IN_LIST"] = "แสดงในรายการ";
+$MESS["CRM_FE_FIELD_SORT"] = "การเรียงลำดับ";
+$MESS["CRM_FE_FIELD_TYPE"] = "ประเภท";
+$MESS["CRM_FE_FIELD_USE_MULTI_LANG_LABEL"] = "กำหนดชื่อในทุกภาษา";
+$MESS["CRM_FE_LIST_ITEM_ADD"] = "เพิ่ม";
+$MESS["CRM_FE_SORT_DOWN_TITLE"] = "ลง";
+$MESS["CRM_FE_SORT_UP_TITLE"] = "ขึ้น";
+$MESS["CRM_FE_TAB_EDIT"] = "การตั้งค่า";
+$MESS["CRM_FE_TAB_EDIT_TITLE"] = "พารามิเตอร์ทั่วไป";
+$MESS["CRM_FE_TAB_LIST"] = "รายการ";
+$MESS["CRM_FE_TAB_LIST_TITLE"] = "แสดงรายการค่าของคุณสมบัติ";
+$MESS["CRM_FE_TOOLBAR_ADD"] = "เพิ่มฟิลด์";
+$MESS["CRM_FE_TOOLBAR_ADD_TITLE"] = "เพิ่มฟิลด์ใหม่";
+$MESS["CRM_FE_TOOLBAR_DELETE"] = "ลบฟิลด์";
+$MESS["CRM_FE_TOOLBAR_DELETE_TITLE"] = "ลบฟิลด์และเปิดแบบฟอร์มฟิลด์";
+$MESS["CRM_FE_TOOLBAR_DELETE_WARNING"] = "คุณแน่ใจหรือไม่ ว่าต้องการลบฟิลด์นี้?";
+$MESS["CRM_FE_TOOLBAR_FIELDS"] = "ฟิลด์";
+$MESS["CRM_FE_TOOLBAR_FIELDS_TITLE"] = "ดูฟิลด์ที่ใช้ได้";
+?>

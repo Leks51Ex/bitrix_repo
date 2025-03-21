@@ -1,0 +1,7 @@
+<?
+$MESS["NEXT_BASED_ON_DEAL_MULTY"] = "已為下列定期交易建立範本：#ID_LINE# ";
+$MESS["NEXT_BASED_ON_DEAL_ONCE"] = "已為定期交易 ##ID#  建立範本";
+$MESS["NEXT_DEAL_EMPTY"] = "未選取";
+$MESS["NEXT_EXECUTION_DEAL_HINT"] = "下次建立交易時間 #DATE_EXECUTION#";
+$MESS["SIGN_NUM_WITH_DEAL_ID"] = "##DEAL_ID#";
+?>

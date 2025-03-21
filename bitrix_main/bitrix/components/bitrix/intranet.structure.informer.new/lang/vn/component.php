@@ -1,0 +1,5 @@
+<?
+$MESS["INTR_ISIN_ACCEPTED"] = "Làm việc";
+$MESS["INTR_ISIN_ICON_ADD"] = "Thêm Bản ghi";
+$MESS["INTR_ISIN_NAME_TEMPLATE_DEFAULT"] = "#NOBR##NAME# #LAST_NAME##/NOBR#";
+?>

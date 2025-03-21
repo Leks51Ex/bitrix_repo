@@ -1,0 +1,3 @@
+<?
+$MESS["IMCONNECTOR_COMPONENT_SETTINGS_STATUS_CONFIG_MODULE_NOT_INSTALLED"] = "Modul \"Penyambung IM Luaran\" tidak dipasang.";
+?>

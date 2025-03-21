@@ -1,0 +1,4 @@
+<?php
+$MESS["CRM_SIGNDOCUMENT_VIEW_DOCUMENT_INITIATOR_NOT_FOUND"] = "Belge başlatıcı bulunamadı.";
+$MESS["CRM_SIGNDOCUMENT_VIEW_DOCUMENT_NOT_FOUND"] = "Belge bulunamadı.";
+$MESS["CRM_SIGNDOCUMENT_VIEW_TITLE"] = "Belge görüntüle";

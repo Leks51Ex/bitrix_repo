@@ -1,0 +1,31 @@
+<?
+$MESS["DOWN_TEXT"] = "離すと更新されます";
+$MESS["LOAD_TEXT"] = "アップデートしています...";
+$MESS["PULL_TEXT"] = "引っ張って更新";
+$MESS["SMOD_ACCOUNT"] = "内部アカウントを使用して支払い";
+$MESS["SMOD_ALLOW"] = "許可";
+$MESS["SMOD_ALLOW_DELIVERY"] = "出荷を承認する";
+$MESS["SMOD_BACK"] = "戻る";
+$MESS["SMOD_BUDGET"] = "アカウント";
+$MESS["SMOD_CANCEL"] = "注文をキャンセルする";
+$MESS["SMOD_CANCEL_CANCEL"] = "注文のキャンセルを解除...";
+$MESS["SMOD_CANCEL_REASON"] = "理由";
+$MESS["SMOD_CHANGE_STATUS"] = "ステータスを変更";
+$MESS["SMOD_DEDUCT"] = "フルフィルメント";
+$MESS["SMOD_DEDUCT_UNDO"] = "達成をキャンセルする";
+$MESS["SMOD_DELIVERY"] = "配達";
+$MESS["SMOD_DISALLOW"] = "許可されていません";
+$MESS["SMOD_D_STATUS"] = "ステータスを変更";
+$MESS["SMOD_INSUFF_BUDGET"] = "お支払いを行うために内部アカウントに十分な資金がありません";
+$MESS["SMOD_ORDER_DEDUCT"] = "受注処理";
+$MESS["SMOD_ORDER_N"] = "注文番号";
+$MESS["SMOD_PAY"] = "支払い";
+$MESS["SMOD_PAYMENT"] = "支払い";
+$MESS["SMOD_PAY_BACK"] = "資金を内部口座に返す";
+$MESS["SMOD_PAY_CANCEL"] = "支払いをキャンセルする";
+$MESS["SMOD_PAY_CONFIRM"] = "支払いを確認する";
+$MESS["SMOD_PAY_FOR_ORDER"] = "支払命令";
+$MESS["SMOD_SAVE"] = "保存";
+$MESS["SMOD_STATUS"] = "注文ステータス";
+$MESS["SMOD_USER_ACCESSIBLE"] = "顧客に見える";
+?>

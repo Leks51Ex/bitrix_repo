@@ -1,0 +1,19 @@
+<?php
+$MESS["MD_COMPONENT_CALLTRACKER"] = "Theo dõi cuộc gọi";
+$MESS["MD_COMPONENT_IM_OPENLINES"] = "Kênh Mở";
+$MESS["MD_COMPONENT_IM_RECENT"] = "Trò chuyện";
+$MESS["MD_COMPONENT_MORE"] = "Menu";
+$MESS["MD_COMPONENT_NOTIFY"] = "Thông báo";
+$MESS["MD_COMPONENT_TASKS_LIST"] = "Các phần việc";
+$MESS["MD_DISK_TABLE_FOLDERS_FILES"] = "Thư mục: #FOLDERS#  Tập tin: #FILES#";
+$MESS["MD_EMPLOYEES_ALL"] = "Tất cả nhân viên";
+$MESS["MD_EMPLOYEES_TITLE"] = "Nhân viên";
+$MESS["MD_EXTRANET"] = "Extranet";
+$MESS["MD_GENERATE_BY_MOBILE"] = "Được tạo ra bởi ứng dụng";
+$MESS["MD_GROUPS_TITLE"] = "Các nhóm làm việc";
+$MESS["MD_MOBILE_APPLICATION"] = "Ứng dụng di động";
+$MESS["TASKS_ROLE_ACCOMPLICE"] = "Hỗ trợ";
+$MESS["TASKS_ROLE_AUDITOR"] = "Đang theo dõi";
+$MESS["TASKS_ROLE_ORIGINATOR"] = "Đặt bởi tôi";
+$MESS["TASKS_ROLE_RESPONSIBLE"] = "Đang diễn ra";
+$MESS["TASKS_ROLE_VIEW_ALL"] = "Tất cả các tác vụ";

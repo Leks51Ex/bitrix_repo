@@ -1,0 +1,5 @@
+<?
+$MESS["UI_TILE_SELECTOR_ADD"] = "สร้าง";
+$MESS["UI_TILE_SELECTOR_MORE"] = "อีก #NUM#";
+$MESS["UI_TILE_SELECTOR_SELECT"] = "เลือก";
+?>

@@ -1,0 +1,23 @@
+<?php
+$MESS["BPABL_LOG"] = "业务流程历史";
+$MESS["BPABL_RES_1"] = "否";
+$MESS["BPABL_RES_2"] = "成功";
+$MESS["BPABL_RES_3"] = "已取消";
+$MESS["BPABL_RES_4"] = "错误";
+$MESS["BPABL_RES_5"] = "未初始化";
+$MESS["BPABL_RES_6"] = "未定义";
+$MESS["BPABL_STATE_MODIFIED_1"] = "当前状态日期";
+$MESS["BPABL_STATE_NAME_1"] = "业务流程的当前状态";
+$MESS["BPABL_STATUS_1"] = "已初始化";
+$MESS["BPABL_STATUS_2"] = "正在进行";
+$MESS["BPABL_STATUS_3"] = "正在取消";
+$MESS["BPABL_STATUS_4"] = "已完成";
+$MESS["BPABL_STATUS_5"] = "错误";
+$MESS["BPABL_STATUS_6"] = "未定义";
+$MESS["BPABL_TYPE_1_1"] = "已启动活动'#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_2_1"] = "已完成活动'#ACTIVITY#' 返回状态：'#STATUS#' 结果：'#RESULT#'#NOTE#";
+$MESS["BPABL_TYPE_3_1"] = "已取消活动'#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_4_1"] = "活动'#ACTIVITY#'#NOTE#错误";
+$MESS["BPABL_TYPE_5_1"] = "活动'#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_6_1"] = "已执行一个与'#ACTIVITY#'#NOTE#关联的未知活动";
+$MESS["BPWC_WLCT_TOTAL"] = "总计";

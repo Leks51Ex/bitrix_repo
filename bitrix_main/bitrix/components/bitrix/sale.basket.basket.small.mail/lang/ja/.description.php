@@ -1,0 +1,5 @@
+<?
+$MESS["SBBS_DEFAULT_TEMPLATE_DESCRIPTION"] = "小さなバスケット";
+$MESS["SBBS_DEFAULT_TEMPLATE_NAME"] = "小さなバスケット";
+$MESS["SBBS_NAME"] = "バスケット";
+?>

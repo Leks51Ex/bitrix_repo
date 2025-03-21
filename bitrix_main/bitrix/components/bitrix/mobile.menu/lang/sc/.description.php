@@ -1,0 +1,5 @@
+<?
+$MESS["MAIN_MENU_ITEMS_DESC"] = "显示移动应用的菜单";
+$MESS["MAIN_MENU_ITEMS_NAME"] = "移动应用菜单";
+$MESS["MAIN_NAVIGATION_SERVICE"] = "导航";
+?>

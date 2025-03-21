@@ -1,0 +1,10 @@
+<?
+$MESS["REST_EVENT_LIST_TITLE"] = "出站 Web 攔截";
+$MESS["REST_HOOK_COMMENT"] = "意見";
+$MESS["REST_HOOK_DATE_CREATE"] = "建立時間";
+$MESS["REST_HOOK_DELETE"] = "刪除";
+$MESS["REST_HOOK_EDIT"] = "編輯";
+$MESS["REST_HOOK_EVENT_HANDLER"] = "處理常式";
+$MESS["REST_HOOK_EVENT_NAME"] = "事項";
+$MESS["REST_HOOK_TITLE"] = "名稱";
+?>

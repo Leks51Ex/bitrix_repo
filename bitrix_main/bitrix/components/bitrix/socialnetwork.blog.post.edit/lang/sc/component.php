@@ -1,0 +1,27 @@
+<?php
+$MESS["BLG_GRP_NAME"] = "开始于";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_ERROR"] = "删除消息时出错";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_NO_RIGHTS"] = "您没有权限删除此消息";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_OK"] = "已删除消息";
+$MESS["BLOG_BLOG_SESSID_WRONG"] = "您的会话已过期。请重试。";
+$MESS["BLOG_EMPTY_TITLE_PLACEHOLDER"] = "图像";
+$MESS["BLOG_EMPTY_TITLE_PLACEHOLDER2"] = "文件";
+$MESS["BLOG_EMPTY_TITLE_VOTE_PLACEHOLDER"] = "调查";
+$MESS["BLOG_ERR_NO_RIGHTS"] = "错误: 没有权限写入";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "未安装博客模块。";
+$MESS["BLOG_NEW_MESSAGE"] = "新对话";
+$MESS["BLOG_POST_EDIT"] = "编辑帖子";
+$MESS["BLOG_P_INSERT"] = "单击以插入图像";
+$MESS["BLOG_SONET_GROUP_MODULE_NOT_AVAIBLE"] = "对话对此用户组不可用。";
+$MESS["BLOG_SONET_MODULE_NOT_AVAIBLE"] = "对话对此用户不可用。";
+$MESS["BPE_COPY_DELETE_ERROR"] = "尝试删除原帖时出错。<br />";
+$MESS["BPE_HIDDEN_POSTED"] = "已成功添加您的帖子。此对话中帖子经预审查；一旦版主批准，您的帖子即可被看到。";
+$MESS["BPE_SESS"] = "您的会话已过期。请重新发布您的消息。";
+$MESS["B_B_HIDDEN_DEPARTMENT"] = "隐藏的部门";
+$MESS["B_B_HIDDEN_GROUP"] = "隐藏的组";
+$MESS["B_B_HIDDEN_USER"] = "隐藏的用户";
+$MESS["B_B_MES_NO_BLOG"] = "未找到消息";
+$MESS["B_B_MES_NO_GROUP"] = "找不到社交网络组。";
+$MESS["B_B_MES_NO_GROUP_ACTIVE"] = "此功能对于该社交网络组不可用。";
+$MESS["B_B_MES_NO_GROUP_RIGHTS"] = "没有足够权限在该社交网络组中创建帖子。";
+$MESS["B_B_PC_DUPLICATE_POST"] = "您已经添加帖子";

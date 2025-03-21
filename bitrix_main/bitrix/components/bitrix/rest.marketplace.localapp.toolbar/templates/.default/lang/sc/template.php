@@ -1,0 +1,3 @@
+<?
+$MESS["MARKETPLACE_CATEGORY_ALL"] = "所有应用程序";
+?>

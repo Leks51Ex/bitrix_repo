@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_JS_STATUS_ACTION_ERROR"] = "这是一个错误。";
+$MESS["CRM_JS_STATUS_ACTION_SUCCESS"] = "成功";
+?>

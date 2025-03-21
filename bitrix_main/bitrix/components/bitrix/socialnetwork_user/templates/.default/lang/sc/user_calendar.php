@@ -1,0 +1,5 @@
+<?
+$MESS["SONET_U_CALENDAR_DIS_MES"] = "已禁用日历功能。";
+$MESS["SONET_U_CALENDAR_DIS_TITLE"] = "启用日历功能";
+$MESS["SONET_U_CALENDAR_TURN_ON"] = "启用";
+?>

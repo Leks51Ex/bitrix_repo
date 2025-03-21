@@ -1,0 +1,21 @@
+<?php
+$MESS["LANDING_TPL_ACCEPT"] = "Saya terima Syarat";
+$MESS["LANDING_TPL_ACCEPTED"] = "Anda telah bersetuju dengan Syarat";
+$MESS["LANDING_TPL_ADD_PAGE"] = "Halaman Baru";
+$MESS["LANDING_TPL_ADD_SITE"] = "Cipta Tapak";
+$MESS["LANDING_TPL_ADD_SITE_2"] = "Cipta";
+$MESS["LANDING_TPL_ADD_SITE_KNOWLEDGE"] = "Cipta pangkalan pengetahuan";
+$MESS["LANDING_TPL_ADD_SITE_PAGE"] = "Cipta Tapak";
+$MESS["LANDING_TPL_ADD_SITE_STORE"] = "Cipta kedai dalam talian";
+$MESS["LANDING_TPL_DEV_SITE"] = "Cipta laman web pembangunan";
+$MESS["LANDING_TPL_FOLDER_EDIT"] = "Tetapan folder";
+$MESS["LANDING_TPL_JS_PAY_TARIFF"] = "Beralih ke pelan komersial";
+$MESS["LANDING_TPL_JS_PAY_TARIFF_TITLE"] = "Sekatan pelan";
+$MESS["LANDING_TPL_MENU_AGREEMENT"] = "Syarat Penggunaan";
+$MESS["LANDING_TPL_MENU_FORMS"] = "Borang CRM";
+$MESS["LANDING_TPL_MENU_MARKETING"] = "Pemasaran";
+$MESS["LANDING_TPL_MENU_RIGHTS"] = "Kebenaran Akses";
+$MESS["LANDING_TPL_MENU_SITES"] = "Tapak";
+$MESS["LANDING_TPL_MENU_SITES_KNOWLEDGE"] = "Pangkalan pengetahuan";
+$MESS["LANDING_TPL_MENU_TRACKING"] = "Kecerdasan Jualan";
+$MESS["LANDING_TPL_SETTING"] = "Tetapan";

@@ -1,0 +1,22 @@
+<?php
+$MESS["MIB_APPLY_SETTING_MENU_ITEM"] = "完成自訂";
+$MESS["MIB_CANCEL_BUTTON"] = "取消";
+$MESS["MIB_DROPZONE_TEXT"] = "隱藏項目";
+$MESS["MIB_HIDDEN"] = "隱藏";
+$MESS["MIB_LICENSE_BUY_BUTTON"] = "購買";
+$MESS["MIB_LICENSE_TRIAL_BUTTON"] = "免費試用";
+$MESS["MIB_LICENSE_WINDOW_HEADER_TEXT"] = "取得存取權";
+$MESS["MIB_LICENSE_WINDOW_TEXT"] = "購買授權或免費試用";
+$MESS["MIB_MAIN_BUTTONS_LOADING"] = "正在載入……";
+$MESS["MIB_MAIN_BUTTONS_MORE"] = "更多";
+$MESS["MIB_MANAGE"] = "設定";
+$MESS["MIB_NO_HIDDEN"] = "拖曳到此處隱藏";
+$MESS["MIB_PIN_HINT"] = "移動到頂部選單";
+$MESS["MIB_RESET_ALERT"] = "將功能表重設為預設檢視？";
+$MESS["MIB_RESET_BUTTON"] = "重設";
+$MESS["MIB_RESET_SETTINGS"] = "重設功能表";
+$MESS["MIB_SETTING_MENU_ITEM"] = "設定功能表";
+$MESS["MIB_SET_HIDE"] = "隱藏";
+$MESS["MIB_SET_HOME"] = "設定為章節首頁";
+$MESS["MIB_SET_SHOW"] = "顯示";
+$MESS["MIB_UNPIN_ITEM"] = "移回 「#NAME#」";

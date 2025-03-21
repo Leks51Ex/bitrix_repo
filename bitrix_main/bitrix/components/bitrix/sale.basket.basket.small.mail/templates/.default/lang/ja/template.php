@@ -1,0 +1,32 @@
+<?
+$MESS["SALE_ADD_TO_BASKET"] = "カートに追加";
+$MESS["SALE_CONTENT_DISCOUNT"] = "割引";
+$MESS["SALE_DELAY"] = "ホールドオーバー";
+$MESS["SALE_DELAYED_TITLE"] = "ホールドオーバー";
+$MESS["SALE_DELETE"] = "削除";
+$MESS["SALE_DISCOUNT"] = "割引";
+$MESS["SALE_NAME"] = "名前";
+$MESS["SALE_PRICE"] = "価格";
+$MESS["SALE_PROPS"] = "プロパティ";
+$MESS["SALE_QUANTITY"] = "数量";
+$MESS["SALE_SUM"] = "金額";
+$MESS["SALE_TOTAL"] = "合計:";
+$MESS["SALE_TOTAL_WEIGHT"] = "総重量:";
+$MESS["SALE_TYPE"] = "価格タイプ";
+$MESS["SALE_UNAVAIL_TITLE"] = "現在お取り扱いできません";
+$MESS["SALE_VAT"] = "税金:";
+$MESS["SALE_VAT_EXCLUDED"] = "合計:";
+$MESS["SALE_VAT_INCLUDED"] = "税込み:";
+$MESS["SALE_WEIGHT"] = "重量";
+$MESS["SALE_WEIGHT_G"] = "g";
+$MESS["STB_COUPON_PROMT"] = "クーポンコードを入力してください:";
+$MESS["STB_ORDER_PROMT"] = "注文を完了するには[チェックアウト]をクリックしてください";
+$MESS["TSBS_2BASKET"] = "変更数量";
+$MESS["TSBS_2ORDER"] = "注文";
+$MESS["TSBS_DELAY"] = "ホールドオーバー:";
+$MESS["TSBS_PRICE"] = "価格:";
+$MESS["TSBS_QUANTITY"] = "数量:";
+$MESS["TSBS_READY"] = "ショッピングカートのアイテム:";
+$MESS["TSBS_SUBSCRIBE"] = "サブスクリプション:";
+$MESS["TSBS_UNAVAIL"] = "現在お取り扱いできません:";
+?>

@@ -1,0 +1,34 @@
+<?
+$MESS["CRM_WEBFORM_EDIT_V2_ATTENTION"] = "注意！";
+$MESS["CRM_WEBFORM_EDIT_V2_ATTENTION_TEXT"] = "このフォームには、自動保存された最新の変更が表示されます。";
+$MESS["CRM_WEBFORM_EDIT_V2_AUTO"] = "自動";
+$MESS["CRM_WEBFORM_EDIT_V2_BORDER"] = "フォームの枠線";
+$MESS["CRM_WEBFORM_EDIT_V2_BORDER_BOTTOM"] = "下";
+$MESS["CRM_WEBFORM_EDIT_V2_BORDER_LEFT"] = "左";
+$MESS["CRM_WEBFORM_EDIT_V2_BORDER_RIGHT"] = "右";
+$MESS["CRM_WEBFORM_EDIT_V2_BORDER_TOP"] = "上";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_BRIGHT"] = "明るいアイテムの色";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_BRIGHT_TEXT"] = "明るいアイテムの文字色";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_FIELD"] = "フィールドの背景色";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_FIELD_BORDER"] = "フィールドの枠線色";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_FIELD_FOCUS"] = "フォーカスしたフィールドの背景色";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_FORM"] = "フォームの背景色";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_FORM_TEXT"] = "フォームの文字色";
+$MESS["CRM_WEBFORM_EDIT_V2_DEF"] = "デフォルト";
+$MESS["CRM_WEBFORM_EDIT_V2_ENABLE_DESIGN"] = "ウェブサイトウィジェットか直接リンクを使用して、このフォームの新しいデザインを有効にしてください（組み込みのフォームデザインの場合は、新しいコードか従来のコードを使用して変更できます）。";
+$MESS["CRM_WEBFORM_EDIT_V2_FONT"] = "フォント";
+$MESS["CRM_WEBFORM_EDIT_V2_FONT_FAMILY_HINT"] = "フォントフェイス名（フォントファミリー）。<br>例：Open Sans";
+$MESS["CRM_WEBFORM_EDIT_V2_FONT_URI_HINT"] = "fonts.google.com で提供されるフォントへのリンク";
+$MESS["CRM_WEBFORM_EDIT_V2_FORM_TRANSPARENT_HINT"] = "フォームの背景色とフィールドの背景色の値の透明度パラメータを変更すると、フォームを半透明にすることができます。";
+$MESS["CRM_WEBFORM_EDIT_V2_MANUAL"] = "カスタム";
+$MESS["CRM_WEBFORM_EDIT_V2_MODE"] = "モード";
+$MESS["CRM_WEBFORM_EDIT_V2_MORE_FIELDS"] = "追加パラメータ";
+$MESS["CRM_WEBFORM_EDIT_V2_PRIMARY_COLOR"] = "主な色";
+$MESS["CRM_WEBFORM_EDIT_V2_SETUP"] = "設定";
+$MESS["CRM_WEBFORM_EDIT_V2_SETUP_COLOR"] = "色を設定";
+$MESS["CRM_WEBFORM_EDIT_V2_SETUP_OPACITY"] = "透明度を設定";
+$MESS["CRM_WEBFORM_EDIT_V2_SHADOW"] = "フォームの影";
+$MESS["CRM_WEBFORM_EDIT_V2_STANDARD"] = "標準";
+$MESS["CRM_WEBFORM_EDIT_V2_STYLE"] = "フィールドのスタイル";
+$MESS["CRM_WEBFORM_EDIT_V2_THEME"] = "テーマ";
+?>

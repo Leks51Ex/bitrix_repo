@@ -1,0 +1,15 @@
+<?
+$MESS["BLOG_MENU_ADD_MESSAGE"] = "新しいメッセージ";
+$MESS["BLOG_MENU_ADD_MESSAGE_TITLE"] = "新しいメッセージを追加";
+$MESS["BLOG_MENU_DRAFT_MESSAGES"] = "下書き";
+$MESS["BLOG_MENU_DRAFT_MESSAGES_TITLE"] = "下書きの投稿を表示";
+$MESS["BLOG_MENU_FRIENDS"] = "友達のページ";
+$MESS["BLOG_MENU_FRIENDS_TITLE"] = "友達の投稿を表示";
+$MESS["BLOG_MENU_FR_A_F"] = "友達に追加";
+$MESS["BLOG_MENU_FR_B_F"] = "友人になる";
+$MESS["BLOG_MENU_MODERATION_MESSAGES"] = "節度";
+$MESS["BLOG_MENU_MODERATION_MESSAGES_TITLE"] = "モデレート待ちの投稿を表示";
+$MESS["BLOG_MENU_SETTINGS"] = "設定";
+$MESS["BLOG_MENU_SETTINGS_TITLE"] = "ブログ設定を編集する";
+$MESS["BLOG_MENU_TITLE"] = "ブログ";
+?>

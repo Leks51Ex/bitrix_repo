@@ -1,0 +1,7 @@
+<?php
+$MESS["MAIN_USER_CONSENT_SELECTOR_BTN_CONSENT"] = "ความยินยอมที่ได้รับ";
+$MESS["MAIN_USER_CONSENT_SELECTOR_BTN_CREATE"] = "สร้างความยินยอมใหม่";
+$MESS["MAIN_USER_CONSENT_SELECTOR_BTN_CREATE_1"] = "สร้างความยินยอมใหม่";
+$MESS["MAIN_USER_CONSENT_SELECTOR_BTN_EDIT"] = "แก้ไขการตั้งค่า";
+$MESS["MAIN_USER_CONSENT_SELECTOR_CHOOSE"] = "เลือกความยินยอม";
+$MESS["MAIN_USER_CONSENT_SELECTOR_DEF_NOT_SELECTED"] = "(ไม่ได้เลือก)";

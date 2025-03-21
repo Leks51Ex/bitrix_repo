@@ -1,0 +1,9 @@
+<?
+$MESS["SENDER_RC_LETTER_TIME_OUTSIDE_ADD_SUCCESS"] = "已經儲存任務！<br>
+現在，您可以在 CRM 行銷區域中存取 (<a href=\"%path%\">銷售增長</a>)";
+$MESS["SENDER_RC_LETTER_TIME_TMPL_ACT_SEND"] = "開始";
+$MESS["SENDER_RC_LETTER_TIME_TMPL_ACT_SENT"] = "已開始";
+$MESS["SENDER_RC_LETTER_TIME_TMPL_DATE_SEND"] = "開始日期";
+$MESS["SENDER_RC_LETTER_TIME_TMPL_TITLE_EXISTS"] = "%name%";
+$MESS["SENDER_RC_LETTER_TIME_TMPL_TITLE_NEW"] = "%name% 已就緒！";
+?>

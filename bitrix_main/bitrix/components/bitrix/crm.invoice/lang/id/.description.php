@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_INVOICE_COMPLEX_DESCRIPTION"] = "Invois";
+$MESS["CRM_INVOICE_COMPLEX_NAME"] = "Invois";
+$MESS["CRM_INVOICE_NAME"] = "Invois";
+?>

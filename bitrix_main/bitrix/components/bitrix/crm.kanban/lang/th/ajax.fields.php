@@ -1,0 +1,9 @@
+<?php
+$MESS["CRM_KANBAN_FIELD_OBSERVER"] = "ผู้สังเกตการณ์";
+$MESS["CRM_KANBAN_FIELD_OPPORTUNITY_WITH_CURRENCY"] = "จำนวนเงินและสกุลเงิน";
+$MESS["CRM_KANBAN_FIELD_ORDER_PAYMENTS"] = "การชำระเงิน";
+$MESS["CRM_KANBAN_FIELD_ORDER_PROBLEM_NOTIFICATION"] = "ปัญหาการสั่งซื้อ";
+$MESS["CRM_KANBAN_FIELD_ORDER_SHIPMENTS"] = "การจัดส่ง";
+$MESS["CRM_KANBAN_FIELD_ORDER_TITLE"] = "ชื่อคำสั่งซื้อ";
+$MESS["CRM_KANBAN_FIELD_RECURRING"] = "ดีลที่เกิดซ้ำ";
+$MESS["CRM_KANBAN_FIELD_SOURCE_DESCRIPTION"] = "รายละเอียดต้นฉบับ";

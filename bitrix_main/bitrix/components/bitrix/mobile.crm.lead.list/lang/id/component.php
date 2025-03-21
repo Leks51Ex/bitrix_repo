@@ -1,0 +1,20 @@
+<?php
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Modul CRM belum diinstal.";
+$MESS["CRM_PERMISSION_DENIED"] = "Akses ditolak";
+$MESS["M_CRM_LEAD_LIST_ADD_DEAL"] = "Tambahkan aktivitas";
+$MESS["M_CRM_LEAD_LIST_CALL"] = "Lakukan panggilan";
+$MESS["M_CRM_LEAD_LIST_CREATE_BASE"] = "Buat menggunakan sumber";
+$MESS["M_CRM_LEAD_LIST_CREATE_DEAL"] = "Transaksi";
+$MESS["M_CRM_LEAD_LIST_DECLINE"] = "Tolak";
+$MESS["M_CRM_LEAD_LIST_DELETE"] = "Hapus";
+$MESS["M_CRM_LEAD_LIST_EDIT"] = "Edit";
+$MESS["M_CRM_LEAD_LIST_FILTER_CUSTOM"] = "Hasil Pencarian";
+$MESS["M_CRM_LEAD_LIST_FILTER_NONE"] = "Semua prospek";
+$MESS["M_CRM_LEAD_LIST_JUNK"] = "Sampah";
+$MESS["M_CRM_LEAD_LIST_MAIL"] = "Kirim pesan";
+$MESS["M_CRM_LEAD_LIST_MEETING"] = "Siapkan rapat";
+$MESS["M_CRM_LEAD_LIST_MORE"] = "Selengkapnya";
+$MESS["M_CRM_LEAD_LIST_NO_FILTER"] = "Semua prospek";
+$MESS["M_CRM_LEAD_LIST_PRESET_MY"] = "Prospek saya";
+$MESS["M_CRM_LEAD_LIST_PRESET_NEW"] = "Prospek baru";
+$MESS["M_CRM_LEAD_LIST_PRESET_USER"] = "Filter khusus";

@@ -1,0 +1,22 @@
+<?php
+$MESS["MARKETPLACE_APP_BUY"] = "Beli";
+$MESS["MARKETPLACE_APP_CLEAN"] = "hapus tetapan aplikasi dan data";
+$MESS["MARKETPLACE_APP_DELETE_CONFIRM"] = "Adakah anda pasti anda mahu menghapuskan aplikasi?";
+$MESS["MARKETPLACE_APP_DELETE_ERROR"] = "Ralat! Aplikasi tidak dinyahpasang.";
+$MESS["MARKETPLACE_APP_DEMO"] = "Demo";
+$MESS["MARKETPLACE_APP_FREE"] = "percuma";
+$MESS["MARKETPLACE_APP_INACTIVE"] = "dihapuskan";
+$MESS["MARKETPLACE_APP_INSTALL"] = "Pasang";
+$MESS["MARKETPLACE_APP_INSTALL_CANCEL"] = "Batal";
+$MESS["MARKETPLACE_APP_INSTALL_PARTNER"] = "Aplikasi tidak lagi tersedia. Sila gunakan <a href=\"http://www.bitrixsoft.com/personal/b24marketplace/\">akaun rakan kongsi</a> untuk memasang aplikasi tersembunyi.";
+$MESS["MARKETPLACE_APP_ISTALL_ERROR"] = "Ralat! Aplikasi tidak dinyahpasang.";
+$MESS["MARKETPLACE_APP_POPUP_LOAD"] = "Memuat";
+$MESS["MARKETPLACE_APP_PRICE"] = "#PRICE# setiap bulan";
+$MESS["MARKETPLACE_APP_PROLONG"] = "Membaharui";
+$MESS["MARKETPLACE_APP_TRIAL"] = "Cuba";
+$MESS["MARKETPLACE_APP_TRIAL_FINISH"] = "Tempoh percubaan anda akan tamat tempoh dalam #NUM#";
+$MESS["MARKETPLACE_BUYS_EMPTY"] = "Anda tidak mempunyai sebarang aplikasi";
+$MESS["MARKETPLACE_DELETE_BUTTON"] = "Hapus";
+$MESS["MARKETPLACE_INSTALL_BUTTON"] = "Pasang";
+$MESS["MARKETPLACE_RIGHTS"] = "Kebenaran akses";
+$MESS["MARKETPLACE_UPDATE_BUTTON"] = "Kemas kini";

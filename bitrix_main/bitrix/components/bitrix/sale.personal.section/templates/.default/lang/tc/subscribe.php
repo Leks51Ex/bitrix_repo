@@ -1,0 +1,5 @@
+<?php
+$MESS["SPS_CHAIN_MAIN"] = "我的帳戶";
+$MESS["SPS_CHAIN_SUBSCRIBE"] = "使用者訂閱";
+$MESS["SPS_CHAIN_SUBSCRIBE_NEW"] = "您的訂閱";
+$MESS["SPS_TITLE_SUBSCRIBE"] = "我的訂閱";

@@ -1,0 +1,7 @@
+<?php
+$MESS["CRM_AUTOMATION_TITLE"] = "自動化";
+$MESS["CRM_AUTOMATION_TITLE_1"] = "銷售自動化";
+$MESS["CRM_BP_DEAL"] = "交易";
+$MESS["CRM_BP_LEAD"] = "潛在客戶";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安裝 CRM 模組。";
+$MESS["CRM_PERMISSION_DENIED"] = "已拒絕存取";

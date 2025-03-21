@@ -1,0 +1,17 @@
+<?
+$MESS["SHOP_MENU_BUYER_GROUP_TITLE"] = "Kumpulan pelanggan";
+$MESS["SHOP_MENU_ORDER_FORM_SETTINGS_TITLE"] = "Tetapkan Borang Daftar Keluar";
+$MESS["SHOP_MENU_ORDER_TITLE"] = "Pesanan";
+$MESS["SHOP_MENU_PRODUCT_MARKETING_COUPONS"] = "Kupon";
+$MESS["SHOP_MENU_PRODUCT_MARKETING_DISCOUNT"] = "Peraturan Troli Membeli-belah";
+$MESS["SHOP_MENU_PRODUCT_MARKETING_PRESET"] = "Urusan Pemasaran Prapasang";
+$MESS["SHOP_MENU_PRODUCT_MARKETING_TITLE"] = "Pemasaran Produk";
+$MESS["SHOP_MENU_SETTINGS_SALE_SETTINGS"] = "Parameter Kedai Dalam Talian";
+$MESS["SHOP_MENU_SETTINGS_STATUS"] = "Status";
+$MESS["SHOP_MENU_SETTINGS_STATUS_ORDER"] = "Status Pesanan";
+$MESS["SHOP_MENU_SETTINGS_STATUS_ORDER_SHIPMENT"] = "Status Pengiriman";
+$MESS["SHOP_MENU_SETTINGS_USER_FIELDS"] = "Medan Tersuai";
+$MESS["SHOP_MENU_SHOP_LIST_TITLE"] = "Kedai Web";
+$MESS["SHOP_MENU_SHOP_ROLES_TITLE"] = "Kebenaran Akses";
+$MESS["SHOP_MENU_SHOP_TITLE"] = "Kedai Dalam Talian";
+?>

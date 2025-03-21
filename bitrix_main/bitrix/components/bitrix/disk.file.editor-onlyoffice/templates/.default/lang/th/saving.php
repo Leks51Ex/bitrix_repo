@@ -1,0 +1,3 @@
+<?php
+$MESS["DISK_FILE_EDITOR_ONLYOFFICE_WAITING_NEW_VERSION_DESC"] = "กรุณารอฉบับล่าสุดให้มาถึง";
+$MESS["DISK_FILE_EDITOR_ONLYOFFICE_WAITING_NEW_VERSION_TITLE"] = "เอกสารได้รับการแก้ไข";

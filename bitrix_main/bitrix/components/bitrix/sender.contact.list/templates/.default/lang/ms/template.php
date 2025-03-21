@@ -1,0 +1,21 @@
+<?
+$MESS["SENDER_CONTACT_LIST_BTN_ADD"] = "Tambah ke senarai";
+$MESS["SENDER_CONTACT_LIST_BTN_ADD_TO_BL"] = "Tambah ke senarai hitam";
+$MESS["SENDER_CONTACT_LIST_BTN_ADD_TO_BL_TITLE"] = "Tambah ke senarai hitam";
+$MESS["SENDER_CONTACT_LIST_BTN_EDIT"] = "Sunting";
+$MESS["SENDER_CONTACT_LIST_BTN_EDIT_TITLE"] = "Sunting";
+$MESS["SENDER_CONTACT_LIST_BTN_RECIPIENT"] = "Surat Berita";
+$MESS["SENDER_CONTACT_LIST_BTN_RECIPIENT_STAT"] = "surat berita";
+$MESS["SENDER_CONTACT_LIST_BTN_RECIPIENT_TITLE"] = "Cari kempen dengan penerima ini";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE"] = "Keluarkan";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_BL"] = "Keluarkan dari senarai hitam";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_BL_TITLE"] = "Keluarkan dari senarai hitam";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_L"] = "Keluarkan dari senarai";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_LIST"] = "Keluarkan";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_LIST_TITLE"] = "Keluarkan dari senarai semasa";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_L_TITLE"] = "Keluarkan dari senarai";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_TITLE"] = "Keluarkan dari senarai semasa";
+$MESS["SENDER_CONTACT_LIST_BTN_SET_LIST"] = "Senarai penerima tersuai";
+$MESS["SENDER_CONTACT_LIST_BTN_VIEW"] = "Paparan";
+$MESS["SENDER_CONTACT_LIST_BTN_VIEW_TITLE"] = "Paparan";
+?>

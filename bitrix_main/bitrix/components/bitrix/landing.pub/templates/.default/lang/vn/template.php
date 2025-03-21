@@ -1,0 +1,29 @@
+<?
+$MESS["LANDING_TPL_ACCESS_ASK_DESCRIPTION_KNOWLEDGE"] = "Gửi một yêu cầu đến một người dùng để nhận quyền đọc cơ sở tri thức này.";
+$MESS["LANDING_TPL_ACCESS_ASK_HEADER_KNOWLEDGE"] = "Đây là cơ sở tri thức riêng tư";
+$MESS["LANDING_TPL_ACCESS_ASK_SEND_KNOWLEDGE"] = "Yêu cầu truy cập";
+$MESS["LANDING_TPL_ACCESS_ASK_TITLE_KNOWLEDGE"] = "Yêu cầu truy cập";
+$MESS["LANDING_TPL_COPY_FULL"] = "Chạy trên nền #LOGO# &mdash; Website và CRM miễn phí.";
+$MESS["LANDING_TPL_COPY_FULL2"] = "Chạy trên nền <linklogo>#LOGO#</linklogo> &mdash; <linksite>Website</linksite> và <linkcrm>CRM miễn phí</linkcrm>. <linkcreate>Tạo website của bạn</linkcreate>";
+$MESS["LANDING_TPL_COPY_LINK"] = "Tạo Website của Bạn";
+$MESS["LANDING_TPL_COPY_NAME"] = "Bitrix24";
+$MESS["LANDING_TPL_COPY_NAME_0"] = "Chạy trên nền";
+$MESS["LANDING_TPL_COPY_NAME_SMN_0"] = "Chạy trên nền";
+$MESS["LANDING_TPL_COPY_NAME_SMN_1"] = "Bitrix24";
+$MESS["LANDING_TPL_COPY_REVIEW"] = "Website và CRM miễn phí.";
+$MESS["LANDING_TPL_EDIT_PAGE"] = "Sửa trang";
+$MESS["LANDING_TPL_EDIT_PAGE_GROUP"] = "Sửa bài viết";
+$MESS["LANDING_TPL_EDIT_PAGE_KNOWLEDGE"] = "Sửa bài viết";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_ASK"] = "Gửi yêu cầu";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_GROUP"] = "Xem nhóm làm việc";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_GROUP"] = "Trở thành một thành viên của nhóm làm việc hoặc gửi một yêu cầu tham gia trên #LINK1#trang hồ sơ nhóm làm việc#LINK2#.";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_KNOWLEDGE"] = "Gửi một yêu cầu đến một người dùng để truy cập cơ sở tri thức này.";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE"] = "Rất tiếc, chúng tôi vẫn không thể tìm thấy nó. Hãy kiểm tra lại địa chỉ của bạn.";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE_KNOWLEDGE"] = "Hãy thử tìm một cơ sở tri thức bạn cần trong #LINK1#danh sách#LINK2#";
+$MESS["LANDING_TPL_SETTINGS_BUTTON_TITLE"] = "Cài đặt";
+$MESS["LANDING_TPL_SITES"] = "Website của tôi";
+$MESS["LANDING_TPL_SITES_GROUP"] = "Cơ sở tri thức";
+$MESS["LANDING_TPL_SITES_KNOWLEDGE"] = "Cơ sở tri thức";
+$MESS["LANDING_TPL_SITES_STORE"] = "Cửa hàng của tôi";
+$MESS["LANDING_TPL_TITLE"] = "Website";
+?>

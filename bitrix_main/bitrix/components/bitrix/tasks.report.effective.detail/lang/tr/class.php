@@ -1,0 +1,9 @@
+<?
+$MESS["TASKS_COLUMN_CREATED_DATE"] = "Gecikme tarihi";
+$MESS["TASKS_COLUMN_DEADLINE"] = "Son tarih";
+$MESS["TASKS_COLUMN_GROUP"] = "Grup";
+$MESS["TASKS_COLUMN_ORIGINATOR"] = "Oluşturan";
+$MESS["TASKS_COLUMN_REPAIR_DATE"] = "Tarihi düzelt";
+$MESS["TASKS_COLUMN_TASK"] = "Görev";
+$MESS["TASKS_COLUMN_USER_TYPE2"] = "Rol";
+?>

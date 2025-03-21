@@ -1,0 +1,32 @@
+<?php
+$MESS["CPSL_ADD_TO_BASKET_OK"] = "已添加到您的购物车";
+$MESS["CPSL_BUTTON_SUBMIT_ACCESS"] = "获取访问权限";
+$MESS["CPSL_BUTTON_SUBMIT_CODE"] = "发送代码";
+$MESS["CPSL_CATALOG_BASKET_UNKNOWN_ERROR"] = "将物品添加到购物车时发生未知错误";
+$MESS["CPSL_CATALOG_BTN_MESSAGE_BASKET_REDIRECT"] = "查看购物车";
+$MESS["CPSL_CATALOG_BTN_MESSAGE_CLOSE"] = "关闭";
+$MESS["CPSL_CATALOG_BTN_MESSAGE_SEND_PROPS"] = "选择";
+$MESS["CPSL_CATALOG_TITLE_BASKET_PROPS"] = "传递至购物车的商品属性";
+$MESS["CPSL_CATALOG_TITLE_ERROR"] = "错误";
+$MESS["CPSL_CODE_LABLE"] = "确认码";
+$MESS["CPSL_CONTACT_TYPE_NAME"] = "联系人";
+$MESS["CPSL_CONTACT_TYPE_SELECTION"] = "选择联系人类型";
+$MESS["CPSL_HEADLINE_FORM_FOR_ACCESSING"] = "输入确认码以继续";
+$MESS["CPSL_HEADLINE_FORM_SEND_CODE"] = "输入联系人，用于发送确认码";
+$MESS["CPSL_IDENTIFICATION_REQUEST_FAIL"] = "这是一个错误。";
+$MESS["CPSL_IDENTIFICATION_REQUEST_OK"] = "确认码已发送至您提供的联系人";
+$MESS["CPSL_STATUS_ERROR"] = "这是一个错误。";
+$MESS["CPSL_STATUS_SUCCESS"] = "成功";
+$MESS["CPSL_SUBSCRIBE_NOT_FOUND"] = "您尚未订阅任何产品。";
+$MESS["CPSL_SUBSCRIBE_PAGE_TITLE_AUTHORIZE"] = "要查看订阅，请
+<a href=\"javascript:void(0);\" class=\"alert-link\" id=\"cpsl-auth\">登录</a>或 
+<a href=\"javascript:void(0);\" class=\"alert-link\" id=\"cpsl-identification\">获得访问代码</a>";
+$MESS["CPSL_SUBSCRIBE_POPUP_TITLE_AUTHORIZE"] = "访问订阅";
+$MESS["CPSL_SUBSCRIBE_POPUP_TITLE_IDENTIFICATION"] = "访问订阅";
+$MESS["CPSL_SUBSCRIBE_POPUP_TITLE_UNSUBSCRIBE"] = "从产品通知退订";
+$MESS["CPSL_SUBSCRIBE_TITLE"] = "您已订阅这些产品";
+$MESS["CPSL_SUBSCRIBE_TITLE_NEW"] = "您的订阅";
+$MESS["CPSL_TITLE_PAGE_WHEN_ACCESSING"] = "恢复订阅管理访问权限";
+$MESS["CPSL_TPL_MESS_BTN_DETAIL"] = "详情";
+$MESS["CPSL_TPL_MESS_BTN_SUBSCRIBE_DELETE"] = "删除";
+$MESS["CPSL_TPL_MESS_BTN_UNSUBSCRIBE"] = "取消订阅";

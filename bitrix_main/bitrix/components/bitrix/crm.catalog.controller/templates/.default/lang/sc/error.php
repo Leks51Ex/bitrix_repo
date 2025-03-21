@@ -1,0 +1,2 @@
+<?php
+$MESS["CRM_CATALOG_CONTROLLER_ACCESS_DENIED_ERROR_TITLE"] = "权限不足，无法查看产品目录。";

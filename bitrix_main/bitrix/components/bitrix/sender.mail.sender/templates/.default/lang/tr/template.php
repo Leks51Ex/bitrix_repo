@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_UI_MAILBOX_SELECTOR_ADD"] = "E-posta ekle";
+$MESS["SENDER_UI_MAILBOX_SELECTOR_SETUP"] = "Göndereni seç";
+?>

@@ -1,0 +1,8 @@
+<?php
+$MESS["CRM_ADS_RTG_AGE"] = "年龄";
+$MESS["CRM_ADS_RTG_GENDER"] = "性別";
+$MESS["CRM_ADS_RTG_GENDER_FEMALE"] = "女";
+$MESS["CRM_ADS_RTG_GENDER_MALE"] = "男";
+$MESS["CRM_ADS_RTG_INTEREST"] = "興趣";
+$MESS["CRM_ADS_RTG_INTEREST_RECOMMENDATION"] = "盡可能新增更多的相關興趣，以擴大受眾範圍";
+$MESS["CRM_ADS_RTG_YEARS_OLD"] = "歲";

@@ -1,0 +1,11 @@
+<?
+$MESS["CRM_CONTACT_INFO_EMAIL"] = "メールアドレス";
+$MESS["CRM_CONTACT_INFO_IM"] = "メッセンジャー";
+$MESS["CRM_CONTACT_INFO_PHONE"] = "電話番号";
+$MESS["CRM_CONTACT_INFO_WEB"] = "Webサイト";
+$MESS["CRM_FIELD_ASSIGNED_BY"] = "担当者";
+$MESS["CRM_FIELD_CONTACT_FULL_NAME"] = "連絡先";
+$MESS["CRM_FIELD_OPPORTUNITY"] = "推定注文合計額";
+$MESS["CRM_FIELD_STATUS"] = "ステータス";
+$MESS["CRM_TITLE_LEAD"] = "リード";
+?>

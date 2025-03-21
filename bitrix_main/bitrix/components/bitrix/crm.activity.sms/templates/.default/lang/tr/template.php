@@ -1,0 +1,9 @@
+<?
+$MESS["CRM_ACTIVITY_SMS_DESCRIPTION"] = "Mesaj metni";
+$MESS["CRM_ACTIVITY_SMS_MESSAGE_STATUS"] = "Mesaj durumu";
+$MESS["CRM_ACTIVITY_SMS_PHONE_NUMBER"] = "Numaraya gönder";
+$MESS["CRM_ACTIVITY_SMS_RECIPIENT_CLIENT"] = "müşteri";
+$MESS["CRM_ACTIVITY_SMS_RECIPIENT_NAME"] = "Alıcı";
+$MESS["CRM_ACTIVITY_SMS_RECIPIENT_USER"] = "çalışan";
+$MESS["CRM_ACTIVITY_SMS_SENDER_ROBOT"] = "Mesaj, SMS robotu tarafından gönderildi";
+?>

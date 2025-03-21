@@ -1,0 +1,10 @@
+<?
+$MESS["REST_AP_LIST_TITLE"] = "Gelen web hooks";
+$MESS["REST_HOOK_DELETE"] = "Sil";
+$MESS["REST_HOOK_EDIT"] = "Düzenle";
+$MESS["REST_HOOK_HEADER_COMMENT"] = "Yorum";
+$MESS["REST_HOOK_HEADER_DATE_CREATE"] = "Oluşturulma Tarihi";
+$MESS["REST_HOOK_HEADER_DATE_LOGIN"] = "Son Ziyaret";
+$MESS["REST_HOOK_HEADER_LAST_IP"] = "Son IP";
+$MESS["REST_HOOK_HEADER_TITLE"] = "Ad";
+?>

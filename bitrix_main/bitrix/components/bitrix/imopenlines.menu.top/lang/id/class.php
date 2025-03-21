@@ -1,0 +1,5 @@
+<?php
+$MESS["IMOL_MENU_TOP_DETAILED_STATISTICS"] = "Statistik mendetail";
+$MESS["IMOL_MENU_TOP_LIST_LINES"] = "Daftar";
+$MESS["IMOL_MENU_TOP_PERMISSIONS"] = "Izin akses";
+$MESS["IMOL_MENU_TOP_STATISTICS"] = "Statistik";

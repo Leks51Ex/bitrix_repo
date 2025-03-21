@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล CRM";
+$MESS["CRM_PERMISSION_DENIED"] = "ปฏิเสธการเข้าใช้";
+$MESS["SONET_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูลโซเชียลเน็ตเวิร์ก";
+?>

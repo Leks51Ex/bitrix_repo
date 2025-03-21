@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_UI_TILE_SELECTOR_ADD"] = "buat";
+$MESS["SENDER_UI_TILE_SELECTOR_SELECT"] = "pilih";
+?>

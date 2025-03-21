@@ -1,0 +1,23 @@
+<?php
+$MESS["MP_ADD_APP_CLIENT_ID"] = "應用程式 ID";
+$MESS["MP_ADD_APP_CLIENT_SECRET"] = "應用程式金鑰";
+$MESS["MP_ADD_APP_TITLE"] = "新應用程式";
+$MESS["MP_APP_ADD_SUCCESS"] = "已成功新增應用程式";
+$MESS["MP_APP_API"] = "僅作為指令碼提供";
+$MESS["MP_APP_API_DESC"] = "（無介面的服務應用程式）";
+$MESS["MP_APP_DOC"] = "<a target=_blank href=\"http://www.bitrixsoft.com/rest_help/\">Bitrix24 應用程式設計指南</a>";
+$MESS["MP_APP_EDIT_SUCCESS"] = "已成功更新應用程式。";
+$MESS["MP_APP_INFO"] = "儲存後，您能存取該應用程式可使用的應用程式 ID 和 OAuth 2.0 金鑰<br/>";
+$MESS["MP_APP_MENU_NAME"] = "Bitrix24 功能表的標題";
+$MESS["MP_APP_MENU_NAME_EN"] = "Bitrix24 功能表的標題（英語）";
+$MESS["MP_APP_MOBILE"] = "支援 BitrixMobile";
+$MESS["MP_APP_NAME"] = "應用程式名稱";
+$MESS["MP_APP_OR"] = "或";
+$MESS["MP_APP_SAVE"] = "儲存";
+$MESS["MP_APP_SCOPE"] = "存取權限";
+$MESS["MP_APP_SCOPE_DESC"] = "選擇您的應用程式要求的<br/>使用者資料存取權限";
+$MESS["MP_APP_UPLOAD"] = "上傳一個包含您的應用程式的 ZIP 檔案";
+$MESS["MP_APP_URL"] = "指定 URL";
+$MESS["MP_APP_URL_DESC"] = "如果它是託管在第三方伺服器或外部伺服器上，<br/>請指定您的應用程式 URL";
+$MESS["MP_APP_URL_INSTALL"] = "指定初始安裝 URL<br/>（可選）";
+$MESS["MP_APP_URL_INSTALL_API"] = "新增安裝事件的回撥 URL（可選）";

@@ -1,0 +1,25 @@
+<?php
+$MESS["CRM_DEAL_CONV_ACCESS_DENIED"] = "Bạn cần sự cho phép để tạo các liên hệ, công ty và giao dịch để hoàn thành tác vụ này.";
+$MESS["CRM_DEAL_CONV_DIALOG_CANCEL_BTN"] = "Hủy bỏ";
+$MESS["CRM_DEAL_CONV_DIALOG_CONTINUE_BTN"] = "Tiếp tục";
+$MESS["CRM_DEAL_CONV_DIALOG_SYNC_ENTITY_LIST_TITLE"] = "Chọn các thực thể trong đó các trường bị thiếu sẽ được tạo";
+$MESS["CRM_DEAL_CONV_DIALOG_SYNC_FILED_LIST_TITLE"] = "Các trường này sẽ được tạo";
+$MESS["CRM_DEAL_CONV_DIALOG_SYNC_LEGEND"] = "Các thực thể được chọn không có trường có thể lưu trữ dữ liệu giao dịch. Vui lòng chọn các thực thể mà trong đó các trường bị thiếu sẽ được tạo để đáp ứng tất cả thông tin sẵn có.";
+$MESS["CRM_DEAL_CONV_DIALOG_TITLE"] = "Tạo thực thể dựa trên giao dịch";
+$MESS["CRM_DEAL_CONV_GENERAL_ERROR"] = "Lỗi chuyển đổi chung.";
+$MESS["CRM_DEAL_DETAIL_ATTR_GR_TYPE_GENERAL"] = "Tất cả các giai đoạn và phễu";
+$MESS["CRM_DEAL_DETAIL_ATTR_GR_TYPE_JUNK"] = "Mất";
+$MESS["CRM_DEAL_DETAIL_ATTR_GR_TYPE_PIPELINE"] = "Đang diễn ra + có được";
+$MESS["CRM_DEAL_DETAIL_ATTR_REQUIRED_FULL"] = "Cần bắt đầu với giai đoạn";
+$MESS["CRM_DEAL_DETAIL_ATTR_REQUIRED_FULL_1"] = "Bắt buộc ở giai đoạn";
+$MESS["CRM_DEAL_DETAIL_ATTR_REQUIRED_SHORT"] = "Bắt buộc";
+$MESS["CRM_DEAL_DETAIL_AUTOMATION_DEBUG_ITEM"] = "Chế độ thử nghiệm trên";
+$MESS["CRM_DEAL_DETAIL_HISTORY_STUB"] = "Bạn đang thêm một giao dịch...";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_ADD_DOCUMENT_GUIDE_TEXT"] = "Thông tin của khách hàng và sản phẩm sẽ được sao chép vào đối tượng kho hàng. <br/><br/>Bạn không bắt buộc phải tạo đối tượng kho hàng được bán trong khi giao dịch đang diễn ra. Nó sẽ tự động được tạo khi giao dịch được đóng.";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_ADD_DOCUMENT_GUIDE_TITLE"] = "Bán hàng ngay từ giao dịch";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_AUTOMATIC_RESERVATION_GUIDE_TEXT"] = "Quản lý kho hàng hiện đã được bật cho CRM của bạn.<br/><br/>Bạn có thể đặt trước các sản phẩm cho khách hàng để chúng không bị đặt cho các đơn hàng khác.";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_AUTOMATIC_RESERVATION_GUIDE_TITLE"] = "Đặt trước sản phẩm";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_PRODUCT_STORE_GUIDE_TEXT"] = "Chọn nhiều nhà kho nếu số lượng cần thiết không thể được lấy từ một nhà kho duy nhất.";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_PRODUCT_STORE_GUIDE_TITLE"] = "Chọn một nhà kho mà bạn muốn đặt trước tại đó";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_SUCCESS_DEAL_GUIDE_TEXT"] = "Nó sẽ tự động được tạo ngay khi giao dịch được đóng thành công.";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_SUCCESS_DEAL_GUIDE_TITLE"] = "Đối tượng kho hàng được bán";

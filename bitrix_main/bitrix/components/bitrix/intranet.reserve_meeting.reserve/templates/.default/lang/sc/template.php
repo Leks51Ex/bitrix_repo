@@ -1,0 +1,9 @@
+<?
+$MESS["INTASK_C29T_RWD_1"] = "周一";
+$MESS["INTASK_C29T_RWD_2"] = "周二";
+$MESS["INTASK_C29T_RWD_3"] = "周三";
+$MESS["INTASK_C29T_RWD_4"] = "周四";
+$MESS["INTASK_C29T_RWD_5"] = "周五";
+$MESS["INTASK_C29T_RWD_6"] = "周六";
+$MESS["INTASK_C29T_RWD_7"] = "周日";
+?>

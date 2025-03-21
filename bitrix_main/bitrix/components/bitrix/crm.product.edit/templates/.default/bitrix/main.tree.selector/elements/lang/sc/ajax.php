@@ -1,0 +1,9 @@
+<?
+$MESS["CRM_IBLOCK_MODULE_NOT_INSTALLED"] = "未安装信息块模块。";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安装 CRM 模块。";
+$MESS["CRM_PERMISSION_DENIED"] = "访问被拒绝";
+$MESS["CT_BMTS_CANCEL"] = "取消";
+$MESS["CT_BMTS_SUBMIT"] = "选择";
+$MESS["CT_BMTS_WAIT"] = "正在加载...";
+$MESS["CT_BMTS_WINDOW_CLOSE"] = "关闭";
+?>

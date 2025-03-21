@@ -1,0 +1,35 @@
+<?
+$MESS["CC_BSR_BTN_CONTINUE"] = "Lanjutkan";
+$MESS["CC_BSR_BTN_PAUSE"] = "Jeda";
+$MESS["CC_BSR_BTN_START"] = "Mulai";
+$MESS["CC_BSR_MESS_DONE"] = "Pengindeksan ulang selesai";
+$MESS["CC_BSR_MESS_PROGRESS"] = "Objek #cnt# diindeks ulang.";
+$MESS["CC_BSR_STEP_FINISH"] = "Langkah Terakhir";
+$MESS["CC_BSR_STEP_GROUPS"] = "Grup Kerja";
+$MESS["CC_BSR_STEP_GROUPS_BLOGS"] = "Blog Grup Kerja";
+$MESS["CC_BSR_STEP_GROUPS_CALENDARS"] = "Kalender Grup Kerja";
+$MESS["CC_BSR_STEP_GROUPS_FILES"] = "File Grup Kerja";
+$MESS["CC_BSR_STEP_GROUPS_FORUMS"] = "Forum Grup Kerja";
+$MESS["CC_BSR_STEP_GROUPS_PHOTOS"] = "Galeri Foto Grup Kerja";
+$MESS["CC_BSR_STEP_GROUPS_TASKS"] = "Tugas Grup Kerja";
+$MESS["CC_BSR_STEP_INIT"] = "Langkah Pertama";
+$MESS["CC_BSR_STEP_USERS_BLOGS"] = "Blog Pengguna";
+$MESS["CC_BSR_STEP_USERS_FILES"] = "File Pengguna";
+$MESS["CC_BSR_STEP_USERS_FORUMS"] = "Forum Pengguna";
+$MESS["CC_BSR_STEP_USERS_PHOTOS"] = "Galeri Foto Pengguna";
+$MESS["CC_BSR_STEP_USERS_TASKS"] = "Tugas Pengguna";
+$MESS["CC_BSR_TITLE"] = "Mengindeks ulang Jejaring Sosial.";
+$MESS["CC_BSR_WARN_CALENDAR_GROUP_IBLOCK"] = "Blok informasi kalender grup kerja adalah subjek pengindeksan oleh modul Pencarian. Nonaktifkan pengindeksan di <a href=\"#href#\">halaman parameter blok informasi</a>.";
+$MESS["CC_BSR_WARN_CALENDAR_USER_IBLOCK"] = "Blok informasi kalender pengguna adalah subjek pengindeksan oleh modul Pencarian. Nonaktifkan pengindeksan di <a href=\"#href#\">halaman parameter blok informasi</a>.";
+$MESS["CC_BSR_WARN_FILES_FORUM"] = "Forum komentar-pada-file tidak dijelajahi oleh modul Pencarian. Anda harus mengaktifkan pengindeksan di <a href=\"#href#\">halaman pengaturan forum</a>.";
+$MESS["CC_BSR_WARN_FILE_GROUP_IBLOCK"] = "Blok informasi file grup kerja adalah subjek pengindeksan oleh modul Pencarian. Nonaktifkan pengindeksan di <a href=\"#href#\">halaman parameter blok informasi</a>.";
+$MESS["CC_BSR_WARN_FILE_USER_IBLOCK"] = "Blok informasi file pengguna adalah subjek pengindeksan oleh modul Pencarian. Nonaktifkan pengindeksan di <a href=\"#href#\">halaman parameter blok informasi</a>.";
+$MESS["CC_BSR_WARN_FORUM"] = "Forum jejaring sosial tidak ditambahkan pada indeks pencarian. Anda harus mengaktifkan pengindeksan di <a href=\"#href#\">halaman pengaturan forum</a>.";
+$MESS["CC_BSR_WARN_PHOTO_FORUM"] = "Forum komentar-pada-foto tidak dijelajahi oleh modul Pencarian. Anda harus mengaktifkan pengindeksan di <a href=\"#href#\">halaman pengaturan forum</a>.";
+$MESS["CC_BSR_WARN_PHOTO_GROUP_IBLOCK"] = "Blok informasi galeri foto grup kerja adalah subjek pengindeksan oleh modul Pencarian. Nonaktifkan pengindeksan di <a href=\"#href#\">halaman parameter blok informasi</a>.";
+$MESS["CC_BSR_WARN_PHOTO_USER_IBLOCK"] = "Blok informasi galeri foto pengguna adalah subjek pengindeksan oleh modul Pencarian. Nonaktifkan pengindeksan di <a href=\"#href#\">halaman parameter blok informasi</a>.";
+$MESS["CC_BSR_WARN_REINDEX"] = "Setelah menyelesaikan konfigurasi, ingat untuk <a href=\"#href#\">mengindeks ulang situs di dalam modul Pencarian</a>.";
+$MESS["CC_BSR_WARN_TASK_FORUM"] = "Forum komentar-pada-tugas tidak dijelajahi oleh modul Pencarian. Anda harus mengaktifkan pengindeksan di <a href=\"#href#\">halaman pengaturan forum</a>.";
+$MESS["CC_BSR_WARN_TASK_IBLOCK"] = "Blok informasi tugas adalah subjek pengindeksan oleh modul Pencarian. Nonaktifkan pengindeksan di <a href=\"#href#\">halaman parameter blok informasi</a>.";
+$MESS["CC_BSR_WRONG_RIGHTS"] = "Anda tidak memiliki cukup izin untuk pengindeksan ulang Jejaring Sosial.";
+?>

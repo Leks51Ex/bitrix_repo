@@ -1,0 +1,14 @@
+<?
+$MESS["MBCAL_EDEV_CANCEL"] = "Batal";
+$MESS["MBCAL_EDEV_NAME_DEF"] = "Peristiwa Baru";
+$MESS["MBCAL_EDEV_NEW"] = "Peristiwa Baru";
+$MESS["MBCAL_EDEV_OK"] = "OK";
+$MESS["MBCAL_VIEWEV_FR"] = "Jum";
+$MESS["MBCAL_VIEWEV_MO"] = "Isn";
+$MESS["MBCAL_VIEWEV_SA"] = "Sab";
+$MESS["MBCAL_VIEWEV_SU"] = "Aha";
+$MESS["MBCAL_VIEWEV_TH"] = "Kha";
+$MESS["MBCAL_VIEWEV_TU"] = "Sel";
+$MESS["MBCAL_VIEWEV_WE"] = "Rab";
+$MESS["MB_CALENDAR_SAVE_BUT"] = "Simpan";
+?>

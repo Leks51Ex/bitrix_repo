@@ -1,0 +1,20 @@
+<?php
+$MESS["BPMOA_CHOOSE_PARAMETER"] = "Lựa chọn tham số";
+$MESS["BPMOA_CHOOSE_VARIABLE"] = "Lựa chọn biến số";
+$MESS["BPMOA_CREATE_GCONSTANT"] = "Tạo hằng số";
+$MESS["BPMOA_CREATE_GCONSTANT_QUESTION"] = "Bạn có muốn tạo một hằng số mới?";
+$MESS["BPMOA_CREATE_GVARIABLE"] = "Tạo biến số";
+$MESS["BPMOA_CREATE_GVARIABLE_QUESTION"] = "Bạn có muốn tạo một biến số mới?";
+$MESS["BPMOA_DOCUMENT"] = "Giá trị trường";
+$MESS["BPMOA_EMPTY"] = "Không được chọn";
+$MESS["BPMOA_EMPTY_OPERATION"] = "Chưa quy định phép tính";
+$MESS["BPMOA_EMPTY_VARIABLE"] = "Không có biến số nào được gán giá trị";
+$MESS["BPMOA_GCONSTANT_NOT_FOUND"] = "Không tìm thấy hằng số";
+$MESS["BPMOA_GCONSTANT_NO_EXIST"] = "Không có hằng số nào";
+$MESS["BPMOA_GVARIABLE_NOT_FOUND"] = "Không tìm thấy biến số";
+$MESS["BPMOA_GVARIABLE_NO_EXIST"] = "Không có biến số nào";
+$MESS["BPMOA_INPUT_NUMBER"] = "Nhập một số";
+$MESS["BPMOA_INVALID_VALUE"] = "Một giá trị của biểu thức không phải là một số";
+$MESS["BPMOA_LIST_OF_VALUES"] = "Giá trị";
+$MESS["BPMOA_NUMBER"] = "Giá trị tùy chỉnh";
+$MESS["BPMOA_TYPE_OF_PARAMETER"] = "Loại tham số";

@@ -1,0 +1,8 @@
+<?php
+$MESS["BPTA1_KILL_WF_NAME"] = "删除工作流数据";
+$MESS["BPTA1_STATE_TITLE"] = "执行中断。";
+$MESS["BPTA1_STATE_TITLE_NAME"] = "状态文字";
+$MESS["BPTA1_TERMINATE"] = "中止工作流";
+$MESS["BPTA1_TERMINATE_ALL"] = "所有模板工作流";
+$MESS["BPTA1_TERMINATE_ALL_EXCEPT_CURRENT"] = "所有模板工作流，当前的除外";
+$MESS["BPTA1_TERMINATE_CURRENT"] = "当前";

@@ -1,0 +1,25 @@
+<?
+$MESS["CRM_FIELD_ACTIVE"] = "Aktif";
+$MESS["CRM_FIELD_CURRENCY"] = "Para birimi";
+$MESS["CRM_FIELD_DESCRIPTION"] = "Açıklama";
+$MESS["CRM_FIELD_MEASURE"] = "Ölçü birimi";
+$MESS["CRM_FIELD_PRICE"] = "Fiyat";
+$MESS["CRM_FIELD_SECTION"] = "Bölüm";
+$MESS["CRM_FIELD_SORT"] = "Sırala";
+$MESS["CRM_FIELD_VAT_ID"] = "KDV oranı";
+$MESS["CRM_FIELD_VAT_INCLUDED"] = "KDV dahil";
+$MESS["CRM_MEASURE_NOT_SELECTED"] = "[seçili değil]";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM modülü kurulu değil.";
+$MESS["CRM_PERMISSION_DENIED"] = "Erişim reddedildi";
+$MESS["CRM_PRODUCT_FIELD_DETAIL_PICTURE"] = "Tam görsel";
+$MESS["CRM_PRODUCT_FIELD_NAME"] = "Ad";
+$MESS["CRM_PRODUCT_FIELD_PREVIEW_PICTURE"] = "Görseli önizle";
+$MESS["CRM_PRODUCT_NAV_TITLE_ADD"] = "Yeni ürün";
+$MESS["CRM_PRODUCT_NAV_TITLE_EDIT"] = "Ürün: #NAME#";
+$MESS["CRM_PRODUCT_NAV_TITLE_LIST"] = "Ürünler";
+$MESS["CRM_PRODUCT_NOT_FOUND"] = "Ürün bulunamadı.";
+$MESS["CRM_PRODUCT_PROP_DOWNLOAD"] = "İndir";
+$MESS["CRM_PRODUCT_PROP_ENLARGE"] = "Büyüt";
+$MESS["CRM_SECTION_NOT_SELECTED"] = "[seçili değil]";
+$MESS["CRM_SECTION_PRODUCT_INFO"] = "Ürün bilgisi";
+?>

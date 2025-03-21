@@ -1,0 +1,35 @@
+<?
+$MESS["SONET_C39_ARCHIVE_GROUP"] = "Grup Arsip";
+$MESS["SONET_C39_SEND_MESSAGE_GROUP"] = "Tulis pesan ";
+$MESS["SONET_C39_SEND_MESSAGE_GROUP_TITLE"] = "Tulis pesan kepada anggota grup";
+$MESS["SONET_C6_ACT_BAN"] = "Daftar Larangan";
+$MESS["SONET_C6_ACT_DELETE"] = "Hapus Grup";
+$MESS["SONET_C6_ACT_EDIT"] = "Edit Grup";
+$MESS["SONET_C6_ACT_EXIT"] = "Tinggalkan Grup";
+$MESS["SONET_C6_ACT_FEAT"] = "Edit Pengaturan";
+$MESS["SONET_C6_ACT_JOIN"] = "Bergabung dengan Grup";
+$MESS["SONET_C6_ACT_MOD"] = "Edit Moderator";
+$MESS["SONET_C6_ACT_MOD1"] = "Moderator";
+$MESS["SONET_C6_ACT_REQU"] = "Undang ke Grup";
+$MESS["SONET_C6_ACT_USER"] = "Edit Pengguna";
+$MESS["SONET_C6_ACT_USER1"] = "Anggota";
+$MESS["SONET_C6_ACT_VREQU"] = "Tampilkan Permintaan Bergabung";
+$MESS["SONET_C6_ACT_VREQU_OUT"] = "Undangan Grup";
+$MESS["SONET_C6_AL_USERS"] = "Semua anggota";
+$MESS["SONET_C6_BLOG_T"] = "Blog";
+$MESS["SONET_C6_CREATED"] = "Dibuat";
+$MESS["SONET_C6_DESCR"] = "Deskripsi";
+$MESS["SONET_C6_FORUM_T"] = "Forum";
+$MESS["SONET_C6_MODS_TITLE"] = "Moderator";
+$MESS["SONET_C6_NMEM"] = "Anggota";
+$MESS["SONET_C6_NO_MODS"] = "Tidak ada moderator";
+$MESS["SONET_C6_NO_USERS"] = "Tidak ada anggota";
+$MESS["SONET_C6_PHOTO_T"] = "Foto";
+$MESS["SONET_C6_TOPIC"] = "Topik";
+$MESS["SONET_C6_TYPE"] = "Tipe Grup";
+$MESS["SONET_C6_TYPE_O1"] = "Ini grup publik. Siapa pun dapat bergabung.";
+$MESS["SONET_C6_TYPE_O2"] = "Ini grup privat. Keanggotaan pengguna tunduk pada persetujuan administrator.";
+$MESS["SONET_C6_TYPE_V1"] = "Grup ini dapat dilihat oleh siapa pun.";
+$MESS["SONET_C6_TYPE_V2"] = "Grup ini tidak terlihat. Hanya anggota grup yang dapat melihatnya.";
+$MESS["SONET_C6_USERS_T"] = "Anggota";
+?>

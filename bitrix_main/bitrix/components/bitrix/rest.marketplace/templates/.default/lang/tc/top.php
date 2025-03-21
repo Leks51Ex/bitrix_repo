@@ -1,0 +1,5 @@
+<?
+$MESS["MARKETPLACE_BEST"] = "最佳";
+$MESS["MARKETPLACE_DEV"] = "開發中";
+$MESS["MARKETPLACE_NEW"] = "最近新增";
+?>

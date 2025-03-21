@@ -1,0 +1,30 @@
+<?
+$MESS["BPCDA_FIELD_REQUIED"] = "#FIELD#' alanı gerekli.";
+$MESS["BPSA_TRACK_CLOSED"] = "Görevin kapatıldığı tarih: #DATE#";
+$MESS["BPSA_TRACK_ERROR"] = "Görevi oluştururken bir hata oluştur.";
+$MESS["BPSA_TRACK_OK"] = "##VAL# kimliğiyle görev oluştur";
+$MESS["BPSA_TRACK_SUBSCR"] = "Süreç görevin tamamlanmasını bekliyor";
+$MESS["BPSNMA_EMPTY_TASKASSIGNEDTO"] = "Sorumlu' değeri belirlenmedi.";
+$MESS["BPSNMA_EMPTY_TASKNAME"] = "Görev İsmi' değeri belirlenmedi.";
+$MESS["BPTA1A_ADD_TO_REPORT"] = "Üretkenlik raporundaki görevleri içer";
+$MESS["BPTA1A_ALLOW_TIME_TRACKING"] = "Görev için zaman izlemeyi etkinleştir";
+$MESS["BPTA1A_CHANGE_DEADLINE"] = "Sorumlu kişi son teslim tarihini değiştirebilir";
+$MESS["BPTA1A_CHECK_RESULT"] = "Görevin kapatılabilmesi için izin gerekiyor";
+$MESS["BPTA1A_TASKACCOMPLICES"] = "Katılımcılar";
+$MESS["BPTA1A_TASKACTIVEFROM"] = "Başlat";
+$MESS["BPTA1A_TASKACTIVETO"] = "Bitiş";
+$MESS["BPTA1A_TASKASSIGNEDTO"] = "Sorumlu";
+$MESS["BPTA1A_TASKCREATEDBY"] = "Şu Görevi Oluştur";
+$MESS["BPTA1A_TASKDEADLINE"] = "Son tarih";
+$MESS["BPTA1A_TASKDETAILTEXT"] = "Görev Tanımı";
+$MESS["BPTA1A_TASKFORUM"] = "Görev Yorumları Forumu";
+$MESS["BPTA1A_TASKGROUPID"] = "Sosyal ağ grubu";
+$MESS["BPTA1A_TASKNAME"] = "Görev Adı";
+$MESS["BPTA1A_TASKPRIORITY"] = "Öncelik";
+$MESS["BPTA1A_TASKPRIORITY_V2"] = "Öncelik";
+$MESS["BPTA1A_TASKTRACKERS"] = "Gözlemciler";
+$MESS["TASK_EMPTY_GROUP"] = "Kişisel görev";
+$MESS["TASK_PRIORITY_0"] = "Düşük";
+$MESS["TASK_PRIORITY_1"] = "Normal";
+$MESS["TASK_PRIORITY_2"] = "Yüksek";
+?>

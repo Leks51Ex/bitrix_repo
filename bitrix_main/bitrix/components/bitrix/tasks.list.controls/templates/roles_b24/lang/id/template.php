@@ -1,0 +1,7 @@
+<?
+$MESS["TASK_TOOLBAR_FILTER_BUTTON"] = "Filter";
+$MESS["TASK_TOOLBAR_FILTER_GANTT"] = "Diagram Gantt";
+$MESS["TASK_TOOLBAR_FILTER_LIST"] = "Tampilan datar";
+$MESS["TASK_TOOLBAR_FILTER_REPORTS"] = "Laporan";
+$MESS["TASK_TOOLBAR_FILTER_TREE"] = "Sertakan subtugas";
+?>

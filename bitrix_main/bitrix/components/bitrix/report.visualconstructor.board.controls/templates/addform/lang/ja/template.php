@@ -1,0 +1,6 @@
+<?
+$MESS["ADD_TO_BOARD"] = "追加";
+$MESS["CREATE_REPORT_TYPE_TITLE_IN_ADD_FORM"] = "レポートの作成";
+$MESS["SELECT_REPORT_CATEGORY"] = "レポートのカテゴリ";
+$MESS["SELECT_REPORT_TYPE_TITLE_IN_ADD_FORM"] = "レポートの選択";
+?>

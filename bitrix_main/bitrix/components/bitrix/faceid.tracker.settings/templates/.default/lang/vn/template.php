@@ -1,0 +1,3 @@
+<?
+$MESS["FACEID_FTS_CONFIG_EDIT_SAVE"] = "Lưu";
+?>

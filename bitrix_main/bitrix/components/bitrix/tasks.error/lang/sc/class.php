@@ -1,0 +1,3 @@
+<?php
+$MESS["TASKS_ERROR_COMPONENT_DESCRIPTION_DEFAULT"] = "请联系任务参与者或 Bitrix24 管理员";
+$MESS["TASKS_ERROR_COMPONENT_TITLE_DEFAULT"] = "找不到任务或访问被拒绝";

@@ -1,0 +1,32 @@
+<?
+$MESS["ME_ADD"] = "新会议";
+$MESS["ME_COPY"] = "创建下一个会议";
+$MESS["ME_COPY_EX"] = "基于当前会议的结果，创建新会议";
+$MESS["ME_CURRENT_STATE"] = "阶段";
+$MESS["ME_DATE_START"] = "日期";
+$MESS["ME_DELETE"] = "删除会议";
+$MESS["ME_DELETE_CONFIRM"] = "您确定要删除此会议吗？";
+$MESS["ME_DELETE_EX"] = "删除会议";
+$MESS["ME_DETAIL"] = "查看会议";
+$MESS["ME_DETAIL_EX"] = "查看和编辑会议";
+$MESS["ME_EDIT"] = "编辑会议";
+$MESS["ME_EDIT_EX"] = "查看和编辑会议";
+$MESS["ME_ERR_NO_MEETINGS"] = "没有计划会议";
+$MESS["ME_FILTER"] = "筛选器";
+$MESS["ME_FILTER_CANCEL"] = "取消";
+$MESS["ME_FILTER_CURRENT_STATE"] = "阶段";
+$MESS["ME_FILTER_CURRENT_STATE_ALL"] = "（全部）";
+$MESS["ME_FILTER_GROUP"] = "项目";
+$MESS["ME_FILTER_HEAD"] = "仅我的会议";
+$MESS["ME_FILTER_MEMBER"] = "与会者";
+$MESS["ME_FILTER_OWNER"] = "所有者";
+$MESS["ME_FILTER_OWNER_CHOOSE"] = "选择";
+$MESS["ME_FILTER_SUBMIT"] = "搜索";
+$MESS["ME_FILTER_TITLE"] = "名称";
+$MESS["ME_OWNER"] = "所有者";
+$MESS["ME_PLACE"] = "地点";
+$MESS["ME_STATE_A"] = "进行中";
+$MESS["ME_STATE_C"] = "已结束";
+$MESS["ME_STATE_P"] = "未开始";
+$MESS["ME_TITLE"] = "议题";
+?>

@@ -1,0 +1,17 @@
+<?
+$MESS["CRM_CALL_LIST_BUTTON_CONTINUE"] = "ดำเนินการต่อ";
+$MESS["CRM_CALL_LIST_BUTTON_START"] = "เริ่มโทร";
+$MESS["CRM_CALL_LIST_COMPLETE"] = "เสร็จสมบูรณ์ #COMPLETE# จาก #TOTAL#";
+$MESS["CRM_CALL_LIST_DESCRIPTION"] = "รายละเอียด";
+$MESS["CRM_CALL_LIST_ENTITY_COMPANIES"] = "บริษัท";
+$MESS["CRM_CALL_LIST_ENTITY_CONTACTS"] = "รายชื่อติดต่อ";
+$MESS["CRM_CALL_LIST_ENTITY_LEADS"] = "ลีด";
+$MESS["CRM_CALL_LIST_FILTER"] = "ตัวกรอง";
+$MESS["CRM_CALL_LIST_HAND_PICKED"] = "เลือกด้วยตนเอง";
+$MESS["CRM_CALL_LIST_PICKED_BY_FILTER"] = "เลือกตาม ";
+$MESS["CRM_CALL_LIST_SELECTION_PARAMS"] = "พารามิเตอร์การเลือก";
+$MESS["CRM_CALL_LIST_STATISTICS"] = "สถิติ";
+$MESS["CRM_CALL_LIST_SUBJECT"] = "หัวข้อ";
+$MESS["CRM_CALL_LIST_TITLE"] = "รายการโทร";
+$MESS["CRM_CALL_LIST_USE_FORM"] = "ใช้แบบฟอร์ม";
+?>

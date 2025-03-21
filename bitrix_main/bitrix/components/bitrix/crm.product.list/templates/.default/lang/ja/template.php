@@ -1,0 +1,31 @@
+<?
+$MESS["CRM_ALL"] = "合計";
+$MESS["CRM_PRODUCT_COPY"] = "商品をコピー";
+$MESS["CRM_PRODUCT_COPY_TITLE"] = "製品コピーページを開く";
+$MESS["CRM_PRODUCT_DELETE"] = "製品を削除する";
+$MESS["CRM_PRODUCT_DELETE_CONFIRM"] = "%s'を削除してもよろしいですか?";
+$MESS["CRM_PRODUCT_DELETE_TITLE"] = "この商品を削除する";
+$MESS["CRM_PRODUCT_EDIT"] = "製品を編集する";
+$MESS["CRM_PRODUCT_EDIT_TITLE"] = "この商品を編集";
+$MESS["CRM_PRODUCT_LIST_SHOW_FILTER"] = "フィルターフォームの表示/非表示";
+$MESS["CRM_PRODUCT_LIST_SHOW_FILTER_SHORT"] = "フィルター";
+$MESS["CRM_PRODUCT_PROP_CHOOSE_ELEMENT"] = "リストから選択";
+$MESS["CRM_PRODUCT_PROP_DOWNLOAD"] = "ダウンロード";
+$MESS["CRM_PRODUCT_PROP_ENLARGE"] = "拡大する";
+$MESS["CRM_PRODUCT_PROP_NO_SEARCH_RESULT_TEXT"] = "検索結果がありませんでした";
+$MESS["CRM_PRODUCT_PROP_NO_VALUE"] = "（未設定）";
+$MESS["CRM_PRODUCT_PROP_START_TEXT"] = "（名前を入力）";
+$MESS["CRM_PRODUCT_SECTION_ACTION_DELETE1"] = "セクションの削除";
+$MESS["CRM_PRODUCT_SECTION_ACTION_DELETE_PROPMT"] = "これにより、すべてのサブセクションと子要素が削除されます  セクションを削除してもよろしいですか?";
+$MESS["CRM_PRODUCT_SECTION_ACTION_RENAME1"] = "セクションの名前を変更する";
+$MESS["CRM_PRODUCT_SHOW"] = "製品を見る";
+$MESS["CRM_PRODUCT_SHOW_TITLE"] = "この商品ページを見る";
+$MESS["CRM_SECTION_ADD_BTN_TEXT"] = "追加";
+$MESS["CRM_SECTION_ADD_DIALOG_TITLE"] = "セクションの追加";
+$MESS["CRM_SECTION_CANCEL_BTN_TEXT"] = "キャンセル";
+$MESS["CRM_SECTION_DEFAULT_NAME"] = "新しいセクション";
+$MESS["CRM_SECTION_EMPTY_NAME_ERROR"] = "セクション名を入力してください";
+$MESS["CRM_SECTION_NAME_FIELD_TITLE"] = "名前";
+$MESS["CRM_SECTION_RENAME_BTN_TEXT"] = "名前を変更";
+$MESS["CRM_SECTION_RENAME_DIALOG_TITLE"] = "セクションの名前を変更する";
+?>

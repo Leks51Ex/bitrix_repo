@@ -1,0 +1,26 @@
+<?php
+$MESS["BPWC_WNCT_2LIST"] = "İş Süreçleri";
+$MESS["BPWC_WNCT_CANCEL"] = "İptal";
+$MESS["BPWC_WNCT_COMP_LIST_TPL"] = "İş süreci listesi bileşen şablonu";
+$MESS["BPWC_WNCT_COMP_START_TPL"] = "İş süreci başlatma bileşen şablonu";
+$MESS["BPWC_WNCT_COMP_TPL_DEF"] = "(varsayılan)";
+$MESS["BPWC_WNCT_COMP_VIEW_TPL"] = "İş süreci bileşen şablonu";
+$MESS["BPWC_WNCT_DESCR"] = "İş Süreci Açıklaması";
+$MESS["BPWC_WNCT_EADD"] = "'Bileşen Başlığı' Ekle";
+$MESS["BPWC_WNCT_FILTERABLEFIELDS"] = "Kullanılabilir Filtreler";
+$MESS["BPWC_WNCT_ICON"] = "İş Süreci Simgesi";
+$MESS["BPWC_WNCT_NAME"] = "İş Süreci Adı";
+$MESS["BPWC_WNCT_NEW_TMPL"] = "Şablon Oluştur (Sıralı iş akışı)";
+$MESS["BPWC_WNCT_NEW_TMPL_1"] = "Şablon Oluştur (Durum odaklı iş akışı)";
+$MESS["BPWC_WNCT_P"] = "İş Süreci Ögeleri için Özgün İsim";
+$MESS["BPWC_WNCT_PERMS"] = "İş Süreci Şunlar İçin Geçerli";
+$MESS["BPWC_WNCT_PS"] = "İş süreci ögeleri için çoklu adlar";
+$MESS["BPWC_WNCT_SAVE0"] = "Düzenle";
+$MESS["BPWC_WNCT_SAVE1"] = "İş Süreci Oluştur";
+$MESS["BPWC_WNCT_SAVE2"] = "Sonraki";
+$MESS["BPWC_WNCT_SORT"] = "İş Süreci Sıralama Düzeni";
+$MESS["BPWC_WNCT_SUBTITLE1"] = "Yeni İş Süreci";
+$MESS["BPWC_WNCT_SUBTITLE2"] = "Yeni İş Süreci Kurulumu";
+$MESS["BPWC_WNCT_SUBTITLE11"] = "İş Sürecini Düzenle";
+$MESS["BPWC_WNCT_TMPL"] = "İş Süreci Şablonu";
+$MESS["BPWC_WNCT_VISIBLEFIELDS"] = "Görüntülenebilir Alanlar";

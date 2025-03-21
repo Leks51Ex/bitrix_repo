@@ -1,0 +1,7 @@
+<?
+$MESS["SBB_DETAIL_PICTURE_NAME"] = "詳細画像";
+$MESS["SBB_DISCOUNT_NAME"] = "割引";
+$MESS["SBB_PREVIEW_TEXT_NAME"] = "簡単な説明";
+$MESS["SBB_PRICE_TYPE_NAME"] = "価格タイプ";
+$MESS["SBB_WEIGHT_NAME"] = "重量";
+?>

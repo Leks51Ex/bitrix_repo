@@ -1,0 +1,4 @@
+<?
+$MESS["DISK_BIZPROC_BACK_TEXT"] = "云盘";
+$MESS["DISK_BIZPROC_BACK_TITLE"] = "返回云盘";
+?>

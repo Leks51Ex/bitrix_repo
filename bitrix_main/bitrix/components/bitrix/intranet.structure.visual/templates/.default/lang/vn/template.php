@@ -1,0 +1,29 @@
+<?
+$MESS["ISV_ADD_DEPARTMENT"] = "Thêm phòng ban";
+$MESS["ISV_B24_INVITE"] = "Mời người dùng";
+$MESS["ISV_CHILDREN_COUNT_1"] = "#NUM# phòng ban hơn";
+$MESS["ISV_CHILDREN_COUNT_2"] = "#NUM# phòng ban hơn";
+$MESS["ISV_CHILDREN_COUNT_3"] = "#NUM# phòng ban hơn";
+$MESS["ISV_CHILDREN_COUNT_4"] = "#NUM# phòng ban hơn";
+$MESS["ISV_CHILDREN_COUNT_MUL"] = "#NUM# phòng ban hơn";
+$MESS["ISV_EMPLOYEES"] = "Nhân viên";
+$MESS["ISV_EMP_COUNT_1"] = "#NUM# nhân viên";
+$MESS["ISV_EMP_COUNT_2"] = "#NUM# các nhân viên";
+$MESS["ISV_EMP_COUNT_3"] = "#NUM# các nhân viên";
+$MESS["ISV_EMP_COUNT_4"] = "#NUM# các nhân viên";
+$MESS["ISV_EMP_COUNT_MUL"] = "#NUM# các nhân viên";
+$MESS["ISV_EMP_LIST"] = "Danh sách nhân viên";
+$MESS["ISV_HINT_ADD"] = "Thêm phong ban con";
+$MESS["ISV_HINT_DELETE"] = "Xóa phòng ban";
+$MESS["ISV_HINT_EDIT"] = "Chỉnh sửa phòng ban";
+$MESS["ISV_SHOW_SUBTREE"] = "Hiện Cơ cấu Phòng ban";
+$MESS["ISV_UNDO"] = "Hủy bỏ";
+$MESS["ISV_add_dep"] = "Thêm phòng ban phụ";
+$MESS["ISV_add_emp"] = "Thêm nhân viên";
+$MESS["ISV_confirm_change_department_0"] = "Chuyển #EMP_NAME# đến #DPT_NAME#?";
+$MESS["ISV_confirm_change_department_1"] = "Chỉ định #EMP_NAME# đến #DPT_NAME#?";
+$MESS["ISV_confirm_delete_department"] = "Bạn có muốn xóa phòng ban này? Tất cả các phòng ban cấp dưới sẽ bị chuyển đi.";
+$MESS["ISV_confirm_move_department"] = "Chuyển #DPT_NAME# đến #DPT_NAME_TO#?";
+$MESS["ISV_confirm_set_head"] = "Chỉ định #EMP_NAME# như là người đứng dầu của phòng #DPT_NAME#?";
+$MESS["ISV_set_head"] = "Bổ nhiệm như một người giám sát";
+?>

@@ -1,0 +1,29 @@
+<?php
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_CODE"] = "Kod";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_CONNECT"] = "Bağlan";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_CONNECTED"] = "Bitrix24.Network bağlandı";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_CONNECTION"] = "Bağlantı";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_CONNECTOR_ERROR_STATUS"] = "Bot işleme hatası. Lütfen tüm ayarları kontrol edin ve bot'unuzu tekrar test edin.";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_COPY"] = "Kopyala";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_1"] = "Ad";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_2"] = "Kısa açıklama";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_3"] = "Selamlama mesajı";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_4"] = "Avatar";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_4_DESCRIPTION_1"] = "Benzersiz avatar, müşterilerinizin sizi daha hızlı bulmasına imkan verir.";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_4_DESCRIPTION_2"] = "Avatar yükle";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_4_DESCRIPTION_3"] = "Görseli sil";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_5"] = "Aranabilir";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_6"] = "Arama kodu";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_6_TIP"] = "Bu kod, aranabilir olmasa bile, kullanıcıların messenger'daki açık kanalınızı bulmalarını sağlar.";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INDEX_LIST_ITEM_1"] = "Kişileri ve iletişim geçmişini CRM'ye kaydedin";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INDEX_LIST_ITEM_2"] = "Müşteriyi, CRM'deki satış hunisinde yönlendirin";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INDEX_LIST_ITEM_3"] = "Müşterilerinize diledikleri zamanda ve yerde yanıt verin";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INDEX_LIST_ITEM_4"] = "Müşteri sorguları, kuyruk kurallarına göre satış temsilcileri arasında dağıtılır";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INDEX_SUBTITLE"] = "Bitrix24.Network'e bağlanarak Bitrix24'ü kullanan müşterilerinizden, iş ortaklarınızdan ve iş arkadaşlarınızdan sorular alın.";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INDEX_TITLE"] = "Bitrix24 kullanıcısı müşterilerle iletişim kurmak için Bitrix24.Network'ü kullanın";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INFO"] = "Bilgi";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_NAME"] = "İsim";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_REST_HELP"] = "Aranabilir olmayan özel destek kanalı oluşturabilirsiniz. <br> Lütfen müşteriniz için kodu sağlayın, böylece sizinle iletişim kurabilir veya kanalı REST API'yle bağlayabilirsiniz. <br> Açık kanallar REST API ayrıntıları şu adresten alınabilir:";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_SIMPLE_FORM_DESCRIPTION_1"] = "Açık kanal zaten Bitrix24.Network'e bağlı.
+<br>Gerekirse ayarları değiştirebilirsiniz.";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_URL"] = "Bağlantı";

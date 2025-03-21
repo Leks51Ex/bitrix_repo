@@ -1,0 +1,3 @@
+<?
+$MESS["TASKS_EFFECTIVE_TITLE_FULL"] = "進行中的任務";
+?>

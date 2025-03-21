@@ -1,0 +1,7 @@
+<?
+$MESS["MB_DEMO_LIST_ELEMENT"] = "項目";
+$MESS["MB_DEMO_LIST_ELEMENT_DETAIL"] = "完全な説明";
+$MESS["MB_DEMO_OPEN_LIST_AGAIN"] = "別のリストを開く";
+$MESS["MB_DEMO_SECTION_ONE"] = "セクション1";
+$MESS["MB_DEMO_SECTION_TWO"] = "セクション2";
+?>

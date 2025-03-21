@@ -1,0 +1,2 @@
+<?php
+$MESS["CRM_CONFIG_SALE_SETTINGS_ACCESS_DENIED_TITLE"] = "权限不足，无法访问栏目设置。";

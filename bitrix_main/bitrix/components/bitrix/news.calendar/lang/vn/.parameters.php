@@ -1,0 +1,29 @@
+<?
+$MESS["IBLOCK_DETAIL_URL"] = "Trang URL nội dung chi tiết";
+$MESS["T_IBLOCK_DESC_CAL_DATE_ACTIVE_FROM"] = "Ngày hoạt động (từ)";
+$MESS["T_IBLOCK_DESC_CAL_DATE_ACTIVE_TO"] = "Ngày hoạt động (Đến)";
+$MESS["T_IBLOCK_DESC_CAL_DATE_CREATE"] = "Tạo ngày";
+$MESS["T_IBLOCK_DESC_CAL_DATE_FIELD"] = "Trường ngày";
+$MESS["T_IBLOCK_DESC_CAL_MVN"] = "Tên biến cho tháng";
+$MESS["T_IBLOCK_DESC_CAL_NEWS_COUNT"] = "Số tin mỗi ngày (0 - không giới hạn)";
+$MESS["T_IBLOCK_DESC_CAL_SHOW_CURRENT_DATE"] = "Hiển thị thàng và năm hiện tại";
+$MESS["T_IBLOCK_DESC_CAL_SHOW_MONTH_LIST"] = "Hiển thị một danh sách thả xuống của tháng";
+$MESS["T_IBLOCK_DESC_CAL_SHOW_TIME"] = "Hiển thị thời gian tin tức";
+$MESS["T_IBLOCK_DESC_CAL_SHOW_YEAR"] = "Hiện bộ chuyển năm";
+$MESS["T_IBLOCK_DESC_CAL_TIMESTAMP_X"] = "Thay đổi ngày cuối cùng ";
+$MESS["T_IBLOCK_DESC_CAL_TITLE_LEN"] = "Độ dài tiêu đề(0-không giới hạn)";
+$MESS["T_IBLOCK_DESC_CAL_TYPE"] = "Kiểu Lịch";
+$MESS["T_IBLOCK_DESC_CAL_TYPE_EVENTS"] = "Các sự kiện";
+$MESS["T_IBLOCK_DESC_CAL_TYPE_NEWS"] = "Tin tức";
+$MESS["T_IBLOCK_DESC_CAL_WS"] = "Bắt đầu tuần";
+$MESS["T_IBLOCK_DESC_CAL_WS_0"] = "Chủ Nhật";
+$MESS["T_IBLOCK_DESC_CAL_WS_1"] = "Thứ hai";
+$MESS["T_IBLOCK_DESC_CAL_WS_2"] = "Thứ ba";
+$MESS["T_IBLOCK_DESC_CAL_WS_3"] = "Thứ tư";
+$MESS["T_IBLOCK_DESC_CAL_WS_4"] = "Thứ năm";
+$MESS["T_IBLOCK_DESC_CAL_WS_5"] = "Thứ sáu";
+$MESS["T_IBLOCK_DESC_CAL_WS_6"] = "Thứ bảy";
+$MESS["T_IBLOCK_DESC_CAL_YVN"] = "Tên biến cho năm";
+$MESS["T_IBLOCK_DESC_LIST_ID"] = "Mã khối thông tin";
+$MESS["T_IBLOCK_DESC_LIST_TYPE"] = "Loại khối thông tin(sử dụng để xác minh)";
+?>

@@ -1,0 +1,21 @@
+<?php
+$MESS["BX_CPS_COMP_ERR_CATALOG_MODULE_NOT_INSTALL"] = "Modul Katalog Komersial belum diinstal.";
+$MESS["SOPS_ACTIVE"] = "Aktif";
+$MESS["SOPS_BALANCE2"] = "Sisa";
+$MESS["SPS_CODE"] = "Kode simbol";
+$MESS["SPS_COLLAPSE"] = "Sembunyikan";
+$MESS["SPS_EXPAND"] = "Bentangkan";
+$MESS["SPS_FIELD_ACTION"] = "Tindakan";
+$MESS["SPS_FIELD_CODE"] = "Kode simbol";
+$MESS["SPS_FIELD_DETAIL_PICTURE"] = "Gambar mendetail";
+$MESS["SPS_FIELD_XML_ID"] = "ID Eksternal";
+$MESS["SPS_NAME"] = "Nama";
+$MESS["SPS_NO"] = "Tidak";
+$MESS["SPS_PRODUCT_ACTIVE"] = "Ya";
+$MESS["SPS_PRODUCT_NO_ACTIVE"] = "Tidak";
+$MESS["SPS_SELECT"] = "Pilih";
+$MESS["SPS_SKU_HIDE"] = "Sembunyikan";
+$MESS["SPS_SKU_SHOW"] = "Bentangkan";
+$MESS["SPS_TIMESTAMP"] = "Dimodifikasi pada";
+$MESS["SPS_XML_ID"] = "ID Eksternal";
+$MESS["SPS_YES"] = "Ya";

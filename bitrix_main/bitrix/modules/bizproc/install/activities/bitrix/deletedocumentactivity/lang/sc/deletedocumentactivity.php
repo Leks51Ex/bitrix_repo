@@ -1,0 +1,2 @@
+<?php
+$MESS["BPDDA_TERMINATE_CURRENT_WORKFLOW"] = "中止当前工作流";

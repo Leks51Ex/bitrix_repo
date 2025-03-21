@@ -1,0 +1,25 @@
+<?php
+$MESS["CRM_SCENARIO_SELECTION_ACTIVE_ORDERS"] = "Đơn hàng đang hoạt động: #ORDER_COUNT#";
+$MESS["CRM_SCENARIO_SELECTION_CONVERT_ACTIVE_ORDERS"] = "Chuyển đổi các đơn hàng đang hoạt động thành các giao dịch khi thay đổi chế độ";
+$MESS["CRM_SCENARIO_SELECTION_DEALS"] = "Các thoả thuận";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION"] = "Lựa chọn tốt nhất cho bán hàng cá nhân";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_1"] = "Mọi yêu cầu (từ cuộc gọi, trò chuyện, biểu mẫu CRM, đơn hàng trên cửa hàng trực tuyến, v.v.) đều sẽ được thêm vào giao dịch CRM";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_2"] = "Giao tiếp khách hàng, trạng thái thanh toán, giai đoạn giao hàng sẽ được xử lý trong dòng thời gian giao dịch.";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_3"] = "Đại diện bán hàng giao tiếp cá nhân với từng khách hàng";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_ONLY_WARNING"] = "Tính năng xử lý đơn hàng sẽ không khả dụng nếu bạn chọn chỉ xử lý giao dịch.";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS"] = "Giao dịch và đơn hàng";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION"] = "Ý tưởng xử lý đơn hàng tự động";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_1"] = "Các đơn trong cửa hàng trực tuyến chỉ được lưu vào đơn hàng CRM, không được thêm vào giao dịch";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_2"] = "Các giao dịch được tạo như các thực thể riêng biệt (ví dụ: để cung cấp các dịch vụ bổ sung)";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_3"] = "Một số đại diện bán hàng xử lý giao dịch, còn các đại diện bán hàng khác xử lý đơn hàng trong cửa hàng trực tuyến";
+$MESS["CRM_SCENARIO_SELECTION_SAVE_ERROR"] = "Lỗi thay đổi chế độ";
+$MESS["CRM_SCENARIO_SELECTION_SELECT"] = "Chọn";
+$MESS["CRM_SCENARIO_SELECTION_SELECTED"] = "Được chọn";
+$MESS["CRM_SCENARIO_SELECTION_TITLE"] = "Chế độ xử lý đơn hàng";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_CANCEL_BUTTON"] = "Chuyển sang chế độ Giao dịch";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_OK_BUTTON"] = "Ở lại chế độ Giao dịch & Đơn hàng";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_1"] = "Đơn hàng cửa hàng trực tuyến sẽ trở thành các giao dịch, trong đó bạn có thể chấp nhận tiền thanh toán, tạo đơn vận chuyển và đặt trước hàng trong nhà kho. Sẽ không có khu vực \"Đơn hàng\" riêng.";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_2"] = "Lưu ý rằng bạn sẽ không thể quay lại chế độ Giao dịch & Đơn hàng bởi nó không còn được hỗ trợ.";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_3_PART_1"] = "Đọc thêm";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_3_PART_2"] = "về 2 chế độ này trước khi bạn đưa ra lựa chọn.";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TITLE"] = "Bạn sắp chuyển sang chế độ Giao dịch";

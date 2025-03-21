@@ -1,0 +1,17 @@
+<?
+$MESS["CP_BCT_TPL_FILTER_VIEW"] = "表示モード";
+$MESS["CP_BCT_TPL_FILTER_VIEW_H"] = "水平";
+$MESS["CP_BCT_TPL_FILTER_VIEW_V"] = "垂直";
+$MESS["CP_BCT_TPL_POPUP_POSITION"] = "フィルタ情報の表示ポップアップ";
+$MESS["CP_BCT_TPL_POPUP_POSITION_LEFT"] = "左に";
+$MESS["CP_BCT_TPL_POPUP_POSITION_RIGHT"] = "右側に";
+$MESS["CP_BCT_TPL_TEMPLATE_THEME"] = "カラーテーマ";
+$MESS["CP_BCT_TPL_THEME_BLACK"] = "ダーク";
+$MESS["CP_BCT_TPL_THEME_BLUE"] = "青(デフォルトテーマ)";
+$MESS["CP_BCT_TPL_THEME_GREEN"] = "緑";
+$MESS["CP_BCT_TPL_THEME_RED"] = "赤";
+$MESS["CP_BCT_TPL_THEME_SITE"] = "サイトテーマを使用する(bitrix.eshop用)";
+$MESS["CP_BCT_TPL_THEME_WOOD"] = "木材";
+$MESS["CP_BCT_TPL_THEME_YELLOW"] = "黄";
+$MESS["TP_BCSF_DISPLAY_ELEMENT_COUNT"] = "数量を表示";
+?>

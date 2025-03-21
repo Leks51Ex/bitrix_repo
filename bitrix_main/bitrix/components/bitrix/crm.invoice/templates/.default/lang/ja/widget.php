@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_INVOICE_WGT_PAGE_TITLE"] = "請求書分析レポート";
+$MESS["CRM_INVOICE_WGT_PAGE_TITLE_SHORT"] = "請求書レポート";
+?>

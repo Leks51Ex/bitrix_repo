@@ -1,0 +1,23 @@
+<?php
+$MESS["CT_BLL_SELECTED"] = "Ghi lại số";
+$MESS["TEL_STAT_ACTION_CLOSE"] = "Đóng";
+$MESS["TEL_STAT_ACTION_DOWNLOAD"] = "Tải các bản ghi lên Bitrix24";
+$MESS["TEL_STAT_ACTION_EXECUTE"] = "Chạy";
+$MESS["TEL_STAT_ACTION_STOP"] = "Dừng";
+$MESS["TEL_STAT_BACK"] = "Quay lại";
+$MESS["TEL_STAT_BACK_TITLE"] = "Quay lại";
+$MESS["TEL_STAT_CANCEL"] = "Hủy";
+$MESS["TEL_STAT_DOWNLOAD_VOX_RECORD_ERROR"] = "Lỗi tải lên dữ liệu. Vui lòng thử lại sau.";
+$MESS["TEL_STAT_ERROR"] = "Lỗi";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL"] = "Xuất chi tiết cuộc gọi ra Microsoft Excel";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL_DESCRIPTION"] = "Việc này sẽ tạo một tập tin trích xuất chi tiết cuộc gọi.";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL_LONG_PROCESS"] = "Việc xuất một lượng lớn dữ liệu có thể mất một chút thời gian.";
+$MESS["TEL_STAT_EXPORT_ERROR"] = "Đã có lỗi xảy ra. Vui lòng thử lại sau hoặc liên hệ với quản trị viên Bitrix24 của bạn.";
+$MESS["TEL_STAT_EXPORT_TO_EXCEL"] = "Xuất ra Excel";
+$MESS["TEL_STAT_FILTER_CANCEL"] = "Đặt lại bộ lọc";
+$MESS["TEL_STAT_FILTER_CANCEL_TITLE"] = "Đặt lại bộ lọc";
+$MESS["TEL_STAT_LOADING"] = "Tải lên";
+$MESS["TEL_STAT_SHOW_COUNT"] = "Hiển thị số lượng";
+$MESS["TEL_STAT_TOTAL"] = "Tổng";
+$MESS["TEL_STAT_USER_ID_CANCEL"] = "Đặt lại bộ lọc nhân viên";
+$MESS["TEL_STAT_USER_ID_CANCEL_TITLE"] = "Đặt lại bộ lọc nhân viên";

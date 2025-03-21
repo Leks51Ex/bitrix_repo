@@ -1,0 +1,7 @@
+<?
+$MESS["UI_BUTTON_PANEL_APPLY"] = "Áp dụng";
+$MESS["UI_BUTTON_PANEL_CANCEL"] = "Hủy bỏ";
+$MESS["UI_BUTTON_PANEL_CLOSE"] = "Đóng";
+$MESS["UI_BUTTON_PANEL_REMOVE"] = "Xóa";
+$MESS["UI_BUTTON_PANEL_SAVE"] = "Lưu";
+?>

@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_CONTACT_NAME"] = "連絡先";
+$MESS["CRM_CONTACT_WEBSERVICE_DESCRIPTION"] = "リードを作成してエクスポートするWebサービス";
+$MESS["CRM_CONTACT_WEBSERVICE_NAME"] = "ウェブサービス";
+$MESS["CRM_NAME"] = "CRM";
+?>

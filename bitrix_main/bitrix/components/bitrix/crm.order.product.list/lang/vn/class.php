@@ -1,0 +1,26 @@
+<?
+$MESS["CRM_ORDER_PLC_BASE_PRICE"] = "Giá gốc";
+$MESS["CRM_ORDER_PLC_CURRENCY"] = "Tiền tệ";
+$MESS["CRM_ORDER_PLC_CUSTOM_PRICE"] = "Giá tùy chỉnh";
+$MESS["CRM_ORDER_PLC_DEDUCTED"] = "Đã vận chuyển";
+$MESS["CRM_ORDER_PLC_DEFAULT_WEIGHT_UNIT"] = "kg";
+$MESS["CRM_ORDER_PLC_DIMENSIONS"] = "Kích thước";
+$MESS["CRM_ORDER_PLC_DISCOUNT_PRICE"] = "Giảm giá";
+$MESS["CRM_ORDER_PLC_FAILED_TO_CREATE_OBJECT"] = "Không thể tạo trường hợp đơn hàng";
+$MESS["CRM_ORDER_PLC_NAME"] = "Tên";
+$MESS["CRM_ORDER_PLC_NOTES"] = "Loại giá";
+$MESS["CRM_ORDER_PLC_PRICE"] = "Giá thành";
+$MESS["CRM_ORDER_PLC_PRODUCT"] = "Sản phẩm";
+$MESS["CRM_ORDER_PLC_PRODUCT_ID"] = "ID sản phẩm";
+$MESS["CRM_ORDER_PLC_PRODUCT_PRICE_ID"] = "ID giá";
+$MESS["CRM_ORDER_PLC_PROPERTIES"] = "Thuộc tính";
+$MESS["CRM_ORDER_PLC_QUANTITY"] = "Số lượng";
+$MESS["CRM_ORDER_PLC_SORTING"] = "Sắp xếp";
+$MESS["CRM_ORDER_PLC_THE_SUMM"] = "Số tiền";
+$MESS["CRM_ORDER_PLC_TYPE_PRICE_TYPE_ID"] = "ID loại giá";
+$MESS["CRM_ORDER_PLC_UNKNOWN_DISCOUNT"] = "Giảm giá không xác định";
+$MESS["CRM_ORDER_PLC_VAT"] = "Thuế";
+$MESS["CRM_ORDER_PLC_VAT_INCLUDED"] = "Thuế được bao gồm";
+$MESS["CRM_ORDER_PLC_VAT_RATE"] = "Mức thuế";
+$MESS["CRM_ORDER_PLC_WEIGHT"] = "Cân nặng";
+?>

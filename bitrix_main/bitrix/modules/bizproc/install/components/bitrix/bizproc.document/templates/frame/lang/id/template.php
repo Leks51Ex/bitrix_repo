@@ -1,0 +1,9 @@
+<?php
+$MESS["IBEL_BIZPROC_ACTIVE_WORKFLOWS"] = "Alur kerja aktif";
+$MESS["IBEL_BIZPROC_ACTIVE_WORKFLOWS_EMPTY"] = "Saat ini tidak ada alur kerja yang aktif";
+$MESS["IBEL_BIZPROC_CANCEL"] = "Batal";
+$MESS["IBEL_BIZPROC_COMPLETED_WORKFLOWS"] = "Alur kerja yang selesai";
+$MESS["IBEL_BIZPROC_COMPLETED_WORKFLOWS_EMPTY"] = "Tidak ada alur kerja";
+$MESS["IBEL_BIZPROC_COMPLETED_WORKFLOWS_SHOW"] = "Tunjukkan";
+$MESS["IBEL_BIZPROC_COMPLETED_WORKFLOWS_SHOW_MORE"] = "Tampilkan lengkap";
+$MESS["IBEL_BIZPROC_SAVE"] = "Simpan";

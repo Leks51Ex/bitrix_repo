@@ -1,0 +1,18 @@
+<?
+$MESS["INTASK_C31T_ANY"] = "(どれでも)";
+$MESS["INTASK_C31T_DURATION"] = "予約の長さ(時間単位)";
+$MESS["INTASK_C31T_FDATE"] = "日付";
+$MESS["INTASK_C31T_FFLOOR"] = "フロア";
+$MESS["INTASK_C31T_FFREE"] = "空き時間";
+$MESS["INTASK_C31T_FPLACE"] = "座席";
+$MESS["INTASK_C31T_FRESERVE"] = "予約";
+$MESS["INTASK_C31T_FROM"] = "From";
+$MESS["INTASK_C31T_FROOM"] = "ルーム";
+$MESS["INTASK_C31T_ROOM"] = "ルーム";
+$MESS["INTASK_C31T_SDATE"] = "日付";
+$MESS["INTASK_C31T_SEARCH"] = "検索";
+$MESS["INTASK_C31T_SPLACE"] = "必要座席";
+$MESS["INTASK_C31T_STIME"] = "時刻";
+$MESS["INTASK_C31T_TO"] = "~まで";
+$MESS["INTDT_NO_TASKS"] = "会議室はありません";
+?>

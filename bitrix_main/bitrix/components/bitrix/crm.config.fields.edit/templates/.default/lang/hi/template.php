@@ -1,0 +1,31 @@
+<?
+$MESS["CRM_FE_DELETE_TITLE"] = "डिलीट करें";
+$MESS["CRM_FE_ENUM_DEFAULT"] = "डिफॉल्ट मान";
+$MESS["CRM_FE_ENUM_DEFAULTS"] = "डिफॉल्ट मान";
+$MESS["CRM_FE_ENUM_IMPORT"] = "सूची के रूप में इम्पोर्ट करें";
+$MESS["CRM_FE_ENUM_IMPORT_HINT"] = "प्रत्येक पंक्ति एक सूची आइटम बन जाएगी। यदि किसी आइटम का मान आइटम शीर्षक के बराबर नहीं है, तो इसे शीर्षक से पहले बने चौकोर कोष्ठक में निर्दिष्ट करें। उदाहरण के लिए: \"[v1]मान 1\"।";
+$MESS["CRM_FE_ENUM_NO_DEFAULT"] = "(कोई नहीं)";
+$MESS["CRM_FE_FIELD_COMMON_LABEL"] = "नाम";
+$MESS["CRM_FE_FIELD_IS_REQUIRED"] = "अपेक्षित";
+$MESS["CRM_FE_FIELD_MULTIPLE"] = "एकाधिक";
+$MESS["CRM_FE_FIELD_NAME"] = "नाम";
+$MESS["CRM_FE_FIELD_SHOW_FILTER"] = "फ़िल्टर में दिखाएँ";
+$MESS["CRM_FE_FIELD_SHOW_IN_LIST"] = "सूची में दिखाएँ";
+$MESS["CRM_FE_FIELD_SORT"] = "सॉर्टिंग";
+$MESS["CRM_FE_FIELD_TYPE"] = "प्रकार";
+$MESS["CRM_FE_FIELD_USE_MULTI_LANG_LABEL"] = "सभी भाषाओं में नाम असाइन करें";
+$MESS["CRM_FE_LIST_ITEM_ADD"] = "जोड़ें";
+$MESS["CRM_FE_SORT_DOWN_TITLE"] = "नीचे";
+$MESS["CRM_FE_SORT_UP_TITLE"] = "ऊपर";
+$MESS["CRM_FE_TAB_EDIT"] = "सेटिंग";
+$MESS["CRM_FE_TAB_EDIT_TITLE"] = "सामान्य पैरामीटर";
+$MESS["CRM_FE_TAB_LIST"] = "सूची";
+$MESS["CRM_FE_TAB_LIST_TITLE"] = "प्रॉपर्टी मानों की सूची";
+$MESS["CRM_FE_TOOLBAR_ADD"] = "फ़ील्ड जोड़ें";
+$MESS["CRM_FE_TOOLBAR_ADD_TITLE"] = "नया फ़ील्ड जोड़ें";
+$MESS["CRM_FE_TOOLBAR_DELETE"] = "फ़ील्ड डिलीट करें";
+$MESS["CRM_FE_TOOLBAR_DELETE_TITLE"] = "फ़ील्ड हटाएँ और फ़ील्ड फॉर्म खोलें";
+$MESS["CRM_FE_TOOLBAR_DELETE_WARNING"] = "क्या आप वाकई यह फ़ील्ड डिलीट करना चाहते हैं?";
+$MESS["CRM_FE_TOOLBAR_FIELDS"] = "फ़ील्ड";
+$MESS["CRM_FE_TOOLBAR_FIELDS_TITLE"] = "उपलब्ध फ़ील्ड देखें";
+?>

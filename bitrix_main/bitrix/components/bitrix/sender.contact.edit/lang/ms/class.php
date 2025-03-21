@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_COMP_CONTACT_EDIT_TITLE_ADD"] = "Penerima baru";
+$MESS["SENDER_COMP_CONTACT_EDIT_TITLE_EDIT"] = "Sunting penerima";
+?>

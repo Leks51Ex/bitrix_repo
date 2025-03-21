@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_FIELDS_EMPTY"] = "Gerekli alanlardan bazıları eksik.";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM modülü kurulu değil.";
+$MESS["CRM_MODULE_NOT_INSTALLED_CURRENCY"] = "Para Birimi Modülü yüklenmemiş.";
+$MESS["CRM_PERMISSION_DENIED"] = "Erişim reddedildi";
+?>

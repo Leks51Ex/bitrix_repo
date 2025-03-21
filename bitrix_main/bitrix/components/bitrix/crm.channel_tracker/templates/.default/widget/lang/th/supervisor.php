@@ -1,0 +1,11 @@
+<?
+$MESS["CRM_CH_WGT_DATA_EMPLOYEE_F_1"] = "โคลอี้";
+$MESS["CRM_CH_WGT_DATA_EMPLOYEE_F_2"] = "เฮเทอร์";
+$MESS["CRM_CH_WGT_DATA_EMPLOYEE_F_3"] = "ลิซ่า";
+$MESS["CRM_CH_WGT_DATA_EMPLOYEE_F_4"] = "แคทเธอริน";
+$MESS["CRM_CH_WGT_DATA_EMPLOYEE_M_1"] = "จอห์น";
+$MESS["CRM_CH_WGT_DATA_EMPLOYEE_M_2"] = "เอเวอเรตต์";
+$MESS["CRM_CH_WGT_DATA_EMPLOYEE_M_3"] = "อีไล";
+$MESS["CRM_CH_WGT_DATA_EMPLOYEE_M_4"] = "นิโคลัส";
+$MESS["CRM_CH_WGT_DATA_EMPLOYEE_WORK_POSITION"] = "ผู้จัดการ";
+?>

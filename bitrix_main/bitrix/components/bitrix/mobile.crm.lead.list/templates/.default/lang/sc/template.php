@@ -1,0 +1,6 @@
+<?
+$MESS["M_CRM_LEAD_ADD"] = "创建线索";
+$MESS["M_CRM_LEAD_CONV_OPEN_ENTITY_SEL_COMPANY"] = "从列表中选择公司...";
+$MESS["M_CRM_LEAD_CONV_OPEN_ENTITY_SEL_CONTACT"] = "从列表中选择联系人...";
+$MESS["M_CRM_LEAD_LIST_TITLE"] = "所有线索";
+?>

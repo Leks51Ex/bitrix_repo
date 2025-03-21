@@ -1,0 +1,5 @@
+<?
+$MESS["LANDING_CMP_DESCRIPTION"] = "編輯角色。";
+$MESS["LANDING_CMP_NAME"] = "編輯角色";
+$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";
+?>

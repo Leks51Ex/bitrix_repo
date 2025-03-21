@@ -1,0 +1,34 @@
+<?
+$MESS["CRM_QUOTE_CONV_ACCESS_DENIED"] = "続行するには、取引と請求書作成の許可が必要です";
+$MESS["CRM_QUOTE_CONV_DIALOG_CANCEL_BTN"] = "キャンセル";
+$MESS["CRM_QUOTE_CONV_DIALOG_CONTINUE_BTN"] = "続行";
+$MESS["CRM_QUOTE_CONV_DIALOG_SYNC_ENTITY_LIST_TITLE"] = "追加のフィールドが作成されるエンティティを選択します";
+$MESS["CRM_QUOTE_CONV_DIALOG_SYNC_FILED_LIST_TITLE"] = "作成されるフィールド";
+$MESS["CRM_QUOTE_CONV_DIALOG_SYNC_LEGEND"] = "選択されたエンティティには、SKUからのデータを渡すことができるフィールドはありません  利用可能なすべての情報を保存するために追加フィールドが作成されるエンティティを選択してください";
+$MESS["CRM_QUOTE_CONV_DIALOG_TITLE"] = "見積もりでエンティティを作成する";
+$MESS["CRM_QUOTE_CONV_GENERAL_ERROR"] = "一般的なエラー";
+$MESS["CRM_QUOTE_CUSTOM_SAVE_BUTTON_TITLE"] = "保存して戻る";
+$MESS["CRM_QUOTE_DISK_ATTACHED_FILES"] = "添付ファイル";
+$MESS["CRM_QUOTE_DISK_ATTACH_FILE"] = "添付ファイル";
+$MESS["CRM_QUOTE_DISK_SELECT_FILE"] = "検索Bitrix24";
+$MESS["CRM_QUOTE_DISK_SELECT_FILE_LEGEND"] = "Bitrix24.Driveウィンドウを開く";
+$MESS["CRM_QUOTE_DISK_UPLOAD_FILE"] = "ファイルをアップロードする";
+$MESS["CRM_QUOTE_DISK_UPLOAD_FILE_LEGEND"] = "添付ファイルをここにドラッグ";
+$MESS["CRM_QUOTE_EDIT_BUTTON_CANCEL"] = "キャンセル";
+$MESS["CRM_QUOTE_EDIT_BUTTON_SAVE"] = "保存";
+$MESS["CRM_QUOTE_EDIT_CONV_DEAL_CATEGORY_DLG_FIELD"] = "パイプライン";
+$MESS["CRM_QUOTE_EDIT_CONV_DEAL_CATEGORY_DLG_TITLE"] = "取引の設定";
+$MESS["CRM_QUOTE_SHOW_NEW_TITLE"] = "新規見積";
+$MESS["CRM_QUOTE_SHOW_TITLE"] = "#BEGINDATE#からの見積##QUOTE_NUMBER#";
+$MESS["CRM_QUOTE_WEBDAV_ATTACH_FILE"] = "ファイルを添付する";
+$MESS["CRM_QUOTE_WEBDAV_DRAG_FILE"] = "1つまたは複数のファイルをここにドラッグ&ドロップする";
+$MESS["CRM_QUOTE_WEBDAV_FILE_ACCESS_DENIED"] = "アクセス拒否されました";
+$MESS["CRM_QUOTE_WEBDAV_FILE_ALREADY_EXISTS"] = "この名前のファイルはすでに存在します  現在のフォルダを使用することができます この場合、文書の既存のバージョンが履歴に保存されます";
+$MESS["CRM_QUOTE_WEBDAV_FILE_LOADING"] = "読み込み中";
+$MESS["CRM_QUOTE_WEBDAV_LOAD_FILES"] = "ファイルをアップロード";
+$MESS["CRM_QUOTE_WEBDAV_SELECT_FILE"] = "またはコンピュータからファイルを選択する";
+$MESS["CRM_QUOTE_WEBDAV_SELECT_FROM_LIB"] = "ライブラリから選択";
+$MESS["CRM_QUOTE_WEBDAV_TITLE"] = "ファイル";
+$MESS["CRM_TAB_1"] = "見積もり";
+$MESS["CRM_TAB_1_TITLE"] = "会社の特性";
+?>

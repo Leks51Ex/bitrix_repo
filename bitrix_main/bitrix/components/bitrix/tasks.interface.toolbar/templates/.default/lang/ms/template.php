@@ -1,0 +1,42 @@
+<?php
+$MESS["TASKS_COUNTER_EMPTY"] = "Tiada tugas yang memerlukan perhatian segera";
+$MESS["TASKS_COUNTER_EXPIRED_CANDIDATES_PLURAL_0"] = "hampir terlewat";
+$MESS["TASKS_COUNTER_EXPIRED_CANDIDATES_PLURAL_1"] = "hampir terlewat";
+$MESS["TASKS_COUNTER_EXPIRED_CANDIDATES_PLURAL_2"] = "hampir terlewat";
+$MESS["TASKS_COUNTER_EXPIRED_PLURAL_0"] = "terlewat";
+$MESS["TASKS_COUNTER_EXPIRED_PLURAL_1"] = "terlewat";
+$MESS["TASKS_COUNTER_EXPIRED_PLURAL_2"] = "terlewat";
+$MESS["TASKS_COUNTER_FOREIGN"] = "Tugas lain:";
+$MESS["TASKS_COUNTER_NEW_COMMENTS_PLURAL_0"] = "komen";
+$MESS["TASKS_COUNTER_NEW_COMMENTS_PLURAL_1"] = "komen";
+$MESS["TASKS_COUNTER_NEW_COMMENTS_PLURAL_2"] = "komen";
+$MESS["TASKS_COUNTER_NEW_COMMENTS_READ_ALL_TITLE"] = "Baca semua";
+$MESS["TASKS_COUNTER_NEW_PLURAL_0"] = "tidak dilihat";
+$MESS["TASKS_COUNTER_NEW_PLURAL_1"] = "tidak dilihat";
+$MESS["TASKS_COUNTER_NEW_PLURAL_2"] = "tidak dilihat";
+$MESS["TASKS_COUNTER_TOTAL"] = "Tugas:";
+$MESS["TASKS_COUNTER_TOTAL_EMPL"] = "Tugas pekerja:";
+$MESS["TASKS_COUNTER_TOTAL_PLURAL_0"] = "tugas";
+$MESS["TASKS_COUNTER_TOTAL_PLURAL_1"] = "tugas";
+$MESS["TASKS_COUNTER_TOTAL_PLURAL_2"] = "tugas";
+$MESS["TASKS_COUNTER_WAIT_CTRL_PLURAL_0"] = "menunggu semakan";
+$MESS["TASKS_COUNTER_WAIT_CTRL_PLURAL_1"] = "menunggu semakan";
+$MESS["TASKS_COUNTER_WAIT_CTRL_PLURAL_2"] = "menunggu semakan";
+$MESS["TASKS_COUNTER_WO_DEADLINE_PLURAL_0"] = "tiada tarikh akhir";
+$MESS["TASKS_COUNTER_WO_DEADLINE_PLURAL_1"] = "tiada tarikh akhir";
+$MESS["TASKS_COUNTER_WO_DEADLINE_PLURAL_2"] = "tiada tarikh akhir";
+$MESS["TASKS_FULL_TASK_INDEXING_TITLE"] = "Mengindeks tugas dan komen";
+$MESS["TASKS_GROUP_COUNTERS_SOON"] = "Pengira tugas projek akan datang tidak lama lagi";
+$MESS["TASKS_SWITCHER_ITEM_GANTT"] = "Gantt";
+$MESS["TASKS_SWITCHER_ITEM_KANBAN"] = "Kanban";
+$MESS["TASKS_SWITCHER_ITEM_LIST"] = "Senarai";
+$MESS["TASKS_SWITCHER_ITEM_REPORTS"] = "Laporan";
+$MESS["TASKS_SWITCHER_ITEM_ROBOTS"] = "Peraturan automasi";
+$MESS["TASKS_SWITCHER_NAME"] = "Paparan";
+$MESS["TASKS_TASK_CHECKLIST_CONVERTING_TITLE"] = "Menukar senarai semakan tugas";
+$MESS["TASKS_TEMPLATE_CHECKLIST_CONVERTING_TITLE"] = "Menukar senarai semakan templat tugas";
+$MESS["TASKS_TEMPLATE_SPOTLIGHT_SIMPLE_COUNTERS"] = "Menjejak kemajuan tugas telah menjadi lebih mudah!<br><br>
+Hanya dua pengira yang perlu diberi perhatian: komen baru dan tugas tunggak.<br><br>
+Tugas dalam mana-mana paparan (Senarai, Perancang, Tarikh akhir atau Kanban) diisih mengikut keadaan aktifnya. Tugas akan naik dalam senarai jika menerima komen baru atau mengubah tarikh akhir.<br>";
+$MESS["TASKS_TEMPLATE_SPOTLIGHT_SIMPLE_COUNTERS_BUTTON"] = "Butiran";
+$MESS["TASKS_TEMPLATE_SPOTLIGHT_TIMELINE"] = "Gunakan pandangan baru untuk merancang tugas anda dan berjaga-jaga tarikh akhir.";

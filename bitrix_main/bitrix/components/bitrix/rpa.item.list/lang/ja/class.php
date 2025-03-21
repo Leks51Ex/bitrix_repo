@@ -1,0 +1,5 @@
+<?
+$MESS["RPA_ITEMS_LIST_TITLE"] = "#TITLE# アイテム";
+$MESS["RPA_ITEM_SORT_COLUMN"] = "並べ替え";
+$MESS["RPA_ITEM_STAGE_COLUMN"] = "ステージ";
+?>

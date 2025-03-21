@@ -1,0 +1,5 @@
+<?
+$MESS["UI_SIDEPANEL_MENU_ADD_ITEM"] = "เพิ่มหน้าเว็บ";
+$MESS["UI_SIDEPANEL_MENU_BUTTON_CLOSE"] = "ยุบ";
+$MESS["UI_SIDEPANEL_MENU_BUTTON_OPEN"] = "ขยาย";
+?>

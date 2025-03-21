@@ -1,0 +1,20 @@
+<?php
+$MESS["CT_BLF_DELETE_POPUP_ACCEPT_BUTTON"] = "Xóa";
+$MESS["CT_BLF_DELETE_POPUP_CANCEL_BUTTON"] = "Hủy bỏ";
+$MESS["CT_BLF_DELETE_POPUP_TITLE"] = "Xác nhận xóa";
+$MESS["CT_BLF_LIST_CODE"] = "Mã";
+$MESS["CT_BLF_LIST_DEFAULT_VALUE"] = "Giá trị mặc định";
+$MESS["CT_BLF_LIST_IS_REQUIRED"] = "Yêu cầu";
+$MESS["CT_BLF_LIST_MULTIPLE"] = "Nhiều";
+$MESS["CT_BLF_LIST_NAME"] = "Tên";
+$MESS["CT_BLF_LIST_SORT"] = "Xếp theo";
+$MESS["CT_BLF_LIST_TYPE"] = "Kiểu";
+$MESS["CT_BLF_TOOLBAR_ADD"] = "Thêm trường";
+$MESS["CT_BLF_TOOLBAR_ADD_TITLE"] = "Thêm trường mới";
+$MESS["CT_BLF_TOOLBAR_ELEMENTS_TITLE"] = "Xem và sửa danh sách các yếu tố";
+$MESS["CT_BLF_TOOLBAR_ELEMENT_DELETE_WARNING"] = "Bạn có chắc chắn muốn xóa trường này?";
+$MESS["CT_BLF_TOOLBAR_LIST_EDIT"] = "Các thiết lập mạng lưới";
+$MESS["CT_BLF_TOOLBAR_LIST_EDIT_PROCESS"] = "Cấu hình dòng công việc";
+$MESS["CT_BLF_TOOLBAR_LIST_TITLE"] = "Trở lại danh sách các thiết lập";
+$MESS["CT_BLF_TOOLBAR_LIST_TITLE_PROCESS"] = "Quay lại cấu hình dòng công việc";
+$MESS["CT_BLF_TOOLBAR_RETURN_LIST_ELEMENT"] = "Quay lại danh sách";

@@ -1,0 +1,37 @@
+<?
+$MESS["CP_BNL_CACHE_GROUPS"] = "アクセス権を考慮";
+$MESS["CP_BNL_INCLUDE_SUBSECTIONS"] = "サブセクションの要素を表示する";
+$MESS["CP_BNL_SET_BROWSER_TITLE"] = "ブラウザのウィンドウタイトルを設定する";
+$MESS["CP_BNL_SET_LAST_MODIFIED"] = "ページの最終更新日を応答ヘッダーに設定する";
+$MESS["CP_BNL_SET_META_DESCRIPTION"] = "ページの説明を設定する";
+$MESS["CP_BNL_SET_META_KEYWORDS"] = "ページキーワードを設定する";
+$MESS["CP_BNL_STRICT_SECTION_CHECK"] = "リスト表示時に親セクションを確認する";
+$MESS["IBLOCK_CACHE_FILTER"] = "フィルタがアクティブな場合はキャッシュする";
+$MESS["IBLOCK_FIELD"] = "フィールド";
+$MESS["IBLOCK_SECTION_CODE"] = "セクションコード";
+$MESS["IBLOCK_SECTION_ID"] = "セクションID";
+$MESS["T_IBLOCK_DESC_ACTIVE_DATE_FORMAT"] = "日付表示形式";
+$MESS["T_IBLOCK_DESC_ADD_SECTIONS_CHAIN"] = "ブレッドクラムナビゲーションにセクション名を追加する";
+$MESS["T_IBLOCK_DESC_ASC"] = "昇順";
+$MESS["T_IBLOCK_DESC_CHECK_DATES"] = "現在アクティブな要素のみを表示する";
+$MESS["T_IBLOCK_DESC_DESC"] = "降順";
+$MESS["T_IBLOCK_DESC_DETAIL_PAGE_URL"] = "詳細ページのURL(デフォルトで情報ブロックの設定から)";
+$MESS["T_IBLOCK_DESC_FACT"] = "開始日時";
+$MESS["T_IBLOCK_DESC_FID"] = "ID";
+$MESS["T_IBLOCK_DESC_FNAME"] = "名前";
+$MESS["T_IBLOCK_DESC_FSORT"] = "並べ替え";
+$MESS["T_IBLOCK_DESC_FTSAMP"] = "最終更新日";
+$MESS["T_IBLOCK_DESC_HIDE_LINK_WHEN_NO_DETAIL"] = "詳しい説明がない場合は、詳細ページへのリンクを非表示にする";
+$MESS["T_IBLOCK_DESC_IBBY1"] = "最初のソート順";
+$MESS["T_IBLOCK_DESC_IBBY2"] = "ニュースセカンドソートパスの方向";
+$MESS["T_IBLOCK_DESC_IBORD1"] = "最初の並べ替えフィールド";
+$MESS["T_IBLOCK_DESC_IBORD2"] = "ニュースセカンドソートパスのフィールド";
+$MESS["T_IBLOCK_DESC_INCLUDE_IBLOCK_INTO_CHAIN"] = "ナビゲーションチェーンに情報ブロックを含める";
+$MESS["T_IBLOCK_DESC_LIST_CONT"] = "1ページあたりのニュース";
+$MESS["T_IBLOCK_DESC_LIST_ID"] = "情報ブロックコード";
+$MESS["T_IBLOCK_DESC_LIST_TYPE"] = "情報ブロックのタイプ(検証にのみ使用)";
+$MESS["T_IBLOCK_DESC_PAGER_NEWS"] = "ニュース";
+$MESS["T_IBLOCK_DESC_PREVIEW_TRUNCATE_LEN"] = "最大プレビューテキストの長さ(テキストタイプのみ)";
+$MESS["T_IBLOCK_FILTER"] = "フィルター";
+$MESS["T_IBLOCK_PROPERTY"] = "プロパティ";
+?>

@@ -1,0 +1,2 @@
+<?php
+$MESS["CATALOG_CONTRACTOR_LIST_TITLE"] = "供应商";

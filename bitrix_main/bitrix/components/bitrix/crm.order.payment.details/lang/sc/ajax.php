@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_ORDER_PAYMENT_NOT_FOUND"] = "找不到付款";
+$MESS["CRM_ORDER_P_ACCESS_DENIED"] = "权限不够。";
+$MESS["CRM_ORDER_P_FORM_DATA_MISSING"] = "缺少一些表单数据";
+$MESS["CRM_ORDER_P_NOT_FOUND"] = "找不到付款";
+?>

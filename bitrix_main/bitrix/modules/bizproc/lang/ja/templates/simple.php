@@ -1,0 +1,24 @@
+<?php
+$MESS["BPT_SM_ACT_NAME_1"] = "一連のアクティビティ";
+$MESS["BPT_SM_ACT_TITLE"] = "メールメッセージ";
+$MESS["BPT_SM_APPROVE_DESC"] = "\"{=ドキュメント:NAME}\"というドキュメントを承認または拒否する必要があります";
+$MESS["BPT_SM_APPROVE_NAME"] = "文書を承認または却下してください";
+$MESS["BPT_SM_APPROVE_TITLE"] = "文書に関する賛成";
+$MESS["BPT_SM_DESC"] = "単純な過半数の投票によって決定が行われる場合に推奨されます  投票人を割り当ててコメントを付けることができます  投票が完了したら";
+$MESS["BPT_SM_MAIL1_SUBJ"] = "\"{=ドキュメント:NAME}への投票:ドキュメントが合格しました";
+$MESS["BPT_SM_MAIL1_TEXT"] = "「{ドキュメント:NAME}」への投票が完了しました";
+$MESS["BPT_SM_MAIL1_TITLE"] = "ドキュメントは承認されました";
+$MESS["BPT_SM_MAIL2_STATUS"] = "却下された";
+$MESS["BPT_SM_MAIL2_STATUS2"] = "ステータス:拒否";
+$MESS["BPT_SM_MAIL2_SUBJ"] = "\"{=ドキュメント:NAME}への投票:ドキュメントは拒否されました";
+$MESS["BPT_SM_MAIL2_TEXT"] = "「{ドキュメント:NAME}」への投票が完了しました";
+$MESS["BPT_SM_MAIL2_TITLE"] = "ドキュメントは却下されました";
+$MESS["BPT_SM_NAME"] = "単純承認/投票";
+$MESS["BPT_SM_PARAM_DESC"] = "投票に参加しているユーザー";
+$MESS["BPT_SM_PARAM_NAME"] = "投票人";
+$MESS["BPT_SM_PUB"] = "ドキュメント発行";
+$MESS["BPT_SM_STATUS"] = "承認済";
+$MESS["BPT_SM_STATUS2"] = "ステータス:承認済";
+$MESS["BPT_SM_TASK1_TEXT"] = "\"{=ドキュメント:NAME}\"というドキュメントを承認または拒否する必要があります";
+$MESS["BPT_SM_TASK1_TITLE"] = "承認文書:「{=ドキュメント:NAME}」";
+$MESS["BPT_SM_TITLE1"] = "連続的な業務プロセス";

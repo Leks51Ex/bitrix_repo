@@ -1,0 +1,10 @@
+<?
+$MESS["TASKS_TTDP_CHECKLIST_ADD"] = "thêm vào";
+$MESS["TASKS_TTDP_CHECKLIST_COMPLETE"] = "Đã hoàn thành";
+$MESS["TASKS_TTDP_CHECKLIST_ENTITY_NAME"] = "mục trong danh sách kiểm tra";
+$MESS["TASKS_TTDP_CHECKLIST_IN_PROGRESS"] = "Trong tiến trình";
+$MESS["TASKS_TTDP_CHECKLIST_OF"] = "của";
+$MESS["TASKS_TTDP_CHECKLIST_SEPARATOR"] = "sự phân biệt";
+$MESS["TASKS_TTDP_CHECKLIST_TEMPLATE_BLOCK_TITLE"] = "Danh sách kiểm tra";
+$MESS["TASKS_TTDP_CHECKLIST_WHAT_TO_BE_DONE"] = "Những việc cần làm";
+?>

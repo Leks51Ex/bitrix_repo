@@ -1,0 +1,17 @@
+<?php
+$MESS["CRM_COLUMN_ORDER_CHECK_DATE_CREATE"] = "Ngày tạo";
+$MESS["CRM_COLUMN_ORDER_CHECK_ID"] = "ID";
+$MESS["CRM_COLUMN_ORDER_CHECK_LINK"] = "Liên kết biên lai";
+$MESS["CRM_COLUMN_ORDER_CHECK_ORDER_ID"] = "ID đơn hàng";
+$MESS["CRM_COLUMN_ORDER_CHECK_PAYMENT_DESCR"] = "Thanh toán";
+$MESS["CRM_COLUMN_ORDER_CHECK_PAYMENT_ID"] = "ID thanh toán";
+$MESS["CRM_COLUMN_ORDER_CHECK_SHIPMENT_DESCR"] = "Kiện hàng";
+$MESS["CRM_COLUMN_ORDER_CHECK_SHIPMENT_ID"] = "ID kiện hàng";
+$MESS["CRM_COLUMN_ORDER_CHECK_STATUS"] = "Trạng thái biên lai";
+$MESS["CRM_COLUMN_ORDER_CHECK_SUM"] = "Số tiền trong biên lai";
+$MESS["CRM_COLUMN_ORDER_CHECK_TITLE"] = "Tài liệu thanh toán";
+$MESS["CRM_COLUMN_ORDER_CHECK_TYPE"] = "Loại biên lai";
+$MESS["CRM_ERROR_WRONG_ORDER"] = "Không tìm thấy đơn hàng";
+$MESS["CRM_ERROR_WRONG_ORDER_ID"] = "ID đơn hàng không hợp lệ";
+$MESS["CRM_ORDER_CHECK_LIST_TITLE"] = "Biên lai thanh toán cho ##ACCOUNT_NUMBER# của #DATE_BILL# (#PAY_SYSTEM_NAME#)";
+$MESS["CRM_PERMISSION_DENIED"] = "Truy cập bị từ chối";

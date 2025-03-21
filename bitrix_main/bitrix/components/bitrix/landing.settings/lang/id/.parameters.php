@@ -1,0 +1,4 @@
+<?php
+$MESS["LANDING_CMP_PAR_LANDING_ID"] = "ID Arahan";
+$MESS["LANDING_CMP_PAR_LANDING_TYPE"] = "Jenis situs";
+$MESS["LANDING_CMP_PAR_SITE_ID"] = "ID Situs";

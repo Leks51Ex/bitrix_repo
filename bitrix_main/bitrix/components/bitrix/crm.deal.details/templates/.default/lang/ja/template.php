@@ -1,0 +1,25 @@
+<?php
+$MESS["CRM_DEAL_CONV_ACCESS_DENIED"] = "請求書と見積を作成するための十分な権限がありません";
+$MESS["CRM_DEAL_CONV_DIALOG_CANCEL_BTN"] = "キャンセル";
+$MESS["CRM_DEAL_CONV_DIALOG_CONTINUE_BTN"] = "続行";
+$MESS["CRM_DEAL_CONV_DIALOG_SYNC_ENTITY_LIST_TITLE"] = "追加のフィールドが作成されるエンティティを選択します";
+$MESS["CRM_DEAL_CONV_DIALOG_SYNC_FILED_LIST_TITLE"] = "作成されるフィールド";
+$MESS["CRM_DEAL_CONV_DIALOG_SYNC_LEGEND"] = "選択したエンティティには、取引のデータを渡すことができるフィールドがありません  利用可能なすべての情報を保存するために追加フィールドが作成されるエンティティを選択してください";
+$MESS["CRM_DEAL_CONV_DIALOG_TITLE"] = "取引でエンティティを作成する";
+$MESS["CRM_DEAL_CONV_GENERAL_ERROR"] = "一般的なエラー";
+$MESS["CRM_DEAL_DETAIL_ATTR_GR_TYPE_GENERAL"] = "すべてのステージとファネル";
+$MESS["CRM_DEAL_DETAIL_ATTR_GR_TYPE_JUNK"] = "失注";
+$MESS["CRM_DEAL_DETAIL_ATTR_GR_TYPE_PIPELINE"] = "進行中 + 成立";
+$MESS["CRM_DEAL_DETAIL_ATTR_REQUIRED_FULL"] = "次のステージから必須";
+$MESS["CRM_DEAL_DETAIL_ATTR_REQUIRED_FULL_1"] = "ステージで必須";
+$MESS["CRM_DEAL_DETAIL_ATTR_REQUIRED_SHORT"] = "必須";
+$MESS["CRM_DEAL_DETAIL_AUTOMATION_DEBUG_ITEM"] = "テストモードが有効";
+$MESS["CRM_DEAL_DETAIL_HISTORY_STUB"] = "現在取引を作成しています・・・";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_ADD_DOCUMENT_GUIDE_TEXT"] = "顧客と商品の情報は棚卸伝票にコピーされます。<br/><br/>取引が進行中に販売伝票を作成するかどうかは任意です。販売伝票は取引がクローズした時点で自動的に作成されます。";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_ADD_DOCUMENT_GUIDE_TITLE"] = "取引から直接売上を作成";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_AUTOMATIC_RESERVATION_GUIDE_TEXT"] = "現在、CRM で棚卸資産管理が有効になっています。<br/><br/>顧客用に商品を予約し、他の注文で利用できないようにすることができます。";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_AUTOMATIC_RESERVATION_GUIDE_TITLE"] = "商品の予約";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_PRODUCT_STORE_GUIDE_TEXT"] = "1 つの倉庫から必要な数量を取得できない場合は、複数の倉庫を選択してください。";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_PRODUCT_STORE_GUIDE_TITLE"] = "在庫を予約する倉庫を選択してください";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_SUCCESS_DEAL_GUIDE_TEXT"] = "取引が正常にクローズされた時点で自動的に作成されます。";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_SUCCESS_DEAL_GUIDE_TITLE"] = "販売伝票";

@@ -1,0 +1,29 @@
+<?
+$MESS["LANDING_TPL_ACCESS_ASK_DESCRIPTION_KNOWLEDGE"] = "Bu bilgi tabanına okuma erişimi sağlamak için kullanıcılardan birine bir istek gönderin.";
+$MESS["LANDING_TPL_ACCESS_ASK_HEADER_KNOWLEDGE"] = "Bu bilgi tabanı özeldir";
+$MESS["LANDING_TPL_ACCESS_ASK_SEND_KNOWLEDGE"] = "Erişim izni isteyin";
+$MESS["LANDING_TPL_ACCESS_ASK_TITLE_KNOWLEDGE"] = "Erişim isteği";
+$MESS["LANDING_TPL_COPY_FULL"] = "#LOGO# tarafından desteklenmektedir &mdash; Ücretsiz web siteleri ve CRM.";
+$MESS["LANDING_TPL_COPY_FULL2"] = "<linklogo>#LOGO#</linklogo> tarafından desteklenmektedir &mdash; <linksite>Ücretsiz web siteleri</linksite> ve <linkcrm>CRM</linkcrm>. <linkcreate>Sitenizi oluşturun</linkcreate>";
+$MESS["LANDING_TPL_COPY_LINK"] = "Sitenizi Oluşturun";
+$MESS["LANDING_TPL_COPY_NAME"] = "Bitrix24";
+$MESS["LANDING_TPL_COPY_NAME_0"] = "Destekleyen:";
+$MESS["LANDING_TPL_COPY_NAME_SMN_0"] = "Destekleyen:";
+$MESS["LANDING_TPL_COPY_NAME_SMN_1"] = "Bitrix24";
+$MESS["LANDING_TPL_COPY_REVIEW"] = "Ücretsiz web siteleri ve CRM.";
+$MESS["LANDING_TPL_EDIT_PAGE"] = "Sayfayı düzenle";
+$MESS["LANDING_TPL_EDIT_PAGE_GROUP"] = "Makaleyi düzenle";
+$MESS["LANDING_TPL_EDIT_PAGE_KNOWLEDGE"] = "Makaleyi düzenle";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_ASK"] = "İstek gönder";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_GROUP"] = "Çalışma grubunu göster";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_GROUP"] = "Çalışma grubunun bir üyesi olun veya #LINK1#çalışma grubu profil sayfasından#LINK2# bir üyelik isteği gönderin.";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_KNOWLEDGE"] = "Bu bilgi tabanına erişim sağlamak için kullanıcılardan birine istek gönderin.";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE"] = "Hâlâ hiçbir şey bulamıyoruz. Lütfen adresinizi tekrar kontrol edin.";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE_KNOWLEDGE"] = "#LINK1#Listeden#LINK2# ihtiyacınız olan bilgi tabanını bulmaya çalışın";
+$MESS["LANDING_TPL_SETTINGS_BUTTON_TITLE"] = "Ayarlar";
+$MESS["LANDING_TPL_SITES"] = "Sitelerim";
+$MESS["LANDING_TPL_SITES_GROUP"] = "Bilgi tabanları";
+$MESS["LANDING_TPL_SITES_KNOWLEDGE"] = "Bilgi tabanları";
+$MESS["LANDING_TPL_SITES_STORE"] = "Hikayelerim";
+$MESS["LANDING_TPL_TITLE"] = "Web sitesi";
+?>

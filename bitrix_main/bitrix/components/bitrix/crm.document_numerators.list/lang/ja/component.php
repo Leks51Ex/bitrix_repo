@@ -1,0 +1,22 @@
+<?
+$MESS["CRM_ALL"] = "合計";
+$MESS["CRM_COLUMN_NUMERATOR_LIST_ID"] = "ID";
+$MESS["CRM_COLUMN_NUMERATOR_LIST_NAME"] = "自動番号付けテンプレートの名前";
+$MESS["CRM_COLUMN_NUMERATOR_LIST_TEMPLATE"] = "番号テンプレート";
+$MESS["CRM_COLUMN_NUMERATOR_LIST_TEMPLATE_NAME"] = "この番号テンプレートを使用中のテンプレート";
+$MESS["CRM_COLUMN_NUMERATOR_LIST_TYPE"] = "タイプ";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM はインストールされていません.";
+$MESS["CRM_NUMERATOR_LIST_CREATE_NUMERATOR"] = "自動番号付けテンプレートを作成する";
+$MESS["CRM_NUMERATOR_LIST_DELETE"] = "自動番号付けテンプレートを削除する";
+$MESS["CRM_NUMERATOR_LIST_DELETE_CONFIRM"] = "\"%s\"を削除してもよろしいですか？";
+$MESS["CRM_NUMERATOR_LIST_DELETE_ERROR"] = "自動番号付けテンプレート \"#NUMERATOR_NAME#\" を削除できません";
+$MESS["CRM_NUMERATOR_LIST_DELETE_TITLE"] = "この自動番号付けテンプレートを削除する";
+$MESS["CRM_NUMERATOR_LIST_EDIT"] = "編集";
+$MESS["CRM_NUMERATOR_LIST_EDIT_ERROR"] = "自動番号付けテンプレート \"#NUMERATOR_NAME#\" を保存できません";
+$MESS["CRM_NUMERATOR_LIST_EDIT_TITLE"] = "この自動番号付けテンプレートを編集する";
+$MESS["CRM_NUMERATOR_LIST_FILTER_ENTITIES"] = "CRM セクションへのリンク";
+$MESS["CRM_NUMERATOR_LIST_INTERNAL_ERROR_TITLE"] = "不明なエラーが発生しました。";
+$MESS["CRM_NUMERATOR_LIST_PAGE_TITLE"] = "文書の自動番号付けテンプレート";
+$MESS["CRM_PERMISSION_DENIED"] = "アクセス拒否されました";
+$MESS["DOCUMENTGENERATOR_MODULE_NOT_INSTALLED"] = "Documentgenerator モジュールがインストールされていません。";
+?>

@@ -1,0 +1,38 @@
+<?
+$MESS["F_AUTHOR"] = "Tác giả:";
+$MESS["F_CLOSED"] = "Đã đóng";
+$MESS["F_CLOSED_TOPIC"] = "Chủ đề đã bị đóng";
+$MESS["F_CREATE_NEW_TOPIC"] = "<noindex><a rel='nofollow' href='#HREF#'>tạo một chủ đề đầu tiên</a></noindex> trong chủ đề này";
+$MESS["F_HAVE_NEW_MESS"] = "Các bài viết mới";
+$MESS["F_HEAD_AUTHOR"] = "Tác giả";
+$MESS["F_HEAD_LAST_POST"] = "Bài viết cuối cùng";
+$MESS["F_HEAD_POSTS"] = "Các bài viết";
+$MESS["F_HEAD_TOPICS"] = "Các chủ đề";
+$MESS["F_HEAD_VIEWS"] = "Lượt xem";
+$MESS["F_MANAGE_CLOSE"] = "Đóng các chủ đề";
+$MESS["F_MANAGE_DELETE"] = "Xóa bỏ các chủ đề";
+$MESS["F_MANAGE_MOVE"] = "Di chuyển các chủ đề";
+$MESS["F_MANAGE_OPEN"] = "Mở các chủ đề";
+$MESS["F_MANAGE_PIN"] = "Đóng các chủ đề";
+$MESS["F_MANAGE_TOPICS"] = "Quản lý các chủ đề";
+$MESS["F_MANAGE_UNPIN"] = "Gỡ đóng các chủ đề";
+$MESS["F_MESSAGE_NOT_APPROVED"] = "Tin nhắn không được chấp nhận";
+$MESS["F_MOVED"] = "Được di chuyển";
+$MESS["F_MOVED_TOPIC"] = "Chủ đề đã bị di chuyển";
+$MESS["F_NEW_TOPIC"] = "Thêm vào chủ đề mới";
+$MESS["F_NEW_TOPIC_TITLE"] = "Thêm chủ đề mới trong diễn đàn này";
+$MESS["F_NO_NEW_MESS"] = "Không có bài viết mới";
+$MESS["F_NO_TOPICS_HERE"] = "Không có chủ đề nào ở đây";
+$MESS["F_PINNED"] = "Được đóng";
+$MESS["F_PINNED_CLOSED_TOPIC"] = "Chủ đề bị đóng";
+$MESS["F_PINNED_TOPIC"] = "Được đóng";
+$MESS["F_SELECT_ALL"] = "Chọn tất cả";
+$MESS["F_SET_FORUM_READ"] = "Đánh dấu tất cả bài viết đã đọc";
+$MESS["F_SUBSCRIBE"] = "Theo đõi ";
+$MESS["F_SUBSCRIBE_TO_NEW_POSTS"] = "Theo dõi các bài viết mới";
+$MESS["F_TOPIC_START"] = "Ngày bắt đầu";
+$MESS["F_USER_PROFILE"] = "Hồ sơ người dùng";
+$MESS["JS_DEL_TOPICS"] = "Chủ dề này sẽ không được phục hồi khi xóa bỏ. Bạn có muốn tiếp tục?";
+$MESS["JS_NO_ACTION"] = "Không có hành động chọn sẽ được thực hiện trong chủ đề. Vui lòng chọn một hành động";
+$MESS["JS_NO_TOPICS"] = "Không có chủ đề được chọn. Vui lòng chon các chủ đề";
+?>

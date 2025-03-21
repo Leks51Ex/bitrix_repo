@@ -1,0 +1,23 @@
+<?php
+$MESS["CPD_ACCESS_DENIED_ERROR_TITLE"] = "Izin tidak mencukupi untuk melihat produk.";
+$MESS["CPD_ADD_PRODUCT_DENIED_ERROR_TITLE"] = "Izin tidak mencukupi untuk membuat produk.";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON"] = "Buat objek inventaris";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON_POPUP_ADJUSTMENT"] = "Tanda terima stok";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON_POPUP_DEDUCT"] = "Penghapusan";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON_POPUP_MOVING"] = "Transfer";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON_POPUP_SHIPMENT"] = "Pesanan penjualan";
+$MESS["CPD_EDIT_PRODUCT_DENIED_ERROR_TITLE"] = "Izin tidak mencukupi untuk mengedit produk.";
+$MESS["CPD_ENABLE_INVENTORY_MANAGEMENT_DENIED_ERROR_TITLE"] = "Izin tidak mencukupi untuk mengaktifkan Manajemen Inventaris.";
+$MESS["CPD_ERROR_ADD_HIGHLOAD_BLOCK"] = "Tidak dapat membuat kamus dengan nama ini";
+$MESS["CPD_ERROR_CATALOG_SERVICES_LIMIT_EDITION"] = "Edisi produk Anda tidak termasuk fitur Layanan.";
+$MESS["CPD_ERROR_CATALOG_SERVICES_LIMIT_TARIFF"] = "<a onclick=\"#LINK#\" style=\"cursor: pointer\">Paket Anda saat ini</a> tidak mendukung layanan.";
+$MESS["CPD_ERROR_EMPTY_DIRECTORY_ITEMS"] = "Tambahkan item ke daftar kamus";
+$MESS["CPD_ERROR_EMPTY_LIST_ITEMS"] = "Tambahkan item daftar";
+$MESS["CPD_ERROR_NOT_SUPPORTED_PRODUCT_TYPE"] = "Jenis produk \"#TYPE#\" yang Anda pilih tidak didukung oleh formulir produk baru. Anda dapat melihat dan mengedit produk ini di area Toko Online.<br>#LINK#";
+$MESS["CPD_ERROR_UNKNOWN_PRODUCT_TYPE"] = "Jenis produk tidak dikenal.";
+$MESS["CPD_NEW_LIST_ELEMENT_EMPTY_NAME"] = "Item baru";
+$MESS["CPD_NEW_PRODUCT_TITLE"] = "Produk baru";
+$MESS["CPD_NEW_SERVICE_TITLE"] = "Layanan baru";
+$MESS["CPD_NOT_FOUND_ERROR_TITLE"] = "Produk tidak ditemukan. Mungkin sudah dihapus.";
+$MESS["CPD_SETS_NOT_SUPPORTED_LINK"] = "Lanjutkan ke Toko Online sekarang";
+$MESS["CPD_SETS_NOT_SUPPORTED_TITLE"] = "Jenis produk Bundel yang Anda pilih tidak didukung oleh formulir produk baru. Anda dapat melihat dan mengedit set di area Toko Online.<br>#LINK#";

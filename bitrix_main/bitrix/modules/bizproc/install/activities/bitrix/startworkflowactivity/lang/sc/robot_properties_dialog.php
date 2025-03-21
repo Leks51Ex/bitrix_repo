@@ -1,0 +1,7 @@
+<?php
+$MESS["BPSWFA_RPD_ACCESS_DENIED_1"] = "只有Bitrix24管理员才能访问动作属性。";
+$MESS["BPSWFA_RPD_DOCUMENT_ID"] = "实体 ID";
+$MESS["BPSWFA_RPD_DOCUMENT_TYPE_1"] = "元素类型";
+$MESS["BPSWFA_RPD_ENTITY"] = "实体";
+$MESS["BPSWFA_RPD_TEMPLATE"] = "模板";
+$MESS["BPSWFA_RPD_USE_SUBSCRIPTION"] = "等待工作流程结束";

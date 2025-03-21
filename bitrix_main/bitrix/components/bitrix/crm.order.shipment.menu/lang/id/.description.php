@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_ORDER_SHIPMENT_MENU_DESCRIPTION"] = "Bilah alat";
+$MESS["CRM_ORDER_SHIPMENT_MENU_NAME"] = "Bilah alat";
+$MESS["CRM_ORDER_SHIPMENT_NAME"] = "Pengiriman";
+?>

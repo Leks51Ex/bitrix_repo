@@ -1,0 +1,7 @@
+<?
+$MESS["CRM_ORDER_NOT_FOUND"] = "找不到订单";
+$MESS["CRM_PRODUCT_CURRENCY_EMPTY"] = "未指定产品货币";
+$MESS["CRM_PRODUCT_NAME_EMPTY"] = "产品名称缺失";
+$MESS["CRM_PRODUCT_PRICE_EMPTY"] = "价格为必填";
+$MESS["CRM_PRODUCT_QUANTITY_EMPTY"] = "产品数量缺失";
+?>

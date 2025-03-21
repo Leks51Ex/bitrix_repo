@@ -1,0 +1,32 @@
+<?
+$MESS["ME_ADD"] = "Rapat baru";
+$MESS["ME_COPY"] = "Buat rapat berikutnya";
+$MESS["ME_COPY_EX"] = "Buat rapat baru berdasarkan hasil saat ini";
+$MESS["ME_CURRENT_STATE"] = "Tahap";
+$MESS["ME_DATE_START"] = "Tanggal";
+$MESS["ME_DELETE"] = "Hapus rapat";
+$MESS["ME_DELETE_CONFIRM"] = "Anda yakin ingin menghapus rapat ini?";
+$MESS["ME_DELETE_EX"] = "Hapus rapat";
+$MESS["ME_DETAIL"] = "Tampilkan rapat";
+$MESS["ME_DETAIL_EX"] = "Tampilkan dan edit rapat";
+$MESS["ME_EDIT"] = "Edit rapat";
+$MESS["ME_EDIT_EX"] = "Tampilkan dan edit rapat";
+$MESS["ME_ERR_NO_MEETINGS"] = "Tidak ada rapat direncanakan";
+$MESS["ME_FILTER"] = "Filter";
+$MESS["ME_FILTER_CANCEL"] = "Batal";
+$MESS["ME_FILTER_CURRENT_STATE"] = "Tahap";
+$MESS["ME_FILTER_CURRENT_STATE_ALL"] = "(semua)";
+$MESS["ME_FILTER_GROUP"] = "Proyek";
+$MESS["ME_FILTER_HEAD"] = "Hanya rapat saya";
+$MESS["ME_FILTER_MEMBER"] = "Peserta";
+$MESS["ME_FILTER_OWNER"] = "Pemilik";
+$MESS["ME_FILTER_OWNER_CHOOSE"] = "Pilih";
+$MESS["ME_FILTER_SUBMIT"] = "Cari";
+$MESS["ME_FILTER_TITLE"] = "Nama";
+$MESS["ME_OWNER"] = "Pemilik";
+$MESS["ME_PLACE"] = "Lokasi";
+$MESS["ME_STATE_A"] = "Sedang berlangsung";
+$MESS["ME_STATE_C"] = "Selesai";
+$MESS["ME_STATE_P"] = "Belum dimulai";
+$MESS["ME_TITLE"] = "Topik";
+?>

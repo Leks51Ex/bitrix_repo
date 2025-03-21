@@ -1,0 +1,32 @@
+<?
+$MESS["VI_CONFIG_BUY"] = "租用電話號碼";
+$MESS["VI_CONFIG_BUY_DESC_1"] = "跨員工進行撥號的路由傳送";
+$MESS["VI_CONFIG_BUY_DESC_2"] = "記錄通話";
+$MESS["VI_CONFIG_BUY_DESC_3"] = "完整 CRM 整合";
+$MESS["VI_CONFIG_BUY_DESC_4"] = "有競爭力的價格";
+$MESS["VI_CONFIG_BUY_DESC_5"] = "50 多個國家的電話號碼";
+$MESS["VI_CONFIG_LINK"] = "連接您的號碼";
+$MESS["VI_CONFIG_LINK_DESC_1"] = "僅限撥出電話";
+$MESS["VI_CONFIG_LINK_DESC_2"] = "不在 Bitrix24 中購買電話號碼";
+$MESS["VI_CONFIG_LINK_DESC_3"] = "記錄客戶設定檔中的通話";
+$MESS["VI_CONFIG_LINK_DESC_4"] = "記錄撥出電話";
+$MESS["VI_CONFIG_LINK_DESC_5"] = "支援回撥";
+$MESS["VI_CONFIG_NOTICE_NEW"] = "在此選取預設已撥電話號碼：\"#LINK_CONFIG#\".在此設置分機電話號碼：\"#LINK_USERS#\".";
+$MESS["VI_CONFIG_OWN"] = "連線您的 PBX";
+$MESS["VI_CONFIG_OWN_DESC_1"] = "跨員工進行撥號的路由傳送";
+$MESS["VI_CONFIG_OWN_DESC_2"] = "記錄通話";
+$MESS["VI_CONFIG_OWN_DESC_3"] = "完整 CRM 整合";
+$MESS["VI_CONFIG_OWN_DESC_4"] = "付款給您的電信業者";
+$MESS["VI_CONFIG_PAGE_CONFIG"] = "其他設定";
+$MESS["VI_CONFIG_PAGE_CONFIG_USERS"] = "電話語音使用者";
+$MESS["VI_CONFIG_PARTNERS_TITLE"] = "合作夥伴電話服務";
+$MESS["VI_CONFIG_RENT"] = "租用號碼";
+$MESS["VI_CONFIG_RENT_2_DESC"] = "在 Bitrix24 中連接電話號碼、撥號和接受通話。享受便利的服務，而且更便宜！";
+$MESS["VI_CONFIG_RENT_DESC"] = "從我們的營辦商處租用一組電話號碼，並接受 Bitrix24 內部的直接通話。這麼做，非常容易、方便，有助於您的業務！";
+$MESS["VI_CONFIG_SET"] = "連線";
+$MESS["VI_CONFIG_SET_ACTIVE"] = "已連線";
+$MESS["VI_CONFIG_SET_OTHER"] = "透過市集應用程式連線";
+$MESS["VI_CONFIG_SIP"] = "連線 SIP PBX";
+$MESS["VI_CONFIG_SIP_DESC"] = "您擁有自己的 PBX？進行連線，並直接從 Bitrix24 撥號。";
+$MESS["VI_CONFIG_WELCOME_MESSAGE"] = "以可負擔的費率，從 Bitrix24 撥打電話給您的客戶。租用一組電話號碼以便接受來電。記錄談話、新增 CRM　的來電事項、建立來電的連絡人，並檢視所有與 Bitrix24 相關的通話報告。";
+?>

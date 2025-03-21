@@ -1,0 +1,21 @@
+<?
+$MESS["SENDER_CONTACT_LIST_BTN_ADD"] = "सूची में जोड़ें";
+$MESS["SENDER_CONTACT_LIST_BTN_ADD_TO_BL"] = "ब्लैकलिस्ट में जोड़ें";
+$MESS["SENDER_CONTACT_LIST_BTN_ADD_TO_BL_TITLE"] = "ब्लैकलिस्ट में जोड़ें";
+$MESS["SENDER_CONTACT_LIST_BTN_EDIT"] = "संपादित करें";
+$MESS["SENDER_CONTACT_LIST_BTN_EDIT_TITLE"] = "संपादित करें";
+$MESS["SENDER_CONTACT_LIST_BTN_RECIPIENT"] = "न्यूजलेटर्स";
+$MESS["SENDER_CONTACT_LIST_BTN_RECIPIENT_STAT"] = "न्यूजलेटर्स";
+$MESS["SENDER_CONTACT_LIST_BTN_RECIPIENT_TITLE"] = "इस प्राप्तकर्ता से कैंपेन ढूँढें";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE"] = "हटाएँ";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_BL"] = "ब्लैक लिस्ट से हटाएँ";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_BL_TITLE"] = "ब्लैक लिस्ट से हटाएँ";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_L"] = "सूची से निकालें";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_LIST"] = "हटाएँ";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_LIST_TITLE"] = "वर्तमान सूची से निकालें";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_L_TITLE"] = "सूची से निकालें";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_TITLE"] = "वर्तमान सूची से निकालें";
+$MESS["SENDER_CONTACT_LIST_BTN_SET_LIST"] = "कस्टम प्राप्तकर्ता सूचियाँ";
+$MESS["SENDER_CONTACT_LIST_BTN_VIEW"] = "व्यू";
+$MESS["SENDER_CONTACT_LIST_BTN_VIEW_TITLE"] = "देखें";
+?>

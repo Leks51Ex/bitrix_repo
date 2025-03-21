@@ -1,0 +1,35 @@
+<?
+$MESS["CT_BSP_KEYBOARD_WARNING"] = "Ngôn ngữ thay đổi cho yêu cầu \"#query#\".";
+$MESS["SEARCH_ADDITIONAL_FILTER"] = "Tìm kiếm sâu hơn";
+$MESS["SEARCH_ADDITIONAL_FILTER_DATE"] = "Bởi ngày tháng";
+$MESS["SEARCH_ADDITIONAL_FILTER_FEATURE"] = "Bởi chức năng";
+$MESS["SEARCH_ALL"] = "(tất cả)";
+$MESS["SEARCH_AND"] = "và";
+$MESS["SEARCH_AND_ALT"] = "Cấu trúc <i>lôgic and</i> được viết và có thể được tối giản: a query &quot;contact information&quot; đều như nhau to &quot;contact and information&quot;.";
+$MESS["SEARCH_BRACKETS_ALT"] = "<i>Dấu ngoặc tròn</i> giải nghĩa cho những viết người viết logic trước đây.";
+$MESS["SEARCH_CONTENT_TYPE_BLOG"] = "Blog";
+$MESS["SEARCH_CONTENT_TYPE_CALENDAR"] = "Lịch";
+$MESS["SEARCH_CONTENT_TYPE_FILES"] = "Tập tin";
+$MESS["SEARCH_CONTENT_TYPE_FORUM"] = "Diễn đàn";
+$MESS["SEARCH_CONTENT_TYPE_PHOTO"] = "Ảnh";
+$MESS["SEARCH_CONTENT_TYPE_TASKS"] = "Tác vụ";
+$MESS["SEARCH_CORRECT_AND_CONTINUE"] = "Hãy sửa lại câu tìm kiếm và thử lại lần nữa";
+$MESS["SEARCH_DESCRIPTION"] = "Mô tả";
+$MESS["SEARCH_ERROR"] = "Lỗi trong câu tìm kiếm";
+$MESS["SEARCH_GO"] = "Đi";
+$MESS["SEARCH_LOGIC"] = "Những người viết lôgic";
+$MESS["SEARCH_MODIFIED"] = "Chỉnh sửa";
+$MESS["SEARCH_NOT"] = "không";
+$MESS["SEARCH_NOTHING_TO_FOUND"] = "Thật tiếc thay, việc tìm kiếm không phù hợp với bất cứ tài liệu nào cả";
+$MESS["SEARCH_NOT_ALT"] = "Người điều hành <i>logical not</i> không cho tìm kiếm những trang chứa đựng biến";
+$MESS["SEARCH_OPERATOR"] = "Tổng đài";
+$MESS["SEARCH_OR"] = "hay";
+$MESS["SEARCH_OR_ALT"] = "Người điều hành <i>logical or</i> cho phép tìm kiếm ít nhất một trong những biến này.";
+$MESS["SEARCH_PATH"] = "Đường dẫn:";
+$MESS["SEARCH_SINTAX"] = "<b>Cấu trúc yêu cầu tìm kiếm :</b><br /><br />Cấu trúc tìm kiếm có thể là một hay nhiều từ, ví dụ:<br /><i>contact information</i><br />yêu cầu này bao gồm những trang chứa đựng những từ tìm kiếm.<br /><br />Những nhà viết cấu trúc cho phép viết những yêu cầu phức tạp hơn, ví dụ <br /><i>contact information or phone</i><br />yêu cầu này bao gồm một trong những từ này &quot;contact&quot; and &quot;information&quot; or &quot;phone&quot;.<br /><br /> <i>contact information not phone</i><br /> Yêu cầu này bao gồm những trang chứa đựng những từ này &quot;contact&quot; and &quot;information&quot; but not &quot;phone&quot;.<br /> Bạn có thể dùng dấu ngoặc đươn để tạo ra những yêu cầu phức tạp hơn<br />";
+$MESS["SEARCH_SORTED_BY_DATE"] = "Đã sắp xếp theo ngày";
+$MESS["SEARCH_SORTED_BY_RANK"] = "Đã sắp xếp theo sự liên quan";
+$MESS["SEARCH_SORT_BY_DATE"] = "Sắp xếp theo ngày";
+$MESS["SEARCH_SORT_BY_RANK"] = "Sắp xếp theo sự liên quan";
+$MESS["SEARCH_SYNONIM"] = "Đồng nghĩa";
+?>

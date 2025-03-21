@@ -1,0 +1,10 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM modülü kurulu değil.";
+$MESS["CRM_PERMISSION_DENIED"] = "Erişim reddedildi";
+$MESS["CRM_PRESET_ENTITY_TYPE_INVALID"] = "Geçersiz şablon türü";
+$MESS["CRM_PRESET_UFIELDS_TITLE"] = "Kullanılmayan özel alanlar";
+$MESS["CRM_PRESET_UFIELD_FIELD_NAME"] = "Ad";
+$MESS["CRM_PRESET_UFIELD_FIELD_TITLE"] = "Ad";
+$MESS["CRM_PRESET_UFIELD_FIELD_TYPE"] = "Tür";
+$MESS["CRM_PRESET_UFIELD_ID"] = "ID";
+?>

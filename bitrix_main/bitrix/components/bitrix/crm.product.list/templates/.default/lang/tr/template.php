@@ -1,0 +1,31 @@
+<?
+$MESS["CRM_ALL"] = "Toplam";
+$MESS["CRM_PRODUCT_COPY"] = "Ürünü kopyala";
+$MESS["CRM_PRODUCT_COPY_TITLE"] = "Ürün kopyalama sayfasını aç";
+$MESS["CRM_PRODUCT_DELETE"] = "Ürünü sil";
+$MESS["CRM_PRODUCT_DELETE_CONFIRM"] = "Şunu silmek istediğinden emin misin?: '%s'";
+$MESS["CRM_PRODUCT_DELETE_TITLE"] = "Bu ürünü sil";
+$MESS["CRM_PRODUCT_EDIT"] = "Ürünü Düzenle";
+$MESS["CRM_PRODUCT_EDIT_TITLE"] = "Bu ürünü düzenle";
+$MESS["CRM_PRODUCT_LIST_SHOW_FILTER"] = "Filtre formunu göster/gizle";
+$MESS["CRM_PRODUCT_LIST_SHOW_FILTER_SHORT"] = "Filtre";
+$MESS["CRM_PRODUCT_PROP_CHOOSE_ELEMENT"] = "Listeden seç";
+$MESS["CRM_PRODUCT_PROP_DOWNLOAD"] = "İndir";
+$MESS["CRM_PRODUCT_PROP_ENLARGE"] = "Büyüt";
+$MESS["CRM_PRODUCT_PROP_NO_SEARCH_RESULT_TEXT"] = "arama sonucunda hiçbir şey bulunamadı ";
+$MESS["CRM_PRODUCT_PROP_NO_VALUE"] = "(ayarlı değil)";
+$MESS["CRM_PRODUCT_PROP_START_TEXT"] = "(adı girin)";
+$MESS["CRM_PRODUCT_SECTION_ACTION_DELETE1"] = "Bölümü Sil";
+$MESS["CRM_PRODUCT_SECTION_ACTION_DELETE_PROPMT"] = "Bu işlem tüm alt bölümleri ve alt ögeleri silecek. Devam etmek istediğinden emin misin?";
+$MESS["CRM_PRODUCT_SECTION_ACTION_RENAME1"] = "Bölümü yeniden adlandır";
+$MESS["CRM_PRODUCT_SHOW"] = "Ürünü görüntüle";
+$MESS["CRM_PRODUCT_SHOW_TITLE"] = "Bu ürün sayfasını görüntüle";
+$MESS["CRM_SECTION_ADD_BTN_TEXT"] = "Ekle";
+$MESS["CRM_SECTION_ADD_DIALOG_TITLE"] = "Bölüm Ekle";
+$MESS["CRM_SECTION_CANCEL_BTN_TEXT"] = "İptal";
+$MESS["CRM_SECTION_DEFAULT_NAME"] = "Yeni Bölüm";
+$MESS["CRM_SECTION_EMPTY_NAME_ERROR"] = "Lütfen bölüm adını gir.";
+$MESS["CRM_SECTION_NAME_FIELD_TITLE"] = "Ad";
+$MESS["CRM_SECTION_RENAME_BTN_TEXT"] = "Yeniden adlandır";
+$MESS["CRM_SECTION_RENAME_DIALOG_TITLE"] = "Bölümü yeniden adlandır";
+?>

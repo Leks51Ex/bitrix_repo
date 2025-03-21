@@ -1,0 +1,16 @@
+<?
+$MESS["CRM_COLUMN_MAIL_TEMPLATE_CREATED"] = "สร้างขึ้นเมื่อ";
+$MESS["CRM_COLUMN_MAIL_TEMPLATE_ENTITY_TYPE"] = "เอนทิตี้";
+$MESS["CRM_COLUMN_MAIL_TEMPLATE_ID"] = "ไอดี";
+$MESS["CRM_COLUMN_MAIL_TEMPLATE_IS_ACTIVE"] = "ใช้งานอยู่";
+$MESS["CRM_COLUMN_MAIL_TEMPLATE_LAST_UPDATED"] = "ถูกแก้ไขเมื่อ";
+$MESS["CRM_COLUMN_MAIL_TEMPLATE_OWNER"] = "เจ้าของ";
+$MESS["CRM_COLUMN_MAIL_TEMPLATE_SCOPE"] = "มีให้ใช้ได้";
+$MESS["CRM_COLUMN_MAIL_TEMPLATE_SORT"] = "เรียงลำดับ";
+$MESS["CRM_COLUMN_MAIL_TEMPLATE_TITLE"] = "ชื่อ";
+$MESS["CRM_MAIL_TEMPLATE_COMMON_TEMPLATE_NAME"] = "เทมเพลตที่ใช้ร่วมกัน";
+$MESS["CRM_MAIL_TEMPLATE_DELETION_GENERAL_ERROR"] = "เกิดขัอผิดพลาดในการลบเทมเพลต \"#TITLE#\"";
+$MESS["CRM_MAIL_TEMPLATE_UPDATE_GENERAL_ERROR"] = "เกิดข้อผิดพลาดในการอัปเดตเทมเพลตอีเมล";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล CRM";
+$MESS["CRM_PERMISSION_DENIED"] = "ปฏิเสธการเข้าใช้";
+?>

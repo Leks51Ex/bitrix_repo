@@ -1,0 +1,7 @@
+<?
+$MESS["IEST_CURRENT_SELECTED_ITEMS"] = "選択済み";
+$MESS["IEST_ELEMENT_SEARCH"] = "検索";
+$MESS["IEST_ERROR_ACCESS_DENIED"] = "アイテムを表示する権限がありません";
+$MESS["IEST_LAST_ELEMENT"] = "最近";
+$MESS["IEST_SELECT_ITEMS"] = "選択する";
+?>

@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_ANALYTICS_SOURCE_UTM_TITLE_ADD"] = "UTMパラメータセットの作成";
+$MESS["CRM_ANALYTICS_SOURCE_UTM_TITLE_EDIT"] = "UTMパラメータセットの編集";
+?>

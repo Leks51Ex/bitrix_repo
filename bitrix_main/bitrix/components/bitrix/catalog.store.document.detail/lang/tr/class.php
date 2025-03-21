@@ -1,0 +1,22 @@
+<?php
+$MESS["CATALOG_STORE_DOCUMENT_BARCODE_EXIST_ERROR"] = "\"#BARCODE#\" numaralı barkod, katalogda zaten farklı bir ürüne atanmış.";
+$MESS["CATALOG_STORE_DOCUMENT_CANCEL_CONDUCT_BUTTON"] = "İşlemeyi iptal et";
+$MESS["CATALOG_STORE_DOCUMENT_CONDUCT_BUTTON"] = "İşle";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_CANCEL_ERROR"] = "İşleme iptal edilirken bir hata oluştu";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_CONDUCT_ERROR"] = "İşleme hatası";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOCUMENT_BUTTON"] = "Belge";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOCUMENT_NOT_FOUND_ERROR"] = "Envanter nesnesi bulunamadı.";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOCUMENT_TYPE_NOT_SPECIFIED_ERROR"] = "Envanter nesnesi türü gereklidir.";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOC_TYPE_A"] = "Stok makbuzu";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOC_TYPE_D"] = "Yazılan zarar";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOC_TYPE_M"] = "Stok aktarımı";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_INCORRECT_VALUE"] = "\"#FIELD_NAME#\" alanının değeri yanlış";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_NO_VIEW_RIGHTS_ERROR"] = "Envanter nesnesini görüntülemek için izinler yetersiz";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_NO_WRITE_RIGHTS_ERROR"] = "Envanter nesnesini kaydetmek için izinler yetersiz";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_SAVE_ERROR"] = "Envanter nesnesi kaydedilirken bir hata oluştu";
+$MESS["CATALOG_STORE_DOCUMENT_ELEMENT_STORE_ACCESS_DENIED"] = "\"#PRODUCT_NAME#\" için varlık kaydetmek üzere bu depoya erişme izniniz yok.";
+$MESS["CATALOG_STORE_DOCUMENT_ERR_ACCESS_DENIED"] = "Envanter Yönetimi alanını görüntülemek için yeterli izin yok.";
+$MESS["CATALOG_STORE_DOCUMENT_ERR_ACCESS_DENIED_BOX"] = "Envanter Yönetimine erişim izniniz yok. Erişim elde etmek için lütfen Bitrix24 yöneticinizle iletişime geçin. <a href=\"https://training.bitrix24.com/support/training/course/index.php?COURSE_ID=178&LESSON_ID=25118\" target=\"_blank\">Daha fazla bilgi edinin</a>";
+$MESS["CATALOG_STORE_DOCUMENT_ERR_ACCESS_DENIED_CLOUD"] = "Envanter Yönetimine erişim izniniz yok. Erişim elde etmek için lütfen Bitrix24 yöneticinizle iletişime geçin. Yöneticinin, CRM ayarlarında size Müdür rolünü ataması gerekmektedir. <a onclick=\"top.BX.Helper.show('redirect=detail&code=15955386')\" style=\"cursor: pointer; \">Daha fazla bilgi edinin</a>";
+$MESS["CATALOG_STORE_DOCUMENT_NO_PRODUCT"] = "Envanter nesnesini kaydetmek için bir ürün seçmeniz veya oluşturmanız gerekir";
+$MESS["CATALOG_STORE_DOCUMENT_SAVE_AND_CONDUCT_BUTTON"] = "Kaydet ve işle";

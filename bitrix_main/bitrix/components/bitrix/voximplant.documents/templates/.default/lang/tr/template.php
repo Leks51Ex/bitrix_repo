@@ -1,0 +1,21 @@
+<?php
+$MESS["VI_DOCS_BODY"] = "Kiralık numara kullanmak için hukuki dokümanlar sağlamak, bazı ülkelerde telefon sağlayıcıların uymak zorunda oldukları bir hukuki zorunluluktur. <br>Numara kiralandığı süre boyunca belgeler sağlamalısın.";
+$MESS["VI_DOCS_BODY_2"] = "Bazı ülkelerde, kiraladığınız numaralarınızı kullanmadan önce telefon şirketinin sizden resmi belgeler talep etmesi zorunludur.<br>Kiralama süresi boyunca numaraları tutmak ve kullanmak istiyorsanız bu bir zorunluluktur. Gerekli belgeleri yükleyene ve onaylanana kadar numaraları kullanamazsınız.";
+$MESS["VI_DOCS_COUNTRY_RU"] = "Rusya";
+$MESS["VI_DOCS_SERVICE_ERROR"] = "Belge yükleme hizmetine istek gönderilirken hata oluştu";
+$MESS["VI_DOCS_SERVICE_UPLOAD"] = "Yükleyin";
+$MESS["VI_DOCS_STATUS"] = "Durum:";
+$MESS["VI_DOCS_TABLE_COMMENT"] = "Yorum";
+$MESS["VI_DOCS_TABLE_LINK"] = "Belge yükleme geçmişi";
+$MESS["VI_DOCS_TABLE_OWNER"] = "Sahibi";
+$MESS["VI_DOCS_TABLE_STATUS"] = "Durumu kontrol et";
+$MESS["VI_DOCS_TABLE_TYPE"] = "tüzel kişi";
+$MESS["VI_DOCS_TABLE_UPLOAD"] = "Yüklendi:";
+$MESS["VI_DOCS_TITLE"] = "Yükleme Dokümantasyonu";
+$MESS["VI_DOCS_UNTIL_DATE"] = "#DATE# tarihine kadar belgeleri yüklemelisin.";
+$MESS["VI_DOCS_UNTIL_DATE_NOTICE"] = "Belirtilen tarihten sonra, rezerve edilmiş numaraların bağlantısı kesilecek, para hesabına geri yüklenecek. <br><br>Kiralanmış numaralar, kira süresinin sonuna kadar aktif kalacak.";
+$MESS["VI_DOCS_UPDATE_BTN"] = "Yeni belgeler yükle";
+$MESS["VI_DOCS_UPLOAD_BTN"] = "Belgeleri yükle";
+$MESS["VI_DOCS_UPLOAD_NOTICE"] = "Belgeleriniz, ilgili ülkelerin kanunları doğrultusunda işlenmek üzere doğrudan Voximplant, Inc'ye yüklenir. Bitrix24 herhangi bir şekilde kişisel verileri toplamaz, aktarmaz ya a işlemez.";
+$MESS["VI_DOCS_UPLOAD_WHILE_RENT"] = "Bir telefon numarası kiralamak için belgelerinizin doğrulanması gerekiyorsa numara kiralama kullanıcı arayüzü, belge yükleme formunu gösterecektir";
+$MESS["VI_DOCS_WAIT"] = "Yükleniyor... Lütfen bekle";

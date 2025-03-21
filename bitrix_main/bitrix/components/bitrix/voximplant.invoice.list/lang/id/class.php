@@ -1,0 +1,7 @@
+<?php
+$MESS["VOX_INVOICES_DATE_RANGE"] = "Rentang tanggal";
+$MESS["VOX_INVOICES_DOCUMENT_DATE"] = "Tanggal invois";
+$MESS["VOX_INVOICES_DOCUMENT_NUMBER"] = "#";
+$MESS["VOX_INVOICES_DOCUMENT_TYPE"] = "Jenis dokumen";
+$MESS["VOX_INVOICES_DOWNLOAD"] = "Unduh";
+$MESS["VOX_INVOICES_TOTAL_AMOUNT"] = "Total jumlah";

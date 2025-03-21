@@ -1,0 +1,34 @@
+<?
+$MESS["AJAX_TYPE_TIP"] = "AJAX kullan";
+$MESS["CACHE_TIME_TIP"] = "Önbellek Ömrü (saniye.)";
+$MESS["CACHE_TYPE_TIP"] = "Önbellek Türü";
+$MESS["DATE_FORMAT_TIP"] = "Tarih biçimi";
+$MESS["DATE_TIME_FORMAT_TIP"] = "Tarih ve saat biçimi";
+$MESS["FID_TIP"] = "Forum Kimliği";
+$MESS["IMAGE_SIZE_TIP"] = "Ekli Görsel Boyutu (piksel)";
+$MESS["MESSAGES_PER_PAGE_TIP"] = "Sayfa Başına Mesaj Sayısı";
+$MESS["MID_TIP"] = "Gönderi Kimliği";
+$MESS["PAGE_NAVIGATION_SHOW_ALL_TIP"] = "Tüm sayfaları göster seçeneğini etkinleştir";
+$MESS["PAGE_NAVIGATION_TEMPLATE_TIP"] = "Kırıntı Navigasyon Şablonu";
+$MESS["PAGE_NAVIGATION_WINDOW_TIP"] = "Kırıntılardaki Sayfalar";
+$MESS["SET_NAVIGATION_TIP"] = "Kırıntıları Göster";
+$MESS["SET_PAGE_PROPERTY_TIP"] = "Sayfanın HEAD Etiketine Anahtar Kelimeler ve Konu Tanımı Ekle";
+$MESS["SET_TITLE_TIP"] = "Sayfa Başlığını Ayarla";
+$MESS["SHOW_FIRST_POST_TIP"] = "Her Sayfada İlk Mesajı Göster";
+$MESS["SHOW_RATING_TIP"] = "Puanlamayı Göster";
+$MESS["TID_TIP"] = "Başlık Kimliği";
+$MESS["URL_TEMPLATES_INDEX_TIP"] = "Forum sayfası";
+$MESS["URL_TEMPLATES_LIST_TIP"] = "Başlıklar Sayfası";
+$MESS["URL_TEMPLATES_MESSAGE_MOVE_TIP"] = "Mesaj taşıma sayfası";
+$MESS["URL_TEMPLATES_MESSAGE_SEND_TIP"] = "Mesaj Oluşturma Sayfası";
+$MESS["URL_TEMPLATES_MESSAGE_TIP"] = "Mesaj görüntüleme sayfası (mesaj kimliği ile)";
+$MESS["URL_TEMPLATES_PM_EDIT_TIP"] = "Kişisel Mesajlar Sayfası";
+$MESS["URL_TEMPLATES_PROFILE_VIEW_TIP"] = "Kullanıcı Profili Url Şablonu";
+$MESS["URL_TEMPLATES_READ_TIP"] = "Başlık Görüntüleme Sayfası";
+$MESS["URL_TEMPLATES_RSS_TIP"] = "RSS Sayfası";
+$MESS["URL_TEMPLATES_SUBSCR_LIST_TIP"] = "Üyelik Sayfası";
+$MESS["URL_TEMPLATES_TOPIC_MOVE_TIP"] = "Başlık Taşıma Sayfası";
+$MESS["URL_TEMPLATES_TOPIC_NEW_TIP"] = "Yeni Tema Oluşturma Sayfası";
+$MESS["URL_TEMPLATES_USER_POST_TIP"] = "Kullanıcının Mesajlar Sayfası";
+$MESS["WORD_LENGTH_TIP"] = "Kelime Uzunluğu";
+?>

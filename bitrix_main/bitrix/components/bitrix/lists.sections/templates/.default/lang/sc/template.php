@@ -1,0 +1,8 @@
+<?
+$MESS["CT_BLS_NEW_SECTION_NAME"] = "输入新节名称";
+$MESS["CT_BLS_SECTION_NAME"] = "名称";
+$MESS["CT_BLS_TOOLBAR_ADD_SECTION_TITLE"] = "添加新科目到当前科目";
+$MESS["CT_BLS_TOOLBAR_ELEMENTS_TITLE"] = "打开列表";
+$MESS["CT_BLS_TOOLBAR_UP"] = "向上";
+$MESS["CT_BLS_TOOLBAR_UP_TITLE"] = "浏览父节";
+?>

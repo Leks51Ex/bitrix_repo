@@ -1,0 +1,5 @@
+<?
+$MESS["SENDER_CONTACT_SET_LIST_TITLE"] = "Daftar penerima tetap";
+$MESS["SENDER_CONTACT_SET_LIST_UI_COLUMN_CODE"] = "Kode simbol";
+$MESS["SENDER_CONTACT_SET_LIST_UI_COLUMN_NAME"] = "Nama";
+?>

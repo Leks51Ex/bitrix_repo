@@ -1,0 +1,5 @@
+<?
+$MESS["LANDING_CMP_DESCRIPTION"] = "可用登陆清单。";
+$MESS["LANDING_CMP_NAME"] = "登陆";
+$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";
+?>

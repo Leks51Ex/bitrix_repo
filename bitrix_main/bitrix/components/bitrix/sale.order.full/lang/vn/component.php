@@ -1,0 +1,37 @@
+<?
+$MESS["INFO_REQ"] = "Bạn đã đăng ký thành công.";
+$MESS["SALE_BASKET_EMPTY"] = "Giỏ hàng của bạn trống";
+$MESS["SALE_DELIVERY_NOT_FOUND"] = "Không tìm thấy phương thức vận chuyển.";
+$MESS["SALE_DELIV_PERIOD"] = "Thời hạn vận chuyển";
+$MESS["SALE_EMPTY_FIELD"] = "Trường này rỗng:";
+$MESS["SALE_ERROR_ADD_ORDER"] = "Lỗi lưu đơn hàng";
+$MESS["SALE_FROM"] = "từ";
+$MESS["SALE_MODULE_NOT_INSTALL"] = "e-Store mô-đun không được cài đặt";
+$MESS["SALE_NO"] = "Không";
+$MESS["SALE_NO_PAY_SYS"] = "Phương thức thanh toán không được lựa chọn.";
+$MESS["SALE_NO_PERS_TYPE"] = "Loại người thanh toán không được chọn.";
+$MESS["SALE_PAY_SYS_NOT_FOUND"] = "Không tìm thấy phương thức thanh toán.";
+$MESS["SALE_PERS_TYPE_NOT_FOUND"] = "Loại người thanh toán không tìm thấy.";
+$MESS["SALE_PER_DAY"] = "ngày";
+$MESS["SALE_PER_HOUR"] = "giờ";
+$MESS["SALE_PER_MONTH"] = "tháng";
+$MESS["SALE_PROFILE_NAME"] = "Hồ sơ";
+$MESS["SALE_QUANTITY_UNIT"] = "pcs.";
+$MESS["SALE_TAX_INPRICE"] = "đã bao gồm trong giá";
+$MESS["SALE_TO"] = "đến";
+$MESS["SALE_YES"] = "Có";
+$MESS["STOF_AUTH"] = "Cấp phép";
+$MESS["STOF_ERROR_AUTH"] = "Lỗi Cấp phép";
+$MESS["STOF_ERROR_AUTH_LOGIN"] = "Cấp phép lỗi: xin vui lòng nhập tên đăng nhập của bạn";
+$MESS["STOF_ERROR_REG"] = "Lỗi đăng ký";
+$MESS["STOF_ERROR_REG_BAD_EMAIL"] = "Lỗi đăng ký: hãy kiểm tra xem e-mail của bạn được nhập một cách chính xác";
+$MESS["STOF_ERROR_REG_CONFIRM"] = "Bạn đã đăng ký thành công. Thông báo xác nhận đăng ký đã được gửi đến e-mail của bạn bổ sung?ess.";
+$MESS["STOF_ERROR_REG_EMAIL"] = "Lỗi đăng ký: vui lòng nhập địa chỉ e-mail của bạn";
+$MESS["STOF_ERROR_REG_FLAG"] = "Lỗi đăng ký: vui lòng nhập tên đăng nhập mong muốn hoặc cho phép hệ thống tự động tạo ra nó";
+$MESS["STOF_ERROR_REG_FLAG1"] = "Lỗi đăng ký: vui lòng nhập mật khẩu mong muốn hoặc cho phép hệ thống tự động tạo ra nó";
+$MESS["STOF_ERROR_REG_LASTNAME"] = "Lỗi đăng ký: vui lòng nhập họ của bạn";
+$MESS["STOF_ERROR_REG_NAME"] = "Lỗi đăng ký: vui lòng nhập tên của bạn";
+$MESS["STOF_ERROR_REG_PASS"] = "Lỗi đăng ký: mật khẩu xác nhận không phù hợp với mật khẩu";
+$MESS["STOF_MAKING_ORDER"] = "Đơn hàng của bạn";
+$MESS["STOF_VAT"] = "VAT";
+?>

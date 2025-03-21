@@ -1,0 +1,29 @@
+<?
+$MESS["LANDING_TPL_ACCESS_ASK_DESCRIPTION_KNOWLEDGE"] = "このナレッジベースに読み取りアクセスするためのリクエストをユーザーの1人に送信してください。";
+$MESS["LANDING_TPL_ACCESS_ASK_HEADER_KNOWLEDGE"] = "このナレッジベースは非公開です";
+$MESS["LANDING_TPL_ACCESS_ASK_SEND_KNOWLEDGE"] = "アクセスをリクエスト";
+$MESS["LANDING_TPL_ACCESS_ASK_TITLE_KNOWLEDGE"] = "アクセスリクエスト";
+$MESS["LANDING_TPL_COPY_FULL"] = "Powered by #LOGO# &mdash; 無料のウェブサイトおよびCRMです。";
+$MESS["LANDING_TPL_COPY_FULL2"] = "Powered by <linklogo>#LOGO#</linklogo> &mdash; <linksite>無料のウェブサイト</linksite>および<linkcrm>CRM</linkcrm>です。<linkcreate>あなたのサイトを作成しましょう</linkcreate>";
+$MESS["LANDING_TPL_COPY_LINK"] = "あなたのサイトを作成しましょう。";
+$MESS["LANDING_TPL_COPY_NAME"] = "Bitrix24";
+$MESS["LANDING_TPL_COPY_NAME_0"] = "Powered by";
+$MESS["LANDING_TPL_COPY_NAME_SMN_0"] = "Powered by";
+$MESS["LANDING_TPL_COPY_NAME_SMN_1"] = "Bitrix24";
+$MESS["LANDING_TPL_COPY_REVIEW"] = "無料のウェブサイトおよびCRMです。";
+$MESS["LANDING_TPL_EDIT_PAGE"] = "ページを編集";
+$MESS["LANDING_TPL_EDIT_PAGE_GROUP"] = "記事を編集";
+$MESS["LANDING_TPL_EDIT_PAGE_KNOWLEDGE"] = "記事を編集";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_ASK"] = "リクエストを送信";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_GROUP"] = "ワークグループを表示";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_GROUP"] = "#LINK1#ワークグループのプロフィールページ#LINK2#でワークグループメンバーになるか、メンバーシップリクエストを送信してください。";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_KNOWLEDGE"] = "このナレッジベースにアクセスするためのリクエストをユーザーの1人に送信してください。";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE"] = "残念ながらまだ見つかりません。アドレスをもう一度ご確認ください。";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE_KNOWLEDGE"] = "#LINK1#リスト#LINK2#で必要なナレッジベースを探してみてください";
+$MESS["LANDING_TPL_SETTINGS_BUTTON_TITLE"] = "設定";
+$MESS["LANDING_TPL_SITES"] = "自分のサイト";
+$MESS["LANDING_TPL_SITES_GROUP"] = "ナレッジベース";
+$MESS["LANDING_TPL_SITES_KNOWLEDGE"] = "ナレッジベース";
+$MESS["LANDING_TPL_SITES_STORE"] = "自分のストア";
+$MESS["LANDING_TPL_TITLE"] = "Webサイト";
+?>

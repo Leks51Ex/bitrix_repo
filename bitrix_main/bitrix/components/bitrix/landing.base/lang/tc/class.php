@@ -1,0 +1,7 @@
+<?php
+$MESS["LANDING_CMP_NOT_INSTALLED"] = "目前不提供登陸頁服務";
+$MESS["LANDING_ERROR_ACCESS_DENIED"] = "已拒絕存取";
+$MESS["LANDING_ERROR_PAGE_NOT_FOUND"] = "未找到頁面或已拒絕存取。";
+$MESS["LANDING_ERROR_SESS_EXPIRED"] = "您的工作階段已經到期。";
+$MESS["LANDING_ERROR_SETTINGS_ACCESS_DENIED"] = "您沒有編輯設定的權限。請聯絡您的 Bitrix24 管理員。";
+$MESS["LANDING_GOTO_EDIT"] = "編輯設定";

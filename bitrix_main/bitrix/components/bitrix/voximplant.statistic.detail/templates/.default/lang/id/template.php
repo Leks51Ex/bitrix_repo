@@ -1,0 +1,23 @@
+<?php
+$MESS["CT_BLL_SELECTED"] = "Jumlah rekaman";
+$MESS["TEL_STAT_ACTION_CLOSE"] = "Tutup";
+$MESS["TEL_STAT_ACTION_DOWNLOAD"] = "Unggah rekaman ke Bitrix24";
+$MESS["TEL_STAT_ACTION_EXECUTE"] = "Jalankan";
+$MESS["TEL_STAT_ACTION_STOP"] = "Berhenti";
+$MESS["TEL_STAT_BACK"] = "Kembali";
+$MESS["TEL_STAT_BACK_TITLE"] = "Kembali";
+$MESS["TEL_STAT_CANCEL"] = "Batal";
+$MESS["TEL_STAT_DOWNLOAD_VOX_RECORD_ERROR"] = "Kesalahan mengunggah data. Silakan coba lagi nanti.";
+$MESS["TEL_STAT_ERROR"] = "Kesalahan";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL"] = "Ekspor detail panggilan ke Microsoft Excel";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL_DESCRIPTION"] = "Ini akan menciptakan file ekspor detail panggilan.";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL_LONG_PROCESS"] = "Mengekspor sejumlah besar data mungkin perlu beberapa lama.";
+$MESS["TEL_STAT_EXPORT_ERROR"] = "Ada kesalahan. Silakan coba lagi nanti atau hubungi administrator Bitrix24 Anda.";
+$MESS["TEL_STAT_EXPORT_TO_EXCEL"] = "Ekspor ke Excel";
+$MESS["TEL_STAT_FILTER_CANCEL"] = "Reset filter";
+$MESS["TEL_STAT_FILTER_CANCEL_TITLE"] = "Reset filter";
+$MESS["TEL_STAT_LOADING"] = "Mengunggah";
+$MESS["TEL_STAT_SHOW_COUNT"] = "Tampilkan kuantitas";
+$MESS["TEL_STAT_TOTAL"] = "Total";
+$MESS["TEL_STAT_USER_ID_CANCEL"] = "Reset filter karyawan";
+$MESS["TEL_STAT_USER_ID_CANCEL_TITLE"] = "Reset filter karyawan";

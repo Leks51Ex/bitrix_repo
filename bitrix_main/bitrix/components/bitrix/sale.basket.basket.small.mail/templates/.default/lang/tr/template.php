@@ -1,0 +1,32 @@
+<?
+$MESS["SALE_ADD_TO_BASKET"] = "Sepete Ekle";
+$MESS["SALE_CONTENT_DISCOUNT"] = "İndirim";
+$MESS["SALE_DELAY"] = "Sonraya sakla";
+$MESS["SALE_DELAYED_TITLE"] = "İstek listesinde";
+$MESS["SALE_DELETE"] = "Sil";
+$MESS["SALE_DISCOUNT"] = "İndirim";
+$MESS["SALE_NAME"] = "Ürünler";
+$MESS["SALE_PRICE"] = "Fiyat";
+$MESS["SALE_PROPS"] = "Özellikler";
+$MESS["SALE_QUANTITY"] = "Miktar";
+$MESS["SALE_SUM"] = "Miktar";
+$MESS["SALE_TOTAL"] = "Toplam:";
+$MESS["SALE_TOTAL_WEIGHT"] = "Toplam ağırlık:";
+$MESS["SALE_TYPE"] = "Fiyat Türü";
+$MESS["SALE_UNAVAIL_TITLE"] = "Stok dışı";
+$MESS["SALE_VAT"] = "Vergi:";
+$MESS["SALE_VAT_EXCLUDED"] = "Toplam fiyat:";
+$MESS["SALE_VAT_INCLUDED"] = "Vergiler:";
+$MESS["SALE_WEIGHT"] = "Ağırlık";
+$MESS["SALE_WEIGHT_G"] = "g";
+$MESS["STB_COUPON_PROMT"] = "Kupon kodunu gir:";
+$MESS["STB_ORDER_PROMT"] = "Siparişini tamamlamak için \"Ödeme yap\" butonunu tıkla.";
+$MESS["TSBS_2BASKET"] = "Adedi Değiştir";
+$MESS["TSBS_2ORDER"] = "Sipariş";
+$MESS["TSBS_DELAY"] = "İdare:";
+$MESS["TSBS_PRICE"] = "Fiyat:";
+$MESS["TSBS_QUANTITY"] = "Miktar:";
+$MESS["TSBS_READY"] = "Alışveriş sepetindeki ürünler";
+$MESS["TSBS_SUBSCRIBE"] = "Üyelik:";
+$MESS["TSBS_UNAVAIL"] = "Şu anda kullanılamıyor:";
+?>

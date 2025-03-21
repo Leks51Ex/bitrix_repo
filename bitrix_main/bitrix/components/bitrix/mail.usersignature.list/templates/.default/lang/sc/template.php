@@ -1,0 +1,4 @@
+<?
+$MESS["MAIL_SIGNATURE_DELETED_SUCCESS"] = "签名已被删除";
+$MESS["MAIL_SIGNATURE_DELETE_CONFIRM"] = "您确定要删除签名吗？";
+?>

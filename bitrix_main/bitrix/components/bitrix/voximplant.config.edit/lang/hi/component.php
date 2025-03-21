@@ -1,0 +1,31 @@
+<?
+$MESS["COMP_VI_ACCESS_DENIED"] = "अपर्याप्त पहुँच अनुमतियाँ";
+$MESS["COMP_VI_WRONG_BACKUP_NUMBER"] = "बैकअप फोन नंबर को इंटरनेशनल फॉर्मेट में होना चाहिए।";
+$MESS["VI_CONFIG_CURRENT_CONNECTION"] = "वर्तमान कनेक्शन";
+$MESS["VI_CONFIG_EDIT_AUTO_ANSWERING_TUNE"] = "वॉइसमेल";
+$MESS["VI_CONFIG_EDIT_AUTO_ANSWERING_TUNE_TIP"] = "इस संगीत या रिकॉर्डिंग को वॉइसमेल एक्टिवेट होने के दौरान कॉलर के लिए बजाया जाएगा। ";
+$MESS["VI_CONFIG_EDIT_ENQUEUE_TUNE"] = "कतार वाली धुन";
+$MESS["VI_CONFIG_EDIT_ENQUEUE_TUNE_TIP"] = "यदि कोई ऑपरेटर उपलब्ध नहीं होने की वजह से कॉलर की कॉल कतार में हो तो कॉलर को यह धुन सुनाई देगी।";
+$MESS["VI_CONFIG_EDIT_HOLDING_TUNE"] = "होल्ड संगीत";
+$MESS["VI_CONFIG_EDIT_HOLDING_TUNE_TIP"] = "इस संगीत या रिकॉर्डिंग को होल्ड पर रहने के दौरान कॉलर के लिए बजाया जाएगा। ";
+$MESS["VI_CONFIG_EDIT_RECORDING_TUNE"] = "आपकी कॉल रिकॉर्ड की जाएगी\" धुन\"";
+$MESS["VI_CONFIG_EDIT_RECORDING_TUNE_TIP"] = "रिकॉर्डिंग शुरू करने से पहले यह धुन बजाएँ";
+$MESS["VI_CONFIG_EDIT_VOTE_END_TUNE"] = "गुणवत्ता मूल्यांकन समाप्ति धुन";
+$MESS["VI_CONFIG_EDIT_VOTE_END_TUNE_TIP"] = "किसी उपयोगकर्ता द्वारा सेवा की गुणवत्ता का मूल्यांकन किए जाने के बाद यह धुन बजाएँ";
+$MESS["VI_CONFIG_EDIT_VOTE_TUNE"] = "गुणवत्ता मूल्यांकन आरंभ धुन";
+$MESS["VI_CONFIG_EDIT_VOTE_TUNE_TIP"] = "\"सेवा की गुणवत्ता का मूल्यांकन करें\" विकल्प के चुने होने पर यह धुन बजाएँ";
+$MESS["VI_CONFIG_EDIT_WAITING_TUNE"] = "प्रतीक्षा संगीत";
+$MESS["VI_CONFIG_EDIT_WAITING_TUNE_TIP"] = "इस संगीत या रिकॉर्डिंग को कॉलर के लिए, कॉल उठाए जाने से पूर्व बजाया जाएगा। ";
+$MESS["VI_CONFIG_EDIT_WELCOMING_TUNE"] = "अभिवादन";
+$MESS["VI_CONFIG_EDIT_WELCOMING_TUNE_TIP"] = "इस संगीत या रिकॉर्डिंग को इनकमिंग कॉलों में कॉलर के अभिवादन के तौर पर बजाया जाएगा। ";
+$MESS["VOX_CONFIG_EDIT_CALLBACK_ROUTING"] = "कॉलबैक रूटिंग";
+$MESS["VOX_CONFIG_EDIT_CALL_ROUTING"] = "इनकमिंग कॉल रूटिंग";
+$MESS["VOX_CONFIG_EDIT_CONNECTION_SETTINGS"] = "कनेक्शन पैरामीटर";
+$MESS["VOX_CONFIG_EDIT_CRM_INTEGRATION"] = "CRM एकीकरण";
+$MESS["VOX_CONFIG_EDIT_DELETE_CONNECTION"] = "कनेक्शन डिलीट करें";
+$MESS["VOX_CONFIG_EDIT_DISCONNECT_NUMBER"] = "नंबर डिस्कनेक्ट करें";
+$MESS["VOX_CONFIG_EDIT_MELODIES"] = "होल्ड संगीत";
+$MESS["VOX_CONFIG_EDIT_OTHER"] = "अन्य";
+$MESS["VOX_CONFIG_EDIT_RECORDING_AND_RATING"] = "रिकॉर्डिंग और रेटिंग";
+$MESS["VOX_CONFIG_EDIT_WORKTIME"] = "काम के घंटे";
+?>

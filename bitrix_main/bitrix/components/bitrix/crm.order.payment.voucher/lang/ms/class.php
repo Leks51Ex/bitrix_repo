@@ -1,0 +1,13 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Modul CRM tidak dipasang.";
+$MESS["CRM_ORDER_PAYMENT_FIELD_PAY_RETURN_COMMENT"] = "Komen";
+$MESS["CRM_ORDER_PAYMENT_FIELD_PAY_RETURN_DATE"] = "Dikembalikan pada";
+$MESS["CRM_ORDER_PAYMENT_FIELD_PAY_RETURN_INNER_ACC"] = "Akaun dalaman";
+$MESS["CRM_ORDER_PAYMENT_FIELD_PAY_RETURN_NUM"] = "Resit pemberitahu serahan #";
+$MESS["CRM_ORDER_PAYMENT_FIELD_PAY_RETURN_TITLE"] = "Resit pemberitahu serahan";
+$MESS["CRM_ORDER_PAYMENT_FIELD_PAY_RETURN_TO"] = "Pulangkan dana kepada";
+$MESS["CRM_ORDER_PAYMENT_FIELD_PAY_VOUCHER_DATE"] = "Tarikh pembayaran";
+$MESS["CRM_ORDER_PAYMENT_FIELD_PAY_VOUCHER_NUM"] = "Dokumen pembayaran #";
+$MESS["CRM_ORDER_PAYMENT_FIELD_PAY_VOUCHER_TITLE"] = "Dokumen pembayaran";
+$MESS["CRM_ORDER_PAYMENT_VOUCHER_TITLE"] = "Dokumen pembayaran";
+?>

@@ -1,0 +1,6 @@
+<?
+$MESS["SDP_SALESCENTER_DELIVERY_RECOMMENDATION_SUB_TITLE"] = "Rekomendasikan layanan pengantaran";
+$MESS["SDP_SALESCENTER_DELIVERY_SUB_TITLE"] = "Layanan pengiriman";
+$MESS["SDP_SALESCENTER_JS_POPUP_CLOSE"] = "Tutup";
+$MESS["SDP_SALESCENTER_TITLE"] = "Pilih pengiriman";
+?>

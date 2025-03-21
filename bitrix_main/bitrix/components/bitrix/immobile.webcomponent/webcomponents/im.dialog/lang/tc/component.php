@@ -1,0 +1,6 @@
+<?php
+$MESS["CHAT_USER_LIST_EXIT"] = "登出";
+$MESS["CHAT_USER_LIST_KICK"] = "移除";
+$MESS["CHAT_USER_LIST_OWNER"] = "設為擁有者";
+$MESS["COMPONENT_LOADING_MESSAGES"] = "載入訊息...";
+$MESS["IM_M_CHAT_KICK"] = "從聊天室移除";

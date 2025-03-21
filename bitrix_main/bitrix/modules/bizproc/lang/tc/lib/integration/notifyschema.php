@@ -1,0 +1,2 @@
+<?php
+$MESS["BIZPROC_NOTIFY_SCHEMA_ACTIVITY"] = "來自商務程序的通知";

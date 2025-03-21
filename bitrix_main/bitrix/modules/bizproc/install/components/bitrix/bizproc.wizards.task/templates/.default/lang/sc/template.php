@@ -1,0 +1,6 @@
+<?
+$MESS["BPWC_WTCT_DESCR"] = "描述";
+$MESS["BPWC_WTCT_NAME"] = "名称";
+$MESS["BPWTC_WRCT_2LIST"] = "业务流程";
+$MESS["BPWTC_WRCT_SUBTITLE"] = "任务";
+?>

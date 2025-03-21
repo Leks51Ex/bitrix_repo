@@ -1,0 +1,6 @@
+<?php
+$MESS["SENDER_COMP_SEGMENT_EDIT_TITLE_ADD"] = "เพิ่มกลุ่ม";
+$MESS["SENDER_COMP_SEGMENT_EDIT_TITLE_EDIT"] = "แก้ไขกลุ่ม";
+$MESS["SENDER_SEGMENT_EDIT_TILE_CONTACT_NAME_TEMPLATE"] = "ผู้รับ %count% รายโหลดมาแล้ว";
+$MESS["SENDER_SEGMENT_EDIT_TMPL_PATTERN_TITLE"] = "กลุ่มของ %date%";
+$MESS["SENDER_SEGMENT_FILTER_DEAL_CATEGORY_ID_ERROR"] = "ไม่ได้ระบุตัวกรอง \"ไปป์ไลน์ดีล\"";

@@ -1,0 +1,8 @@
+<?
+$MESS["CRM_COLUMN_ACT_CUST_TYPE_CREATED_DATE"] = "Ngày tạo";
+$MESS["CRM_COLUMN_ACT_CUST_TYPE_ID"] = "ID";
+$MESS["CRM_COLUMN_ACT_CUST_TYPE_NAME"] = "Tên";
+$MESS["CRM_COLUMN_ACT_CUST_TYPE_SORT"] = "Phân loại";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Mô-đun CRM chưa được cài đặt.";
+$MESS["CRM_PERMISSION_DENIED"] = "Truy cập bị từ chối";
+?>

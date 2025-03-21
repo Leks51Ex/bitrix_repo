@@ -1,0 +1,37 @@
+<?
+$MESS["CRM_COLUMN_CHANGED_BY"] = "Chỉnh sửa bởi";
+$MESS["CRM_COLUMN_CLOSED_DATE"] = "Đã đóng vào";
+$MESS["CRM_COLUMN_DATE_CREATE"] = "Đã tạo vào";
+$MESS["CRM_COLUMN_DATE_MODIFY"] = "Đã chỉnh sửa vào";
+$MESS["CRM_COLUMN_DATE_START"] = "Ngày bắt đầu";
+$MESS["CRM_COLUMN_ENTITY_TITLE"] = "Tiêu đề";
+$MESS["CRM_COLUMN_ENTITY_TYPE"] = "Loại";
+$MESS["CRM_COLUMN_ID"] = "ID";
+$MESS["CRM_COLUMN_PRIORITY"] = "Ưu tiên";
+$MESS["CRM_COLUMN_REAL_STATUS"] = "Trạng thái";
+$MESS["CRM_COLUMN_RESPONSIBLE_BY"] = "Người chịu trách nhiệm";
+$MESS["CRM_COLUMN_TITLE"] = "Tên";
+$MESS["CRM_COLUMN_UF_CRM_TASK"] = "Mục CRM";
+$MESS["CRM_ENTITY_TYPE_COMPANY"] = "Công ty";
+$MESS["CRM_ENTITY_TYPE_CONTACT"] = "Liên lạc";
+$MESS["CRM_ENTITY_TYPE_DEAL"] = "Thoả thuận";
+$MESS["CRM_ENTITY_TYPE_LEAD"] = "Đầu mối kinh doanh";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Mô-đun CRM chưa được cài đặt.";
+$MESS["CRM_PERMISSION_DENIED"] = "Truy cập bị từ chối";
+$MESS["CRM_PRESET_CHANGE_MY"] = "Đã chỉnh sửa bởi Tôi";
+$MESS["CRM_PRESET_CHANGE_TODAY"] = "Đã chỉnh sửa hôm nay";
+$MESS["CRM_PRESET_CHANGE_YESTERDAY"] = "Đã chỉnh sửa hôm qua";
+$MESS["CRM_PRESET_MY"] = "Các phần công việc của tôi";
+$MESS["CRM_PRESET_NEW"] = "Các phần công việc mới";
+$MESS["TASKS_MODULE_NOT_INSTALLED"] = "Tính năng Tác vụ không được cài đặt.";
+$MESS["TASKS_PRIORITY_0"] = "Thấp";
+$MESS["TASKS_PRIORITY_1"] = "Bình thường";
+$MESS["TASKS_PRIORITY_2"] = "Cao";
+$MESS["TASKS_STATUS_1"] = "Mới";
+$MESS["TASKS_STATUS_2"] = "Đang chờ đợi";
+$MESS["TASKS_STATUS_3"] = "Trong tiến độ";
+$MESS["TASKS_STATUS_4"] = "Được cho là hoàn tất";
+$MESS["TASKS_STATUS_5"] = "Đã hoàn tất";
+$MESS["TASKS_STATUS_6"] = "Đã hoãn lại";
+$MESS["TASKS_STATUS_7"] = "Đã từ chối";
+?>

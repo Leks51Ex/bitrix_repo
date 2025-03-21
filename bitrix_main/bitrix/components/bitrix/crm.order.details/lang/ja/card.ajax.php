@@ -1,0 +1,10 @@
+<?
+$MESS["CRM_ODCA_COMPANY"] = "会社";
+$MESS["CRM_ODCA_CONTACT"] = "連絡先";
+$MESS["CRM_ODCA_DATE_UPDATED"] = "変更日";
+$MESS["CRM_ODCA_GO_ORDER"] = "表示";
+$MESS["CRM_ODCA_ORDER_NUM"] = "##ORDER_NUMBER#";
+$MESS["CRM_ODCA_PRICE"] = "価格";
+$MESS["CRM_ODCA_PRODUCTS"] = "商品";
+$MESS["CRM_ODCA_STATUS"] = "ステータス";
+?>

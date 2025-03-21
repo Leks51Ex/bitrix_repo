@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_SALE_PRODUCT_SETTINGS_TITLE"] = "デフォルトの製品パラメータ";
+$MESS["CRM_SALE_SETTINGS_BUTTON_APPLY"] = "適用";
+$MESS["CRM_SALE_SETTINGS_BUTTON_CLOSE"] = "閉じる";
+$MESS["CRM_SALE_SETTINGS_SAVE_SUCCESS"] = "オンラインショップの設定が保存されました";
+?>

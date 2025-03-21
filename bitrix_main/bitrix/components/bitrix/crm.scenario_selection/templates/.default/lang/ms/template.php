@@ -1,0 +1,25 @@
+<?php
+$MESS["CRM_SCENARIO_SELECTION_ACTIVE_ORDERS"] = "Pesanan aktif: #ORDER_COUNT#";
+$MESS["CRM_SCENARIO_SELECTION_CONVERT_ACTIVE_ORDERS"] = "Menukarkan pesanan aktif kepada urus niaga semasa mengubah mod";
+$MESS["CRM_SCENARIO_SELECTION_DEALS"] = "Tawaran";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION"] = "Pilihan terbaik untuk jualan peribadi";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_1"] = "Sebarang permintaan (dari panggilan, sembang, borang CRM, pesanan kedai dalam talian dll.) akan ditambah kepada urus niaga CRM";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_2"] = "Komunikasi pelanggan, peringkat penghantaran status bayaran akan dilihat dalam garis masa urus niaga.";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_3"] = "Wakil jualan berkomunikasi dengan setiap pelanggan secara peribadi";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_ONLY_WARNING"] = "Pemprosesan pesanan tidak ada jika anda hanya memilih mengendalikan urus niaga.";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS"] = "Urus niaga dan pesanan";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION"] = "Sesuai untuk pemprosesan pesanan automatik";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_1"] = "Pesanan kedai dalam talian hanya disimpan kepada pesanan CRM, tidak ditambah kepada urus niaga";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_2"] = "Urus niaga dibuat sebagai entiti berasingan (contohnya, untuk memberikan perkhidmatan tambahan)";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_3"] = "Sesetengah wakil jualan menguruskan urus niaga, sambil wakil jualan memproses pesanan kedai dalam talian";
+$MESS["CRM_SCENARIO_SELECTION_SAVE_ERROR"] = "Ralat mod mengubah";
+$MESS["CRM_SCENARIO_SELECTION_SELECT"] = "Pilih";
+$MESS["CRM_SCENARIO_SELECTION_SELECTED"] = "Terpilih";
+$MESS["CRM_SCENARIO_SELECTION_TITLE"] = "Mod pengendalian pesanan";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_CANCEL_BUTTON"] = "Tukar ke mod Urusan";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_OK_BUTTON"] = "Kekal dalam mod Urusan & Pesanan";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_1"] = "Pesanan kedai dalam talian anda akan menjadi urusan di mana anda boleh menerima bayaran, cipta kiriman dan tempah stok dalam gudang. Tiada kawasan \"Pesanan\" kendiri.";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_2"] = "Harap maklum bahawa anda tidak dapat menukar balik kepada mod Urusan & Pesanan kerana ia tidak disokong lagi.";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_3_PART_1"] = "Baca lebih lanjut";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_3_PART_2"] = "tentang dua mod ini sebelum anda melakukan yang mana-mana satu.";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TITLE"] = "Anda akan menukar ke mod Urusan";

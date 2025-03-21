@@ -1,0 +1,36 @@
+<?
+$MESS["JS_CORE_TMP_EXPIRE"] = "ไม่ได้ตอกบัตรออก";
+$MESS["JS_CORE_TMR_A"] = "มีการเปลี่ยนแปลง";
+$MESS["JS_CORE_TMR_APPROVE"] = "อนุมัติ";
+$MESS["JS_CORE_TMR_CANCEL"] = "ยกเลิก";
+$MESS["JS_CORE_TMR_COMMENTS"] = "ความคิดเห็น";
+$MESS["JS_CORE_TMR_DEP"] = "ตอกบัตรออก";
+$MESS["JS_CORE_TMR_DURATION"] = "ชั่วโมง";
+$MESS["JS_CORE_TMR_EDIT"] = "แก้ไข";
+$MESS["JS_CORE_TMR_FROM"] = "จาก";
+$MESS["JS_CORE_TMR_NA"] = "ไม่ได้ยืนยัน";
+$MESS["JS_CORE_TMR_PAUSE"] = "หยุดพัก";
+$MESS["JS_CORE_TMR_REPORT"] = "รายงาน";
+$MESS["JS_CORE_TMR_REPORT_DURATION"] = "เหตุผลในการเปลี่ยนแปลง (ระยะเวลา)";
+$MESS["JS_CORE_TMR_REPORT_FINISH"] = "เหตุผลในการเปลี่ยนแปลง (เวลาตอกบัตรออก)";
+$MESS["JS_CORE_TMR_REPORT_NO"] = "ไม่ระบุ";
+$MESS["JS_CORE_TMR_REPORT_ORIG"] = "เดิม";
+$MESS["JS_CORE_TMR_REPORT_START"] = "เหตุผลในการเปลี่ยนแปลง (เวลาตอกบัตรเข้า)";
+$MESS["JS_CORE_TMR_START_TITLE"] = "ตอกบัตรเข้า";
+$MESS["JS_CORE_TMR_TITLE"] = "รายงานประจำวัน";
+$MESS["JS_CORE_TMR_TO"] = "ถึง";
+$MESS["JS_CORE_TMR_WORKTIME"] = "ชั่วโมงทำงาน";
+$MESS["TIMEMAN_BTN_CANCEL_TITLE"] = "ปิด";
+$MESS["TIMEMAN_BTN_SAVE_TITLE"] = "บันทึก";
+$MESS["TIMEMAN_POPUP_WORK_TIME_TITLE"] = "ชั่วโมงทำงาน";
+$MESS["TM_APPROVE_FORM_ACCEPT_LABEL"] = "อนุมัติ";
+$MESS["TM_RECORD_NOT_FOUND"] = "ไม่พบเรคคอร์ด";
+$MESS["TM_RECORD_READ_ACCESS_DENIED"] = "สิทธิ์การเข้าถึงไม่เพียงพอในการดูรายการตารางเวลาการทำงาน";
+$MESS["TM_RECORD_REPORT_EVENTS_TITLE"] = "เหตุการณ์";
+$MESS["TM_RECORD_REPORT_HINT_RECORD_IP_INFO"] = "ตอกบัตรเข้าจากที่อยู่ IP:<br><b>#IP_OPEN#</b><br>ตอกบัตรออกจากที่อยู่ IP:<br><b>#IP_CLOSE#</b>";
+$MESS["TM_RECORD_REPORT_HINT_RECORD_TIMEZONE_INFO"] = "เขตเวลาของพนักงาน: <b>#TIME_OFFSET#</b><br><small>(เขตเวลาของคุณ: #TIME_OFFSET_SELF#)</small>";
+$MESS["TM_RECORD_REPORT_MORE_EVENTS_TITLE"] = "อีก #COUNT# เหตุการณ์";
+$MESS["TM_RECORD_REPORT_MORE_TASKS_TITLE"] = "อีก #COUNT# งาน";
+$MESS["TM_RECORD_REPORT_ROLL_UP_TITLE"] = "ยุบ";
+$MESS["TM_RECORD_REPORT_TASKS_TITLE"] = "งาน";
+?>

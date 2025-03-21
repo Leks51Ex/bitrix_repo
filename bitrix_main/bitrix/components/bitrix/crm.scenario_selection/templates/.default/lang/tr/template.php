@@ -1,0 +1,25 @@
+<?php
+$MESS["CRM_SCENARIO_SELECTION_ACTIVE_ORDERS"] = "Aktif siparişler: #ORDER_COUNT#";
+$MESS["CRM_SCENARIO_SELECTION_CONVERT_ACTIVE_ORDERS"] = "Modu değiştirirken aktif siparişleri anlaşmalara dönüştürün";
+$MESS["CRM_SCENARIO_SELECTION_DEALS"] = "Anlaşmalar";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION"] = "Kişisel satışlar için en iyi seçim";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_1"] = "Herhangi bir talep (arama, sohbet, CRM formları, çevrimiçi siparişler vb.), CRM anlaşmalarına eklenecektir";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_2"] = "Müşteri iletişimi, ödeme durumu ve teslimatı aşamaları; anlaşma zaman çizelgesinde görülecektir.";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_3"] = "Satış temsilcileri, her müşteriyle kişisel olarak iletişim kurar";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_ONLY_WARNING"] = "Sadece anlaşmaları işlemeyi seçerseniz sipariş işleme mevcut olmayacaktır.";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS"] = "Anlaşmalar ve siparişler";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION"] = "Otomatik sipariş işleme için uygun";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_1"] = "Çevrimiçi mağaza siparişleri sadece CRM siparişlerine kaydedilir, anlaşmalara eklenmez";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_2"] = "Anlaşmalar, ayrı varlıklar olarak oluşturulur (örneğin; ek hizmetler sağlamak için)";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_3"] = "Bazı satış temsilcileri, anlaşmaları işlerken diğer satış temsilcileri, çevrimiçi mağaza siparişlerini işler";
+$MESS["CRM_SCENARIO_SELECTION_SAVE_ERROR"] = "Mod değiştirilirken hata oluştu";
+$MESS["CRM_SCENARIO_SELECTION_SELECT"] = "Seç";
+$MESS["CRM_SCENARIO_SELECTION_SELECTED"] = "Seçili";
+$MESS["CRM_SCENARIO_SELECTION_TITLE"] = "Sipariş işleme modu";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_CANCEL_BUTTON"] = "Anlaşmalar moduna geç";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_OK_BUTTON"] = "Anlaşmalar ve Siparişler modunda kal";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_1"] = "Çevrimiçi mağaza siparişleriniz, ödemeleri kabul edip gönderiler oluşturabileceğiniz ve depolarda stok ayırabileceğiniz anlaşmalar hâline gelecektir. Bağımsız bir \"Siparişler\" alanı olmayacaktır.";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_2"] = "Artık desteklenmediği için Anlaşmalar ve Siparişler moduna dönemeyeceğinizi unutmayın.";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_3_PART_1"] = "İki moddan birinde";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_3_PART_2"] = "işlem yapmadan önce bu modlar hakkında daha fazla bilgi edin.";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TITLE"] = "Anlaşmalar moduna geçmek üzeresiniz";

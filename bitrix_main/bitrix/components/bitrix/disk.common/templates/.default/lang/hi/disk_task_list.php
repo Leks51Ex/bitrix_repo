@@ -1,0 +1,4 @@
+<?
+$MESS["DISK_BIZPROC_BACK_TEXT"] = "वापस";
+$MESS["DISK_BIZPROC_BACK_TITLE"] = "वापस";
+?>

@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_COLUMN_ASSIGNED_BY"] = "Sorumlu Kişi";
+$MESS["CRM_COLUMN_BEGINDATE"] = "Başlangıç Tarihi";
+$MESS["CRM_COLUMN_CLOSED"] = "Kapalı";
+$MESS["CRM_COLUMN_CLOSEDATE"] = "Varsayılan kapanış tarihi";
+$MESS["CRM_COLUMN_COMPANY_LIST"] = "Şirketler";
+$MESS["CRM_COLUMN_CONTACT_LIST"] = "Kişiler";
+$MESS["CRM_COLUMN_COUNT"] = "Anlaşmalar";
+$MESS["CRM_COLUMN_CURRENCY_ID"] = "Para birimi";
+$MESS["CRM_COLUMN_DATE_CREATE"] = "Oluşturulma Tarihi";
+$MESS["CRM_COLUMN_DATE_MODIFY"] = "Değiştirilme";
+$MESS["CRM_COLUMN_FUNNEL"] = " Huni";
+$MESS["CRM_COLUMN_MODIFY_BY"] = "Değiştiren";
+$MESS["CRM_COLUMN_OPPORTUNITY"] = "Miktar";
+$MESS["CRM_COLUMN_PROBABILITY"] = "Olasılık";
+$MESS["CRM_COLUMN_PROCENT"] = "%";
+$MESS["CRM_COLUMN_PRODUCT_ID"] = "Ürün";
+$MESS["CRM_COLUMN_STAGE_ID"] = "Anlaşma Aşaması";
+$MESS["CRM_COLUMN_STATE_ID"] = "Durum";
+$MESS["CRM_COLUMN_SUMM"] = "Miktar, #CURRENCY#";
+$MESS["CRM_COLUMN_TITLE"] = "Anlaşma Aşaması";
+$MESS["CRM_COLUMN_TYPE_ID"] = "Tür";
+$MESS["CRM_DEAL_NAV_TITLE_LIST"] = "Satış Hunisi";
+$MESS["CRM_FUNNEL_TYPE_CLASSICAL"] = "Standart";
+$MESS["CRM_FUNNEL_TYPE_CUMULATIVE"] = "dönüştürme ile";
+$MESS["CRM_FUNNEL_TYPE_CUMULATIVE2"] = "dönüştürme ile";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM modülü kurulu değil.";
+$MESS["CRM_PERMISSION_DENIED"] = "Erişim Reddedildi";
+$MESS["CRM_PRESET_MONTH"] = "Bu ay";
+$MESS["CRM_PRESET_MONTH_PREV"] = "Geçen Ay";
+$MESS["CRM_PRESET_MY_WEEK"] = "Bu Haftaki Anlaşmalarım";
+$MESS["CRM_PRESET_MY_WEEK_AGO"] = "Geçen Haftaki Anlaşmalarım";
+$MESS["CRM_PRESET_WEEK"] = "Bu Hafta";
+$MESS["CRM_PRESET_WEEK_PREV"] = "Geçen Hafta";
+?>

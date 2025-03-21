@@ -1,0 +1,32 @@
+<?
+$MESS["CP_BCCR_CONVERT_CURRENCY"] = "Chỉ sử dụng một loại tiền tệ để hiển thị giá";
+$MESS["CP_BCCR_CURRENCY_ID"] = "Chuyển đổi mọi định giá tiền tệ";
+$MESS["CP_BCCR_OFFERS_FIELD_CODE"] = "Trường SKU";
+$MESS["CP_BCCR_OFFERS_PROPERTY_CODE"] = "Thuộc tính SKU";
+$MESS["IBLOCK_ACTIONS"] = "Cài đặt hành động";
+$MESS["IBLOCK_ACTION_VARIABLE"] = "Tên tham số \"Thao tác\"";
+$MESS["IBLOCK_BASKET"] = "Thêm hàng vào giỏ mua sắm";
+$MESS["IBLOCK_BASKET_URL"] = "Trang URL chứa giỏ hàng của khách hàng";
+$MESS["IBLOCK_COMPARE_NAME"] = "Tên riêng cho các danh sách so sánh";
+$MESS["IBLOCK_DETAIL_URL"] = "Trang URL chưa nội dung chi tiết";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD"] = "Trường để sắp xếp các yếu tố";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD_BOX"] = "Trường để sắp xếp các yếu tố đã chọn";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD_BOX2"] = "Trường loại thứ hai cho danh sách sản phẩm";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER"] = "Thứ tự sắp xếp cho các yếu tố";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER_BOX"] = "Thứ tự sắp xếp cho các yếu tố";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER_BOX2"] = "Thứ tự sắp xếp thứ hai trong danh sách sản phẩm";
+$MESS["IBLOCK_FIELD"] = "Trường";
+$MESS["IBLOCK_IBLOCK"] = "Thông tin";
+$MESS["IBLOCK_PRICES"] = "Giá tiền";
+$MESS["IBLOCK_PRICE_CODE"] = "Loại giá";
+$MESS["IBLOCK_PRODUCT_ID_VARIABLE"] = "Tên tham số \"Mã sản phẩm\"";
+$MESS["IBLOCK_PROPERTY"] = "Các thuộc tính";
+$MESS["IBLOCK_SECTION_ID_VARIABLE"] = "Tên tham số \"Mã phần\"";
+$MESS["IBLOCK_SHOW_PRICE_COUNT"] = "Hiển thị giá theo số lượng";
+$MESS["IBLOCK_SORT_ASC"] = "tăng dần";
+$MESS["IBLOCK_SORT_DESC"] = "giảm dần";
+$MESS["IBLOCK_TYPE"] = "Loại thông tin";
+$MESS["IBLOCK_USE_PRICE_COUNT"] = "Hiển thị khoảng giá theo số lượng";
+$MESS["IBLOCK_VAT_INCLUDE"] = "Giá sau thuế";
+$MESS["T_IBLOCK_DESC_ELEMENT_BOX"] = "Danh sách yếu tố hiển thị";
+?>

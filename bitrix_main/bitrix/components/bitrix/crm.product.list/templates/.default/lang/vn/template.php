@@ -1,0 +1,31 @@
+<?
+$MESS["CRM_ALL"] = "Tổng số";
+$MESS["CRM_PRODUCT_COPY"] = "Sao chép sản phẩm";
+$MESS["CRM_PRODUCT_COPY_TITLE"] = "Mở trang sao chép sản phẩm";
+$MESS["CRM_PRODUCT_DELETE"] = "Xoá sản phẩm";
+$MESS["CRM_PRODUCT_DELETE_CONFIRM"] = "Bạn có chắc chắn muốn xoá '%s'";
+$MESS["CRM_PRODUCT_DELETE_TITLE"] = "Xoá sản phẩm này";
+$MESS["CRM_PRODUCT_EDIT"] = "Chỉnh sửa sản phẩm";
+$MESS["CRM_PRODUCT_EDIT_TITLE"] = "Chỉnh sửa sản phẩm này";
+$MESS["CRM_PRODUCT_LIST_SHOW_FILTER"] = "Show/hide filter form";
+$MESS["CRM_PRODUCT_LIST_SHOW_FILTER_SHORT"] = "Bộ lọc";
+$MESS["CRM_PRODUCT_PROP_CHOOSE_ELEMENT"] = "Chọn từ danh sách";
+$MESS["CRM_PRODUCT_PROP_DOWNLOAD"] = "Tải";
+$MESS["CRM_PRODUCT_PROP_ENLARGE"] = "Phóng to";
+$MESS["CRM_PRODUCT_PROP_NO_SEARCH_RESULT_TEXT"] = "tìm kiếm không trả về kết quả nào";
+$MESS["CRM_PRODUCT_PROP_NO_VALUE"] = "(chưa thiết lập)";
+$MESS["CRM_PRODUCT_PROP_START_TEXT"] = "(nhập tên)";
+$MESS["CRM_PRODUCT_SECTION_ACTION_DELETE1"] = "Xóa khu vực";
+$MESS["CRM_PRODUCT_SECTION_ACTION_DELETE_PROPMT"] = "Điều này sẽ xóa tất cả các phần phụ và các phần tử con. Bạn có chắc chắn muốn xóa mục?";
+$MESS["CRM_PRODUCT_SECTION_ACTION_RENAME1"] = "Đổi tên phần";
+$MESS["CRM_PRODUCT_SHOW"] = "Xem sản phẩm";
+$MESS["CRM_PRODUCT_SHOW_TITLE"] = "Xem trang sản phẩm này";
+$MESS["CRM_SECTION_ADD_BTN_TEXT"] = "Thêm vào";
+$MESS["CRM_SECTION_ADD_DIALOG_TITLE"] = "Thêm khu vực";
+$MESS["CRM_SECTION_CANCEL_BTN_TEXT"] = "Hủy bỏ";
+$MESS["CRM_SECTION_DEFAULT_NAME"] = "Mục mới";
+$MESS["CRM_SECTION_EMPTY_NAME_ERROR"] = "Vui lòng nhập tên khu vực";
+$MESS["CRM_SECTION_NAME_FIELD_TITLE"] = "Tên";
+$MESS["CRM_SECTION_RENAME_BTN_TEXT"] = "Đổi tên";
+$MESS["CRM_SECTION_RENAME_DIALOG_TITLE"] = "Đổi tên khu vực";
+?>

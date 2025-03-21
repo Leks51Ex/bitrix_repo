@@ -1,0 +1,3 @@
+<?php
+$MESS["BPCGACT_NO_PROPERTY"] = "'#NAME#' 属性未定义。";
+$MESS["BPGA_ACTIVITY_NOT_FOUND_1"] = "未找到动作(#ACTIVITY#)";

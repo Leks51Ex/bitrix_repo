@@ -1,0 +1,4 @@
+<?
+$MESS["IMOPENLINES_REPORT_PAGE_LIMITATION_POPUP_TEXT_1"] = "Truy cập các tính năng cao cấp của Bitrix24";
+$MESS["IMOPENLINES_REPORT_PAGE_LIMITATION_POPUP_TEXT_2_NEW"] = "Báo cáo Kênh Mở được thiết kế để giúp bạn cải thiện dịch vụ và trải nghiệm cho khách hàng. Bảng điều khiển của chúng tôi hiển thị toàn bộ thông tin thiết yếu trong một trang - nhân viên nào làm việc hiệu quả nhất, kênh giao tiếp nào được yêu cầu nhiều nhất, các khách hàng hài lòng như thế nào, thời gian trả lời trung bình, thời gian bận rộn nhất trong ngày, v.v. Bạn cũng có thể chọn các loại báo cáo khác nhau - số tuyệt đối, biểu đồ, đồ thị, thống kê đồ, v.v...";
+?>

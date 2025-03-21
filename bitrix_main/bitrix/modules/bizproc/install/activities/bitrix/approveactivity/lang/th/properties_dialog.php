@@ -1,0 +1,33 @@
+<?
+$MESS["BPAA_PD_APPROVERS"] = "ผู้ลงคะแนนที่อนุมัติ";
+$MESS["BPAA_PD_DESCR"] = "รายละเอียดการมอบหมาย";
+$MESS["BPAA_PD_NAME"] = "ชื่อการมอบหมาย";
+$MESS["BPAA_PD_NO"] = "ไม่";
+$MESS["BPAA_PD_PERCENT"] = "เปอร์เซ็นต์ขั้นต่ำของผู้ใช้งานที่เข้าร่วมที่ต้องการสำหรับการยอมรับ";
+$MESS["BPAA_PD_SET_STATUS_MESSAGE"] = "ตั้งค่าข้อความสถานะ";
+$MESS["BPAA_PD_STATUS_MESSAGE"] = "ข้อความสถานะ";
+$MESS["BPAA_PD_STATUS_MESSAGE_HINT"] = "แมโครดังต่อไปนี้มีให้ใช้งานได้: #PERC# - เปอร์เซ็นต์, #REV# - คนที่เพิ่งรู้จัก, #TOT# - จำนวนคนทั้งหมดที่จะต้องทำความรู้จัก";
+$MESS["BPAA_PD_STATUS_MESSAGE_HINT1"] = "แมโครดังต่อไปนี้มีให้ใช้ได้: #PERCENT# - อัตราการตอบกลับ, #VOTED# - จำนวนการตอบกลับ, #TOTAL# - จำนวนคนทั้งหมดที่ได้รับมอบหมาย, #APPROVERS# - ผู้ใช้งานที่อนุมัติ, #REJECTERS# - ผู้ใช้งานที่ปฏิเสธรายการ";
+$MESS["BPAA_PD_TIMEOUT_DURATION"] = "ขีดจำกัดเวลา";
+$MESS["BPAA_PD_TIMEOUT_DURATION_HINT"] = "หากองค์ประกอบไม่ได้รับอนุมัติ หรือว่าถูกปฏิเสธก่อนระยะเวลานี้หมดอายุ ก็จะถูกปฏิเสธไปโดยอัตโนมัติ ค่าว่างหรือศูนย์จะเป็นการระบุว่า ไม่มีการใช้ระยะเวลาใดเลย";
+$MESS["BPAA_PD_TIMEOUT_LIMIT"] = "เวลาอนุมัติขั้นต่ำ";
+$MESS["BPAA_PD_TIME_D"] = "วัน";
+$MESS["BPAA_PD_TIME_H"] = "ชั่วโมง";
+$MESS["BPAA_PD_TIME_M"] = "นาที";
+$MESS["BPAA_PD_TIME_S"] = "วินาที";
+$MESS["BPAA_PD_TYPE"] = "ประเภทการอนุมัติ";
+$MESS["BPAA_PD_TYPE_ALL"] = "ทุกคน";
+$MESS["BPAA_PD_TYPE_ANY"] = "บุคคลหนึ่งบุคคลใด";
+$MESS["BPAA_PD_TYPE_VOTE"] = "ลงคะแนน";
+$MESS["BPAA_PD_WAIT"] = "รอการตอบสนองจากผู้เข้าร่วมทั้งหมด";
+$MESS["BPAA_PD_YES"] = "ใช่";
+$MESS["BPAR_PD_ACCESS_CONTROL"] = "แสดงรายละเอียดการมอบหมายให้กับผู้รับผิดชอบเท่านั้น";
+$MESS["BPAR_PD_COMMENT_LABEL_MESSAGE"] = "ป้ายช่องป้อนข้อมูลความคิดเห็น";
+$MESS["BPAR_PD_COMMENT_REQUIRED"] = "จำเป็นต้องมีความคิดเห็น";
+$MESS["BPAR_PD_COMMENT_REQUIRED_YA"] = "เมื่อได้รับอนุมัติเท่านั้น";
+$MESS["BPAR_PD_COMMENT_REQUIRED_YR"] = "เมื่อถูกปฏิเสธเท่านั้น";
+$MESS["BPAR_PD_DELEGATION_TYPE"] = "มอบหมายให้";
+$MESS["BPAR_PD_SHOW_COMMENT"] = "แสดงช่องป้อนข้อมูลความคิดเห็น";
+$MESS["BPAR_PD_TASK_BUTTON1_MESSAGE"] = "ข้อความปุ่มยอมรับ";
+$MESS["BPAR_PD_TASK_BUTTON2_MESSAGE"] = "ปฏิเสธข้อความปุ่ม";
+?>

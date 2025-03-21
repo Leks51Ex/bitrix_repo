@@ -1,0 +1,29 @@
+<?
+$MESS["ISV_ADD_DEPARTMENT"] = "添加部门";
+$MESS["ISV_B24_INVITE"] = "邀请用户";
+$MESS["ISV_CHILDREN_COUNT_1"] = "另外 #NUM# 个部门";
+$MESS["ISV_CHILDREN_COUNT_2"] = "另外 #NUM# 个部门";
+$MESS["ISV_CHILDREN_COUNT_3"] = "另外 #NUM# 个部门";
+$MESS["ISV_CHILDREN_COUNT_4"] = "另外 #NUM# 个部门";
+$MESS["ISV_CHILDREN_COUNT_MUL"] = "另外 #NUM# 个部门";
+$MESS["ISV_EMPLOYEES"] = "员工";
+$MESS["ISV_EMP_COUNT_1"] = "#NUM# 个员工";
+$MESS["ISV_EMP_COUNT_2"] = "#NUM# 个员工";
+$MESS["ISV_EMP_COUNT_3"] = "#NUM# 个员工";
+$MESS["ISV_EMP_COUNT_4"] = "#NUM# 个员工";
+$MESS["ISV_EMP_COUNT_MUL"] = "#NUM# 个员工";
+$MESS["ISV_EMP_LIST"] = "员工列表";
+$MESS["ISV_HINT_ADD"] = "添加子部门";
+$MESS["ISV_HINT_DELETE"] = "删除部门";
+$MESS["ISV_HINT_EDIT"] = "编辑部门";
+$MESS["ISV_SHOW_SUBTREE"] = "显示部门架构";
+$MESS["ISV_UNDO"] = "取消";
+$MESS["ISV_add_dep"] = "添加下属部门";
+$MESS["ISV_add_emp"] = "添加员工";
+$MESS["ISV_confirm_change_department_0"] = "将 #EMP_NAME# 转到 #DPT_NAME#？";
+$MESS["ISV_confirm_change_department_1"] = "将 #EMP_NAME# 分配到 #DPT_NAME#？";
+$MESS["ISV_confirm_delete_department"] = "您要删除该部门吗？所有下属部门将被转移。";
+$MESS["ISV_confirm_move_department"] = "将 #DPT_NAME# 转到 #DPT_NAME_TO#？";
+$MESS["ISV_confirm_set_head"] = "指定 #EMP_NAME# 为 #DPT_NAME# 部门部长？";
+$MESS["ISV_set_head"] = "任命为主管";
+?>

@@ -1,0 +1,5 @@
+<?
+$MESS["SENDER_CONTACT_SET_SELECTOR_BUTTON_SELECT"] = "Alıcı listesini seç";
+$MESS["SENDER_CONTACT_SET_SELECTOR_SEARCHER_TITLE"] = "Özel alıcı listeleri";
+$MESS["SENDER_CONTACT_SET_SELECTOR_TITLE"] = "Özel alıcı listeleri";
+?>

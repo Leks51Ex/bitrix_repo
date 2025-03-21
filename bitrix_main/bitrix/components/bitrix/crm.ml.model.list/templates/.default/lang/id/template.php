@@ -1,0 +1,22 @@
+<?php
+$MESS["CRM_ML_MODEL_LIST_AVAILABLE_MODELS"] = "Model tersedia";
+$MESS["CRM_ML_MODEL_LIST_BUTTON_CANCEL"] = "Batal";
+$MESS["CRM_ML_MODEL_LIST_BUTTON_DISABLE"] = "Nonaktifkan";
+$MESS["CRM_ML_MODEL_LIST_BUTTON_TRAIN_FREE_OF_CHARGE"] = "Latih secara gratis";
+$MESS["CRM_ML_MODEL_LIST_CONFIRMATION"] = "Konfirmasikan tindakan";
+$MESS["CRM_ML_MODEL_LIST_DEAL_SCORING_DISABLE"] = "Nonaktifkan penskoran transaksi untuk rantai elemen ini";
+$MESS["CRM_ML_MODEL_LIST_DISABLE_DEAL_SCORING"] = "Nonaktifkan penskoran transaksi untuk rantai elemen ini?";
+$MESS["CRM_ML_MODEL_LIST_DISABLE_LEAD_SCORING"] = "Nonaktifkan penskoran prospek?";
+$MESS["CRM_ML_MODEL_LIST_HELP"] = "Bantuan";
+$MESS["CRM_ML_MODEL_LIST_LEAD_SCORING_DISABLE"] = "Nonaktifkan penskoran prospek";
+$MESS["CRM_ML_MODEL_LIST_SCORING_DESCRIPTION_P1"] = "Apakah manajer penjualan Anda memperhitungkan intuisi ketika menangani transaksi? Bawa pelanggan pemula ke posisi teratas dalam daftar Anda.";
+$MESS["CRM_ML_MODEL_LIST_SCORING_DESCRIPTION_P2"] = "Penskoran AI akan menganalisis transaksi yang ada untuk menunjukkan probabilitas kesuksesan mereka. Sistem akan membantu karyawan mengidentifikasi area yang paling memerlukan perhatian. Jangan buang waktu Anda pada mereka yang tidak memiliki niat untuk menjadi pelanggan Anda!";
+$MESS["CRM_ML_MODEL_LIST_SCORING_ENOUGH_DATA"] = "CRM Anda memiliki data yang cukup untuk melatih model penskoran AI.";
+$MESS["CRM_ML_MODEL_LIST_SCORING_ERROR_TOO_SOON_2"] = "Penskoran AI telah dinonaktifkan sesuai permintaan Anda. Anda akan dapat melatih model AI dan mengaktifkan penskoran setelah #DATE#.";
+$MESS["CRM_ML_MODEL_LIST_SCORING_MODEL_QUALITY"] = "Kualitas model: #QUALITY#%.";
+$MESS["CRM_ML_MODEL_LIST_SCORING_MODEL_READY"] = "Model AI telah dilatih dan sekarang siap untuk peramalan.";
+$MESS["CRM_ML_MODEL_LIST_SCORING_MODEL_TRAINING_DATE"] = "Dilatih pada: #TRAINING_DATE#.";
+$MESS["CRM_ML_MODEL_LIST_SCORING_NOT_ENOUGH_DATA"] = "CRM Anda tidak memiliki data yang cukup untuk melatih model penskoran AI. Silakan merujuk pada #LINK_START#artikel#LINK_END# ini untuk mengetahui lebih banyak tentang ukuran dan konten dataset yang diperlukan untuk pelatihan.";
+$MESS["CRM_ML_MODEL_LIST_SCORING_REENABLE_WARNING"] = "Anda tidak akan dapat mengaktifkan kembali penskoran hingga #DATE#";
+$MESS["CRM_ML_MODEL_LIST_SCORING_TITLE"] = "Penskoran AI";
+$MESS["CRM_ML_MODEL_LIST_SCORING_TRAINING_IN_PROCESS"] = "Pelatihan model penskoran AI sedang berjalan sekarang. Selesai: #PROGRESS#%";

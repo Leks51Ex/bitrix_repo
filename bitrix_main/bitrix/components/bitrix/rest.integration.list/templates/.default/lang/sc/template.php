@@ -1,0 +1,3 @@
+<?php
+$MESS["REST_INTEGRATION_LIST_ERROR_OPEN_URL"] = "打开页面时发生未知错误。";
+$MESS["REST_INTEGRATION_LIST_OPEN_PROCESS"] = "解决方案正在上传...";

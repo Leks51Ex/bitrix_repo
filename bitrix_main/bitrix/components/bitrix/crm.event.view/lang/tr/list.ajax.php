@@ -1,0 +1,3 @@
+<?
+$MESS["CRM_EVENT_VIEW_ROW_COUNT"] = "Toplam: #ROW_COUNT#";
+?>

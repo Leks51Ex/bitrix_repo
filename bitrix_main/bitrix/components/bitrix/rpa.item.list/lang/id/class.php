@@ -1,0 +1,5 @@
+<?
+$MESS["RPA_ITEMS_LIST_TITLE"] = "Item #TITLE#";
+$MESS["RPA_ITEM_SORT_COLUMN"] = "Sortir";
+$MESS["RPA_ITEM_STAGE_COLUMN"] = "Tahap";
+?>

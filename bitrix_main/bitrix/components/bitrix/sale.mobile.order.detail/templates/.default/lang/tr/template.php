@@ -1,0 +1,31 @@
+<?
+$MESS["DOWN_TEXT"] = "Yenilemek için bırak...";
+$MESS["LOAD_TEXT"] = "Güncelleniyor ...";
+$MESS["PULL_TEXT"] = "Yenilemek için çek...";
+$MESS["SMOD_ACCOUNT"] = "Dahili hesaptan öde";
+$MESS["SMOD_ALLOW"] = "İzin verildi";
+$MESS["SMOD_ALLOW_DELIVERY"] = "Gönderiyi onayla";
+$MESS["SMOD_BACK"] = "Geri";
+$MESS["SMOD_BUDGET"] = "Hesap";
+$MESS["SMOD_CANCEL"] = "Siparişi iptal et";
+$MESS["SMOD_CANCEL_CANCEL"] = "Siparişi iptal etme";
+$MESS["SMOD_CANCEL_REASON"] = "Gerekçe";
+$MESS["SMOD_CHANGE_STATUS"] = "Durumu Değiştir";
+$MESS["SMOD_DEDUCT"] = "Tamamlama";
+$MESS["SMOD_DEDUCT_UNDO"] = "Yeine getirmeyi iptal et";
+$MESS["SMOD_DELIVERY"] = "Teslimat";
+$MESS["SMOD_DISALLOW"] = "İzin verilmeyen";
+$MESS["SMOD_D_STATUS"] = "Durumu Değiştir";
+$MESS["SMOD_INSUFF_BUDGET"] = "Dahili hesabında, ödeme yapmak için yeterli kaynak yok.";
+$MESS["SMOD_ORDER_DEDUCT"] = "Sipariş Yerine Getirme";
+$MESS["SMOD_ORDER_N"] = "Sipariş #";
+$MESS["SMOD_PAY"] = "Öde";
+$MESS["SMOD_PAYMENT"] = "Ödeme";
+$MESS["SMOD_PAY_BACK"] = "Parayı dahili hesaba ger taşı";
+$MESS["SMOD_PAY_CANCEL"] = "Ödemeyi İptal Et";
+$MESS["SMOD_PAY_CONFIRM"] = "Ödemeyi onayla";
+$MESS["SMOD_PAY_FOR_ORDER"] = "Siparişi öde";
+$MESS["SMOD_SAVE"] = "Kaydet";
+$MESS["SMOD_STATUS"] = "Sipariş durumu";
+$MESS["SMOD_USER_ACCESSIBLE"] = "Müşteriye görünür";
+?>

@@ -1,0 +1,22 @@
+<?php
+$MESS["MIB_APPLY_SETTING_MENU_ITEM"] = "เสร็จสิ้นการปรับแต่ง";
+$MESS["MIB_CANCEL_BUTTON"] = "ยกเลิก";
+$MESS["MIB_DROPZONE_TEXT"] = "ซ่อนรายการ";
+$MESS["MIB_HIDDEN"] = "ซ่อนไว้";
+$MESS["MIB_LICENSE_BUY_BUTTON"] = "ซื้อ";
+$MESS["MIB_LICENSE_TRIAL_BUTTON"] = "ลองฟรี";
+$MESS["MIB_LICENSE_WINDOW_HEADER_TEXT"] = "รับการเข้าถึง";
+$MESS["MIB_LICENSE_WINDOW_TEXT"] = "ซื้อใบอนุญาตหรือลองฟรี";
+$MESS["MIB_MAIN_BUTTONS_LOADING"] = "กำลังโหลด...";
+$MESS["MIB_MAIN_BUTTONS_MORE"] = "เพิ่มเติม";
+$MESS["MIB_MANAGE"] = "การตั้งค่า";
+$MESS["MIB_NO_HIDDEN"] = "ลากมาที่นี่เพื่อซ่อน";
+$MESS["MIB_PIN_HINT"] = "ย้ายไปที่เมนูด้านบน";
+$MESS["MIB_RESET_ALERT"] = "รีเซ็ตเมนูเป็นมุมมองเริ่มต้นหรือไม่?";
+$MESS["MIB_RESET_BUTTON"] = "รีเซ็ต";
+$MESS["MIB_RESET_SETTINGS"] = "รีเซ็ตเมนู";
+$MESS["MIB_SETTING_MENU_ITEM"] = "กำหนดค่าเมนู";
+$MESS["MIB_SET_HIDE"] = "ซ่อน";
+$MESS["MIB_SET_HOME"] = "ตั้งเป็นหน้าแรกของส่วน";
+$MESS["MIB_SET_SHOW"] = "แสดง";
+$MESS["MIB_UNPIN_ITEM"] = "ย้ายกลับไปที่ \"#NAME#\"";

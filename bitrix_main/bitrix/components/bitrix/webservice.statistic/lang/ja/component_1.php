@@ -1,0 +1,13 @@
+<?
+$MESS["BX_WS_STAT_LF_B_YESTERDAY"] = "おととい";
+$MESS["BX_WS_STAT_LF_EVENTS"] = "イベント";
+$MESS["BX_WS_STAT_LF_GUESTS"] = "訪問者";
+$MESS["BX_WS_STAT_LF_HITS"] = "ヒット";
+$MESS["BX_WS_STAT_LF_HOSTS"] = "ホスト";
+$MESS["BX_WS_STAT_LF_NEW_GUESTS"] = "新しい訪問者";
+$MESS["BX_WS_STAT_LF_SESSIONS"] = "セッション";
+$MESS["BX_WS_STAT_LF_TITLE"] = "統計";
+$MESS["BX_WS_STAT_LF_TODAY"] = "今日";
+$MESS["BX_WS_STAT_LF_TOTAL"] = "合計";
+$MESS["BX_WS_STAT_LF_YESTERDAY"] = "昨日";
+?>

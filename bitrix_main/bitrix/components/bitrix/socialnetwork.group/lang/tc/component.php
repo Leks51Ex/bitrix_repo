@@ -1,0 +1,10 @@
+<?
+$MESS["SONET_C5_NO_PERMS"] = "您沒有檢視本群組設定檔的權限。";
+$MESS["SONET_C5_TITLE"] = "設定檔";
+$MESS["SONET_C6_BLOG_T"] = "報表";
+$MESS["SONET_C6_FORUM_T"] = "討論區";
+$MESS["SONET_C6_NAME_TEMPLATE_DEFAULT"] = "#NOBR##NAME# #LAST_NAME##/NOBR#";
+$MESS["SONET_C6_TASKS_T"] = "任務";
+$MESS["SONET_MODULE_NOT_INSTALL"] = "未安裝社交網路模組。";
+$MESS["SONET_P_USER_NO_GROUP"] = "未找到群組。";
+?>

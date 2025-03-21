@@ -1,0 +1,5 @@
+<?
+$MESS["LISTS_CANCEL_BUTTON_CLOSE"] = "बंद करें";
+$MESS["LISTS_CANCEL_BUTTON_SET_RIGHT"] = "रद्द करें";
+$MESS["LISTS_SAVE_BUTTON_SET_RIGHT"] = "सेव करें";
+?>

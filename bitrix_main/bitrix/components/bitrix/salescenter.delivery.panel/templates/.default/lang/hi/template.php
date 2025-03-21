@@ -1,0 +1,5 @@
+<?
+$MESS["SDP_SALESCENTER_DELIVERY_SUB_TITLE"] = "डिलीवरी सेवाएँ";
+$MESS["SDP_SALESCENTER_JS_POPUP_CLOSE"] = "बंद करें";
+$MESS["SDP_SALESCENTER_TITLE"] = "डिलीवरी चुनें";
+?>

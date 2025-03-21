@@ -1,0 +1,38 @@
+<?
+$MESS["CATEGORY_NAME"] = "श्रेणी";
+$MESS["FILE_NAME"] = "फ़ाइल";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "इन्फॉर्मेशन ब्लॉक्स मॉड्यूल इंस्टॉल नहीं है।";
+$MESS["IBLOCK_NOT_ASSIGNED"] = "कोई इन्फॉर्मेशन ब्लॉक नहीं चुना गया है।";
+$MESS["SOCNET_MODULE_NOT_INSTALLED"] = "सोशल नेटवर्क मॉड्यूल इंस्टॉल नहीं है।";
+$MESS["WIKI_ACCESS_DENIED"] = "पहुँच नामंजूर।";
+$MESS["WIKI_BUTTON_DELETE"] = "डिलीट करें";
+$MESS["WIKI_CHOISE_CATEGORY"] = "श्रेणी चुनें";
+$MESS["WIKI_DEFAULT_DETAIL_TEXT"] = "%NEWLINE%%HEAD%%NEWLINE%%NEWLINE%इस पेज पर कोई टेक्स्ट नहीं है।";
+$MESS["WIKI_DELETE_CONFIRM"] = "क्या आप वाकई इसे डिलीट करना चाहते हैं?";
+$MESS["WIKI_DELETE_ERROR"] = "पेज हटाने में त्रुटि।";
+$MESS["WIKI_DELETE_PAGE"] = "क्या आप वाकई पेज और चेंजलॉग को पूरी तरह से डिलीट करना चाहते हैं?";
+$MESS["WIKI_DEL_SONET_LOG_TITLE_TEMPLATE"] = "Wiki आलेख \"#TITLE#\" हटाया";
+$MESS["WIKI_DIALOG_RENAME_BUT_RENAME"] = "नाम बदलें";
+$MESS["WIKI_DIALOG_RENAME_ERROR"] = "नाम बदला नहीं जा सकता।";
+$MESS["WIKI_DIALOG_RENAME_PAGE_NAME"] = "नया नाम";
+$MESS["WIKI_DIALOG_RENAME_TITLE"] = "नाम बदलें";
+$MESS["WIKI_ERROR_NAME_BAD_SYMBOL"] = "नाम में अमान्य वर्ण शामिल हैं (/)";
+$MESS["WIKI_ERROR_NAME_EMPTY"] = "पेज शीर्षक मौजूद नहीं है।";
+$MESS["WIKI_ERROR_RENAME"] = "इस नाम वाला एक पेज पहले से मौजूद है।";
+$MESS["WIKI_ERROR_TEXT_EMPTY"] = "पेज टेक्स्ट खाली है।";
+$MESS["WIKI_IMAGE_INSERT"] = "तस्वीर डालें";
+$MESS["WIKI_IMAGE_UPLOAD_ERROR"] = "केवल तस्वीरें ही अपलोड की जा सकती हैं (JPG, JPEG, JPE, PNG, GIF, BMP)।";
+$MESS["WIKI_MODIFY_COMMENT"] = "अपडेट पर टिप्पणी करें";
+$MESS["WIKI_MODIFY_COMMENT_ABSENT"] = "कोई नहीं";
+$MESS["WIKI_MODULE_NOT_INSTALLED"] = "Wiki मॉड्यूल इन्स्टॉल नहीं है।";
+$MESS["WIKI_PAGE_NOT_FIND"] = "कोई टेक्स्ट नहीं है, या पेज मौजूद नहीं है। आप <a href=\"%LINK%\">अब इस शीर्षक से एक नया पेज बना सकते हैं</a>।";
+$MESS["WIKI_PAGE_RENAMED"] = "%OLD_NAME% पेज का नाम %NEW_NAME% में बदल दिया गया है।";
+$MESS["WIKI_REDIRECT"] = "रीडायरेक्ट";
+$MESS["WIKI_SESS_TIMEOUT"] = "आपका सत्र समाप्त हो गया है। कृपया पेज को फिर सेव करें।";
+$MESS["WIKI_SOCNET_INITIALIZING_FAILED"] = "सोशल नेटवर्क शुरू होने में विफल रहा।";
+$MESS["WIKI_SONET_IM_ADD"] = "एक नए Wiki पेज \"#title#\" को #group_name# में जोड़ा।";
+$MESS["WIKI_SONET_IM_DELETE"] = "Wiki पेज \"#title#\" को #group_name# से हटाया।";
+$MESS["WIKI_SONET_IM_EDIT"] = "Wiki पेज \"#title#\" को #group_name# में अपडेट किया।";
+$MESS["WIKI_SONET_IM_RENAME"] = "#group_name# में Wiki पेज \"#title_old#\" का नाम बदलकर \"#title_new#\" किया।";
+$MESS["WIKI_SONET_LOG_TITLE_TEMPLATE"] = "लेख \"#TITLE#\" जोड़ा या अपडेट किया गया";
+?>

@@ -1,0 +1,12 @@
+<?php
+$MESS["LANDING_TPL_BUTTON_CANCEL"] = "Hủy bỏ";
+$MESS["LANDING_TPL_BUTTON_SAVE"] = "Lưu";
+$MESS["LANDING_TPL_FIELD_CODE"] = "Địa chỉ thư mục";
+$MESS["LANDING_TPL_FIELD_INDEX_ID"] = "Trang chỉ mục";
+$MESS["LANDING_TPL_FIELD_METAOG_DESCRIPTION"] = "Mô tả";
+$MESS["LANDING_TPL_FIELD_METAOG_TITLE"] = "Tên";
+$MESS["LANDING_TPL_FIELD_PREVIEW"] = "Xem trước mạng xã hội";
+$MESS["LANDING_TPL_FOLDER_ADD_PAGE"] = "tạo trang";
+$MESS["LANDING_TPL_FOLDER_IS_EMPTY"] = "(Thư mục trống)";
+$MESS["LANDING_TPL_FOLDER_SELECT_PAGE"] = "chọn trang";
+$MESS["LANDING_TPL_TITLE"] = "Cài đặt thư mục";

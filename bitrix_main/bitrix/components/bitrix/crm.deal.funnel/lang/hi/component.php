@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_COLUMN_ASSIGNED_BY"] = "जिम्मेदार व्यक्ति";
+$MESS["CRM_COLUMN_BEGINDATE"] = "आरंभ तिथि";
+$MESS["CRM_COLUMN_CLOSED"] = "बंद";
+$MESS["CRM_COLUMN_CLOSEDATE"] = "अनुमानित समापन तिथि";
+$MESS["CRM_COLUMN_COMPANY_LIST"] = "कंपनियाँ";
+$MESS["CRM_COLUMN_CONTACT_LIST"] = "संपर्क";
+$MESS["CRM_COLUMN_COUNT"] = "डील";
+$MESS["CRM_COLUMN_CURRENCY_ID"] = "मुद्रा";
+$MESS["CRM_COLUMN_DATE_CREATE"] = "सृजित";
+$MESS["CRM_COLUMN_DATE_MODIFY"] = "संशोधित";
+$MESS["CRM_COLUMN_FUNNEL"] = " फ़नल";
+$MESS["CRM_COLUMN_MODIFY_BY"] = "इनके द्वारा संशोधित";
+$MESS["CRM_COLUMN_OPPORTUNITY"] = "राशि";
+$MESS["CRM_COLUMN_PROBABILITY"] = "संभावना";
+$MESS["CRM_COLUMN_PROCENT"] = "%";
+$MESS["CRM_COLUMN_PRODUCT_ID"] = "उत्पाद";
+$MESS["CRM_COLUMN_STAGE_ID"] = "डील स्टेज";
+$MESS["CRM_COLUMN_STATE_ID"] = "स्टेटस";
+$MESS["CRM_COLUMN_SUMM"] = "राशि, #CURRENCY#";
+$MESS["CRM_COLUMN_TITLE"] = "डील स्टेज";
+$MESS["CRM_COLUMN_TYPE_ID"] = "प्रकार";
+$MESS["CRM_DEAL_NAV_TITLE_LIST"] = "सेल्स फ़नल";
+$MESS["CRM_FUNNEL_TYPE_CLASSICAL"] = "स्टैंडर्ड";
+$MESS["CRM_FUNNEL_TYPE_CUMULATIVE"] = "रूपांतरण के साथ";
+$MESS["CRM_FUNNEL_TYPE_CUMULATIVE2"] = "रूपांतरण के साथ";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM मॉड्यूल इन्स्टॉल नहीं है।";
+$MESS["CRM_PERMISSION_DENIED"] = "पहुँच नामंजूर";
+$MESS["CRM_PRESET_MONTH"] = "इस माह";
+$MESS["CRM_PRESET_MONTH_PREV"] = "पिछला माह";
+$MESS["CRM_PRESET_MY_WEEK"] = "मेरी इस सप्ताह की डील्स";
+$MESS["CRM_PRESET_MY_WEEK_AGO"] = "मेरी पिछले सप्ताह की डील्स";
+$MESS["CRM_PRESET_WEEK"] = "इस सप्ताह";
+$MESS["CRM_PRESET_WEEK_PREV"] = "पिछले सप्ताह";
+?>

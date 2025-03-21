@@ -1,0 +1,31 @@
+<?
+$MESS["F_DATE_FORMAT"] = "日付形式";
+$MESS["F_DATE_TIME_FORMAT"] = "日付と時刻の形式";
+$MESS["F_DEFAULT_FID"] = "フォーラムID";
+$MESS["F_DEFAULT_MID"] = "メッセージID";
+$MESS["F_DEFAULT_PATH_TO_SMILE"] = "Smilesフォルダへのパス(ルート相対)";
+$MESS["F_DEFAULT_TID"] = "トピックID";
+$MESS["F_IMAGE_SIZE"] = "ポスト(px)の画像のサイズ";
+$MESS["F_LIST_TEMPLATE"] = "トピック一覧ページ";
+$MESS["F_MESSAGES_PER_PAGE"] = "1ページあたりのメッセージ数";
+$MESS["F_MESSAGE_TEMPLATE"] = "トピック読書ページ";
+$MESS["F_PAGEN"] = "パンくずリスト内のトピックビューページの数";
+$MESS["F_PAGE_NAVIGATION_SHOW_ALL"] = "すべてのページを表示するオプションを有効にする";
+$MESS["F_PAGE_NAVIGATION_TEMPLATE"] = "ページャテンプレートの名前";
+$MESS["F_PAGE_NAVIGATION_WINDOW"] = "ページナビゲーション内のページ数";
+$MESS["F_PROFILE_VIEW_TEMPLATE"] = "ユーザープロフィールページ";
+$MESS["F_RATING_ID"] = "評価";
+$MESS["F_READ_TEMPLATE"] = "トピック読んだページ(空の値 - フォーラムの設定から取得)";
+$MESS["F_SOCNET_GROUP_ID"] = "グループID";
+$MESS["F_TOPIC_NEW_TEMPLATE"] = "新しいトピック作成ページ";
+$MESS["F_URL_TEMPLATES"] = "処理中のURL";
+$MESS["F_USER_ID"] = "ユーザーID";
+$MESS["RATING_TYPE"] = "評価ボタンのデザイン";
+$MESS["RATING_TYPE_CONFIG"] = "デフォルト";
+$MESS["RATING_TYPE_LIKE_GRAPHIC"] = "いいね (画像)";
+$MESS["RATING_TYPE_LIKE_TEXT"] = "いいね (テキスト)";
+$MESS["RATING_TYPE_STANDART_GRAPHIC"] = "いいね/いいね取消 (画像)";
+$MESS["RATING_TYPE_STANDART_TEXT"] = "いいね/いいね取消 (テキスト)";
+$MESS["SHOW_RATING"] = "評価を有効にする";
+$MESS["SHOW_RATING_CONFIG"] = "デフォルト";
+?>

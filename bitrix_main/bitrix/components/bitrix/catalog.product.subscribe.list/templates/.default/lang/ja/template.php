@@ -1,0 +1,33 @@
+<?
+$MESS["CPSL_ADD_TO_BASKET_OK"] = "あなたのショッピングカートに追加されました";
+$MESS["CPSL_BUTTON_SUBMIT_ACCESS"] = "アクセスする";
+$MESS["CPSL_BUTTON_SUBMIT_CODE"] = "コードを送信する";
+$MESS["CPSL_CATALOG_BASKET_UNKNOWN_ERROR"] = "ショッピングカートに商品を追加する際に不明なエラーが発生しました";
+$MESS["CPSL_CATALOG_BTN_MESSAGE_BASKET_REDIRECT"] = "カートを見る";
+$MESS["CPSL_CATALOG_BTN_MESSAGE_CLOSE"] = "閉じる";
+$MESS["CPSL_CATALOG_BTN_MESSAGE_SEND_PROPS"] = "選択";
+$MESS["CPSL_CATALOG_TITLE_BASKET_PROPS"] = "ショッピングカートに渡すアイテムのプロパティ";
+$MESS["CPSL_CATALOG_TITLE_ERROR"] = "エラー";
+$MESS["CPSL_CODE_LABLE"] = "確認コード";
+$MESS["CPSL_CONTACT_TYPE_NAME"] = "連絡先";
+$MESS["CPSL_CONTACT_TYPE_SELECTION"] = "連絡先の種類を選択";
+$MESS["CPSL_HEADLINE_FORM_FOR_ACCESSING"] = "続行するには確認コードを入力してください";
+$MESS["CPSL_HEADLINE_FORM_SEND_CODE"] = "連絡先を入力して確認コードを送信します";
+$MESS["CPSL_IDENTIFICATION_REQUEST_FAIL"] = "それは誤りです";
+$MESS["CPSL_IDENTIFICATION_REQUEST_OK"] = "あなたが提供した連絡先に確認コードが送信されました";
+$MESS["CPSL_STATUS_ERROR"] = "それは誤りです";
+$MESS["CPSL_STATUS_SUCCESS"] = "成功";
+$MESS["CPSL_SUBSCRIBE_NOT_FOUND"] = "あなたはどの製品にも加入していません";
+$MESS["CPSL_SUBSCRIBE_PAGE_TITLE_AUTHORIZE"] = "定期購読を表示するには、
+<a href=\"javascript:void(0);\" id=\"cpsl-auth\">ログインするか、または
+<a href=\"javascript:void(0);\" id=\"cpsl-identification\">アクセスコードを取得</a>";
+$MESS["CPSL_SUBSCRIBE_POPUP_TITLE_AUTHORIZE"] = "サブスクリプションにアクセスする";
+$MESS["CPSL_SUBSCRIBE_POPUP_TITLE_IDENTIFICATION"] = "サブスクリプションにアクセスする";
+$MESS["CPSL_SUBSCRIBE_POPUP_TITLE_UNSUBSCRIBE"] = "製品通知の登録を解除する";
+$MESS["CPSL_SUBSCRIBE_TITLE"] = "あなたはこれらの製品を購読しています";
+$MESS["CPSL_SUBSCRIBE_TITLE_NEW"] = "あなたの購読";
+$MESS["CPSL_TITLE_PAGE_WHEN_ACCESSING"] = "サブスクリプション管理アクセスを復元する";
+$MESS["CPSL_TPL_MESS_BTN_DETAIL"] = "詳細";
+$MESS["CPSL_TPL_MESS_BTN_SUBSCRIBE_DELETE"] = "削除";
+$MESS["CPSL_TPL_MESS_BTN_UNSUBSCRIBE"] = "退会する";
+?>

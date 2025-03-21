@@ -1,0 +1,22 @@
+<?php
+$MESS["SONET_C30_EXPERT_MODE_HINT"] = "Chế độ ẩn nhiệm vụ được kích hoạt. nhiệm vụ của bạn sẽ không được hiển thị trong bản tin suối; đúng hơn, bạn sẽ truy cập chúng trong phần nhiệm vụ trực tiếp. <br /> <br /> Bạn vẫn sẽ nhận được thông báo nhiệm vụ trong các tin nhắn.";
+$MESS["SONET_C30_EXTRANET_ROOT"] = "extranet";
+$MESS["SONET_C30_F_DIALOG_CLOSE_BUTTON"] = "Đóng";
+$MESS["SONET_C30_F_DIALOG_READ_BUTTON"] = "đánh dấu là đã đọc";
+$MESS["SONET_C30_F_EXPERT_MODE_IMAGENAME"] = "en";
+$MESS["SONET_C30_F_VIDEO_TRANSFORMATION_POPUP_TEXT"] = "Chúng tôi đang chuyển đổi video của mình để hiển thị nó trên tất cả các thiết bị. #A_START#Tin nhắn#A_END# này chỉ được hiển thị cho bạn khi quá trình chuyển đổi đang diễn ra.";
+$MESS["SONET_C30_F_VIDEO_TRANSFORMATION_POPUP_TITLE"] = "Trình chuyển đổi video";
+$MESS["SONET_C30_PRESET_FILTER_ALL"] = "Tất cả sự kiện";
+$MESS["SONET_C30_SMART_EXPERT_MODE"] = "Ẩn nhiệm vụ";
+$MESS["SONET_C30_SMART_FOLLOW"] = "Bật cơ chế theo dõi thông minh";
+$MESS["SONET_C30_SMART_FOLLOW_HINT"] = "Smart follow mode is on. Only the posts for which you are the author, recipient or mentioned in the post text will be moved to the top. You automatically follow any post you comment on.";
+$MESS["SONET_C30_T_FILTER_COMMENTS"] = "Tìm trong cả bình luận";
+$MESS["SONET_C30_T_FILTER_CREATED_BY"] = "Tác giả";
+$MESS["SONET_C30_T_FILTER_DATE"] = "Ngày";
+$MESS["SONET_C30_T_FILTER_GROUP"] = "Nhóm";
+$MESS["SONET_C30_T_FILTER_TITLE"] = "Tìm kiếm";
+$MESS["SONET_C30_T_FILTER_TO"] = "Đến";
+$MESS["SONET_C30_T_FILTER_USER"] = "Người nhận";
+$MESS["SONET_C30_T_RESET"] = "Làm lại";
+$MESS["SONET_C30_T_SHOW_HIDDEN"] = "Hiển thị các thư mục ẩn";
+$MESS["SONET_C30_T_SUBMIT"] = "Chọn";

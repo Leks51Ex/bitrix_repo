@@ -1,0 +1,5 @@
+<?
+$MESS["M_CRM_PAY_SYSTEM_LIST_DOWN_TEXT"] = "释放以刷新";
+$MESS["M_CRM_PAY_SYSTEM_LIST_LOAD_TEXT"] = "正在更新...";
+$MESS["M_CRM_PAY_SYSTEM_LIST_PULL_TEXT"] = "下拉以刷新";
+?>

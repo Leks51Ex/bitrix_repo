@@ -1,0 +1,5 @@
+<?
+$MESS["TASKS_LAST_SELECTED"] = "最近のタスク";
+$MESS["TASKS_TASKS_CURRENT_COUNT"] = "選択済み";
+$MESS["TASKS_TASK_SEARCH"] = "検索";
+?>

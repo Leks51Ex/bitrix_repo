@@ -1,0 +1,4 @@
+<?php
+$MESS["CRM_SIGNDOCUMENT_VIEW_DOCUMENT_INITIATOR_NOT_FOUND"] = "Pemula dokumen tidak ditemui.";
+$MESS["CRM_SIGNDOCUMENT_VIEW_DOCUMENT_NOT_FOUND"] = "Dokumen tidak ditemui.";
+$MESS["CRM_SIGNDOCUMENT_VIEW_TITLE"] = "Lihat dokumen";

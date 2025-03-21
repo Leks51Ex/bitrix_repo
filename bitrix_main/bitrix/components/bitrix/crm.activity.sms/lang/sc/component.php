@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_ACTIVITY_SMS_EMPTY_PARAMETERS"] = "未提交所需参数";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安装 CRM 模块。";
+?>

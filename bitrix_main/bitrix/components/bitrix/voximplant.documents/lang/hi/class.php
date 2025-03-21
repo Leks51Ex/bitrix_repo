@@ -1,0 +1,5 @@
+<?
+$MESS["VOX_DOCUMENT_STATUS_DECLINED"] = "नामंजूर";
+$MESS["VOX_DOCUMENT_STATUS_IN_PROGRESS"] = "सत्यापन प्रगति पर";
+$MESS["VOX_DOCUMENT_STATUS_VERIFIED"] = "पुष्टि हुई";
+?>

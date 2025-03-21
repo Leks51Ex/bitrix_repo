@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_PRODUCT_EXP_COLUMN_CURRENCY_ID"] = "Mata wang";
+$MESS["CRM_PRODUCT_EXP_COLUMN_DESCRIPTION_TYPE"] = "Format keterangan";
+$MESS["CRM_PRODUCT_EXP_COLUMN_SECTION_ID"] = "Bahagian (tahap #LEVEL_NUM#)";
+$MESS["ERROR_PRODUCT_LIST_IS_EMPTY"] = "Tiada produk!";
+?>

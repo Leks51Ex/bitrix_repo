@@ -1,0 +1,17 @@
+<?
+$MESS["EVENTLIST_HEADER_EVENT_NAME"] = "Etkinlik";
+$MESS["EVENTLIST_HEADER_IP"] = "IP";
+$MESS["EVENTLIST_HEADER_NAME"] = "Kullanıcı";
+$MESS["EVENTLIST_HEADER_TIME"] = "Zaman";
+$MESS["EVENT_LIST_DATE_FILTER_DAYS"] = "gün";
+$MESS["EVENT_LIST_FILTER_CREATED_BY"] = "Oluşturan";
+$MESS["EVENT_LIST_FILTER_DATE"] = "Tarih";
+$MESS["EVENT_LIST_FILTER_FEATURES_TITLE"] = "Etkinlikler";
+$MESS["EVENT_LIST_FILTER_HIDE"] = "gizle";
+$MESS["EVENT_LIST_FILTER_SHOW"] = "göster";
+$MESS["EVENT_LIST_FILTER_TITLE"] = "Filtreyi Ayarla";
+$MESS["EVENT_LIST_NO_ACTIVE_FEATURES_ERROR"] = "Filtrelemek için hiçbir etkinlik seçilmedi.";
+$MESS["EVENT_LIST_NO_UPDATES"] = "Güncelleme yok.";
+$MESS["EVENT_LIST_PAGE_NAV"] = "Kayıtlar gösteriliyor";
+$MESS["EVENT_LIST_SUBMIT"] = "Seç";
+?>

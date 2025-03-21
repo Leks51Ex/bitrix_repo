@@ -1,0 +1,6 @@
+<?
+$MESS["DISK_MOBILE_CREATE"] = "作成日";
+$MESS["DISK_MOBILE_MODIFIED"] = "変更日";
+$MESS["DISK_MOBILE_SIZE"] = "サイズ";
+$MESS["DISK_MOBILE_VIEW_FILE"] = "ファイルを閲覧する";
+?>

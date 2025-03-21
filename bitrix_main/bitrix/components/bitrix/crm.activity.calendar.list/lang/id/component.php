@@ -1,0 +1,13 @@
+<?
+$MESS["CRM_COLUMN_ASSIGNED_BY"] = "Penanggung jawab";
+$MESS["CRM_COLUMN_DESCRIPTION"] = "Deskripsi";
+$MESS["CRM_COLUMN_ENTITY_TITLE"] = "Judul";
+$MESS["CRM_COLUMN_ENTITY_TYPE"] = "Tipe";
+$MESS["CRM_COLUMN_ID"] = "ID";
+$MESS["CRM_ENTITY_TYPE_COMPANY"] = "Perusahaan";
+$MESS["CRM_ENTITY_TYPE_CONTACT"] = "Kontak";
+$MESS["CRM_ENTITY_TYPE_DEAL"] = "Transaksi";
+$MESS["CRM_ENTITY_TYPE_LEAD"] = "Prospek";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Modul CRM belum diinstal.";
+$MESS["CRM_PERMISSION_DENIED"] = "Akses ditolak";
+?>

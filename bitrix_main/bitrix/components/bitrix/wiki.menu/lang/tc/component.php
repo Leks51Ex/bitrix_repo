@@ -1,0 +1,9 @@
+<?
+$MESS["CATEGORY_NAME"] = "類別";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "未安裝資訊區塊模組。";
+$MESS["IBLOCK_NOT_ASSIGNED"] = "未選取任何資訊區塊。";
+$MESS["SOCNET_MODULE_NOT_INSTALLED"] = "未安裝社交網路模組。";
+$MESS["WIKI_ACCESS_DENIED"] = "已拒絕存取。";
+$MESS["WIKI_DEFAULT_PAGE_NAME"] = "索引頁";
+$MESS["WIKI_MODULE_NOT_INSTALLED"] = "未安裝 Wiki 模組。";
+?>

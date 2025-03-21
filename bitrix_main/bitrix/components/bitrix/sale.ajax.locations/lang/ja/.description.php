@@ -1,0 +1,5 @@
+<?
+$MESS["SAL_DEFAULT_TEMPLATE_DESCRIPTION"] = "動的ロケーション選択フォーム";
+$MESS["SAL_DEFAULT_TEMPLATE_NAME"] = "位置 (AJAX)";
+$MESS["SAL_NAME"] = "注文手続き";
+?>

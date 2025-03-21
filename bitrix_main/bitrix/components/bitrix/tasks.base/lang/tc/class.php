@@ -1,0 +1,5 @@
+<?
+$MESS["TASKS_TB_TASKS_MODULE_NOT_AVAILABLE"] = "本版本無法使用任務模組。";
+$MESS["TASKS_TB_TASKS_MODULE_NOT_INSTALLED"] = "未安裝任務模組。";
+$MESS["TASKS_TB_USER_NOT_AUTHORIZED"] = "您沒有檢視任務的權限";
+?>

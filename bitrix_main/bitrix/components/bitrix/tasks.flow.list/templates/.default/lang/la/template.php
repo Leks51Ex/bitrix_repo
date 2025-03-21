@@ -1,0 +1,25 @@
+<?php
+$MESS["TASKS_FLOW_ADD_BUTTON"] = "Nuevo flujo";
+$MESS["TASKS_FLOW_LIST_ABOUT_EFFICIENCY"] = "La eficiencia es el porcentaje de las tareas <br>que se completaron en el tiempo asignado.";
+$MESS["TASKS_FLOW_LIST_ANALYTICS_BTN"] = "Analítica";
+$MESS["TASKS_FLOW_LIST_BI_ANALYTICS_BADLY"] = "Malo";
+$MESS["TASKS_FLOW_LIST_BI_ANALYTICS_EMPTY_DASHBOARDS"] = "El panel de control no está disponible.";
+$MESS["TASKS_FLOW_LIST_BI_ANALYTICS_GREAT"] = "Excelente";
+$MESS["TASKS_FLOW_LIST_COLUMN_DEMO_LABEL"] = "No asignado";
+$MESS["TASKS_FLOW_LIST_COLUMN_MY_TASKS_PLURAL_0"] = "{number} tarea";
+$MESS["TASKS_FLOW_LIST_COLUMN_MY_TASKS_PLURAL_1"] = "{number} tareas";
+$MESS["TASKS_FLOW_LIST_COLUMN_MY_TASKS_PLURAL_2"] = "{number} tareas";
+$MESS["TASKS_FLOW_LIST_COMING_SOON"] = "Próximamente";
+$MESS["TASKS_FLOW_LIST_CONFIRM_REMOVE_BUTTON"] = "Sí";
+$MESS["TASKS_FLOW_LIST_CONFIRM_REMOVE_MESSAGE"] = "¿Seguro que desea eliminar el flujo?";
+$MESS["TASKS_FLOW_LIST_COPILOT_NOT_ENOUGH_TASKS_POPUP_DESCRIPTION"] = "CoPilot mostrará sus recomendaciones aquí una vez que tenga por lo menos 10 tareas en el flujo.";
+$MESS["TASKS_FLOW_LIST_COPILOT_NOT_ENOUGH_TASKS_POPUP_SHOW_EXAMPLE"] = "Ver ejemplos de recomendaciones";
+$MESS["TASKS_FLOW_LIST_COPILOT_NOT_ENOUGH_TASKS_POPUP_TITLE"] = "Recolección de datos";
+$MESS["TASKS_FLOW_LIST_CREATE_TASK"] = "Crear tarea";
+$MESS["TASKS_FLOW_LIST_FLOW_OFF"] = "Flujo desactivado.";
+$MESS["TASKS_FLOW_LIST_FLOW_PINNED"] = "Flujo fijado.";
+$MESS["TASKS_FLOW_LIST_FLOW_PIN_CANCEL"] = "Deshacer";
+$MESS["TASKS_FLOW_LIST_FLOW_UNPINNED"] = "Flujo no fijado.";
+$MESS["TASKS_FLOW_LIST_GUIDE_BTN"] = "Guía de inicio para flujos maestros";
+$MESS["TASKS_FLOW_LIST_NO_TASKS"] = "No hay tareas";
+$MESS["TASKS_FLOW_LIST_NO_YOUR_TASKS"] = "Ninguna";

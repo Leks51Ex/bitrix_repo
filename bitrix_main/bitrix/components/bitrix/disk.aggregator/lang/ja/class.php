@@ -1,0 +1,5 @@
+<?
+$MESS["DISK_AGGREGATOR_EXTRANET_USER_TITLE"] = "外部ユーザードライブ";
+$MESS["DISK_AGGREGATOR_GROUP_TITLE"] = "ドライブのグループ化";
+$MESS["DISK_AGGREGATOR_USER_TITLE"] = "社員ドライブ";
+?>

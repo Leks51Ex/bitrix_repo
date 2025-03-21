@@ -1,0 +1,9 @@
+<?
+$MESS["CRM_STATUS_BUTTONS_CANCEL"] = "İptal";
+$MESS["CRM_STATUS_BUTTONS_SAVE"] = "Kaydet";
+$MESS["CRM_STATUS_LIST_ADD"] = "Ekle";
+$MESS["CRM_STATUS_LIST_DELETE"] = "Sil";
+$MESS["CRM_STATUS_LIST_DOWN"] = "İndir";
+$MESS["CRM_STATUS_LIST_RECOVERY_NAME"] = "Orijinal İsme Geri Çevir";
+$MESS["CRM_STATUS_LIST_UP"] = "Üst";
+?>

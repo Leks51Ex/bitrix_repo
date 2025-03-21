@@ -1,0 +1,23 @@
+<?php
+$MESS["CRM_OIIV_CANCEL"] = "Cancelar";
+$MESS["CRM_OIIV_CREATE_STORE"] = "Crear una tienda online";
+$MESS["CRM_OIIV_IMPORT"] = "Importar";
+$MESS["CRM_OIIV_IMPORT_FEEDBACK"] = "Feedback";
+$MESS["CRM_OIIV_IMPORT_MORE"] = "Importar más";
+$MESS["CRM_OIIV_IMPORT_NETWORK_ERROR"] = "Error desconocido al importar los datos. Inténtelo de nuevo.";
+$MESS["CRM_OIIV_INSTAGRAM_CONNECTED"] = "conectado";
+$MESS["CRM_OIIV_NO_MEDIA"] = "No hay publicaciones en el perfil";
+$MESS["CRM_OIIV_NO_PRICE"] = "especificar el precio";
+$MESS["CRM_OIIV_PRODUCTS_ADDED_SUCCESSFUL"] = "Los productos han sido importados al catálogo comercial de CRM";
+$MESS["CRM_OIIV_PRODUCT_CHANGE_PRICE_SUCCESSFUL"] = "El precio del producto ha sido cambiado";
+$MESS["CRM_OIIV_PRODUCT_RENAME_SUCCESSFUL"] = "Nombre del producto ha sido cambiado";
+$MESS["CRM_OIIV_SELECT_ALL"] = "Seleccionar todo";
+$MESS["CRM_OIIV_SELECT_MEDIA"] = "Seleccionar la publicación para importar";
+$MESS["CRM_OIIV_SELECT_NO_MEDIA"] = "No hay nuevas publicaciones disponibles.";
+$MESS["CRM_OIIV_STEP_IMPORTED"] = "Publicaciones importadas";
+$MESS["CRM_OIIV_STEP_PROCESS_TITLE"] = "Las publicaciones se están importando ahora";
+$MESS["CRM_OIIV_STEP_READY_TITLE"] = "¡Listo!";
+$MESS["CRM_OIIV_STEP_STOPPED_TITLE"] = "Importación cancelada";
+$MESS["CRM_OIIV_STOP"] = "Detener";
+$MESS["CRM_OIIV_TOTAL_IMPORTED"] = "Total de publicaciones importadas del perfil";
+$MESS["CRM_OIIV_UNSELECT_ALL"] = "Deseleccionar todo";

@@ -1,0 +1,18 @@
+<?
+$MESS["INTR_COMP_IS_TPL_BANNER_OUTLOOK"] = "Microsoft Outlookの連絡先として従業員をエクスポートすることができます";
+$MESS["INTR_COMP_IS_TPL_BANNER_OUTLOOK_BUTTON"] = "エクスポート";
+$MESS["INTR_COMP_IS_TPL_FILTER_ADV"] = "高度な検索";
+$MESS["INTR_COMP_IS_TPL_FILTER_ALPH"] = "アルファベットで検索";
+$MESS["INTR_COMP_IS_TPL_FILTER_AZ"] = "A-Z";
+$MESS["INTR_COMP_IS_TPL_FILTER_SIMPLE"] = "検索";
+$MESS["INTR_COMP_IS_TPL_TOOLBAR_CARDDAV"] = "CardDAV経由で同期する";
+$MESS["INTR_COMP_IS_TPL_TOOLBAR_CARDDAV_TITLE"] = "従業員レジストリをCardDAV(iPhone、iPadなど)をサポートするソフトウェアおよびハードウェアと同期させる";
+$MESS["INTR_COMP_IS_TPL_TOOLBAR_EXCEL"] = "Excelにエクスポート";
+$MESS["INTR_COMP_IS_TPL_TOOLBAR_EXCEL_TITLE"] = "検索結果をMS Excelにエクスポートする";
+$MESS["INTR_COMP_IS_TPL_TOOLBAR_LETTER"] = "文字";
+$MESS["INTR_COMP_IS_TPL_TOOLBAR_OUTLOOK"] = "Outlookと同期する";
+$MESS["INTR_COMP_IS_TPL_TOOLBAR_OUTLOOK_TITLE"] = "Outlook連絡先として従業員リストをエクスポートする";
+$MESS["INTR_COMP_IS_TPL_TOOLBAR_VIEW"] = "表示";
+$MESS["INTR_COMP_IS_TPL_TOOLBAR_VIEW_LIST"] = "リスト";
+$MESS["INTR_COMP_IS_TPL_TOOLBAR_VIEW_TABLE"] = "詳細";
+?>

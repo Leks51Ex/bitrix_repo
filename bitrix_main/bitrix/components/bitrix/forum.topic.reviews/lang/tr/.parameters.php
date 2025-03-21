@@ -1,0 +1,24 @@
+<?php
+$MESS["F_DATE_TIME_FORMAT"] = "Tarih ve saat biçimi";
+$MESS["F_DETAIL_TEMPLATE"] = "Bilgi Bloğu Ögesi Sayfası";
+$MESS["F_EDITOR_CODE_DEFAULT"] = "Düz Metin Düzenleyici Modu İçin Varsayılan";
+$MESS["F_FORUM_ID"] = "Forum Kimliği ";
+$MESS["F_IBLOCK_ID"] = "Bilgi Bloğu";
+$MESS["F_IBLOCK_TYPE"] = "Bilgi bloğu türü";
+$MESS["F_MESSAGES_PER_PAGE"] = "Sayfa Başına Mesaj Sayısı";
+$MESS["F_PAGE_NAVIGATION_TEMPLATE"] = "Sayfa şablonu adı";
+$MESS["F_PREORDER"] = "İletme sırasıyla mesajları göster";
+$MESS["F_PROFILE_VIEW_TEMPLATE"] = "Profil Sayfası";
+$MESS["F_READ_TEMPLATE"] = "Başlık Okuma sayfası";
+$MESS["F_SHOW_AVATAR"] = "Avatarları Göster";
+$MESS["F_SHOW_AVATAR_PHOTO"] = "Hayır, avatarlar yerine fotoğrafları göster";
+$MESS["F_USE_CAPTCHA"] = "CAPTCHA kullan";
+$MESS["IBLOCK_ELEMENT_ID"] = "Bilgi bloğu ögesi kimliği";
+$MESS["RATING_TYPE"] = "Puanlama düğmeleri tasarımı";
+$MESS["RATING_TYPE_CONFIG"] = "Varsayılan";
+$MESS["RATING_TYPE_LIKE_GRAPHIC"] = "Beğen (görsel)";
+$MESS["RATING_TYPE_LIKE_TEXT"] = "Beğen (metin)";
+$MESS["RATING_TYPE_STANDART_GRAPHIC"] = "Beğen / Beğenmekten Vazgeç (görsel)";
+$MESS["RATING_TYPE_STANDART_TEXT"] = "Beğen / Beğenmekten Vazgeç (metin)";
+$MESS["SHOW_RATING"] = "Puanlamayı Etkinleştir";
+$MESS["SHOW_RATING_CONFIG"] = "Varsayılan";

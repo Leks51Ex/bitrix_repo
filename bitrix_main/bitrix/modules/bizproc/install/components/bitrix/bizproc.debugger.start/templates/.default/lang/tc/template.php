@@ -1,0 +1,11 @@
+<?php
+$MESS["BIPZROC_DEBUGGER_START_TEMPLATE_FINISH"] = "停止";
+$MESS["BIPZROC_DEBUGGER_START_TEMPLATE_START"] = "開始";
+$MESS["BIZPROC_DEBUGGER_START_TEMPLATE_INFO_MESSAGE"] = "深入瞭解測試模式詳情";
+$MESS["BIZPROC_DEBUGGER_START_TEMPLATE_INTERCEPTION_DEAL_SUBTITLE"] = "從客戶所採取的第一個動作開始，全程觀察自動化規則的執行情形。測試模式將等待聯絡中心建立一筆新交易，並開始對其進行測試。";
+$MESS["BIZPROC_DEBUGGER_START_TEMPLATE_INTERCEPTION_DEAL_TITLE"] = "使用現實生活交易進行測試";
+$MESS["BIZPROC_DEBUGGER_START_TEMPLATE_SELECT_DEAL"] = "選取測試模式";
+$MESS["BIZPROC_DEBUGGER_START_TEMPLATE_SUBTITLE"] = "使用測試模式，以確保您的自動化規則能正常運作。您可以在選定的現實生活交易上測試規則，亦可在測試模式建立的示範交易上測試規則。您將逐步執行自動化規則，觀察和控制該規則所採取的每項動作。";
+$MESS["BIZPROC_DEBUGGER_START_TEMPLATE_TEST_DEAL_SUBTITLE"] = "即使聯絡中心中沒有任何一筆交易，也可以測試您的自動化規則。測試模式將為您建立一筆示範交易，讓您可以立即開始測試。";
+$MESS["BIZPROC_DEBUGGER_START_TEMPLATE_TEST_DEAL_TITLE"] = "使用示範交易進行測試";
+$MESS["BIZPROC_DEBUGGER_START_TEMPLATE_TITLE"] = "自動化規則測試模式";

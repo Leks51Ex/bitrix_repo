@@ -1,0 +1,11 @@
+<?
+$MESS["CRM_ENTITY_LF_ACTIVITY_CLIENT_INFO"] = "#CLIENT# के साथ";
+$MESS["CRM_ENTITY_LF_ACTIVITY_LIST_TITLE"] = "वर्तमान गतिविधियाँ";
+$MESS["CRM_ENTITY_LF_ACTIVITY_REFERENCE_INFO"] = "#REFERENCE# के बारे में";
+$MESS["CRM_ENTITY_LF_ACTIVITY_TYPE_CALL_INCOMING"] = "किसी क्लाइंट से फोन कॉल";
+$MESS["CRM_ENTITY_LF_ACTIVITY_TYPE_CALL_OUTGOING"] = "किसी क्लाइंट को फोन कॉल";
+$MESS["CRM_ENTITY_LF_ACTIVITY_TYPE_EMAIL_INCOMING"] = "किसी क्लाइंट से ई-मेल";
+$MESS["CRM_ENTITY_LF_ACTIVITY_TYPE_EMAIL_OUTGOING"] = "किसी क्लाइंट को ई-मेल";
+$MESS["CRM_ENTITY_LF_ACTIVITY_TYPE_MEETING"] = "किसी क्लाइंट के साथ मीटिंग";
+$MESS["CRM_ENTITY_LF_ACTIVITY_TYPE_TASK"] = "टास्क";
+?>

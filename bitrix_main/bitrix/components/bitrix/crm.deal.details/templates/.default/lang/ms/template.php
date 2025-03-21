@@ -1,0 +1,25 @@
+<?php
+$MESS["CRM_DEAL_CONV_ACCESS_DENIED"] = "Anda memerlukan kebenaran untuk membuat kenalan, syarikat dan urusan untuk melengkapkan operasi.";
+$MESS["CRM_DEAL_CONV_DIALOG_CANCEL_BTN"] = "Batal";
+$MESS["CRM_DEAL_CONV_DIALOG_CONTINUE_BTN"] = "Teruskan";
+$MESS["CRM_DEAL_CONV_DIALOG_SYNC_ENTITY_LIST_TITLE"] = "Pilih entiti di mana medan yang hilang akan dicipta";
+$MESS["CRM_DEAL_CONV_DIALOG_SYNC_FILED_LIST_TITLE"] = "Medan ini akan dicipta";
+$MESS["CRM_DEAL_CONV_DIALOG_SYNC_LEGEND"] = "Entiti terpilih tidak mempunyai medan yang boleh menyimpan data urusan. Sila pilih entiti di mana medan yang hilang akan dicipta untuk menampung semua maklumat yang tersedia.";
+$MESS["CRM_DEAL_CONV_DIALOG_TITLE"] = "Hasilkan entiti berdasarkan urusan";
+$MESS["CRM_DEAL_CONV_GENERAL_ERROR"] = "Ralat pertukaran generik.";
+$MESS["CRM_DEAL_DETAIL_ATTR_GR_TYPE_GENERAL"] = "Semua peringkat dan corong";
+$MESS["CRM_DEAL_DETAIL_ATTR_GR_TYPE_JUNK"] = "Hilang";
+$MESS["CRM_DEAL_DETAIL_ATTR_GR_TYPE_PIPELINE"] = "Dalam kemajuan + menang";
+$MESS["CRM_DEAL_DETAIL_ATTR_REQUIRED_FULL"] = "Perlu bermula dengan peringkat";
+$MESS["CRM_DEAL_DETAIL_ATTR_REQUIRED_FULL_1"] = "Wajib di peringkat";
+$MESS["CRM_DEAL_DETAIL_ATTR_REQUIRED_SHORT"] = "Diperlukan";
+$MESS["CRM_DEAL_DETAIL_AUTOMATION_DEBUG_ITEM"] = "Mod ujian dihidupkan";
+$MESS["CRM_DEAL_DETAIL_HISTORY_STUB"] = "Anda kini menambah urusan...";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_ADD_DOCUMENT_GUIDE_TEXT"] = "Maklumat pelanggan dan produk akan disalin ke objek inventori. <br/><br/>Menghasilkan objek inventori jualan sambil urusan sedang dilaksanakan tidak diwajibkan. Ia akan dicipta secara automatik apabila urusan ditutup.";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_ADD_DOCUMENT_GUIDE_TITLE"] = "Menjual terus daripada urusan";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_AUTOMATIC_RESERVATION_GUIDE_TEXT"] = "Kini pengurusan inventori dibolehkan dalam CRM anda.<br/><br/>Anda boleh menempah item produk bagi pelanggan supaya ia tidak tersedia untuk pesanan lain.";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_AUTOMATIC_RESERVATION_GUIDE_TITLE"] = "Simpan item produk";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_PRODUCT_STORE_GUIDE_TEXT"] = "Pilih berbilang gudang jika kuantiti dikehendaki tidak boleh dipilih daripada gudang tunggal.";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_PRODUCT_STORE_GUIDE_TITLE"] = "Pilih gudang yang anda mahu menempah stok di";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_SUCCESS_DEAL_GUIDE_TEXT"] = "Ia akan dicipta secara automatik sebaik sahaja urusan berjaya ditutup.";
+$MESS["CRM_DEAL_DETAIL_WAREHOUSE_SUCCESS_DEAL_GUIDE_TITLE"] = "Objek inventori jualan";

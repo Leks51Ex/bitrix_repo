@@ -1,0 +1,23 @@
+<?php
+$MESS["BPABL_LOG"] = "Historique de l'exécution";
+$MESS["BPABL_RES_1"] = "Non";
+$MESS["BPABL_RES_2"] = "Avec succès";
+$MESS["BPABL_RES_3"] = "Annulé";
+$MESS["BPABL_RES_4"] = "Erreur";
+$MESS["BPABL_RES_5"] = "Non initialisé";
+$MESS["BPABL_RES_6"] = "Indéfini";
+$MESS["BPABL_STATE_MODIFIED_1"] = "Date du statut courant";
+$MESS["BPABL_STATE_NAME_1"] = "Statut courant du processus d’entreprise";
+$MESS["BPABL_STATUS_1"] = "Date de l'initialisation";
+$MESS["BPABL_STATUS_2"] = "En cours";
+$MESS["BPABL_STATUS_3"] = "Annulation en cours";
+$MESS["BPABL_STATUS_4"] = "Achevé(e)s";
+$MESS["BPABL_STATUS_5"] = "Erreur";
+$MESS["BPABL_STATUS_6"] = "Indéfini";
+$MESS["BPABL_TYPE_1_1"] = "Activité '#ACTIVITY#'#NOTE# démarrée";
+$MESS["BPABL_TYPE_2_1"] = "L'activité terminée '#ACTIVITY#' a renvoyé le statut : '#STATUS#' résultat : '#RESULT#'#NOTE#";
+$MESS["BPABL_TYPE_3_1"] = "Annulation de l'activité '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_4_1"] = "Erreur lors de l'activité '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_5_1"] = "Activité '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_6_1"] = "Une activité inconnue associée à '#ACTIVITY#'#NOTE# a été effectuée";
+$MESS["BPWC_WLCT_TOTAL"] = "Total";

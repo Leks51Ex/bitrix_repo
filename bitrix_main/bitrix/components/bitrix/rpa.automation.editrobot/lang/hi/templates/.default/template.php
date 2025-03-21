@@ -1,0 +1,4 @@
+<?
+$MESS["RPA_AUTOMATION_EDITROBOT_TPL_SAVE_SUCCESS"] = "परिवर्तन सेव कर लिए गए हैं।";
+$MESS["RPA_AUTOMATION_EDITROBOT_TPL_SECTION_MAIN"] = "सामान्य";
+?>

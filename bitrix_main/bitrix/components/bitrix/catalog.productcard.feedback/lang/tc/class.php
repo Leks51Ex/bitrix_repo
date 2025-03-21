@@ -1,0 +1,2 @@
+<?php
+$MESS["CATALOG_PRODUCTCARD_FEEDBACK_MODULE_ERROR"] = "未安裝商業目錄模組。";

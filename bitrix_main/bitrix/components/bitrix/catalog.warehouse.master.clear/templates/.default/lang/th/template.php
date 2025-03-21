@@ -1,0 +1,27 @@
+<?php
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_1"] = "เปิดใช้งานการจัดการสินค้าคงคลัง";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_2"] = "ปิดใช้งานการจัดการสินค้าคงคลัง";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_3"] = "เปิดใช้งานการจัดการสินค้าคงคลังใน Bitrix24";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_4"] = "เปิดใช้งานตัวเลือกที่มี เพื่อทำงานกับการจัดการสินค้าคงคลัง ตัวเลือกแต่ละตัวนำเสนอการกำหนดค่าเฉพาะ การตั้งค่าแรกเริ่ม และประเภทของระบบอัตโนมัติ";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_5"] = "เรียนรู้เพิ่มเติม";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_6"] = "เร็วๆ นี้";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_7"] = "เปิด";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_8"] = "ปิด";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_9"] = "ปิดใช้งานการจัดการสินค้าคงคลังใน Bitrix24";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_10"] = "พนักงานคลังสินค้าที่ไม่จำกัด";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_12"] = "ยกเลิก";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_13"] = "รีเซ็ตสต็อก";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_14"] = "รีเซ็ตสต็อก";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_15"] = "มีผลิตภัณฑ์ที่มีสต็อกปัจจุบันไม่เป็นศูนย์ คุณต้องรีเซ็ตค่าสต็อกก่อนเปิดใช้งานการจัดการสินค้าคงคลัง";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_16"] = "คุณสามารถอัปเดตค่าสต็อคได้ หลังจากที่คุณเปิดใช้งานการจัดการสินค้าคงคลัง";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_17"] = "เปิดใช้งานและโยกย้ายข้อมูลจากระบบอื่นๆ";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_18"] = "สิทธิ์ไม่เพียงพอในการเปิดใช้งานการจัดการสินค้าคงคลัง";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_19"] = "บันทึก";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_CLOSE"] = "ปิด";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_CONDUCTED_DOCUMENTS_EXIST"] = "มีวัตถุสินค้าคงคลังที่ประมวลผล ไม่สามารถปิดใช้งานการจัดการสินค้าคงคลัง ขณะที่วัตถุสินค้าคงคลังเหล่านั้นมีอยู่ได้";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_DISABLE"] = "ปิดใช้งาน";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_DISABLE_CONFIRMATION_TEXT"] = "คุณแน่ใจหรือไม่ ว่าต้องการปิดใช้งานการจัดการสินค้าคงคลัง?";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_DISABLE_POPUP_TITLE"] = "ปิดใช้งานการจัดการสินค้าคงคลัง";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_ENABLED"] = "การจัดการสินค้าคงคลังเปิดใช้งานแล้ว";
+$MESS["CAT_WAREHOUSE_MASTER_STORE_LEAD_ENABLED_MODE_ERROR"] = "การจัดการสินค้าคงคลังสามารถใช้กับโหมด \"CRM เรียบง่าย\" ได้เท่านั้น";
+$MESS["CAT_WAREHOUSE_MASTER_STORE_ORDER_DEAL_MODE_ERROR"] = "การจัดการสินค้าคงคลังไม่สามารถใช้กับโหมด \"ดีลและคำสั่งซื้อ\" ได้ คุณต้องเปลี่ยนเป็นโหมด \"ดีล\" เพื่อใช้การจัดการสินค้าคงคลัง";

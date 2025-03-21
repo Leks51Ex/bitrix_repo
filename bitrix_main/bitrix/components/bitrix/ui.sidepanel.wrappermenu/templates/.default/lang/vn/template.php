@@ -1,0 +1,5 @@
+<?
+$MESS["UI_SIDEPANEL_MENU_ADD_ITEM"] = "thêm trang";
+$MESS["UI_SIDEPANEL_MENU_BUTTON_CLOSE"] = "Thu hẹp";
+$MESS["UI_SIDEPANEL_MENU_BUTTON_OPEN"] = "Mở rộng";
+?>

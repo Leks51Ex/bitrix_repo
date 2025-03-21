@@ -1,0 +1,22 @@
+<?php
+$MESS["SONET_C30_EXPERT_MODE_HINT"] = "\"Görevleri gizle\" modu şimdi etkin. Görevlerin Haber Akışında görünmeyecek; onun yerine doğrudan Görevler kısmından erişebileceksin.<br /><br />Anlık mesajlaşmada görev bildirimleri almaya devam edeceksin.";
+$MESS["SONET_C30_EXTRANET_ROOT"] = "Extranet";
+$MESS["SONET_C30_F_DIALOG_CLOSE_BUTTON"] = "Kapat";
+$MESS["SONET_C30_F_DIALOG_READ_BUTTON"] = "Okudum";
+$MESS["SONET_C30_F_EXPERT_MODE_IMAGENAME"] = "en";
+$MESS["SONET_C30_F_VIDEO_TRANSFORMATION_POPUP_TEXT"] = "Videonuzu tüm cihazlarda kullanılabilir hâle getirmek için dönüştürüyoruz. Bu #A_START#mesaj#A_END#, yalnızca dönüştürme devam ederken size görünür.";
+$MESS["SONET_C30_F_VIDEO_TRANSFORMATION_POPUP_TITLE"] = "Video dönüştürücü";
+$MESS["SONET_C30_PRESET_FILTER_ALL"] = "Tüm Etkinlikler";
+$MESS["SONET_C30_SMART_EXPERT_MODE"] = "Görevleri gizle";
+$MESS["SONET_C30_SMART_FOLLOW"] = "Akıllı takip modu";
+$MESS["SONET_C30_SMART_FOLLOW_HINT"] = "Akıllı takip modu çalışıyor. Sadece yazarı veya alıcısı olduğun veya etiketlendiğin gönderiler başa alınacak. Yorum yaptığın her gönderiyi otomatik olarak takip ediyorsun.";
+$MESS["SONET_C30_T_FILTER_COMMENTS"] = "Yorumları da ara";
+$MESS["SONET_C30_T_FILTER_CREATED_BY"] = "Yazar";
+$MESS["SONET_C30_T_FILTER_DATE"] = "Tarih";
+$MESS["SONET_C30_T_FILTER_GROUP"] = "Grup";
+$MESS["SONET_C30_T_FILTER_TITLE"] = "Ara";
+$MESS["SONET_C30_T_FILTER_TO"] = "Şuna:";
+$MESS["SONET_C30_T_FILTER_USER"] = "Alıcı";
+$MESS["SONET_C30_T_RESET"] = "Sıfırla";
+$MESS["SONET_C30_T_SHOW_HIDDEN"] = "Gizli kategorileri göster";
+$MESS["SONET_C30_T_SUBMIT"] = "Seç";

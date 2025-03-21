@@ -1,0 +1,27 @@
+<?php
+$MESS["STORE_LIST_ACTION_ACTIVATE_ERROR"] = "Không thể kích hoạt nhà kho ##ID#";
+$MESS["STORE_LIST_ACTION_ACTIVATE_TEXT"] = "Kích hoạt";
+$MESS["STORE_LIST_ACTION_ACTIVATE_TITLE"] = "Kích hoạt";
+$MESS["STORE_LIST_ACTION_DEACTIVATE_ERROR"] = "Không thể bỏ kích hoạt nhà kho ##ID#";
+$MESS["STORE_LIST_ACTION_DEACTIVATE_TEXT"] = "Bỏ kích hoạt";
+$MESS["STORE_LIST_ACTION_DEACTIVATE_TITLE"] = "Bỏ kích hoạt";
+$MESS["STORE_LIST_ACTION_DEFAULT_STORE_DEACTIVATE_ERROR"] = "Không thể bỏ kích hoạt nhà kho mặc định";
+$MESS["STORE_LIST_ACTION_DEFAULT_STORE_DELETE_ERROR"] = "Không thể xóa nhà kho mặc định";
+$MESS["STORE_LIST_ACTION_DELETE_CONFIRM"] = "Bạn có chắc chắn muốn xóa kho hàng?";
+$MESS["STORE_LIST_ACTION_DELETE_ERROR"] = "Không thể xóa nhà kho ##ID#";
+$MESS["STORE_LIST_ACTION_DELETE_TEXT"] = "Xóa";
+$MESS["STORE_LIST_ACTION_DELETE_TITLE"] = "Xóa";
+$MESS["STORE_LIST_ACTION_OPEN_TEXT"] = "Sửa";
+$MESS["STORE_LIST_ACTION_OPEN_TEXT_2"] = "Mở";
+$MESS["STORE_LIST_ACTION_OPEN_TITLE"] = "Sửa";
+$MESS["STORE_LIST_ACTION_OPEN_TITLE_2"] = "Mở";
+$MESS["STORE_LIST_ACTION_SET_AS_DEFAULT_ERROR"] = "Lỗi đặt làm nhà kho mặc định: #ERROR#";
+$MESS["STORE_LIST_ACTION_SET_AS_DEFAULT_NON_ACTIVE_ERROR"] = "Không thể đặt nhà kho không hoạt động làm nhà kho mặc định";
+$MESS["STORE_LIST_ACTION_SET_AS_DEFAULT_SITE_ERROR"] = "Nhà kho mặc định không thể thuộc về một cơ sở nào";
+$MESS["STORE_LIST_ACTION_SET_AS_DEFAULT_TEXT"] = "Đặt làm nhà kho mặc định";
+$MESS["STORE_LIST_ACTION_SET_AS_DEFAULT_TITLE"] = "Đặt làm nhà kho mặc định";
+$MESS["STORE_LIST_ADD_STORE_BUTTON"] = "Thêm";
+$MESS["STORE_LIST_ADD_STORE_BUTTON_DENIED_HINT"] = "Không đủ quyền để tạo nhà kho.";
+$MESS["STORE_LIST_NO_VIEW_RIGHTS_ERROR"] = "Không đủ quyền để xem danh sách nhà kho.";
+$MESS["STORE_LIST_NO_WRITE_RIGHTS_ERROR"] = "Không đủ quyền để chỉnh sửa nhà kho.";
+$MESS["STORE_LIST_SITE_NAME_TEMPLATE"] = "#SITE_NAME# (#SITE_ID#)";

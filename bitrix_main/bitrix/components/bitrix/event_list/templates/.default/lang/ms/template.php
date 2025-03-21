@@ -1,0 +1,7 @@
+<?php
+$MESS["EVENT_LIST_FILTER_CREATED_BY"] = "Dicipta Oleh";
+$MESS["EVENT_LIST_FILTER_DATE"] = "Tarikh";
+$MESS["EVENT_LIST_FILTER_FEATURES_TITLE"] = "Acara";
+$MESS["EVENT_LIST_FILTER_HIDE"] = "sembunyikan";
+$MESS["EVENT_LIST_FILTER_SHOW"] = "tunjuk";
+$MESS["EVENT_LIST_FILTER_TITLE"] = "Tetapkan Penapis";

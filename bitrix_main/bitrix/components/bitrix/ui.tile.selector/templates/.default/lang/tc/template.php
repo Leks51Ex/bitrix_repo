@@ -1,0 +1,5 @@
+<?
+$MESS["UI_TILE_SELECTOR_ADD"] = "建立";
+$MESS["UI_TILE_SELECTOR_MORE"] = "還有 #NUM# 項";
+$MESS["UI_TILE_SELECTOR_SELECT"] = "選擇";
+?>

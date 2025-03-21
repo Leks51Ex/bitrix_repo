@@ -1,0 +1,4 @@
+<?php
+$MESS["UI_SIDEPANEL_MENU_ADD_ITEM"] = "sayfa ekle";
+$MESS["UI_SIDEPANEL_MENU_BUTTON_CLOSE"] = "Daralt";
+$MESS["UI_SIDEPANEL_MENU_BUTTON_OPEN"] = "Genişletin";

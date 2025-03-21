@@ -1,0 +1,13 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安裝 CRM 模組。";
+$MESS["CRM_PERMISSION_DENIED"] = "已拒絕存取";
+$MESS["CRM_VAT_FIELD_ACTIVE"] = "使用中";
+$MESS["CRM_VAT_FIELD_C_SORT"] = "排序";
+$MESS["CRM_VAT_FIELD_ID"] = "ID";
+$MESS["CRM_VAT_FIELD_NAME"] = "名稱";
+$MESS["CRM_VAT_FIELD_RATE"] = "評分";
+$MESS["CRM_VAT_NO"] = "否";
+$MESS["CRM_VAT_NOT_FOUND"] = "未找到 VAT 稅率。";
+$MESS["CRM_VAT_SECTION_MAIN"] = "VAT 稅率";
+$MESS["CRM_VAT_YES"] = "是";
+?>

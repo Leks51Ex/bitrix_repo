@@ -1,0 +1,5 @@
+<?
+$MESS["IBLOCK_COMPARE_LIST_TEMPLATE_DESCRIPTION"] = "カタログ要素の中サイズの比較表を表示します";
+$MESS["IBLOCK_COMPARE_LIST_TEMPLATE_NAME"] = "比較されたカタログ要素のリスト";
+$MESS["T_IBLOCK_DESC_CATALOG"] = "カタログ";
+?>

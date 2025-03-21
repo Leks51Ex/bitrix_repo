@@ -1,0 +1,17 @@
+<?php
+$MESS["CRM_ALL"] = "Total";
+$MESS["CRM_DEAL_CATEGORY_BUTTON_CANCEL"] = "Batal";
+$MESS["CRM_DEAL_CATEGORY_BUTTON_SAVE"] = "Simpan";
+$MESS["CRM_DEAL_CATEGORY_DELETE"] = "Hapus";
+$MESS["CRM_DEAL_CATEGORY_DELETE_CONFIRM"] = "Anda yakin ingin menghapus \"#NAME#\"?";
+$MESS["CRM_DEAL_CATEGORY_DELETE_TITLE"] = "Hapus rantai elemen";
+$MESS["CRM_DEAL_CATEGORY_EDIT"] = "Edit";
+$MESS["CRM_DEAL_CATEGORY_EDIT_TITLE"] = "Edit rantai elemen";
+$MESS["CRM_DEAL_CATEGORY_ERROR_TITLE"] = "Simpan kesalahan";
+$MESS["CRM_DEAL_CATEGORY_FIELD_NAME"] = "Nama";
+$MESS["CRM_DEAL_CATEGORY_FIELD_NAME_NOT_ASSIGNED_ERROR"] = "Nilai bidang \"Nama\" hilang.";
+$MESS["CRM_DEAL_CATEGORY_FIELD_SORT"] = "Sortir";
+$MESS["CRM_DEAL_CATEGORY_STATUS_EDIT"] = "Edit tahap";
+$MESS["CRM_DEAL_CATEGORY_STATUS_EDIT_TITLE"] = "Edit tahap rantai elemen";
+$MESS["CRM_DEAL_CATEGORY_TITLE_CREATE"] = "Buat rantai elemen";
+$MESS["CRM_DEAL_CATEGORY_TITLE_EDIT"] = "Edit rantai elemen";

@@ -1,0 +1,6 @@
+<?
+$MESS["IMCONNECTOR_COMPONENT_REST_CONNECTOR_ERROR_STATUS"] = "エラーが発生しました。設定を確認してください。";
+$MESS["IMCONNECTOR_COMPONENT_REST_MODULE_NOT_INSTALLED"] = "「外部IMコネクタ」モジュールがインストールされていません。";
+$MESS["IMCONNECTOR_COMPONENT_REST_NO_ACTIVE_CONNECTOR"] = "このコネクタは非アクティブです。";
+$MESS["IMCONNECTOR_COMPONENT_REST_SESSION_HAS_EXPIRED"] = "セッションの有効期限が切れました。フォームを再度送信してください。";
+?>

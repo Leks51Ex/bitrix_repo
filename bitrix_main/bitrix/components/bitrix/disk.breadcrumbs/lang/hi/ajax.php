@@ -1,0 +1,4 @@
+<?
+$MESS["DISK_BREADCRUMBS_ERROR_COULD_NOT_FIND_FOLDER"] = "फ़ोल्डर नहीं मिला।";
+$MESS["DISK_BREADCRUMBS_TRASHCAN_NAME"] = "रीसायकल बिन";
+?>

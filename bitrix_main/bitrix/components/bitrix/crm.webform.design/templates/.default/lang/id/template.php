@@ -1,0 +1,34 @@
+<?
+$MESS["CRM_WEBFORM_EDIT_V2_ATTENTION"] = "Perhatian!";
+$MESS["CRM_WEBFORM_EDIT_V2_ATTENTION_TEXT"] = "Formulir menunjukkan perubahan yang disimpan otomatis terkini.";
+$MESS["CRM_WEBFORM_EDIT_V2_AUTO"] = "Otomatis";
+$MESS["CRM_WEBFORM_EDIT_V2_BORDER"] = "Tepi formulir";
+$MESS["CRM_WEBFORM_EDIT_V2_BORDER_BOTTOM"] = "Bawah";
+$MESS["CRM_WEBFORM_EDIT_V2_BORDER_LEFT"] = "Kiri";
+$MESS["CRM_WEBFORM_EDIT_V2_BORDER_RIGHT"] = "Kanan";
+$MESS["CRM_WEBFORM_EDIT_V2_BORDER_TOP"] = "Atas";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_BRIGHT"] = "Warna untuk item cerah";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_BRIGHT_TEXT"] = "Warna teks untuk item cerah";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_FIELD"] = "Warna latar bidang";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_FIELD_BORDER"] = "Warna tepi bidang";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_FIELD_FOCUS"] = "Warna latar bidang fokus";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_FORM"] = "Warna latar formulir";
+$MESS["CRM_WEBFORM_EDIT_V2_COLOR_FORM_TEXT"] = "Warna teks formulir";
+$MESS["CRM_WEBFORM_EDIT_V2_DEF"] = "Default";
+$MESS["CRM_WEBFORM_EDIT_V2_ENABLE_DESIGN"] = "Aktifkan desain baru untuk formulir ini di widget Situs Web atau melalui tautan langsung (untuk desain formulir tertanam bisa diubah melalui kode baru atau legasi).";
+$MESS["CRM_WEBFORM_EDIT_V2_FONT"] = "Fon";
+$MESS["CRM_WEBFORM_EDIT_V2_FONT_FAMILY_HINT"] = "Nama muka fon (keluarga fon).<br>Contoh: Open Sans";
+$MESS["CRM_WEBFORM_EDIT_V2_FONT_URI_HINT"] = "Tautkan ke fon yang disediakan di fonts.google.com";
+$MESS["CRM_WEBFORM_EDIT_V2_FORM_TRANSPARENT_HINT"] = "Anda dapat membuat formulir translusen dengan mengubah parameter transparansi dari warna latar formulir dan nilai warna latar bidang.";
+$MESS["CRM_WEBFORM_EDIT_V2_MANUAL"] = "Kustom";
+$MESS["CRM_WEBFORM_EDIT_V2_MODE"] = "Mode";
+$MESS["CRM_WEBFORM_EDIT_V2_MORE_FIELDS"] = "Parameter ekstra";
+$MESS["CRM_WEBFORM_EDIT_V2_PRIMARY_COLOR"] = "Warna utama";
+$MESS["CRM_WEBFORM_EDIT_V2_SETUP"] = "konfigurasikan";
+$MESS["CRM_WEBFORM_EDIT_V2_SETUP_COLOR"] = "Atur warna";
+$MESS["CRM_WEBFORM_EDIT_V2_SETUP_OPACITY"] = "Atur transparansi";
+$MESS["CRM_WEBFORM_EDIT_V2_SHADOW"] = "Bayangan formulir";
+$MESS["CRM_WEBFORM_EDIT_V2_STANDARD"] = "Standar";
+$MESS["CRM_WEBFORM_EDIT_V2_STYLE"] = "Gaya bidang";
+$MESS["CRM_WEBFORM_EDIT_V2_THEME"] = "Tema";
+?>

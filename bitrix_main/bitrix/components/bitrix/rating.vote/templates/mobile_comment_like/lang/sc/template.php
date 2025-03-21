@@ -1,0 +1,4 @@
+<?
+$MESS["RATING_COMMENT_LIKE"] = "赞";
+$MESS["RATING_COMMENT_LIST_BACK"] = "返回";
+?>

@@ -1,0 +1,22 @@
+<?php
+$MESS["MIB_APPLY_SETTING_MENU_ITEM"] = "Hoàn tất tùy chỉnh";
+$MESS["MIB_CANCEL_BUTTON"] = "Hủy bỏ";
+$MESS["MIB_DROPZONE_TEXT"] = "Ẩn mục";
+$MESS["MIB_HIDDEN"] = "Ẩn";
+$MESS["MIB_LICENSE_BUY_BUTTON"] = "Mua";
+$MESS["MIB_LICENSE_TRIAL_BUTTON"] = "Dùng thử miễn phí";
+$MESS["MIB_LICENSE_WINDOW_HEADER_TEXT"] = "Truy cập";
+$MESS["MIB_LICENSE_WINDOW_TEXT"] = "Mua giấy phép hoặc dùng thử miễn phí";
+$MESS["MIB_MAIN_BUTTONS_LOADING"] = "Đang tải...";
+$MESS["MIB_MAIN_BUTTONS_MORE"] = "Thêm";
+$MESS["MIB_MANAGE"] = "Cài đặt";
+$MESS["MIB_NO_HIDDEN"] = "Kéo vào đây để ẩn";
+$MESS["MIB_PIN_HINT"] = "Chuyển sang menu trên cùng";
+$MESS["MIB_RESET_ALERT"] = "Đặt menu về chế độ xem mặc định?";
+$MESS["MIB_RESET_BUTTON"] = "Đặt lại";
+$MESS["MIB_RESET_SETTINGS"] = "Đặt lại menu";
+$MESS["MIB_SETTING_MENU_ITEM"] = "Cấu hình menu";
+$MESS["MIB_SET_HIDE"] = "Ẩn";
+$MESS["MIB_SET_HOME"] = "Đặt làm trang chủ của phần";
+$MESS["MIB_SET_SHOW"] = "Hiển thị";
+$MESS["MIB_UNPIN_ITEM"] = "Quay lại \"#NAME#\"";

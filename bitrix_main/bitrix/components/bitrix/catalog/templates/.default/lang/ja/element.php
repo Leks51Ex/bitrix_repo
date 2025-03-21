@@ -1,0 +1,6 @@
+<?
+$MESS["CATALOG_PERSONAL_RECOM"] = "個人的なおすすめ";
+$MESS["CATALOG_POPULAR_IN_SECTION"] = "人気商品";
+$MESS["CATALOG_RECOMMENDED_BY_LINK"] = "おすすめ商品";
+$MESS["CATALOG_VIEWED"] = "閲覧アイテム";
+?>

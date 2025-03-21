@@ -1,0 +1,37 @@
+<?
+$MESS["CRM_COMPANY_LINK"] = "Şirket";
+$MESS["CRM_CONTACT_LINK"] = "İletişim Kişisi";
+$MESS["CRM_DEAL_CLIENT_NOT_ASSIGNED"] = "[atanmamış]";
+$MESS["CRM_DEAL_LINK"] = "Anlaşma faturası";
+$MESS["CRM_DEAL_NOT_OPENED"] = "Bu anlaşmanın görüntülenmesi sınırlı";
+$MESS["CRM_DEAL_OPENED"] = "Tüm kullanıcılara görüntüleme izni verildi";
+$MESS["CRM_EDIT_BTN_TTL"] = "Düzenlemek için tıkla";
+$MESS["CRM_INVOICE_CLIENT"] = "Sözleşmeli";
+$MESS["CRM_INVOICE_COMMENT"] = "Satış temsilcisi yorumu";
+$MESS["CRM_INVOICE_DATE_BILL"] = "Fatura tarihi";
+$MESS["CRM_INVOICE_DATE_INSERT"] = "Oluşturulma Tarihi";
+$MESS["CRM_INVOICE_DATE_PAY_BEFORE"] = "Ödeme vadesi";
+$MESS["CRM_INVOICE_DATE_UPDATE"] = "Değiştirme Tarihi";
+$MESS["CRM_INVOICE_FIELD_DATE_MARKED"] = "İptal tarihi";
+$MESS["CRM_INVOICE_FIELD_PAY_VOUCHER_DATE"] = "Ödeme tarihi";
+$MESS["CRM_INVOICE_FIELD_PAY_VOUCHER_NUM"] = "Belge #";
+$MESS["CRM_INVOICE_FIELD_REASON_MARKED"] = "Yorum";
+$MESS["CRM_INVOICE_PRICE_SHORT"] = "Toplam";
+$MESS["CRM_INVOICE_PUBLIC_LINK_COPY"] = "Kopyala";
+$MESS["CRM_INVOICE_RECUR_SHOW_TITLE"] = "Yinelenen fatura ##ACCOUNT_NUMBER# &mdash; #ORDER_TOPIC#";
+$MESS["CRM_INVOICE_SHOW_LEGEND"] = "fatura ##ACCOUNT_NUMBER#";
+$MESS["CRM_INVOICE_SHOW_TITLE"] = "Fatura ##ACCOUNT_NUMBER# &mdash; #ORDER_TOPIC#";
+$MESS["CRM_INVOICE_SIDEBAR_STATUS"] = "Durum";
+$MESS["CRM_INVOICE_TITLE"] = "Fatura";
+$MESS["CRM_LOCK_BTN_TTL"] = "Bu öge düzenlenemiyor";
+$MESS["CRM_QUOTE_LINK"] = "Teklif";
+$MESS["CRM_TAB_1"] = "Fatura bilgisi";
+$MESS["CRM_TAB_1_TITLE"] = "Fatura parametreleri";
+$MESS["CRM_TAB_HISTORY"] = "Geçmiş";
+$MESS["CRM_TAB_HISTORY_TITLE"] = "Fatura değişiklik geçmişi";
+$MESS["CRM_TAB_PRODUCT_ROWS"] = "Ürünler";
+$MESS["CRM_TAB_PRODUCT_ROWS_TITLE"] = "Fatura ürünleri";
+$MESS["CRM_TAB_TREE"] = "İlgili öğeler";
+$MESS["CRM_TAB_TREE_TITLE"] = "Diğer varlıklara ve ögelere linkler";
+$MESS["INVOICE_USER_DESCRIPTION"] = "Fatura notları (faturada görünen)";
+?>

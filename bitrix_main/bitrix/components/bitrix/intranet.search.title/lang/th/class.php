@@ -1,0 +1,24 @@
+<?php
+$MESS["CC_BST_ALL_QUERY_PROMPT"] = "ผลลัพธ์ทั้งหมดสำหรับ: <b>\"#query#\"</b>";
+$MESS["CC_BST_ALL_RESULTS"] = "ผลลัพธ์ทั้งหมด";
+$MESS["CC_BST_MODULE_NOT_INSTALLED"] = "ขออภัย โมดูลการค้นหาไม่สามารถใช้ได้ชั่วคราว";
+$MESS["CC_BST_MORE"] = "เพิ่มเติม";
+$MESS["CC_BST_QUERY_PROMPT"] = "ผลลัพธ์สำหรับ: <b>\"#query#\"</b>";
+$MESS["CT_BST_GLOBAL_SEARCH"] = "ค้นหา";
+$MESS["CT_BST_GLOBAL_SEARCH_CALENDAR"] = "ปฏิทิน";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM"] = "CRM";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_ACTIVITY"] = "กิจกรรมของฉัน";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_COMPANY"] = "บริษัท";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_CONTACT"] = "รายชื่อติดต่อ";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_DEAL"] = "ดีล";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_INVOICE"] = "ใบแจ้งหนี้";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_LEAD"] = "ลีด";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_QUOTE"] = "ใบเสนอราคา";
+$MESS["CT_BST_GLOBAL_SEARCH_DISK"] = "Bitrix24.Drive";
+$MESS["CT_BST_GLOBAL_SEARCH_MORE"] = "เพิ่มเติม";
+$MESS["CT_BST_GLOBAL_SEARCH_NEWS"] = "ฟีด";
+$MESS["CT_BST_GLOBAL_SEARCH_NO_RESULT"] = "ไม่พบรายการ";
+$MESS["CT_BST_GLOBAL_SEARCH_PROCESS"] = "เวิร์กโฟลว์ของฉัน";
+$MESS["CT_BST_GLOBAL_SEARCH_SITE"] = "เว็บไซต์";
+$MESS["CT_BST_GLOBAL_SEARCH_STREAM"] = "สตรีมกิจกรรม";
+$MESS["CT_BST_GLOBAL_SEARCH_TASKS"] = "งาน";

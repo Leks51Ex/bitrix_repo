@@ -1,0 +1,32 @@
+<?
+$MESS["ME_ADD"] = "Mesyuarat baru";
+$MESS["ME_COPY"] = "Cipta mesyuarat baru";
+$MESS["ME_COPY_EX"] = "Cipta mesyuarat baru berdasarkan keputusan semasa";
+$MESS["ME_CURRENT_STATE"] = "Peringkat";
+$MESS["ME_DATE_START"] = "Tarikh";
+$MESS["ME_DELETE"] = "Hapus mesyuarat";
+$MESS["ME_DELETE_CONFIRM"] = "Adakah anda pasti anda mahu menghapuskan mesyuarat ini?";
+$MESS["ME_DELETE_EX"] = "Hapus mesyuarat";
+$MESS["ME_DETAIL"] = "Lihat mesyuarat";
+$MESS["ME_DETAIL_EX"] = "Lihat dan sunting mesyuarat";
+$MESS["ME_EDIT"] = "Sunting mesyuarat";
+$MESS["ME_EDIT_EX"] = "Lihat dan sunting mesyuarat";
+$MESS["ME_ERR_NO_MEETINGS"] = "Tiada mesyuarat dirancang";
+$MESS["ME_FILTER"] = "Tapis";
+$MESS["ME_FILTER_CANCEL"] = "Batal";
+$MESS["ME_FILTER_CURRENT_STATE"] = "Peringkat";
+$MESS["ME_FILTER_CURRENT_STATE_ALL"] = "(semua)";
+$MESS["ME_FILTER_GROUP"] = "Projek";
+$MESS["ME_FILTER_HEAD"] = "Hanya mesyuarat saya";
+$MESS["ME_FILTER_MEMBER"] = "Hadirin";
+$MESS["ME_FILTER_OWNER"] = "Pemilik";
+$MESS["ME_FILTER_OWNER_CHOOSE"] = "Pilih";
+$MESS["ME_FILTER_SUBMIT"] = "Carian";
+$MESS["ME_FILTER_TITLE"] = "Nama";
+$MESS["ME_OWNER"] = "Pemilik";
+$MESS["ME_PLACE"] = "Lokasi";
+$MESS["ME_STATE_A"] = "Sedang dijalankan";
+$MESS["ME_STATE_C"] = "Selesai";
+$MESS["ME_STATE_P"] = "Belum bermula";
+$MESS["ME_TITLE"] = "Topik";
+?>

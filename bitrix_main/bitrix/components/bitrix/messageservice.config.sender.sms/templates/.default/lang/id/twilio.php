@@ -1,0 +1,27 @@
+<?php
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_ACTION_REGISTRATION"] = "Hubungkan";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_CABINET_TITLE"] = "Layanan Twilio.com sekarang siap!";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_CLEAR_CONFIRMATION"] = "Anda yakin ingin mereset pengaturan?";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_CLEAR_OPTIONS"] = "Pengaturan reset";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_DEMO_IS_DISABLED"] = "Buka profil #A1#twilio.com#A2# Anda.";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_FEATURES_LIST_1"] = "Kirim pesan langsung dari prospek, transaksi, klien, atau penawaran.";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_FEATURES_LIST_2"] = "Konfigurasi aturan untuk mengirim pesan SMS kepada klien atau karyawan pada waktu yang ditentukan atau ketika tugas yang ditentukan selesai.";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_FEATURES_LIST_3"] = "Mengirim pesan secara massal dari daftar klien, transaksi, prospek, atau entitas CRM lainnya.";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_FEATURES_LIST_DESCRIPTION"] = "Bitrix24 menyediakan pengiriman SMS yang mudah dan bebas kerumitan";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_FEATURES_LIST_DESCRIPTION_ADMIN"] = "Bitrix24 menyediakan pengiriman SMS yang mudah dan bebas kerumitan.";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_FEATURES_TITLE"] = "Jelajahi kemungkinan SMS marketing";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_LABEL_ACCOUNT_FRIENDLY_NAME"] = "Nama akun";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_LABEL_ACCOUNT_SID"] = "SID";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_LABEL_ACCOUNT_TOKEN"] = "Token";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_REGISTRATION_ERROR"] = "Bidang-bidang yang diperlukan salah";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_REGISTRATION_INFO"] = "Informasi pendaftaran Anda di twilio.com";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_RING_1"] = "Konektiitas mudah";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_RING_2"] = "Pengiriman instan";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_RING_3"] = "Bayar hanya untuk pesan tersampaikan";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_RULES_LIST_1"] = "Log in atau buat akun baru dengan #A1#twilio.com#A2#";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_RULES_LIST_2"] = "Daftarkan dan konfigurasi nomor telepon pengirim SMS";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_RULES_LIST_3"] = "Salin Token dan SID di halaman profil #A1#twilio.com#A2# Anda";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_RULES_LIST_4"] = "Tempel Token dan SID di dalam bidang di bawah ini";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_RULES_LIST_TITLE"] = "Konfigurasi parameter twilio.com dan mulai menggunakan notifikasi SMS dengan Bitrix24";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_TITLE"] = "Notifikasi SMS yang sederhana dan kuat";
+$MESS["MESSAGESERVICE_CONFIG_SENDER_SMS_TITLE_2"] = "Didukung oleh TWILIO.COM";

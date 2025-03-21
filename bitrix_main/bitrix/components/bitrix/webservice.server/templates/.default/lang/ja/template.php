@@ -1,0 +1,30 @@
+<?
+$MESS["BX_WSTMPL_BACK"] = "ここに";
+$MESS["BX_WSTMPL_BACKPRE"] = "操作の完全なリストを取得するには、をクリックします";
+$MESS["BX_WSTMPL_BSTYLE"] = "バインディングスタイル:";
+$MESS["BX_WSTMPL_CLASS"] = "クラス:";
+$MESS["BX_WSTMPL_DOC"] = "説明:";
+$MESS["BX_WSTMPL_ENDPOINT"] = "アクセスポイント:";
+$MESS["BX_WSTMPL_ERROR_NOFORCOMPLEX"] = "テストフォームは、パラメータがプリミティブ型であるメソッドに対してのみ使用できます";
+$MESS["BX_WSTMPL_ERROR_NOMETHODS"] = "Webサービスはメソッドを定義しませんでした";
+$MESS["BX_WSTMPL_ERROR_NOTENOUGHTPARAMS"] = "クエリパラメータがありません";
+$MESS["BX_WSTMPL_ERROR_NOTFORAUTH"] = "テストフォームは、HTTP基本認証を必要としないメソッドに対してのみ使用できます";
+$MESS["BX_WSTMPL_ERROR_NOWSDESCR"] = "Webサービスは説明を提供しませんでした";
+$MESS["BX_WSTMPL_ERROR_PARAMETER"] = "パラメータ";
+$MESS["BX_WSTMPL_ERROR_SUBMIT"] = "提出する";
+$MESS["BX_WSTMPL_ERROR_UNKNOWN"] = "クエリを送信できません";
+$MESS["BX_WSTMPL_ERROR_VALUE"] = "値";
+$MESS["BX_WSTMPL_ERRSEC_NOOP"] = "あなたが要求した情報は存在しません";
+$MESS["BX_WSTMPL_INNERTEST"] = "ここに";
+$MESS["BX_WSTMPL_INNERTESTPRE"] = "Webサービスの組み込みテストを実行できます";
+$MESS["BX_WSTMPL_METHOD"] = "Webサービスメソッド:";
+$MESS["BX_WSTMPL_METHODS"] = "メソッド:";
+$MESS["BX_WSTMPL_NAMESPACE"] = "名前空間:";
+$MESS["BX_WSTMPL_PARAMS"] = "パラメーター:";
+$MESS["BX_WSTMPL_RESULT"] = "結果を呼び出す:";
+$MESS["BX_WSTMPL_TEST"] = "テスト:";
+$MESS["BX_WSTMPL_TITLE_PREFIX"] = "Webサービスの説明:";
+$MESS["BX_WSTMPL_WEBSERVICE"] = "ウェブサービス:";
+$MESS["BX_WSTMPL_WSDLDESC"] = "サービスの説明";
+$MESS["BX_WSTMPL_WSDLDESCPRE"] = "以下の操作がサポートされています。 の定義を参照してください";
+?>

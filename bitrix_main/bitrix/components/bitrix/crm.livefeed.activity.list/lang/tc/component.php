@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安裝 CRM 模組。";
+$MESS["CRM_PERMISSION_DENIED"] = "已拒絕存取。";
+$MESS["SONET_MODULE_NOT_INSTALLED"] = "未安裝社交網路模組。";
+?>

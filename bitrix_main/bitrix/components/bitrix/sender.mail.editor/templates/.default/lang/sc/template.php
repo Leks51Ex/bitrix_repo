@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_COMP_EDITOR_MAIL_CHANGE_TEMPLATE"] = "要更改消息模板吗？所有的变化都将丢失。";
+$MESS["SENDER_COMP_EDITOR_MAIL_PERS_LIST"] = "个性化字段";
+?>

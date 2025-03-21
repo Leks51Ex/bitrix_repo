@@ -1,0 +1,31 @@
+<?
+$MESS["F_DATE_FORMAT"] = "Định dạng ngày tháng";
+$MESS["F_DATE_TIME_FORMAT"] = "Định dạng ngày và giờ";
+$MESS["F_DEFAULT_FID"] = "ID diễn đàn";
+$MESS["F_DEFAULT_MID"] = "ID tin nhắn";
+$MESS["F_DEFAULT_PATH_TO_SMILE"] = "Đường dẫn vào tập tin cười (liên quan đến thư mục gốc)";
+$MESS["F_DEFAULT_TID"] = "ID chủ đề";
+$MESS["F_IMAGE_SIZE"] = "Kích cỡ của hình ảnh đính kèm";
+$MESS["F_LIST_TEMPLATE"] = "Trang liệt kê những chủ đề";
+$MESS["F_MESSAGES_PER_PAGE"] = "Số lượng tin nhắn trong trang";
+$MESS["F_MESSAGE_TEMPLATE"] = "Số lượng tin nhắn được thấy trên một trang (với ID tin nhắn)";
+$MESS["F_PAGEN"] = "Số lượng mục tiêu cho trang trình duyệt";
+$MESS["F_PAGE_NAVIGATION_SHOW_ALL"] = "Hiển thị tất cả mọi lựa chọn trong trang";
+$MESS["F_PAGE_NAVIGATION_TEMPLATE"] = "mẫu trên trình duyệt cho tên của breadcrumbs";
+$MESS["F_PAGE_NAVIGATION_WINDOW"] = "Số lượng trang trong trang trình duyệt";
+$MESS["F_PROFILE_VIEW_TEMPLATE"] = "Trang hồ sơ";
+$MESS["F_RATING_ID"] = "đánh giá";
+$MESS["F_READ_TEMPLATE"] = "Diễn đàn đọc chủ đề";
+$MESS["F_SOCNET_GROUP_ID"] = "ID của nhóm";
+$MESS["F_TOPIC_NEW_TEMPLATE"] = "Trang của chủ đề mới được tạo";
+$MESS["F_URL_TEMPLATES"] = "Tiến trình URLs";
+$MESS["F_USER_ID"] = "ID Người dùng";
+$MESS["RATING_TYPE"] = "Thiết kế của các nút đánh giá";
+$MESS["RATING_TYPE_CONFIG"] = "mặc định";
+$MESS["RATING_TYPE_LIKE_GRAPHIC"] = "Thích (hình)";
+$MESS["RATING_TYPE_LIKE_TEXT"] = "Thích (chữ)";
+$MESS["RATING_TYPE_STANDART_GRAPHIC"] = "Thích/Không thích (hình)";
+$MESS["RATING_TYPE_STANDART_TEXT"] = "Thích/Không thích (chữ)";
+$MESS["SHOW_RATING"] = "Hiển thị đánh giá";
+$MESS["SHOW_RATING_CONFIG"] = "mặc định";
+?>

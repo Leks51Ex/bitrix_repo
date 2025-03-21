@@ -1,0 +1,8 @@
+<?
+$MESS["TASKS_SONET_LOG_DESCRIPTION"] = "विवरण";
+$MESS["TASKS_SONET_LOG_LABEL_TITLE"] = "टास्क";
+$MESS["TASKS_SONET_LOG_RESPONSIBLE_ID"] = "जिम्मेदार व्यक्ति";
+$MESS["TASKS_SONET_LOG_STATUS"] = "स्टेटस";
+$MESS["TASKS_SONET_LOG_STATUS_CHANGED"] = "टास्क स्टेटस बदल गया";
+$MESS["TASKS_SONET_LOG_TAGS"] = "टैग:";
+?>

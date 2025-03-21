@@ -1,0 +1,22 @@
+<?php
+$MESS["BPSFA_PD_ADD"] = "Koşul Ekle";
+$MESS["BPSFA_PD_CALENDAR"] = "Takvim";
+$MESS["BPSFA_PD_CANCEL"] = "İptal";
+$MESS["BPSFA_PD_CANCEL_HINT"] = "İptal";
+$MESS["BPSFA_PD_CREATE"] = "Alan ekle";
+$MESS["BPSFA_PD_DELETE"] = "Sil";
+$MESS["BPSFA_PD_EMPTY_CODE"] = "Alan kodu eksik";
+$MESS["BPSFA_PD_EMPTY_NAME"] = "Alan adı eksik";
+$MESS["BPSFA_PD_FIELD"] = "Alan";
+$MESS["BPSFA_PD_F_CODE"] = "ID";
+$MESS["BPSFA_PD_F_LIST"] = "Değerler";
+$MESS["BPSFA_PD_F_MULT"] = "Çoklu";
+$MESS["BPSFA_PD_F_NAME"] = "Ad";
+$MESS["BPSFA_PD_F_REQ"] = "Gerekli";
+$MESS["BPSFA_PD_F_TYPE"] = "Tür";
+$MESS["BPSFA_PD_MODIFIED_BY"] = "Şu kişi adına değiştir";
+$MESS["BPSFA_PD_NO"] = "Hayır";
+$MESS["BPSFA_PD_SAVE"] = "Kaydet";
+$MESS["BPSFA_PD_SAVE_HINT"] = "Alan oluştur";
+$MESS["BPSFA_PD_WRONG_CODE"] = "Alan kodu sadece Latin karakterler ve rakamlar içerebilir ve bir rakamla başlayamaz.";
+$MESS["BPSFA_PD_YES"] = "Evet";

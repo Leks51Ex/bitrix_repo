@@ -1,0 +1,3 @@
+<?
+$MESS["MB_TASKS_TASK_FILTER_USER_SELECTOR_BTN_CANCEL"] = "ยกเลิก";
+?>

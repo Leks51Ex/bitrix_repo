@@ -1,0 +1,20 @@
+<?php
+$MESS["BPMOA_CHOOSE_PARAMETER"] = "パラメータを選択";
+$MESS["BPMOA_CHOOSE_VARIABLE"] = "変数を選択";
+$MESS["BPMOA_CREATE_GCONSTANT"] = "定数を作成";
+$MESS["BPMOA_CREATE_GCONSTANT_QUESTION"] = "新しい定数を作成しますか？";
+$MESS["BPMOA_CREATE_GVARIABLE"] = "変数を作成";
+$MESS["BPMOA_CREATE_GVARIABLE_QUESTION"] = "新しい変数を作成しますか？";
+$MESS["BPMOA_DOCUMENT"] = "フィールド値";
+$MESS["BPMOA_EMPTY"] = "未選択";
+$MESS["BPMOA_EMPTY_OPERATION"] = "演算子が指定されていません";
+$MESS["BPMOA_EMPTY_VARIABLE"] = "どの変数にも値が割り当てられていません";
+$MESS["BPMOA_GCONSTANT_NOT_FOUND"] = "定数が見つかりませんでした";
+$MESS["BPMOA_GCONSTANT_NO_EXIST"] = "定数がありません";
+$MESS["BPMOA_GVARIABLE_NOT_FOUND"] = "変数が見つかりませんでした";
+$MESS["BPMOA_GVARIABLE_NO_EXIST"] = "変数がありません";
+$MESS["BPMOA_INPUT_NUMBER"] = "数値を入力してください";
+$MESS["BPMOA_INVALID_VALUE"] = "式の値の 1 つが数値ではありません";
+$MESS["BPMOA_LIST_OF_VALUES"] = "値";
+$MESS["BPMOA_NUMBER"] = "カスタム値";
+$MESS["BPMOA_TYPE_OF_PARAMETER"] = "パラメータタイプ";

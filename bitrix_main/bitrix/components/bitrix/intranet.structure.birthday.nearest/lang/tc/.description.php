@@ -1,0 +1,2 @@
+<?php
+$MESS["INTR_ISBN_COMPONENT_NAME"] = "生日";

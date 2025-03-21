@@ -1,0 +1,5 @@
+<?
+$MESS["INTR_ISS_TPL_DEPARTMENT"] = "部署";
+$MESS["INTR_ISS_TPL_FIO"] = "姓名";
+$MESS["INTR_ISS_TPL_SUBMIT"] = "検索";
+?>

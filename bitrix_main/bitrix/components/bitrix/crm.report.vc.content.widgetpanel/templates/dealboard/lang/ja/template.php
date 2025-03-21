@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_REPORT_DEAL_ALL_DEALS"] = "全ての取引";
+$MESS["CRM_REPORT_DEAL_CATEGORY"] = "パイプライン";
+$MESS["CRM_REPORT_DEAL_CURRENT"] = "[現行パイプライン]";
+$MESS["CRM_REPORT_DEAL_NO_SELECTED"] = "未選択";
+?>

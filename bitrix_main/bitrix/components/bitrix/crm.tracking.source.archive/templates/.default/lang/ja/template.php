@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_TRACKING_ARCHIVE_BTN_REMOVE"] = "アーカイブから復元する";
+$MESS["CRM_TRACKING_ARCHIVE_BTN_REMOVE_TITLE"] = "アーカイブから復元する";
+?>

@@ -1,0 +1,22 @@
+<?php
+$MESS["BPSFA_PD_ADD"] = "添加条件";
+$MESS["BPSFA_PD_CALENDAR"] = "日历";
+$MESS["BPSFA_PD_CANCEL"] = "取消";
+$MESS["BPSFA_PD_CANCEL_HINT"] = "取消";
+$MESS["BPSFA_PD_CREATE"] = "添加字段";
+$MESS["BPSFA_PD_DELETE"] = "删除";
+$MESS["BPSFA_PD_EMPTY_CODE"] = "字段代码缺失";
+$MESS["BPSFA_PD_EMPTY_NAME"] = "字段名称缺失";
+$MESS["BPSFA_PD_FIELD"] = "字段";
+$MESS["BPSFA_PD_F_CODE"] = "ID";
+$MESS["BPSFA_PD_F_LIST"] = "值";
+$MESS["BPSFA_PD_F_MULT"] = "多个";
+$MESS["BPSFA_PD_F_NAME"] = "名称";
+$MESS["BPSFA_PD_F_REQ"] = "必填";
+$MESS["BPSFA_PD_F_TYPE"] = "类型";
+$MESS["BPSFA_PD_MODIFIED_BY"] = "代表下列对象进行变更";
+$MESS["BPSFA_PD_NO"] = "否";
+$MESS["BPSFA_PD_SAVE"] = "保存";
+$MESS["BPSFA_PD_SAVE_HINT"] = "创建字段";
+$MESS["BPSFA_PD_WRONG_CODE"] = "字段代码只能包括拉丁文字母和数字，并且不能以数字开头。";
+$MESS["BPSFA_PD_YES"] = "是";

@@ -1,0 +1,10 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安装 CRM 模块。";
+$MESS["CRM_NUMBER_TEMPLATE_0"] = "未使用";
+$MESS["CRM_NUMBER_TEMPLATE_1"] = "起始编号";
+$MESS["CRM_NUMBER_TEMPLATE_2"] = "使用前缀";
+$MESS["CRM_NUMBER_TEMPLATE_3"] = "随机编号";
+$MESS["CRM_NUMBER_TEMPLATE_4"] = "用户 ID 和文档编号";
+$MESS["CRM_NUMBER_TEMPLATE_5"] = "定期重新开始编号";
+$MESS["CRM_PERMISSION_DENIED"] = "访问被拒绝。";
+?>

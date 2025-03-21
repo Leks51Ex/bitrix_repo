@@ -1,0 +1,9 @@
+<?
+$MESS["CRM_ACTIVITY_CALL_COMMENT"] = "Komen";
+$MESS["CRM_ACTIVITY_CALL_DESCRIPTION"] = "Penerangan";
+$MESS["CRM_ACTIVITY_CALL_DOWNLOAD_RECORD"] = "muat turun rakaman";
+$MESS["CRM_ACTIVITY_CALL_DURATION"] = "Tempoh";
+$MESS["CRM_ACTIVITY_CALL_FAILED"] = "Panggilan gagal";
+$MESS["CRM_ACTIVITY_CALL_TYPE"] = "Jenis panggilan";
+$MESS["CRM_ACTIVITY_CALL_VOTE"] = "Penilaian";
+?>

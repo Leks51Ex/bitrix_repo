@@ -1,0 +1,2 @@
+<?php
+$MESS["CRM_SCENARIO_SELECTION_NOT_ENOUGH_PERMISSIONS"] = "モードを変更する権限がありません";

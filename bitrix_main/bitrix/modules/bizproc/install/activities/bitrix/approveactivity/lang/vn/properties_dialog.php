@@ -1,0 +1,33 @@
+<?
+$MESS["BPAA_PD_APPROVERS"] = "Thông qua cử tri";
+$MESS["BPAA_PD_DESCR"] = "Mô tả nhiệm vụ";
+$MESS["BPAA_PD_NAME"] = "Tên nhiệm vụ";
+$MESS["BPAA_PD_NO"] = "Không";
+$MESS["BPAA_PD_PERCENT"] = "Tỷ lệ tối thiểu của người sử dụng tham gia được yêu cầu chấp nhận";
+$MESS["BPAA_PD_SET_STATUS_MESSAGE"] = "Thiết lập tình trạng tin nhắn";
+$MESS["BPAA_PD_STATUS_MESSAGE"] = "Tình trạng văn bản";
+$MESS["BPAA_PD_STATUS_MESSAGE_HINT"] = "Các macro sau: #PERC#- phần trăm,  #REV# - người đang làm quen, #TOT# - tổng số người được làm quen.";
+$MESS["BPAA_PD_STATUS_MESSAGE_HINT1"] = "Các macro sau:  #PERCENT# - tỷ lệ phản ứng,  #VOTED# - số câu trả lời, #TOTAL#- Tổng người được giao,  #APPROVERS# - những người sử dụng đã được phê duyệt#REJECTERS# - những người dùng loại bỏ các sản phẩm";
+$MESS["BPAA_PD_TIMEOUT_DURATION"] = "Thời gian giới hạn";
+$MESS["BPAA_PD_TIMEOUT_DURATION_HINT"] = "Nếu một tài liệu không được chấp thuận hoặc từ chối trước khi thời gian này hết hạn, nó sẽ tự động bị từ chối. Một giá trị rỗng hoặc không xác định rằng có thời gian được áp dụng.";
+$MESS["BPAA_PD_TIMEOUT_LIMIT"] = "Thời gian phê duyệt tối thiểu";
+$MESS["BPAA_PD_TIME_D"] = "ngày";
+$MESS["BPAA_PD_TIME_H"] = "giờ";
+$MESS["BPAA_PD_TIME_M"] = "phút";
+$MESS["BPAA_PD_TIME_S"] = "giây";
+$MESS["BPAA_PD_TYPE"] = "Phê duyệt kiểu";
+$MESS["BPAA_PD_TYPE_ALL"] = "Tất cả những người";
+$MESS["BPAA_PD_TYPE_ANY"] = "Bất kỳ người";
+$MESS["BPAA_PD_TYPE_VOTE"] = "Bình chọn";
+$MESS["BPAA_PD_WAIT"] = "Chờ câu trả lời của tất cả những người tham gia";
+$MESS["BPAA_PD_YES"] = "Có";
+$MESS["BPAR_PD_ACCESS_CONTROL"] = "Chỉ hiển thị mô tả phân công cho những người chịu trách nhiệm";
+$MESS["BPAR_PD_COMMENT_LABEL_MESSAGE"] = "Bình luận trường đầu vào";
+$MESS["BPAR_PD_COMMENT_REQUIRED"] = "Cần nhận xét";
+$MESS["BPAR_PD_COMMENT_REQUIRED_YA"] = "Chỉ khi được phê duyệt";
+$MESS["BPAR_PD_COMMENT_REQUIRED_YR"] = "Chỉ khi bị từ chối";
+$MESS["BPAR_PD_DELEGATION_TYPE"] = "Ủy quyền cho";
+$MESS["BPAR_PD_SHOW_COMMENT"] = "Hiện trường nhập bình luận";
+$MESS["BPAR_PD_TASK_BUTTON1_MESSAGE"] = "Nút cho phép văn bản";
+$MESS["BPAR_PD_TASK_BUTTON2_MESSAGE"] = "Nút từ chối văn bản";
+?>

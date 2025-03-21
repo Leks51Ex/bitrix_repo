@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_STATUS_LIST_ADD"] = "เพิ่ม";
+$MESS["CRM_STATUS_LIST_DELETE"] = "ลบ";
+?>

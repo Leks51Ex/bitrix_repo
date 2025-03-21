@@ -1,0 +1,23 @@
+<?php
+$MESS["VOX_LINES_ACTION_ADD_TO_GROUP"] = "เพิ่มลงในกองกลางของหมายเลข";
+$MESS["VOX_LINES_ACTION_CONFIGURE"] = "กำหนดค่า";
+$MESS["VOX_LINES_ACTION_DELETE"] = "ลบ";
+$MESS["VOX_LINES_ACTION_PROLONG_CALLER_ID"] = "ขยายหมายเลขที่เชื่อมต่อ";
+$MESS["VOX_LINES_ACTION_REMOVE_FROM_GROUP"] = "เอาออกจากกองกลางของหมายเลข";
+$MESS["VOX_LINES_ACTION_UNGROUP"] = "เอากองกลางของหมายเลขออก";
+$MESS["VOX_LINES_ACTION_VERIFY_CALLER_ID"] = "ยืนยันหมายเลข";
+$MESS["VOX_LINES_CANCEL_NUMBER_DISCONNECT"] = "เชื่อมต่อหมายเลขที่ตัดไปอีกครั้ง";
+$MESS["VOX_LINES_DESCRIPTION_GROUP"] = "ยอดชำระรายเดือนรวม #PRICE#";
+$MESS["VOX_LINES_DISCONNECT_NUMBER"] = "ตัดการเชื่อมต่อหมายเลข";
+$MESS["VOX_LINES_HEADER_DESCRIPTION"] = "รายละเอียด";
+$MESS["VOX_LINES_HEADER_ID"] = "ไอดี";
+$MESS["VOX_LINES_HEADER_NAME"] = "ชื่อ";
+$MESS["VOX_LINES_HEADER_STATE"] = "สถานะการเชื่อมต่อ";
+$MESS["VOX_LINES_HEADER_TYPE"] = "ประเภท";
+$MESS["VOX_LINES_MODE_GROUP"] = "กองกลางของหมายเลข";
+$MESS["VOX_LINES_MODE_LINK"] = "เชื่อมต่อแล้ว";
+$MESS["VOX_LINES_MODE_RENT"] = "ที่เช่า";
+$MESS["VOX_LINES_MODE_SIP"] = "การเชื่อมต่อ SIP";
+$MESS["VOX_LINES_REMOVE_CONNECTION"] = "ลบการเชื่อมต่อ";
+$MESS["VOX_LINES_SIP_STATUS_FAIL"] = "ข้อผิดพลาด";
+$MESS["VOX_LINES_SIP_STATUS_RECOVERED"] = "เชื่อมต่อแล้ว";

@@ -1,0 +1,34 @@
+<?
+$MESS["TASKS_CLOSED_DATE"] = "Ngày hoàn tất";
+$MESS["TASKS_CREATED_DATE"] = "Ngày tạo";
+$MESS["TASKS_CREATOR"] = "Được tạo bởi";
+$MESS["TASKS_DATE_START"] = "Ngày bắt đầu";
+$MESS["TASKS_DEADLINE"] = "Hạn chót";
+$MESS["TASKS_END_DATE_PLAN"] = "Ngày kết thúc";
+$MESS["TASKS_NEW_RESPONSIBLE"] = "Nhân viên mới";
+$MESS["TASKS_NO_DATE"] = "không";
+$MESS["TASKS_PRIORITY"] = "Ưu tiên";
+$MESS["TASKS_PRIORITY_0"] = "Thấp";
+$MESS["TASKS_PRIORITY_1"] = "Bình thường";
+$MESS["TASKS_PRIORITY_2"] = "Cao";
+$MESS["TASKS_RESPONSIBLE"] = "Người chịu trách nhiệm";
+$MESS["TASKS_SIDEBAR_START_DATE"] = "từ";
+$MESS["TASKS_START_DATE_PLAN"] = "Ngày bắt đầu";
+$MESS["TASKS_STATUS"] = "Trạng thái";
+$MESS["TASKS_STATUS_1"] = "Mới";
+$MESS["TASKS_STATUS_2"] = "Đang chờ duyệt";
+$MESS["TASKS_STATUS_3"] = "Đang diễn ra";
+$MESS["TASKS_STATUS_4"] = "Đang chờ xem xét";
+$MESS["TASKS_STATUS_5"] = "Đã hoàn tất";
+$MESS["TASKS_STATUS_6"] = "Đã hoãn lại";
+$MESS["TASKS_STATUS_7"] = "Đã từ chối";
+$MESS["TASKS_STATUS_ACCEPTED"] = "Đang chờ duyệt";
+$MESS["TASKS_STATUS_COMPLETED"] = "Đã hoàn tất";
+$MESS["TASKS_STATUS_DECLINED"] = "Đã từ chối";
+$MESS["TASKS_STATUS_DELAYED"] = "Đã hoãn lại";
+$MESS["TASKS_STATUS_IN_PROGRESS"] = "Đang diễn ra";
+$MESS["TASKS_STATUS_NEW"] = "Mới";
+$MESS["TASKS_STATUS_OVERDUE"] = "Quá hạn";
+$MESS["TASKS_STATUS_WAITING"] = "Đang chờ xem xét";
+$MESS["TASKS_TASK_TITLE_LABEL"] = "Tác vụ";
+?>

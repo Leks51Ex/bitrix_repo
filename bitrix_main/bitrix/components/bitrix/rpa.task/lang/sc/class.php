@@ -1,0 +1,4 @@
+<?
+$MESS["RPA_AUTOMATION_TASK_NOT_FOUND"] = "未不找到任何分配任务";
+$MESS["RPA_AUTOMATION_TASK_TITLE"] = "分配任务";
+?>

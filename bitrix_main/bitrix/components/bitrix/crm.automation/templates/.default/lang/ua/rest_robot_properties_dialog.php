@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_AUTOMATION_NOT_SELECTED"] = "не вибрано";
+$MESS["CRM_AUTOMATION_ADD_MULTIPLE"] = "додати";
+?>

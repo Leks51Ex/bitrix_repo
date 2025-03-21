@@ -1,0 +1,8 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安装 CRM 模块。";
+$MESS["CRM_PERMISSION_DENIED"] = "访问被拒绝";
+$MESS["CRM_PERMS_ENTITY_LIST"] = "访问权限";
+$MESS["CRM_PERM_DEPARTAMENT"] = "部门";
+$MESS["CRM_PERM_GROUP"] = "组";
+$MESS["CRM_PERM_USER"] = "用户";
+?>

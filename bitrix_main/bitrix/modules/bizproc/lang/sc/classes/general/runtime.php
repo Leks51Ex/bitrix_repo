@@ -1,0 +1,5 @@
+<?
+$MESS["BPCGDOC_LIMIT_SIMULTANEOUS_PROCESSES"] = "一个文档最多可以由 #NUM# 个流程处理。";
+$MESS["BPCGDOC_WORKFLOW_RECURSION_LOCK"] = "模板不能递归运行";
+$MESS["BPRA_IS_TIMEOUT"] = "操作超时";
+?>

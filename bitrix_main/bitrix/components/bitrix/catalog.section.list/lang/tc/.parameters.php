@@ -1,0 +1,3 @@
+<?php
+$MESS["CP_BCSL_ADDITIONAL_COUNT_ELEMENTS_FILTER"] = "計算目錄商品計數時，亦按此條件篩選商品：";
+$MESS["CP_BCSL_HIDE_SECTIONS_WITH_ZERO_COUNT_ELEMENTS"] = "隱藏沒有商品的目錄";

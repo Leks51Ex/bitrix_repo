@@ -1,0 +1,14 @@
+<?
+$MESS["BLOG_MONTH_01"] = "1月";
+$MESS["BLOG_MONTH_02"] = "2月";
+$MESS["BLOG_MONTH_03"] = "3月";
+$MESS["BLOG_MONTH_04"] = "4月";
+$MESS["BLOG_MONTH_05"] = "5月";
+$MESS["BLOG_MONTH_06"] = "6月";
+$MESS["BLOG_MONTH_07"] = "7月";
+$MESS["BLOG_MONTH_08"] = "8月";
+$MESS["BLOG_MONTH_09"] = "9月";
+$MESS["BLOG_MONTH_10"] = "10月";
+$MESS["BLOG_MONTH_11"] = "11月";
+$MESS["BLOG_MONTH_12"] = "12月";
+?>

@@ -1,0 +1,22 @@
+<?php
+$MESS["MARKETPLACE_APP_BUY"] = "Satın Al";
+$MESS["MARKETPLACE_APP_CLEAN"] = "uygulama ayarlarını ve verileri sil";
+$MESS["MARKETPLACE_APP_DELETE_CONFIRM"] = "Uygulamayı silmek istediğinizden emin misiniz?";
+$MESS["MARKETPLACE_APP_DELETE_ERROR"] = "Hata! Uygulama kaldırılamadı.";
+$MESS["MARKETPLACE_APP_DEMO"] = "Demo";
+$MESS["MARKETPLACE_APP_FREE"] = "ücretsiz";
+$MESS["MARKETPLACE_APP_INACTIVE"] = "Silindi";
+$MESS["MARKETPLACE_APP_INSTALL"] = "Kur";
+$MESS["MARKETPLACE_APP_INSTALL_CANCEL"] = "İptal";
+$MESS["MARKETPLACE_APP_INSTALL_PARTNER"] = "Uygulama artık mevcut değil. Gizli uygulamaları yüklemek için lütfen <a href=\"http://www.bitrixsoft.com/personal/b24marketplace/\">iş ortağı hesabını</a> kullanın.";
+$MESS["MARKETPLACE_APP_ISTALL_ERROR"] = "Hata! Uygulama kaldırılamadı.";
+$MESS["MARKETPLACE_APP_POPUP_LOAD"] = "Yükleme";
+$MESS["MARKETPLACE_APP_PRICE"] = "Ayda #PRICE#";
+$MESS["MARKETPLACE_APP_PROLONG"] = "Yenile";
+$MESS["MARKETPLACE_APP_TRIAL"] = "Dene";
+$MESS["MARKETPLACE_APP_TRIAL_FINISH"] = "Deneme süreniz #NUM# içinde sona erecek";
+$MESS["MARKETPLACE_BUYS_EMPTY"] = "Herhangi bir uygulamanız yok";
+$MESS["MARKETPLACE_DELETE_BUTTON"] = "Sil";
+$MESS["MARKETPLACE_INSTALL_BUTTON"] = "Kur";
+$MESS["MARKETPLACE_RIGHTS"] = "Erişim İzinleri";
+$MESS["MARKETPLACE_UPDATE_BUTTON"] = "Güncelle";

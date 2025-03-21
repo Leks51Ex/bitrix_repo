@@ -1,0 +1,4 @@
+<?
+$MESS["TASKS_TTTC_NOT_FOUND_OR_NOT_ACCESSIBLE"] = "找不到任务模板，或访问被拒绝。";
+$MESS["TASKS_TTTC_SOCIALNETWORK_MODULE_NOT_INSTALLED"] = "未安装\"社交网络\"模块。";
+?>

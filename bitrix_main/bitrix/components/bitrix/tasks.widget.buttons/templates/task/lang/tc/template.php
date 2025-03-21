@@ -1,0 +1,6 @@
+<?php
+$MESS["TASKS_DELETE_SUCCESS"] = "已經刪除任務";
+$MESS["TASKS_MORE"] = "更多……";
+$MESS["TASKS_PAUSE_TASK_TIMER"] = "暫停";
+$MESS["TASKS_REST_BUTTON_TITLE_2"] = "Bitrix24.Market";
+$MESS["TASKS_START_TASK_TIMER"] = "開始時間追蹤器";

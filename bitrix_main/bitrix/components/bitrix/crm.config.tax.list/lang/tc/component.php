@@ -1,0 +1,13 @@
+<?
+$MESS["CRM_COLUMN_CODE"] = "助憶鍵代碼";
+$MESS["CRM_COLUMN_DATE"] = "修改日期";
+$MESS["CRM_COLUMN_ID"] = "ID";
+$MESS["CRM_COLUMN_NAME"] = "名稱/描述項";
+$MESS["CRM_COLUMN_RATES"] = "稅率";
+$MESS["CRM_COLUMN_SITE"] = "網站";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安裝 CRM 模組。";
+$MESS["CRM_PERMISSION_DENIED"] = "已拒絕存取";
+$MESS["CRM_SALE_MODULE_NOT_INSTALLED"] = "未安裝 e-Store 模組。";
+$MESS["CRM_TAX_DELETION_GENERAL_ERROR"] = "刪除稅項時，發生錯誤。";
+$MESS["CRM_TAX_UPDATE_GENERAL_ERROR"] = "更新稅項時，發生錯誤。";
+?>

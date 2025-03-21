@@ -1,0 +1,37 @@
+<?
+$MESS["MYMS_PARAM_INIT_MAP_NOTHING_FOUND"] = "(không tìm thấy)";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_HYBRID"] = "Lai";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_MAP"] = "Bản đồ";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_PUBLIC"] = "bản đồ con người";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_PUBLIC_HYBRID"] = "bản đồ con người với các nhãn";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_SATELLITE"] = "Vệ tinh";
+$MESS["MYMV_SET_ADDRESS_SEARCH"] = "Tìm địa điểm";
+$MESS["MYMV_SET_NONAME"] = "--- Không tiêu đề ---";
+$MESS["MYMV_SET_POINTS"] = "Đánh dấu địa điểm";
+$MESS["MYMV_SET_POINTS_ADD"] = "Thêm Đánh dấu địa điểm";
+$MESS["MYMV_SET_POINTS_ADD_DESCRIPTION"] = "Nhấn đúp chuột trên bản đồ để thêm Đánh dấu địa điểm";
+$MESS["MYMV_SET_POINTS_ADD_FINISH"] = "Hoàn tất";
+$MESS["MYMV_SET_POLY"] = "Tuyến đường";
+$MESS["MYMV_SET_POLY_ADD"] = "Thêm tuyến đường";
+$MESS["MYMV_SET_POLY_ADD_DESCRIPTION"] = "Nhấn đúp chuột trên bản đồ để thêm đánh dấu địa điểm tuyến đường.";
+$MESS["MYMV_SET_POLY_ADD_DESCRIPTION1"] = "Bây giờ nhấn vào bản đồ để thêm đánh dấu địa điểm vào tuyến đường. Nhấp chuột vào quả bóng vào vị trí cuối của tuyến đường.";
+$MESS["MYMV_SET_POLY_ADD_FINISH"] = "Kết thúc tuyến đường.";
+$MESS["MYMV_SET_POLY_COLOR"] = "Màu sắc đường thẳng";
+$MESS["MYMV_SET_POLY_FINISH"] = "Hoàn tất";
+$MESS["MYMV_SET_POLY_OPACITY"] = "Độ mờ (%)";
+$MESS["MYMV_SET_POLY_SETTINGS"] = "Các cài đặt";
+$MESS["MYMV_SET_POLY_START_POINT"] = "Bắt đầu";
+$MESS["MYMV_SET_POLY_TITLE"] = "Tiêu đề";
+$MESS["MYMV_SET_POLY_WIDTH"] = "Độ dày (px)";
+$MESS["MYMV_SET_POPUP_TITLE"] = "Thiết lập bản đồ";
+$MESS["MYMV_SET_POPUP_WINDOW_DESCRIPTION"] = "Cấu hình bố cục bản đồ và các đối tượng có thể nhìn thấy";
+$MESS["MYMV_SET_POPUP_WINDOW_TITLE"] = "Chỉnh sửa thiết lập bản đồ";
+$MESS["MYMV_SET_START_POS"] = "Khởi tạo vị tri";
+$MESS["MYMV_SET_START_POS_FIX"] = "Khóa";
+$MESS["MYMV_SET_START_POS_LAT"] = "Vĩ độ";
+$MESS["MYMV_SET_START_POS_LON"] = "Kinh độ";
+$MESS["MYMV_SET_START_POS_RESTORE"] = "Khôi phục";
+$MESS["MYMV_SET_START_POS_SCALE"] = "Co giãn";
+$MESS["MYMV_SET_START_POS_VIEW"] = "Xem";
+$MESS["MYMV_SET_SUBMIT"] = "Lưu";
+?>

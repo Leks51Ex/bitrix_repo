@@ -1,0 +1,15 @@
+<?
+$MESS["BPATL_CURRENT_TASKS"] = "現在の割り当て";
+$MESS["BPATL_DESCRIPTION"] = "説明";
+$MESS["BPATL_DOCUMENT"] = "エレメント";
+$MESS["BPATL_DOCUMENT_TITLE"] = "ドキュメントを表示する";
+$MESS["BPATL_EMPTY"] = "割り当てリストは空です";
+$MESS["BPATL_FINISHED_TASKS"] = "課題アーカイブ";
+$MESS["BPATL_GROUP_ACTION_DELEGATE"] = "委任";
+$MESS["BPATL_GROUP_ACTION_NO"] = "辞退";
+$MESS["BPATL_GROUP_ACTION_OK"] = "実行";
+$MESS["BPATL_GROUP_ACTION_YES"] = "承認";
+$MESS["BPATL_MODIFIED"] = "変更済み";
+$MESS["BPATL_NAME"] = "名前";
+$MESS["BPWC_WLCT_TOTAL"] = "合計";
+?>

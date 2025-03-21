@@ -1,0 +1,31 @@
+<?
+$MESS["BB_BLOG_TITLE"] = "वार्तालाप";
+$MESS["BLOG_BLOG_BLOG_MES_DELED"] = "संदेश सफलतापूर्वक डिलीट कर दिया गया है";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_ERROR"] = "संदेश डिलीट करने में त्रुटि";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_NO_RIGHTS"] = "आपके पास यह संदेश डिलीट करने के लिए पर्याप्त अनुमतियाँ नहीं हैं";
+$MESS["BLOG_BLOG_BLOG_MES_HIDE_ERROR"] = "पोस्ट छिपाने में त्रुटि";
+$MESS["BLOG_BLOG_BLOG_MES_HIDE_NO_RIGHTS"] = "आपके पास यह पोस्ट छुपाने की अनुमति नहीं है";
+$MESS["BLOG_BLOG_SESSID_WRONG"] = "आपका सत्र समाप्त हो गया है। कृपया फिर कोशिश करें।";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "ब्लॉग मॉड्यूल इंस्टॉल नहीं है।";
+$MESS["BLOG_SONET_MODULE_NOT_AVAIBLE"] = "ब्लॉग इस उपयोगकर्ता के लिए उपलब्ध नहीं हैं।";
+$MESS["B_B_MES_FR_ONLY"] = "आपके पास यह संदेश देखने के लिए पर्याप्त अनुमतियाँ नहीं हैं।";
+$MESS["B_B_MES_NAME_TEMPLATE_DEFAULT"] = "#NOBR##NAME# #LAST_NAME##/NOBR#";
+$MESS["B_B_MES_NO_BLOG"] = "ब्लॉग नहीं मिला है";
+$MESS["B_B_MES_NO_MES"] = "संदेश नहीं मिला";
+$MESS["B_B_MES_NO_POST"] = "पोस्ट नहीं मिला।";
+$MESS["B_B_MES_NO_RIGHTS"] = "संदेश देखने के लिए अपर्याप्त अनुमतियाँ";
+$MESS["B_B_MES_REQUEST_ADDED"] = "आपका अनुरोध ब्लॉग लेखक द्वारा विचार किए जाने के लिए लिया गया है";
+$MESS["B_B_MES_REQUEST_ALREADY"] = "आपका अनुरोध पहले से ही ब्लॉग लेखक के पास लंबित है";
+$MESS["B_B_MES_REQUEST_AUTH"] = "आवेदन सबमिट करने से पहले कृपया अधिकृत करें";
+$MESS["B_B_MES_REQUEST_ERROR"] = "अनुरोध जोड़ने में त्रुटि";
+$MESS["B_B_MES_U_AUTH"] = "पोस्ट देखने हेतु अनुरोध सबमिट करने के लिए कृपया अधिकृत करें।";
+$MESS["B_B_MES_U_CAN"] = "आप आवेदन कर सकते हैं";
+$MESS["B_B_MES_U_CAN1"] = "ब्लॉग लेखक के लिए";
+$MESS["B_B_MES_U_CAN2"] = "उनके संदेश पढ़ने के लिए।";
+$MESS["B_B_SHARE"] = "इसके साथ शेयर्ड: ";
+$MESS["B_B_SHARE_1"] = "इसके साथ शेयर्ड: ";
+$MESS["B_B_SHARE_ALL"] = "सभी कर्मचारी";
+$MESS["B_B_SHARE_ALL_BUS"] = "सभी उपयोगकर्ता";
+$MESS["MICROBLOG_SONET_MODULE_NOT_AVAIBLE"] = "माइक्रोब्लॉग इस उपयोगकर्ता के लिए उपलब्ध नहीं हैं।";
+$MESS["SBP_SHARE_PREMODERATION"] = "आप प्राप्तकर्ता नहीं जोड़ सकते, क्योंकि चयनित ग्रुप एक पूर्व-मॉडरेट ग्रुप है।";
+?>

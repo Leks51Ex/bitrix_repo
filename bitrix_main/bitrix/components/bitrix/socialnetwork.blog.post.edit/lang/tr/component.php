@@ -1,0 +1,27 @@
+<?php
+$MESS["BLG_GRP_NAME"] = "Şurada Başladı:";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_ERROR"] = "Mesaj silme hatası";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_NO_RIGHTS"] = "Bu mesajı silmek için iznin yok.";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_OK"] = "Mesaj silindi";
+$MESS["BLOG_BLOG_SESSID_WRONG"] = "Oturumunun süresi doldu. Lütfen tekrar dene.";
+$MESS["BLOG_EMPTY_TITLE_PLACEHOLDER"] = "Görsel";
+$MESS["BLOG_EMPTY_TITLE_PLACEHOLDER2"] = "Dosya";
+$MESS["BLOG_EMPTY_TITLE_VOTE_PLACEHOLDER"] = "Anket";
+$MESS["BLOG_ERR_NO_RIGHTS"] = "Hata: Mesaj yazmak için yetersiz izin";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "Blog modülü kurulu değil.";
+$MESS["BLOG_NEW_MESSAGE"] = "Yeni konuşma";
+$MESS["BLOG_POST_EDIT"] = "Gönderiyi düzenle";
+$MESS["BLOG_P_INSERT"] = "Bir görsel eklemek için tıkla";
+$MESS["BLOG_SONET_GROUP_MODULE_NOT_AVAIBLE"] = "Sohbetler bu kullanıcı grubu için kullanılamaz durumda.";
+$MESS["BLOG_SONET_MODULE_NOT_AVAIBLE"] = "Sohbetler bu kullanıcı için müsait değil.";
+$MESS["BPE_COPY_DELETE_ERROR"] = "Orijinal yazıyı silmeye çalışılırken hata.<br />";
+$MESS["BPE_HIDDEN_POSTED"] = "Gönderin başarıyla eklendi. Bu sohbetteki gönderiler için ön onay gerekmektedir; yönetici onayladığı anda gönderin görünür hale gelecektir.";
+$MESS["BPE_SESS"] = "Oturumunun süresi doldu. Lütfen mesajını tekrar gönder.";
+$MESS["B_B_HIDDEN_DEPARTMENT"] = "Gizli departman";
+$MESS["B_B_HIDDEN_GROUP"] = "Gizli grup";
+$MESS["B_B_HIDDEN_USER"] = "Gizli kullanıcı";
+$MESS["B_B_MES_NO_BLOG"] = "Mesaj bulunamadı";
+$MESS["B_B_MES_NO_GROUP"] = "Sosyal ağ grubu bulunamadı.";
+$MESS["B_B_MES_NO_GROUP_ACTIVE"] = "Bu özellik sosyal ağ gurubu için kullanılamaz durumda.";
+$MESS["B_B_MES_NO_GROUP_RIGHTS"] = "Sosyal ağ grubunda bir gönderi oluşturmak için yetersiz izin.";
+$MESS["B_B_PC_DUPLICATE_POST"] = "Gönderini zaten ekledin";

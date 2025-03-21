@@ -1,0 +1,5 @@
+<?
+$MESS["CURRENCY_GROUP_NAME"] = "通貨";
+$MESS["CURRENCY_SHOW_RATES_COMPONENT_DESCRIPTION"] = "表には、通貨のフォーマットに応じた為替レートが表示されます";
+$MESS["CURRENCY_SHOW_RATES_COMPONENT_NAME"] = "為替レート";
+?>

@@ -1,0 +1,24 @@
+<?php
+$MESS["BPSGCA_ACCESS_DENIED"] = "Hanya pentadbir Bitrix24 boleh mengakses sifat aktiviti.";
+$MESS["BPSGCA_EMPTY_VARIABLES"] = "Tiada nilai ditetapkan ke pembolehubah global";
+$MESS["BPSGVA_BOOL_NO"] = "Tidak";
+$MESS["BPSGVA_BOOL_YES"] = "Ya";
+$MESS["BPSGVA_CLEAR"] = "Set semula";
+$MESS["BPSGVA_CREATE_GCONSTANT"] = "Cipta pemalar";
+$MESS["BPSGVA_CREATE_GCONSTANT_QUESTION"] = "Adakah anda mahu mencipta pemalar baharu?";
+$MESS["BPSGVA_CREATE_GVARIABLE"] = "Cipta pembolehubah";
+$MESS["BPSGVA_CREATE_GVARIABLE_QUESTION"] = "Adakah anda mahu mencipta pembolehubah baharu?";
+$MESS["BPSGVA_DOCUMENT"] = "Nilai medan";
+$MESS["BPSGVA_EMPTY"] = "Tidak terpilih";
+$MESS["BPSGVA_GCONSTANT_NOT_FOUND"] = "Pemalar tidak ditemui";
+$MESS["BPSGVA_GCONSTANT_NO_EXIST"] = "Tiada pemalar";
+$MESS["BPSGVA_GLOBAL_CONST"] = "Pemalar sejagat";
+$MESS["BPSGVA_GLOBAL_VAR"] = "Pembolehubah global";
+$MESS["BPSGVA_GVARIABLE_NOT_FOUND"] = "Pembolehubah tidak ditemui";
+$MESS["BPSGVA_GVARIABLE_NO_EXIST"] = "Tiada pembolehubah";
+$MESS["BPSGVA_INPUT_TEXT"] = "Masukkan nilai";
+$MESS["BPSGVA_LIST_OF_VALUES"] = "Nilai";
+$MESS["BPSGVA_PARAMETER"] = "Pilih parameter";
+$MESS["BPSGVA_TEXT"] = "Nilai tersuai";
+$MESS["BPSGVA_TYPE_OF_PARAMETER"] = "Jenis parameter";
+$MESS["BPSGVA_VARIABLE"] = "Pilih pembolehubah";

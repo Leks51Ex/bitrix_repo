@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_COMPANY_NAME"] = "企業";
+$MESS["CRM_COMPANY_SHOW_DESCRIPTION"] = "会社を表示";
+$MESS["CRM_COMPANY_SHOW_NAME"] = "会社を表示";
+$MESS["CRM_NAME"] = "CRM";
+?>

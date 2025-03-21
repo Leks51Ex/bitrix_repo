@@ -1,0 +1,5 @@
+<?
+$MESS["UI_TILE_SELECTOR_ADD"] = "बनाएँ";
+$MESS["UI_TILE_SELECTOR_MORE"] = "#NUM# और";
+$MESS["UI_TILE_SELECTOR_SELECT"] = "चुनें";
+?>

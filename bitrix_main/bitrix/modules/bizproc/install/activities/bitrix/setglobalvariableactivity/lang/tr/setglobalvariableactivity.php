@@ -1,0 +1,24 @@
+<?php
+$MESS["BPSGCA_ACCESS_DENIED"] = "Aktivite özelliklerine yalnızca Bitrix24 yöneticileri erişebilir.";
+$MESS["BPSGCA_EMPTY_VARIABLES"] = "Genel değişkenlere değer atanmamış";
+$MESS["BPSGVA_BOOL_NO"] = "Hayır";
+$MESS["BPSGVA_BOOL_YES"] = "Evet";
+$MESS["BPSGVA_CLEAR"] = "Sıfırla";
+$MESS["BPSGVA_CREATE_GCONSTANT"] = "Sabit oluştur";
+$MESS["BPSGVA_CREATE_GCONSTANT_QUESTION"] = "Yeni bir sabit oluşturmak istiyor musunuz?";
+$MESS["BPSGVA_CREATE_GVARIABLE"] = "Değişken oluştur";
+$MESS["BPSGVA_CREATE_GVARIABLE_QUESTION"] = "Yeni bir değişken oluşturmak istiyor musunuz?";
+$MESS["BPSGVA_DOCUMENT"] = "Alan değeri";
+$MESS["BPSGVA_EMPTY"] = "Seçilmedi";
+$MESS["BPSGVA_GCONSTANT_NOT_FOUND"] = "Sabit bulunamadı";
+$MESS["BPSGVA_GCONSTANT_NO_EXIST"] = "Sabit yok";
+$MESS["BPSGVA_GLOBAL_CONST"] = "Genel sabitler";
+$MESS["BPSGVA_GLOBAL_VAR"] = "Genel değişkenler";
+$MESS["BPSGVA_GVARIABLE_NOT_FOUND"] = "Değişken bulunamadı";
+$MESS["BPSGVA_GVARIABLE_NO_EXIST"] = "Değişken yok";
+$MESS["BPSGVA_INPUT_TEXT"] = "Değer girin";
+$MESS["BPSGVA_LIST_OF_VALUES"] = "Değerler";
+$MESS["BPSGVA_PARAMETER"] = "Parametre seçin";
+$MESS["BPSGVA_TEXT"] = "Özel değer";
+$MESS["BPSGVA_TYPE_OF_PARAMETER"] = "Parametre türü";
+$MESS["BPSGVA_VARIABLE"] = "Değişken seçin";

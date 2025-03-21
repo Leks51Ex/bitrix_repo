@@ -1,0 +1,6 @@
+<?
+$MESS["BPWFSC_ARGUMENT_ERROR"] = "#PARAM#: #ERROR#";
+$MESS["BPWFSC_ARGUMENT_NULL"] = "缺少必要值（“#PARAM#”）。";
+$MESS["BPWFSC_ERROR"] = "错误";
+$MESS["BPWFSC_PAGE_TITLE"] = "#NAME#：工作流常数";
+?>

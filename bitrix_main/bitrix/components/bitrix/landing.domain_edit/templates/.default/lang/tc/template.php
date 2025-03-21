@@ -1,0 +1,4 @@
+<?
+$MESS["LANDING_TPL_BUTTON_SAVE"] = "儲存";
+$MESS["LANDING_TPL_TITLE"] = "編輯網域";
+?>

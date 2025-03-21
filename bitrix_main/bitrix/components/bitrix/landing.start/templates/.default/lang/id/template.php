@@ -1,0 +1,21 @@
+<?php
+$MESS["LANDING_TPL_ACCEPT"] = "Saya menyetujui Syarat-syarat";
+$MESS["LANDING_TPL_ACCEPTED"] = "Anda telah menyetujui Syarat-syarat";
+$MESS["LANDING_TPL_ADD_PAGE"] = "Halaman Baru";
+$MESS["LANDING_TPL_ADD_SITE"] = "Buat Situs";
+$MESS["LANDING_TPL_ADD_SITE_2"] = "Buat";
+$MESS["LANDING_TPL_ADD_SITE_KNOWLEDGE"] = "Buat basis pengetahuan";
+$MESS["LANDING_TPL_ADD_SITE_PAGE"] = "Buat Situs";
+$MESS["LANDING_TPL_ADD_SITE_STORE"] = "Buat toko online";
+$MESS["LANDING_TPL_DEV_SITE"] = "Buat situs web pengembangan";
+$MESS["LANDING_TPL_FOLDER_EDIT"] = "Pengaturan folder";
+$MESS["LANDING_TPL_JS_PAY_TARIFF"] = "Bermigrasi ke paket komersial";
+$MESS["LANDING_TPL_JS_PAY_TARIFF_TITLE"] = "Pembatasan paket";
+$MESS["LANDING_TPL_MENU_AGREEMENT"] = "Syarat-syarat Penggunaan";
+$MESS["LANDING_TPL_MENU_FORMS"] = "Formulir CRM";
+$MESS["LANDING_TPL_MENU_MARKETING"] = "Marketing";
+$MESS["LANDING_TPL_MENU_RIGHTS"] = "Izin Akses";
+$MESS["LANDING_TPL_MENU_SITES"] = "Situs";
+$MESS["LANDING_TPL_MENU_SITES_KNOWLEDGE"] = "Basis pengetahuan";
+$MESS["LANDING_TPL_MENU_TRACKING"] = "Intelijen Penjualan";
+$MESS["LANDING_TPL_SETTING"] = "Pengaturan";

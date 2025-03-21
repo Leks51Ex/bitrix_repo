@@ -1,0 +1,4 @@
+<?php
+$MESS["CRM_SIGNDOCUMENT_VIEW_DOCUMENT_INITIATOR_NOT_FOUND"] = "ドキュメントの開始者が見つかりませんでした。";
+$MESS["CRM_SIGNDOCUMENT_VIEW_DOCUMENT_NOT_FOUND"] = "ドキュメントが見つかりませんでした。";
+$MESS["CRM_SIGNDOCUMENT_VIEW_TITLE"] = "ドキュメントの表示";

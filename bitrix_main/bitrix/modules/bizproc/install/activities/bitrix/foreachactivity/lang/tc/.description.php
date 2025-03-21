@@ -1,0 +1,6 @@
+<?
+$MESS["BPFEA_DESCR_DESCR"] = "列舉多值變數的值";
+$MESS["BPFEA_DESCR_NAME"] = "迭代器";
+$MESS["BPFEA_DESCR_RETURN_KEY"] = "金鑰";
+$MESS["BPFEA_DESCR_RETURN_VALUE"] = "數值";
+?>

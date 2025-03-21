@@ -1,0 +1,31 @@
+<?
+$MESS["OL_COMPONENT_KPI_FIRST_ANSWER_TEXT"] = "#OPERATOR# वार्तालाप ##DIALOG# में अधिकतम आरंभिक प्रतिक्रिया समय की सीमा पार कर गया।";
+$MESS["OL_COMPONENT_KPI_FURTHER_ANSWER_TEXT"] = "#OPERATOR# वार्तालाप ##DIALOG# में अधिकतम प्रतिक्रिया समय की सीमा पार कर गया।";
+$MESS["OL_COMPONENT_LE_BOT_LIST"] = "चैट बॉट का चयन नहीं किया गया है";
+$MESS["OL_COMPONENT_LE_CRM_SOURCE_CREATE"] = "ओपन चैनल सोर्स";
+$MESS["OL_COMPONENT_LE_ERROR_PERMISSION"] = "इस ओपन चैनल पर इस कार्य को करने के लिए आपके पास पर्याप्त अनुमति नहीं है";
+$MESS["OL_COMPONENT_LE_KPI_ANSWER_TIME_MINUTES"] = "मिनट";
+$MESS["OL_COMPONENT_LE_KPI_ANSWER_TIME_MINUTES_1"] = "मिनट";
+$MESS["OL_COMPONENT_LE_KPI_ANSWER_TIME_OWN"] = "कस्टम";
+$MESS["OL_COMPONENT_LE_KPI_ANSWER_TIME_SECONDS"] = "सेकंड";
+$MESS["OL_COMPONENT_LE_MENU_AGREEMENTS"] = "अनुबंध";
+$MESS["OL_COMPONENT_LE_MENU_AUTOMATIC_ACTIONS"] = "स्वत: एक्शन";
+$MESS["OL_COMPONENT_LE_MENU_BOTS"] = "चैट बॉट";
+$MESS["OL_COMPONENT_LE_MENU_KPI"] = "प्रतिक्रिया समय KPI";
+$MESS["OL_COMPONENT_LE_MENU_OTHERS"] = "अन्य";
+$MESS["OL_COMPONENT_LE_MENU_QUALITY_MARK"] = "गुणवत्ता मूल्यांकन";
+$MESS["OL_COMPONENT_LE_MENU_QUEUE"] = "कतार";
+$MESS["OL_COMPONENT_LE_MENU_WORKTIME"] = "कार्य-समय";
+$MESS["OL_COMPONENT_LE_OPTION_BOT"] = "चैट बॉट कनेक्ट करें";
+$MESS["OL_COMPONENT_LE_OPTION_BOT_ID"] = "चैट बॉट ";
+$MESS["OL_COMPONENT_LE_OPTION_FORM"] = "CRM फॉर्म सबमिट करें";
+$MESS["OL_COMPONENT_LE_OPTION_FORM_ID"] = "CRM फॉर्म";
+$MESS["OL_COMPONENT_LE_OPTION_NONE"] = "कुछ न करें";
+$MESS["OL_COMPONENT_LE_OPTION_QUALITY"] = "टेक्स्ट और गुणवत्ता रेटिंग भेजें";
+$MESS["OL_COMPONENT_LE_OPTION_TEXT"] = "टेक्स्ट भेजें";
+$MESS["OL_COMPONENT_LE_QUICK_ANSWERS_NO_ACCESS_CREATE"] = "आपको यह ओपन चैनल संपादित करने की अनुमति नहीं है";
+$MESS["OL_COMPONENT_LE_QUICK_ANSWERS_STORAGE_CREATE"] = "स्वचालित रूप से बनाएँ";
+$MESS["OL_COMPONENT_LE_QUICK_ANSWERS_STORAGE_CREATE_ERROR"] = "मानक जवाबों की सूची बनाने में त्रुटि। हेल्पडेस्क से संपर्क करें।";
+$MESS["OL_COMPONENT_LE_QUICK_ANSWERS_STORAGE_CREATE_ERROR_UNIQUE"] = "इस ओपन चैनल के लिए मानक जवाब सूची पहले से मौजूद है।";
+$MESS["OL_COMPONENT_MODULE_NOT_INSTALLED"] = "ओपन चैनल मॉड्यूल इन्सटॉल नहीं है।";
+?>

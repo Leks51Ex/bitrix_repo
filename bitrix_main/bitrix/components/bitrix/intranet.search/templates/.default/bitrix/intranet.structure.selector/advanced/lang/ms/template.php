@@ -1,0 +1,4 @@
+<?
+$MESS["INTR_ISS_BUTTON_CANCEL"] = "Batal";
+$MESS["INTR_ISS_PARAM_DEPARTMENT"] = "Jabatan";
+?>

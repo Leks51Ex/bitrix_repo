@@ -1,0 +1,21 @@
+<?
+$MESS["INTERFACE_FILTER_ADD"] = "नया फ़िल्टर बनाएँ";
+$MESS["INTERFACE_FILTER_ADD_FIELD"] = "और फ़िल्टर फ़ील्ड";
+$MESS["INTERFACE_FILTER_CANCEL"] = "रद्द करें";
+$MESS["INTERFACE_FILTER_CURRENT"] = "फ़िल्टर";
+$MESS["INTERFACE_FILTER_DAYS_SUFFIX"] = "दिन";
+$MESS["INTERFACE_FILTER_DELETE"] = "डिलीट करें";
+$MESS["INTERFACE_FILTER_DELETE_FIELD"] = "फ़िल्टर छुपाएँ";
+$MESS["INTERFACE_FILTER_FIND"] = "खोजें";
+$MESS["INTERFACE_FILTER_HIDE_ALL"] = "सभी फ़िल्टर छुपाएँ";
+$MESS["INTERFACE_FILTER_LIST_VALUE_NOT_SELECTED"] = "(कोई नहीं)";
+$MESS["INTERFACE_FILTER_MAXIMIZE"] = "फ़िल्टर दिखाएँ";
+$MESS["INTERFACE_FILTER_MINIMIZE"] = "फ़िल्टर संकुचित करें";
+$MESS["INTERFACE_FILTER_SAVE"] = "सेव करें";
+$MESS["INTERFACE_FILTER_SAVE_AS"] = "के रूप में सेव करें";
+$MESS["INTERFACE_FILTER_SAVE_AS_DIALOG_FIELD_NAME"] = "फ़िल्टर नाम";
+$MESS["INTERFACE_FILTER_SAVE_AS_DIALOG_FIELD_NAME_DEFAULT"] = "नया फ़िल्टर";
+$MESS["INTERFACE_FILTER_SAVE_AS_DIALOG_TITLE"] = "फ़िल्टर सेव करें";
+$MESS["INTERFACE_FILTER_SETTINGS"] = "फ़िल्टर सेटिंग";
+$MESS["INTERFACE_FILTER_SHOW_ALL"] = "सभी फ़िल्टर दिखाएँ";
+?>

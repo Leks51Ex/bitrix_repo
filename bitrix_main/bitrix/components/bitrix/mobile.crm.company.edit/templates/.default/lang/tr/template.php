@@ -1,0 +1,18 @@
+<?
+$MESS["M_CRM_COMPANY_CONVERSION_NOTIFY"] = "Gerekli alanlar";
+$MESS["M_CRM_COMPANY_EDIT_CANCEL_BTN"] = "İptal";
+$MESS["M_CRM_COMPANY_EDIT_CONTINUE_BTN"] = "Devam";
+$MESS["M_CRM_COMPANY_EDIT_CONVERT_TITLE"] = "Şirket";
+$MESS["M_CRM_COMPANY_EDIT_CREATE_TITLE"] = "Firma Ekle";
+$MESS["M_CRM_COMPANY_EDIT_EDIT_TITLE"] = "Düzenle";
+$MESS["M_CRM_COMPANY_EDIT_SAVE_BTN"] = "Kaydet";
+$MESS["M_CRM_COMPANY_EDIT_VIEW_TITLE"] = "Şirketi görüntüle";
+$MESS["M_CRM_COMPANY_MENU_ACTIVITY"] = "Etkinlikler";
+$MESS["M_CRM_COMPANY_MENU_DEALS"] = "Anlaşmalar";
+$MESS["M_CRM_COMPANY_MENU_DELETE"] = "Sil";
+$MESS["M_CRM_COMPANY_MENU_EDIT"] = "Düzenle";
+$MESS["M_CRM_COMPANY_MENU_HISTORY"] = "Geçmiş";
+$MESS["M_DETAIL_DOWN_TEXT"] = "Yenilemek için bırak...";
+$MESS["M_DETAIL_LOAD_TEXT"] = "Güncelleniyor...";
+$MESS["M_DETAIL_PULL_TEXT"] = "Yenilemek için aşağı çek...";
+?>

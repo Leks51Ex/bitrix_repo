@@ -1,0 +1,4 @@
+<?
+$MESS["DISK_BIZPROC_BACK_TEXT"] = "Undur";
+$MESS["DISK_BIZPROC_BACK_TITLE"] = "Undur";
+?>

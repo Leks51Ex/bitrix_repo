@@ -1,0 +1,26 @@
+<?
+$MESS["SB_ADD_TO_BASKET_OK"] = "あなたのショッピングカートに追加されました";
+$MESS["SB_AMOUNT"] = "数量";
+$MESS["SB_CATALOG_BASKET_UNKNOWN_ERROR"] = "ショッピングカートに商品を追加する際に不明なエラーが発生しました";
+$MESS["SB_CATALOG_BTN_MESSAGE_BASKET_REDIRECT"] = "カートを見る";
+$MESS["SB_CATALOG_BTN_MESSAGE_CLOSE"] = "閉じる";
+$MESS["SB_CATALOG_BTN_MESSAGE_SEND_PROPS"] = "選択";
+$MESS["SB_CATALOG_SET_BUTTON_BUY"] = "カートを見る";
+$MESS["SB_CATALOG_TITLE_BASKET_PROPS"] = "ショッピングカートに渡すアイテムのプロパティ";
+$MESS["SB_CATALOG_TITLE_ERROR"] = "エラー";
+$MESS["SB_DAYS"] = "日";
+$MESS["SB_HREF_TITLE"] = "トップセラー";
+$MESS["SB_NO_PRODUCTS"] = "製品はありません";
+$MESS["SB_QUANTITY"] = "数量";
+$MESS["SB_SHOW_LIDER_BY"] = "スルー:";
+$MESS["SB_SHOW_PERIOD"] = "ために:";
+$MESS["SB_TPL_ELEMENT_DELETE_CONFIRM"] = "このレコードに関連するすべての情報は削除されます。 続行しますか?";
+$MESS["SB_TPL_MESS_BTN_ADD_TO_BASKET"] = "カートに追加";
+$MESS["SB_TPL_MESS_BTN_BUY"] = "購入";
+$MESS["SB_TPL_MESS_BTN_COMPARE"] = "比較";
+$MESS["SB_TPL_MESS_BTN_DETAIL"] = "詳細";
+$MESS["SB_TPL_MESS_BTN_SUBSCRIBE"] = "購読";
+$MESS["SB_TPL_MESS_MEASURE_SIMPLE_MODE"] = "#VALUE##UNIT#";
+$MESS["SB_TPL_MESS_PRICE_SIMPLE_MODE"] = "#PRICE#から#MEASURE#まで";
+$MESS["SB_TPL_MESS_PRODUCT_NOT_AVAILABLE"] = "在庫切れ";
+?>

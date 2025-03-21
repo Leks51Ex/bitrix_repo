@@ -1,0 +1,33 @@
+<?
+$MESS["SONET_GCE_CANNOT_EMAILS_ADD"] = "ये पते #EMAIL# पहले से ही अन्य उपयोगकर्ताओं द्वारा उपयोग में हैं।";
+$MESS["SONET_GCE_CANNOT_EMAIL_ADD"] = "यह ई-मेल पता (#EMAIL#) पहले से ही किसी अन्य उपयोगकर्ता द्वारा उपयोग में है।";
+$MESS["SONET_GCE_CANNOT_USER_ADD"] = "\"#EMAIL#\" ई-मेल वाला उपयोगकर्ता जोड़ा नहीं गया था:";
+$MESS["SONET_GCE_ERR_CANT_CREATE"] = "आपको नए ग्रुप बनाने की अनुमति नहीं है।";
+$MESS["SONET_GCE_ERR_NAME"] = "ग्रुप का नाम उल्लिखित नहीं है।";
+$MESS["SONET_GCE_ERR_NAME_PROJECT"] = "प्रोजेक्ट नाम उल्लिखित नहीं है";
+$MESS["SONET_GCE_ERR_PERMS"] = "आमंत्रण अनुमति निर्दिष्ट नहीं है।";
+$MESS["SONET_GCE_ERR_PERMS_PROJECT"] = "प्रोजेक्ट निमंत्रण अनुमतियाँ असाइन नहीं की गई हैं";
+$MESS["SONET_GCE_ERR_SECURITY"] = "आपको ग्रुप पैरामीटर संपादित करने की अनुमति नहीं है।";
+$MESS["SONET_GCE_ERR_SPAM_PERMS"] = "वर्कग्रुप को संदेश भेजने की अनुमतियाँ सेट नहीं हैं";
+$MESS["SONET_GCE_ERR_SUBJECT"] = "ग्रुप का विषय उल्लिखित नहीं है।";
+$MESS["SONET_GCE_ERR_SUBJECT_PROJECT"] = "प्रोजेक्ट विषय उल्लिखित नहीं है";
+$MESS["SONET_GCE_INVITE_MESSAGE_TEXT"] = "कृपया हमारे नए इंट्रानेट में मुझसे जुड़ें। यह एक ऐसा स्थान है जहाँ हर कोई प्रोजेक्टों पर सहयोग कर सकता है, टास्क और शेड्यूल समायोजित कर सकता है, और हमारे ज्ञान के आधार का निर्माण कर सकता है, और साथ ही यह इस्तेमाल में भी आसान है।";
+$MESS["SONET_GCE_IP_ALL"] = "सभी उपयोगकर्ता";
+$MESS["SONET_GCE_IP_MOD"] = "ग्रुप स्वामी और मॉडरेटर";
+$MESS["SONET_GCE_IP_MOD_PROJECT"] = "प्रोजेक्ट स्वामी और मॉडरेटर";
+$MESS["SONET_GCE_IP_OWNER"] = "केवल ग्रुप स्वामी";
+$MESS["SONET_GCE_IP_OWNER_PROJECT"] = "केवल प्रोजेक्ट स्वामी";
+$MESS["SONET_GCE_IP_USER"] = "सभी ग्रुप सदस्य";
+$MESS["SONET_GCE_IP_USER_PROJECT"] = "सभी प्रोजेक्ट प्राप्तकर्ता";
+$MESS["SONET_GCE_NO_USERS"] = "आमंत्रण प्राप्तकर्ता निर्दिष्ट नहीं हैं।";
+$MESS["SONET_GCE_TITLE_CREATE"] = "वर्कग्रुप या प्रोजेक्ट बनाएँ";
+$MESS["SONET_GCE_TITLE_EDIT"] = "वर्कग्रुप संपादित करें";
+$MESS["SONET_GCE_TITLE_EDIT_PROJECT"] = "प्रोजेक्ट संपादित करें";
+$MESS["SONET_GCE_TITLE_INVITE"] = "वर्कग्रुप में आमंत्रित करें";
+$MESS["SONET_GCE_TITLE_INVITE_PROJECT"] = "प्रोजेक्ट में आमंत्रित करें";
+$MESS["SONET_GCE_USER_BANNED_IN_GROUP"] = "#EMAIL# ई-मेल वाला उपयोगकर्ता इस ग्रुप से प्रतिबंधित है।";
+$MESS["SONET_GCE_USER_IN_GROUP"] = "#EMAIL# ई-मेल वाला उपयोगकर्ता पहले से ही एक ग्रुप सदस्य है।";
+$MESS["SONET_GCE_USER_IN_GROUP_PROJECT"] = "#EMAIL# ई-मेल वाला उपयोगकर्ता पहले से ही प्रोजेक्ट का सदस्य है";
+$MESS["SONET_GCE_USER_REQUEST_SENT"] = "#EMAIL# वाले उपयोगकर्ता को पहले ही आमंत्रण भेजा दिया गया है।";
+$MESS["SONET_MODULE_NOT_INSTALL"] = "सोशल नेटवर्क मॉड्यूल इंस्टॉल नहीं है।";
+?>

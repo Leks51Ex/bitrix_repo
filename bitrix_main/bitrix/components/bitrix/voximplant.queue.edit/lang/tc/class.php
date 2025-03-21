@@ -1,0 +1,7 @@
+<?php
+$MESS["VI_CONFIG_ERROR_ACCESS_DENIED"] = "您沒有編輯電話語音設定的權限。";
+$MESS["VI_CONFIG_ERROR_EMPTY_NAME"] = "佇列群組名稱為必填項";
+$MESS["VI_CONFIG_ERROR_MAX_GROUP_COUNT_REACHED"] = "您的 Bitrix24 已達到電話語音使用者群組的上限";
+$MESS["VI_CONFIG_ERROR_NUMBER_IN_USE_BY_GROUP"] = "此分機號碼已被 #NAME# 群組使用。";
+$MESS["VI_CONFIG_ERROR_NUMBER_IN_USE_BY_USER"] = "此分機號碼已被 #NAME# 使用。";
+$MESS["VI_CONFIG_ERROR_PHONE_NUMBER_TOO_LONG"] = "分機號碼長度不得超過 4 個號碼。";

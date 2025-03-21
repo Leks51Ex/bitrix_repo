@@ -1,0 +1,5 @@
+<?
+$MESS["SENDER_TRIGGER_STAT_COMP_LETTER"] = "电子邮件 %number%";
+$MESS["SENDER_TRIGGER_STAT_COMP_NO_CAMPAIGN"] = "未找到触发新闻邮件。";
+$MESS["SENDER_TRIGGER_STAT_COMP_TITLE"] = "触发新闻邮件统计数据";
+?>

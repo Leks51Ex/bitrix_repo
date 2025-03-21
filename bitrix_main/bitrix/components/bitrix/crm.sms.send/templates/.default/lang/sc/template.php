@@ -1,0 +1,4 @@
+<?php
+$MESS["CRM_SMS_CANCEL"] = "取消";
+$MESS["CRM_SMS_SEND"] = "发送";
+$MESS["CRM_SMS_SEND_SENDER_SUBTITLE"] = "使用 #SENDER#";

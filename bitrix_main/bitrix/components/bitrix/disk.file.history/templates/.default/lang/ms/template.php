@@ -1,0 +1,8 @@
+<?
+$MESS["DISK_FILE_HISTORY_VERSION_DELETE_VERSION_BUTTON"] = "Hapus";
+$MESS["DISK_FILE_HISTORY_VERSION_DELETE_VERSION_CONFIRM"] = "Adakah anda pasti anda mahu menghapuskan versi ini?";
+$MESS["DISK_FILE_HISTORY_VERSION_DELETE_VERSION_TITLE"] = "Hapus versi";
+$MESS["DISK_FILE_HISTORY_VERSION_RESTORE_BUTTON"] = "Memulihkan";
+$MESS["DISK_FILE_HISTORY_VERSION_RESTORE_CONFIRM"] = "Adakah anda mahu memulihkan versi dokumen ini?";
+$MESS["DISK_FILE_HISTORY_VERSION_RESTORE_TITLE"] = "Memulihkan versi";
+?>

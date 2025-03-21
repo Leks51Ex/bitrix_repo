@@ -1,0 +1,5 @@
+<?
+$MESS["SONET_SLM_CREATED_BY_ANONYMOUS"] = "Pengunjung Tidak Sah";
+$MESS["SONET_SLM_DATETIME_DAYS"] = "#DAYS# h";
+$MESS["SONET_SLM_EXTRANET_SUFFIX"] = " (ekstranet)";
+?>

@@ -1,0 +1,4 @@
+<?php
+$MESS["LANDING_CMP_PAR_LANDING_ID"] = "ランディング ID";
+$MESS["LANDING_CMP_PAR_LANDING_TYPE"] = "サイトの種類";
+$MESS["LANDING_CMP_PAR_SITE_ID"] = "サイト ID";

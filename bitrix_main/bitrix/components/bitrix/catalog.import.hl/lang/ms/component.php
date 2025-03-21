@@ -1,0 +1,3 @@
+<?php
+$MESS["CC_BCIH_XML_FIELD_TYPE_STRING"] = "Rentetan";
+$MESS["CC_BCIH_XML_ID"] = "ID";

@@ -1,0 +1,19 @@
+<?
+$MESS["TASKS_LIST_CRM_TYPE_C"] = "İletişim";
+$MESS["TASKS_LIST_CRM_TYPE_CO"] = "Şirket";
+$MESS["TASKS_LIST_CRM_TYPE_D"] = "Anlaşma";
+$MESS["TASKS_LIST_CRM_TYPE_L"] = "Müşteri adayı";
+$MESS["TASKS_LIST_ITEMS_NO"] = "Hayır";
+$MESS["TASKS_LIST_ITEMS_PRIORITY_0"] = "Düşük";
+$MESS["TASKS_LIST_ITEMS_PRIORITY_1"] = "Normal";
+$MESS["TASKS_LIST_ITEMS_PRIORITY_2"] = "Yüksek";
+$MESS["TASKS_LIST_ITEMS_STATUS_1"] = "Yeni";
+$MESS["TASKS_LIST_ITEMS_STATUS_2"] = "Bekleyen";
+$MESS["TASKS_LIST_ITEMS_STATUS_3"] = "Üzerinde çalışılıyor";
+$MESS["TASKS_LIST_ITEMS_STATUS_4"] = "Denetim bekleniyor";
+$MESS["TASKS_LIST_ITEMS_STATUS_5"] = "Tamamlanan";
+$MESS["TASKS_LIST_ITEMS_STATUS_6"] = "Ertelenen";
+$MESS["TASKS_LIST_ITEMS_STATUS_7"] = "Reddedilen";
+$MESS["TASKS_LIST_ITEMS_YES"] = "Evet";
+$MESS["TASKS_LIST_NOT_SET"] = "Yeni çalışan";
+?>

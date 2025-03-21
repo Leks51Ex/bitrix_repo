@@ -1,0 +1,29 @@
+<?
+$MESS["SUP_ACTIVE"] = "ライセンスキーが有効です";
+$MESS["SUP_ACTIVE_PERIOD"] = "#DATE_FROM#から#DATE_TO#まで";
+$MESS["SUP_ACTIVE_PERIOD_TO"] = "~#DATE_TO#";
+$MESS["SUP_APPLY"] = "適用";
+$MESS["SUP_INITIAL"] = "初期化中...";
+$MESS["SUP_SERVER"] = "サーバーの更新";
+$MESS["SUP_SUBI_CHECK"] = "最後に実行された更新チェック";
+$MESS["SUP_SUBI_UPD"] = "最後にインストールされた更新プログラム";
+$MESS["SUP_SUBT_AGREE"] = "私はライセンス契約に同意します";
+$MESS["SUP_SUBT_LICENCE"] = "ライセンス契約";
+$MESS["SUP_SUBT_LICENCE_BUTTON"] = "ライセンス契約の表示";
+$MESS["SUP_SUBT_LICENCE_HINT"] = "更新システムを使用する前に、新しい使用許諾契約に同意する必要があります";
+$MESS["SUP_SUBU_BUTTON"] = "新しいSiteUpdateバージョンをインストールする";
+$MESS["SUP_SUBU_HINT"] = "アップデートシステムの新しいバージョンが利用可能です  アップデートを進める前にインストールする必要があります";
+$MESS["SUP_SUBU_UPDATE"] = "更新システムを更新する";
+$MESS["SUP_SUB_ERROR"] = "一部の更新プログラムのインストールに失敗しました";
+$MESS["SUP_SUB_STOP"] = "中止";
+$MESS["SUP_SUB_SUCCESS"] = "更新プログラムは正常にインストールされました";
+$MESS["SUP_SU_RECOMEND"] = "推奨アップデート";
+$MESS["SUP_SU_RECOMEND_LAN"] = "言語ファイルの場合は<b>#NUM#</b>";
+$MESS["SUP_SU_RECOMEND_MOD"] = "モジュールの<b>#NUM#</b>";
+$MESS["SUP_SU_RECOMEND_NO"] = "なし";
+$MESS["SUP_SU_UPD_BUTTON"] = "推奨アップデートをインストールする";
+$MESS["SUP_SU_UPD_INSMED1"] = "アップデートをインストールする";
+$MESS["SUP_UPDATES_HINT"] = "Bitrix24のアップデートがインストールされています  すべてのアップデートのインストールが完了するまで、このページを閉じないでください";
+$MESS["UPDATES_BUTTON"] = "アップデートをインストールする";
+$MESS["UPDATES_TITLE"] = "アップデート";
+?>

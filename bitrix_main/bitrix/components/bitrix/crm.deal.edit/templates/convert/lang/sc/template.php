@@ -1,0 +1,7 @@
+<?
+$MESS["CRM_ADDITIONAL_FIELDS"] = "其他";
+$MESS["CRM_FIELD_CONVERT_DEAL"] = "转换为交易";
+$MESS["CRM_FIELD_EVENT_DATE"] = "计划事件日期";
+$MESS["CRM_FIELD_EVENT_DESCRIPTION"] = "计划事件描述";
+$MESS["CRM_FIELD_EVENT_ID"] = "计划事件类型";
+?>

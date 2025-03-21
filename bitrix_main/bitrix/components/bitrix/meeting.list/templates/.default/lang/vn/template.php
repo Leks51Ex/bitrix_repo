@@ -1,0 +1,32 @@
+<?
+$MESS["ME_ADD"] = "Cuộc họp mới";
+$MESS["ME_COPY"] = "Tạo cuộc họp tiếp theo";
+$MESS["ME_COPY_EX"] = "Tạo một cuộc họp mới dựa trên kết quả của một cuộc họp hiện tại";
+$MESS["ME_CURRENT_STATE"] = "Giai đoạn";
+$MESS["ME_DATE_START"] = "Ngày";
+$MESS["ME_DELETE"] = "Xóa cuộc họp";
+$MESS["ME_DELETE_CONFIRM"] = "Bạn có chắc chắn muốn xóa cuộc họp này?";
+$MESS["ME_DELETE_EX"] = "Xóa cuộc họp";
+$MESS["ME_DETAIL"] = "Xem cuộc họp";
+$MESS["ME_DETAIL_EX"] = "Xem và chỉnh sửa cuộc họp";
+$MESS["ME_EDIT"] = "Chỉnh sửa cuộc họp";
+$MESS["ME_EDIT_EX"] = "Xem và chỉnh sửa cuộc họp";
+$MESS["ME_ERR_NO_MEETINGS"] = "Không có cuộc họp được lên kế hoạch";
+$MESS["ME_FILTER"] = "Bộ lọc";
+$MESS["ME_FILTER_CANCEL"] = "Hủy bỏ";
+$MESS["ME_FILTER_CURRENT_STATE"] = "Giai đoạn";
+$MESS["ME_FILTER_CURRENT_STATE_ALL"] = "(tất cả)";
+$MESS["ME_FILTER_GROUP"] = "Kế hoạch";
+$MESS["ME_FILTER_HEAD"] = "Chỉ có cuộc họp của tôi";
+$MESS["ME_FILTER_MEMBER"] = "Tham dự";
+$MESS["ME_FILTER_OWNER"] = "Chủ nhân";
+$MESS["ME_FILTER_OWNER_CHOOSE"] = "Chọn";
+$MESS["ME_FILTER_SUBMIT"] = "Tìm kiếm";
+$MESS["ME_FILTER_TITLE"] = "Tên";
+$MESS["ME_OWNER"] = "Chủ nhân";
+$MESS["ME_PLACE"] = "Địa điểm";
+$MESS["ME_STATE_A"] = "Đang tiến hành";
+$MESS["ME_STATE_C"] = "Đã kết thúc";
+$MESS["ME_STATE_P"] = "Chưa được bắt đầu";
+$MESS["ME_TITLE"] = "Chủ đề";
+?>

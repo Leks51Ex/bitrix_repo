@@ -1,0 +1,3 @@
+<?
+$MESS["RPA_AUTOMATION_ADDROBOT_TITLE"] = "分配任务模板";
+?>

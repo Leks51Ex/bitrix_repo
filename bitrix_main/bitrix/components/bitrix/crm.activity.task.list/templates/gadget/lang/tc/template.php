@@ -1,0 +1,7 @@
+<?
+$MESS["CRM_ENTITY_COMPANY"] = "公司";
+$MESS["CRM_ENTITY_CONTACT"] = "連絡人";
+$MESS["CRM_ENTITY_DEAL"] = "交易";
+$MESS["CRM_ENTITY_LEAD"] = "潛在客戶";
+$MESS["CRM_TASK_EMPTY"] = "無記錄";
+?>

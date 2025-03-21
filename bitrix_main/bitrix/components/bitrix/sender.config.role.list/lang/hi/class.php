@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_CONFIG_ROLE_LIST_COMP_TITLE"] = "पहुँच अनुमतियाँ";
+$MESS["SENDER_CONFIG_ROLE_LIST_COMP_UNKNOWN_ACCESS_CODE"] = "(अज्ञात पहुंच आईडी)";
+?>

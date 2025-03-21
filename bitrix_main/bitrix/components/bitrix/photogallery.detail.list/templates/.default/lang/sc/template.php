@@ -1,0 +1,14 @@
+<?
+$MESS["P_DEFAULT_TEMPLATE"] = "默认";
+$MESS["P_DEFAULT_TEMPLATE_TITLE"] = "未变更照片的缩略图";
+$MESS["P_DELETE_CONFIRM"] = "您确定要永久删除照片吗？";
+$MESS["P_DELETE_SELECTED"] = "删除";
+$MESS["P_MOVE_SELECTED"] = "移动";
+$MESS["P_MOVE_SELECTED_IN"] = "移动到";
+$MESS["P_PHOTO_NOT_APPROVED"] = " [隐藏]";
+$MESS["P_RECTANGLE_TEMPLATE"] = "长方形";
+$MESS["P_RECTANGLE_TEMPLATE_TITLE"] = "已调整尺寸照片的缩略图";
+$MESS["P_SELECT_ALL"] = "全选";
+$MESS["P_SQUARE_TEMPLATE"] = "正方形";
+$MESS["P_SQUARE_TEMPLATE_TITLE"] = "正方形照片的缩略图";
+?>

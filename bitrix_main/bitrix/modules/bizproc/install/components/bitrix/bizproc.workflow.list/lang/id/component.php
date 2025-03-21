@@ -1,0 +1,26 @@
+<?php
+$MESS["BPATT_AE_CREATE"] = "Buat";
+$MESS["BPATT_AE_DELETE"] = "Hapus";
+$MESS["BPATT_AE_EDIT"] = "Perbarui";
+$MESS["BPATT_AE_NONE"] = "Tidak";
+$MESS["BPATT_DO_DELETE1"] = "Hapus";
+$MESS["BPATT_DO_DELETE1_CONFIRM"] = "Anda yakin ingin menghapus template ini?";
+$MESS["BPATT_DO_EDIT1"] = "Edit";
+$MESS["BPATT_DO_EDIT_CONSTANTS"] = "Atur nilai konstan";
+$MESS["BPATT_DO_EDIT_CONSTANTS1"] = "Konstan";
+$MESS["BPATT_DO_EDIT_VARS"] = "Ubah nilai variabel awal";
+$MESS["BPATT_DO_EDIT_VARS1"] = "Variabel";
+$MESS["BPATT_DO_LOAD_CREATE"] = "Jalankan selama pembuatan";
+$MESS["BPATT_DO_LOAD_CREATE_TITLE"] = "Jalankan proses bisnis ketika membuat elemen";
+$MESS["BPATT_DO_LOAD_EDIT"] = "Jalankan selama modifikasi";
+$MESS["BPATT_DO_LOAD_EDIT_TITLE"] = "Jalankan proses bisnis ketika memodifikasi elemen";
+$MESS["BPATT_DO_N_LOAD_CREATE"] = "Jangan menjalankan selama pembuatan";
+$MESS["BPATT_DO_N_LOAD_CREATE_TITLE"] = "Jangan menjalankan proses bisnis ketika membuat elemen";
+$MESS["BPATT_DO_N_LOAD_EDIT"] = "Jangan menjalankan selama modifikasi";
+$MESS["BPATT_DO_N_LOAD_EDIT_TITLE"] = "Jangan menjalankan proses bisnis ketika memodifikasi elemen";
+$MESS["BPATT_NAV"] = "Template Proses Bisnis";
+$MESS["BPATT_NO_DOCUMENT_TYPE"] = "Tipe elemen wajib diisi.";
+$MESS["BPATT_NO_ENTITY"] = "Tidak ada entitas ditentukan yang proses bisnis dibuat untuknya.";
+$MESS["BPATT_NO_MODULE_ID"] = "ID modul wajib diisi.";
+$MESS["BPATT_NO_PERMS"] = "Anda tidak memiliki izin menjalankan proses bisnis untuk elemen ini.";
+$MESS["BPATT_TITLE"] = "Template Proses Bisnis";

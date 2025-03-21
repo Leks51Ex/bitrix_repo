@@ -1,0 +1,130 @@
+<?
+$MESS["TASKS_ACCOMPLICE"] = "Peserta";
+$MESS["TASKS_ADD_QUICK_TASK"] = "Cipta tugas cepat";
+$MESS["TASKS_ADD_TASK"] = "Tugas Baru";
+$MESS["TASKS_ADD_TEMPLATE_TASK"] = "Cipta daripada templat tugas";
+$MESS["TASKS_APPLY"] = "Guna";
+$MESS["TASKS_APPROVE_TASK"] = "Terima sebagai Lengkap";
+$MESS["TASKS_AUDITOR"] = "Pemerhati";
+$MESS["TASKS_CANCEL"] = "Batal";
+$MESS["TASKS_CONFIGURE_LIST"] = "Tetapkan senarai";
+$MESS["TASKS_CREATOR"] = "Pencipta";
+$MESS["TASKS_DATE_COMPLETED"] = "Lengkap pada";
+$MESS["TASKS_DATE_END"] = "Tarikh akhir";
+$MESS["TASKS_DATE_START"] = "Tarikh mula";
+$MESS["TASKS_DATE_STARTED"] = "Dimulakan pada";
+$MESS["TASKS_DEADLINE"] = "Tarikh akhir";
+$MESS["TASKS_DECLINE_REASON"] = "Sebab penolakan";
+$MESS["TASKS_DECLINE_TASK"] = "Tolak";
+$MESS["TASKS_DEFAULT_SORT"] = "Isih Susunan Lalai";
+$MESS["TASKS_DOUBLE_CLICK"] = "Klik dua kali untuk melihat";
+$MESS["TASKS_DURATION"] = "Jam Dihabiskan";
+$MESS["TASKS_EXPORT_EXCEL"] = "Eksport ke Excel";
+$MESS["TASKS_EXPORT_OUTLOOK"] = "Eksport ke Outlook";
+$MESS["TASKS_FILTER_BY_TAG"] = "Mengikut Teg";
+$MESS["TASKS_FILTER_CREAT_DATE"] = "Dicipta Pada";
+$MESS["TASKS_FILTER_FIND"] = "Carian";
+$MESS["TASKS_FILTER_IN_CONTROL"] = "Menunggu semakan";
+$MESS["TASKS_FILTER_NOT_ACCEPTED"] = "Tidak diterima";
+$MESS["TASKS_FILTER_PICK_DATE"] = "Pilih tarikh dalam kalendar";
+$MESS["TASKS_FILTER_SELECT"] = "pilih";
+$MESS["TASKS_FILTER_SHOW_SUBORDINATE"] = "tunjuk tugas orang bawahan";
+$MESS["TASKS_FINISHED"] = "Selesai";
+$MESS["TASKS_GANTT"] = "Carta Gantt";
+$MESS["TASKS_HELP"] = "Bantuan";
+$MESS["TASKS_LIST_COLUMN_1"] = "ID";
+$MESS["TASKS_LIST_COLUMN_10"] = "Kumpulan";
+$MESS["TASKS_LIST_COLUMN_11"] = "Anggaran masa yang diperlukan";
+$MESS["TASKS_LIST_COLUMN_12"] = "Jejak masa yang dihabiskan";
+$MESS["TASKS_LIST_COLUMN_13"] = "Masa dihabiskan";
+$MESS["TASKS_LIST_COLUMN_14"] = "Orang yang bertanggungjawab boleh mengubah tarikh akhir";
+$MESS["TASKS_LIST_COLUMN_15"] = "Dicipta pada";
+$MESS["TASKS_LIST_COLUMN_16"] = "Diubah suai pada";
+$MESS["TASKS_LIST_COLUMN_17"] = "Tarikh tamat";
+$MESS["TASKS_LIST_COLUMN_2"] = "Nama";
+$MESS["TASKS_LIST_COLUMN_3"] = "Dicipta oleh";
+$MESS["TASKS_LIST_COLUMN_4"] = "Orang yang bertanggungjawab";
+$MESS["TASKS_LIST_COLUMN_5"] = "Tarikh akhir";
+$MESS["TASKS_LIST_COLUMN_6"] = "Skor";
+$MESS["TASKS_LIST_COLUMN_7"] = "CRM";
+$MESS["TASKS_LIST_COLUMN_8"] = "Keutamaan";
+$MESS["TASKS_LIST_COLUMN_9"] = "Status";
+$MESS["TASKS_LIST_COLUMN_SORTING"] = "Tersuai";
+$MESS["TASKS_LIST_CONFIRM_ACTION_FOR_ALL_ITEMS"] = "Adakah anda mahu mengenakan tindakan kepada semua tugas dan subtugas dalam senarai termasuk halaman berikutnya?";
+$MESS["TASKS_LIST_CONFIRM_REMOVE_FOR_ALL_ITEMS"] = "Adakah anda mahu memadam semua tugas bersama subtugas anak, termasuk di halaman berikutan?";
+$MESS["TASKS_LIST_CONFIRM_REMOVE_FOR_SELECTED_ITEMS"] = "Adakah anda ingin memadam tugas terpilih?";
+$MESS["TASKS_LIST_GROUP_ACTION_ADD_ACCOMPLICE"] = "Tambah peserta";
+$MESS["TASKS_LIST_GROUP_ACTION_ADD_AUDITOR"] = "Tambah pemerhati";
+$MESS["TASKS_LIST_GROUP_ACTION_ADD_FAVORITE"] = "Tambah ke kegemaran";
+$MESS["TASKS_LIST_GROUP_ACTION_ADJUST_DEADLINE"] = "Bawa tarikh akhir ke depan";
+$MESS["TASKS_LIST_GROUP_ACTION_CHANGE_ORIGINATOR"] = "Ubah pencipta";
+$MESS["TASKS_LIST_GROUP_ACTION_CHANGE_RESPONSIBLE"] = "Tetapkan orang yang bertanggungjawab";
+$MESS["TASKS_LIST_GROUP_ACTION_COMPLETE"] = "Selesai";
+$MESS["TASKS_LIST_GROUP_ACTION_DAYS_PLURAL_0"] = "hari";
+$MESS["TASKS_LIST_GROUP_ACTION_DAYS_PLURAL_1"] = "hari";
+$MESS["TASKS_LIST_GROUP_ACTION_DAYS_PLURAL_2"] = "hari";
+$MESS["TASKS_LIST_GROUP_ACTION_DELETE_FAVORITE"] = "Keluarkan dari kegemaran";
+$MESS["TASKS_LIST_GROUP_ACTION_FOR_ALL"] = "Untuk semua";
+$MESS["TASKS_LIST_GROUP_ACTION_MONTHES_PLURAL_0"] = "bulan";
+$MESS["TASKS_LIST_GROUP_ACTION_MONTHES_PLURAL_1"] = "bulan";
+$MESS["TASKS_LIST_GROUP_ACTION_MONTHES_PLURAL_2"] = "bulan";
+$MESS["TASKS_LIST_GROUP_ACTION_PLEASE_WAIT"] = "Sila tunggu...";
+$MESS["TASKS_LIST_GROUP_ACTION_REMOVE"] = "Hapus";
+$MESS["TASKS_LIST_GROUP_ACTION_SET_DEADLINE"] = "Masuk tarikh akhir";
+$MESS["TASKS_LIST_GROUP_ACTION_SET_GROUP"] = "Pilih kumpulan projek";
+$MESS["TASKS_LIST_GROUP_ACTION_SUBSTRACT_DEADLINE"] = "Bawa tarikh akhir ke belakang";
+$MESS["TASKS_LIST_GROUP_ACTION_WEEKS_PLURAL_0"] = "minggu";
+$MESS["TASKS_LIST_GROUP_ACTION_WEEKS_PLURAL_1"] = "minggu";
+$MESS["TASKS_LIST_GROUP_ACTION_WEEKS_PLURAL_2"] = "minggu";
+$MESS["TASKS_LIST_MENU_RESET_TO_DEFAULT_PRESET"] = "Paparan lalai";
+$MESS["TASKS_LIST_SUBMIT"] = "Guna";
+$MESS["TASKS_LIST_TOOLTIP_FOR_ALL_ITEMS"] = "Pilih tugas termasuk subtugas pada semua halaman";
+$MESS["TASKS_LIST_TRIAL_EXPIRED_TEXT"] = "Pelan percuma membolehkan anda mempunyai sehingga 5 ketergantungan antara tugas. Menaik taraf ke pengurusan projek dan tugas lanjut dan jika anda ingin mempunyai ketergantungan tanpa had.
+
+Empat jenis ketergantungan disokong pada masa ini:
+Selesai hingga Mula (FS)
+Mula hingga Mula (SS)
+Selesai hingga selesai (FF) 
+Mula hingga Selesai (SF)
+
+<a href=\"https://bitrix24.com/pro/tasks.php\" target=\"_blank\">Ketahui lebih lanjut</a>
+
+Tugas Lanjut + CRM Lanjut + Telefoni Lanjut dan ciri tambahan lain adalah tersedia dalam pelan komersial terpilih.";
+$MESS["TASKS_LIST_TRIAL_EXPIRED_TITLE_V2"] = "Hanya tersedia di Tugas Lanjut Bitrix24";
+$MESS["TASKS_MARK"] = "Skor";
+$MESS["TASKS_MARK_N"] = "Negatif";
+$MESS["TASKS_MARK_NONE"] = "Tiada";
+$MESS["TASKS_MARK_P"] = "Positif";
+$MESS["TASKS_NO_RESPONSIBLE"] = "Orang yang bertanggungjawab tidak dinyatakan.";
+$MESS["TASKS_NO_TASKS"] = "tiada tugas";
+$MESS["TASKS_NO_TEMPLATES"] = "Tiada templat yang tersedia";
+$MESS["TASKS_NO_TITLE"] = "Nama tugas tidak dinyatakan.";
+$MESS["TASKS_OK"] = "OK";
+$MESS["TASKS_PLAIN_LIST"] = "Pandangan tugas rata";
+$MESS["TASKS_PRIORITY_V2"] = "Tugas penting";
+$MESS["TASKS_QUICK_CANCEL"] = "Batal";
+$MESS["TASKS_QUICK_DEADLINE"] = "Tarikh akhir";
+$MESS["TASKS_QUICK_DESCRIPTION"] = "penerangan";
+$MESS["TASKS_QUICK_INFO_DETAILS"] = "Butiran";
+$MESS["TASKS_QUICK_INFO_EMPTY_DATE"] = "tidak";
+$MESS["TASKS_QUICK_IN_GROUP"] = "tugas dalam projek";
+$MESS["TASKS_QUICK_SAVE"] = "Simpan";
+$MESS["TASKS_QUICK_TITLE"] = "Nama Tugas";
+$MESS["TASKS_REPORTS"] = "Laporan";
+$MESS["TASKS_RESPONSIBLE"] = "Bertanggungjawab";
+$MESS["TASKS_STATUS"] = "Status";
+$MESS["TASKS_STATUS_ACCEPTED"] = "Belum selesai";
+$MESS["TASKS_STATUS_COMPLETED"] = "Lengkap";
+$MESS["TASKS_STATUS_DECLINED"] = "Ditolak";
+$MESS["TASKS_STATUS_DELAYED"] = "Tertunda";
+$MESS["TASKS_STATUS_IN_PROGRESS"] = "Sedang dijalankan";
+$MESS["TASKS_STATUS_NEW"] = "Baru";
+$MESS["TASKS_STATUS_OVERDUE"] = "Terlewat";
+$MESS["TASKS_STATUS_WAITING"] = "Menunggu semakan";
+$MESS["TASKS_TASK_FILES"] = "Fail";
+$MESS["TASKS_TASK_TITLE_LABEL"] = "No. Tugas";
+$MESS["TASKS_TEMPLATES"] = "Templat";
+$MESS["TASKS_TEMPLATES_LIST"] = "Lihat semua templat tugas";
+$MESS["TASKS_TITLE"] = "Tugas";
+$MESS["TASKS_TREE_LIST"] = "Tugas dan pandangan subtugas";
+?>

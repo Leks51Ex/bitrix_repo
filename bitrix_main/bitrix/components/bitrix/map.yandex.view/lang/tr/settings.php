@@ -1,0 +1,37 @@
+<?
+$MESS["MYMV_SET_NONAME"] = "--- Başlıksız ---";
+$MESS["MYMS_PARAM_INIT_MAP_NOTHING_FOUND"] = "(Bulunamadı)";
+$MESS["MYMV_SET_POLY_SETTINGS"] = "Ayarlar";
+$MESS["MYMV_SET_START_POS"] = "Başlangıç Harita Konumu";
+$MESS["MYMV_SET_POLY_START_POINT"] = "Başlat";
+$MESS["MYMV_SET_POLY_TITLE"] = "Başlık";
+$MESS["MYMV_SET_POINTS_ADD_FINISH"] = "Sonlandır";
+$MESS["MYMV_SET_POLY_FINISH"] = "Sonlandır";
+$MESS["MYMV_SET_START_POS_LON"] = "Boylam";
+$MESS["MYMV_SET_START_POS_LAT"] = "Enlem";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_PUBLIC_HYBRID"] = "etiketlerle kişilerin haritaları";
+$MESS["MYMV_SET_START_POS_RESTORE"] = "Geri yükle";
+$MESS["MYMV_SET_START_POS_VIEW"] = "Görünüm";
+$MESS["MYMV_SET_POLY_ADD_FINISH"] = "Güzergahları bitir";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_MAP"] = "Harita";
+$MESS["MYMV_SET_POPUP_TITLE"] = "Harita Ayarları";
+$MESS["MYMV_SET_POPUP_WINDOW_TITLE"] = "Harita Ayarlarını Düzenle";
+$MESS["MYMV_SET_POPUP_WINDOW_DESCRIPTION"] = "Harita düzeni ve görünür objeleri yapılandır";
+$MESS["MYMV_SET_POLY"] = "Harita Rotaları";
+$MESS["MYMV_SET_POINTS_ADD_DESCRIPTION"] = "Haritaya Yer İşaret eklemek için çift-tıkla.";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_HYBRID"] = "Hibrit";
+$MESS["MYMV_SET_POLY_ADD_DESCRIPTION"] = "İlk rota yer işareti için çift-tıkla.";
+$MESS["MYMV_SET_POLY_WIDTH"] = "Kalınlık (px)";
+$MESS["MYMV_SET_SUBMIT"] = "Kaydet";
+$MESS["MYMV_SET_START_POS_FIX"] = "Kilit";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_PUBLIC"] = "kişilerin haritaları";
+$MESS["MYMV_SET_ADDRESS_SEARCH"] = "Konum bul";
+$MESS["MYMV_SET_POLY_OPACITY"] = "Opaklık (%)";
+$MESS["MYMV_SET_START_POS_SCALE"] = "Ölçek";
+$MESS["MYMV_SET_POLY_ADD"] = "Rota Ekle";
+$MESS["MYMV_SET_POLY_COLOR"] = "Satır Rengi";
+$MESS["MYMV_SET_POLY_ADD_DESCRIPTION1"] = "Şimdi rotaya daha fazla yerişareti eklemek için haritaya tıkla. Rotayı sonlandırmak için baloncuğa tıkla.";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_SATELLITE"] = "Uydu";
+$MESS["MYMV_SET_POINTS"] = "Yer işaretleri";
+$MESS["MYMV_SET_POINTS_ADD"] = "Yer İşareti Ekle";
+?>

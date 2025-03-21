@@ -1,0 +1,12 @@
+<?php
+$MESS["LANDING_TPL_BUTTON_CANCEL"] = "İptal et";
+$MESS["LANDING_TPL_BUTTON_SAVE"] = "Kaydet";
+$MESS["LANDING_TPL_FIELD_CODE"] = "Klasör adresi";
+$MESS["LANDING_TPL_FIELD_INDEX_ID"] = "Dizin sayfası";
+$MESS["LANDING_TPL_FIELD_METAOG_DESCRIPTION"] = "Açıklama";
+$MESS["LANDING_TPL_FIELD_METAOG_TITLE"] = "Ad";
+$MESS["LANDING_TPL_FIELD_PREVIEW"] = "Sosyal medya önizlemesi";
+$MESS["LANDING_TPL_FOLDER_ADD_PAGE"] = "sayfa oluştur";
+$MESS["LANDING_TPL_FOLDER_IS_EMPTY"] = "(Klasör boş)";
+$MESS["LANDING_TPL_FOLDER_SELECT_PAGE"] = "sayfa seç";
+$MESS["LANDING_TPL_TITLE"] = "Klasör ayarları";

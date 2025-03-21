@@ -1,0 +1,29 @@
+<?
+$MESS["LANDING_TPL_ACCESS_ASK_DESCRIPTION_KNOWLEDGE"] = "向其中一个用户发送请求，以获得对此知识库的只读访问权限。";
+$MESS["LANDING_TPL_ACCESS_ASK_HEADER_KNOWLEDGE"] = "该知识库是私有的";
+$MESS["LANDING_TPL_ACCESS_ASK_SEND_KNOWLEDGE"] = "申请访问";
+$MESS["LANDING_TPL_ACCESS_ASK_TITLE_KNOWLEDGE"] = "访问请求";
+$MESS["LANDING_TPL_COPY_FULL"] = "由 #LOGO# 驱动 &mdash; 免费网站和 CRM。";
+$MESS["LANDING_TPL_COPY_FULL2"] = "由 <linklogo>#LOGO#</linklogo> &mdash; <linksite>免费自助建站</linksite>和 <linkcrm>CRM</linkcrm> 驱动。<linkcreate>创建您的站点</linkcreate>";
+$MESS["LANDING_TPL_COPY_LINK"] = "创建您的网站";
+$MESS["LANDING_TPL_COPY_NAME"] = "Bitrix24";
+$MESS["LANDING_TPL_COPY_NAME_0"] = "Powered by";
+$MESS["LANDING_TPL_COPY_NAME_SMN_0"] = "Powered by";
+$MESS["LANDING_TPL_COPY_NAME_SMN_1"] = "Bitrix24";
+$MESS["LANDING_TPL_COPY_REVIEW"] = "免费网站和CRM。";
+$MESS["LANDING_TPL_EDIT_PAGE"] = "编辑页面";
+$MESS["LANDING_TPL_EDIT_PAGE_GROUP"] = "编辑文章";
+$MESS["LANDING_TPL_EDIT_PAGE_KNOWLEDGE"] = "编辑文章";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_ASK"] = "发送请求";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_GROUP"] = "查看工作组";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_GROUP"] = "成为工作组成员或在#LINK1#工作组档案页面#LINK2#上发送成员资格请求。";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_KNOWLEDGE"] = "向其中一个用户发送请求，以获得对此知识库的访问权限。";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE"] = "不走运，我们仍然找不到它。请再次检查您的地址。";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE_KNOWLEDGE"] = "尝试在#LINK1#列表#LINK2#中找到所需的知识库";
+$MESS["LANDING_TPL_SETTINGS_BUTTON_TITLE"] = "设置";
+$MESS["LANDING_TPL_SITES"] = "我的站点";
+$MESS["LANDING_TPL_SITES_GROUP"] = "知识库";
+$MESS["LANDING_TPL_SITES_KNOWLEDGE"] = "知识库";
+$MESS["LANDING_TPL_SITES_STORE"] = "我的商店";
+$MESS["LANDING_TPL_TITLE"] = "网站";
+?>

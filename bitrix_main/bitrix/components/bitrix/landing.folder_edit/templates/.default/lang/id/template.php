@@ -1,0 +1,12 @@
+<?php
+$MESS["LANDING_TPL_BUTTON_CANCEL"] = "Batal";
+$MESS["LANDING_TPL_BUTTON_SAVE"] = "Simpan";
+$MESS["LANDING_TPL_FIELD_CODE"] = "Alamat folder";
+$MESS["LANDING_TPL_FIELD_INDEX_ID"] = "Halaman indeks";
+$MESS["LANDING_TPL_FIELD_METAOG_DESCRIPTION"] = "Deskripsi";
+$MESS["LANDING_TPL_FIELD_METAOG_TITLE"] = "Nama";
+$MESS["LANDING_TPL_FIELD_PREVIEW"] = "Pratinjau media sosial";
+$MESS["LANDING_TPL_FOLDER_ADD_PAGE"] = "buat halaman";
+$MESS["LANDING_TPL_FOLDER_IS_EMPTY"] = "(Folder kosong)";
+$MESS["LANDING_TPL_FOLDER_SELECT_PAGE"] = "pilih halaman";
+$MESS["LANDING_TPL_TITLE"] = "Pengaturan folder";

@@ -1,0 +1,37 @@
+<?
+$MESS["INFO_REQ"] = "Başarıyla kaydedildin.";
+$MESS["SALE_BASKET_EMPTY"] = "Sepetin boş";
+$MESS["SALE_DELIVERY_NOT_FOUND"] = "Kargo yöntemi bulunamadı.";
+$MESS["SALE_DELIV_PERIOD"] = "Kargo dönemi ";
+$MESS["SALE_EMPTY_FIELD"] = "Bu alan boş: ";
+$MESS["SALE_ERROR_ADD_ORDER"] = "Sipariş kaydedilirken hata oluştu.";
+$MESS["SALE_FROM"] = "Kimden";
+$MESS["SALE_MODULE_NOT_INSTALL"] = "e-Mağaza modülü kurulu değil";
+$MESS["SALE_NO"] = "Hayır";
+$MESS["SALE_NO_PAY_SYS"] = "Ödeme yöntemi seçilmedi.";
+$MESS["SALE_NO_PERS_TYPE"] = "Ödeyen türü seçilmedi.";
+$MESS["SALE_PAY_SYS_NOT_FOUND"] = "Ödeme yöntemi bulunmadı.";
+$MESS["SALE_PERS_TYPE_NOT_FOUND"] = "Ödeyen türü bulunamadı.";
+$MESS["SALE_PER_DAY"] = "gün";
+$MESS["SALE_PER_HOUR"] = "saat";
+$MESS["SALE_PER_MONTH"] = "Aylar";
+$MESS["SALE_PROFILE_NAME"] = "Profil";
+$MESS["SALE_QUANTITY_UNIT"] = "adet.";
+$MESS["SALE_TAX_INPRICE"] = "fiyata dahil";
+$MESS["SALE_TO"] = "Şuna";
+$MESS["SALE_YES"] = "Evet";
+$MESS["STOF_AUTH"] = "Yetki Onayı";
+$MESS["STOF_ERROR_AUTH"] = "Onay hatası";
+$MESS["STOF_ERROR_AUTH_LOGIN"] = "Onay hatası: kullanıcı adını gir";
+$MESS["STOF_ERROR_REG"] = "Kayıt hatası";
+$MESS["STOF_ERROR_REG_BAD_EMAIL"] = "Kayıt hatası: e-postanın doğru yazılıp yazılmadığını kontrol et";
+$MESS["STOF_ERROR_REG_CONFIRM"] = "Başarıyla kayıt oldun. Kayıt onay mesajın e-posta adresine gönderildi.";
+$MESS["STOF_ERROR_REG_EMAIL"] = "Kayıt hatası: lütfen e-posta adresini gir";
+$MESS["STOF_ERROR_REG_FLAG"] = "Kayıt hatası: e-postanın doğru yazılıp yazılmadığını kontrol et";
+$MESS["STOF_ERROR_REG_FLAG1"] = "Kayıt hatası: lütfen arzu edilen şifreyi gir ya da sistemin otomatik olşuturmasına izin ver.";
+$MESS["STOF_ERROR_REG_LASTNAME"] = "Kayıt hatası: lütfen soyismini gir";
+$MESS["STOF_ERROR_REG_NAME"] = "Kayıt hatası: lütfen ismini gir";
+$MESS["STOF_ERROR_REG_PASS"] = "Kayıt ahtası: şifre doğrulaması şifre ile eşleşmiyor";
+$MESS["STOF_MAKING_ORDER"] = "Siparişin";
+$MESS["STOF_VAT"] = "KDV";
+?>

@@ -1,0 +1,7 @@
+<?php
+$MESS["VOX_INVOICES_DATE_RANGE"] = "ช่วงวันที่";
+$MESS["VOX_INVOICES_DOCUMENT_DATE"] = "วันที่ใบแจ้งหนี้";
+$MESS["VOX_INVOICES_DOCUMENT_NUMBER"] = "#";
+$MESS["VOX_INVOICES_DOCUMENT_TYPE"] = "ประเภทเอกสาร";
+$MESS["VOX_INVOICES_DOWNLOAD"] = "ดาวน์โหลด";
+$MESS["VOX_INVOICES_TOTAL_AMOUNT"] = "ยอดรวม";

@@ -1,0 +1,35 @@
+<?
+$MESS["F_AJAX_POST"] = "ダイアログでAJAXを使う";
+$MESS["F_PAGE_NAVIGATION_TEMPLATE"] = "ページャテンプレートの名前";
+$MESS["F_PAGE_NAVIGATION_WINDOW"] = "ページナビゲーション内のページ数";
+$MESS["F_SEO_USER_1"] = "ユーザー名表示オプション";
+$MESS["F_SEO_USER_2"] = "検索ボットから隠されたリンク";
+$MESS["F_SEO_USER_3"] = "リンク";
+$MESS["F_SEO_USER_4"] = "テキストのみ";
+$MESS["F_SEO_USE_AN_EXTERNAL_SERVICE"] = "テーマ名(SEO)を翻訳するために外部サービスを使用する";
+$MESS["F_SHOW_ADDITIONAL_MARKER"] = "新しいメッセージの追加マーク";
+$MESS["F_SHOW_AUTH"] = "承認フォームを表示する";
+$MESS["F_SHOW_AUTHOR_COLUMN"] = "トピックページに「作成者」列を表示";
+$MESS["F_SHOW_FIRST_POST"] = "最初の投稿を常に表示する";
+$MESS["F_SHOW_FORUMS"] = "フォーラムのショートカットを表示する";
+$MESS["F_SHOW_FORUM_USERS"] = "ユーザーリストを表示する";
+$MESS["F_SHOW_LEGEND"] = "伝説を表示";
+$MESS["F_SHOW_NAVIGATION"] = "ブレッドクラムのナビゲーションを表示する";
+$MESS["F_SHOW_STATISTIC"] = "統計を表示する";
+$MESS["F_SHOW_STATISTIC_BLOCK"] = "統計ブロックを表示する";
+$MESS["F_SHOW_SUBSCRIBE_LINK"] = "サブスクリプションリンクを表示";
+$MESS["F_SHOW_TAGS"] = "タグを表示する";
+$MESS["F_SMILES_COUNT"] = "表示するスタティックスマイル数(スマイリーを動的に計算するために0に設定)";
+$MESS["F_STATISTIC_BLOCK_BIRTHDAY"] = "誕生日";
+$MESS["F_STATISTIC_BLOCK_ONLINE"] = "Users オンライン";
+$MESS["F_STATISTIC_BLOCK_STATISTIC"] = "投稿数とトピック数";
+$MESS["F_THEMES"] = "トピック";
+$MESS["F_THEME_BEIGE"] = "ベージュ";
+$MESS["F_THEME_BLUE"] = "青";
+$MESS["F_THEME_FLUXBB"] = "FluxBB";
+$MESS["F_THEME_GRAY"] = "グレー";
+$MESS["F_THEME_GREEN"] = "緑";
+$MESS["F_THEME_ORANGE"] = "オレンジ";
+$MESS["F_THEME_RED"] = "赤";
+$MESS["F_THEME_WHITE"] = "白";
+?>

@@ -1,0 +1,21 @@
+<?
+$MESS["CATALOG_SET_ADDED2BASKET"] = "セットがショッピングカートに追加されました";
+$MESS["CATALOG_SET_BUTTON_ADD"] = "追加";
+$MESS["CATALOG_SET_BUTTON_BUY"] = "カートを見る";
+$MESS["CATALOG_SET_BUY"] = "購入";
+$MESS["CATALOG_SET_BUY_SET"] = "購入セット";
+$MESS["CATALOG_SET_CONSTRUCT"] = "セットを作成する";
+$MESS["CATALOG_SET_DISCOUNT"] = "割引";
+$MESS["CATALOG_SET_DISCOUNT_DIFF"] = "(#PRICE#を保存します)";
+$MESS["CATALOG_SET_ECONOMY_PRICE"] = "保存します";
+$MESS["CATALOG_SET_MESS_NOT_AVAILABLE"] = "在庫切れ";
+$MESS["CATALOG_SET_POPUP_DESC"] = "プロダクトを空のボックスにドラッグするか、単にクリックします";
+$MESS["CATALOG_SET_POPUP_LOADER"] = "読み込んでいます...";
+$MESS["CATALOG_SET_POPUP_TITLE"] = "設定項目を追加";
+$MESS["CATALOG_SET_POPUP_TITLE_BAR"] = "あなたのセットを作成する";
+$MESS["CATALOG_SET_PRODUCTS_PRICE"] = "個々の製品価格";
+$MESS["CATALOG_SET_SET_PRICE"] = "バンドル価格";
+$MESS["CATALOG_SET_SUM"] = "合計";
+$MESS["CATALOG_SET_WITHOUT_DISCOUNT"] = "割引なし";
+$MESS["CT_BCE_CATALOG_MESS_EMPTY_SET"] = "バンドルには製品がありません  リスト内の製品を選択します";
+?>

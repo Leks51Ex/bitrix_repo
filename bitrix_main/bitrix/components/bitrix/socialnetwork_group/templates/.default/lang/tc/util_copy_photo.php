@@ -1,0 +1,3 @@
+<?php
+$MESS["PHOTO_STEPPER_PROGRESS_ERROR"] = "具有這些 ID 的照片無法複製： ";
+$MESS["PHOTO_STEPPER_PROGRESS_TITLE"] = "複製照片";

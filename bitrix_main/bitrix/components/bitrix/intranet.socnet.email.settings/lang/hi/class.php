@@ -1,0 +1,5 @@
+<?
+$MESS["INTRANET_USER_PROFILE_SECURITY_OTP_TITLE"] = "अतिरिक्त सुरक्षा विकल्प";
+$MESS["INTRANET_USER_PROFILE_SECURITY_PASSWORDS_TITLE"] = "ऐप्लिकेशन के पासवर्ड";
+$MESS["INTRANET_USER_PROFILE_SYNCHRONIZE_TITLE"] = "सिंक्रनाइज़ करें";
+?>

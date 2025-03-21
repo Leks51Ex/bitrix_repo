@@ -1,0 +1,4 @@
+<?
+$MESS["SALE_LOCATION_MAP_CANCEL"] = "取消";
+$MESS["SALE_LOCATION_MAP_CLOSE"] = "关闭";
+?>

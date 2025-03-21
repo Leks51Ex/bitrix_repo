@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_LEAD_CONVERT_CFG_NOT_SELECTED"] = "[चयनित नहीं]";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM मॉड्यूल इन्स्टॉल नहीं है।";
+$MESS["CRM_PERMISSION_DENIED"] = "पहुँच नामंजूर";
+?>

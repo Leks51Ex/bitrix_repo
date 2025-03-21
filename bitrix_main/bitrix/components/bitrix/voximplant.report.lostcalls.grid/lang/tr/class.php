@@ -1,0 +1,5 @@
+<?php
+$MESS["TELEPHONY_REPORT_LOST_CALLS"] = "Cevapsız aramalar";
+$MESS["TELEPHONY_REPORT_LOST_CALLS_COUNT"] = "Cevapsız aramalar";
+$MESS["TELEPHONY_REPORT_LOST_CALLS_DATE"] = "Tarih";
+$MESS["TELEPHONY_REPORT_LOST_CALLS_DYNAMICS"] = "Önceki döneme göre değişim";

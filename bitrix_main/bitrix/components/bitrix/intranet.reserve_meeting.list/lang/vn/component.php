@@ -1,0 +1,21 @@
+<?php
+$MESS["EC_IBLOCK_ID_EMPTY"] = "Không có khối thông tin được chọn.";
+$MESS["EC_IBLOCK_MODULE_NOT_INSTALLED"] = "Mô-đun Information Blocks chưa được cài đặt.";
+$MESS["EC_INTRANET_MODULE_NOT_INSTALLED"] = "Mô-đun Intranet không được cài đặt.";
+$MESS["INAF_F_DESCRIPTION"] = "Mô tả";
+$MESS["INAF_F_FLOOR"] = "Tầng";
+$MESS["INAF_F_ID"] = "ID";
+$MESS["INAF_F_NAME"] = "Tiêu đề";
+$MESS["INAF_F_PHONE"] = "Điện thoại";
+$MESS["INAF_F_PLACE"] = "Chỗ ngồi";
+$MESS["INTASK_C23_DELETE"] = "Xoá";
+$MESS["INTASK_C23_DELETE_CONF"] = "Bạn có chắc chắn muốn xóa phòng họp này?";
+$MESS["INTASK_C23_DELETE_DESCR"] = "Xóa Phòng Họp";
+$MESS["INTASK_C23_EDIT"] = "Sửa";
+$MESS["INTASK_C23_EDIT_DESCR"] = "Chỉnh sửa Phòng Họp";
+$MESS["INTASK_C23_GRAPH"] = "Lịch";
+$MESS["INTASK_C23_GRAPH_DESCR"] = "Lịch Phòng Họp";
+$MESS["INTASK_C23_RESERV"] = "Đặt";
+$MESS["INTASK_C23_RESERV_DESCR"] = "Đặt chỗ Một Phòng Họp";
+$MESS["INTASK_C36_PAGE_TITLE"] = "Phòng Họp";
+$MESS["INTS_NO_IBLOCK_PERMS"] = "Bạn không có quyền để xem các khối thông tin phòng họp.";

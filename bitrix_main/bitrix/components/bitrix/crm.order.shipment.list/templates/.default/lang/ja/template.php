@@ -1,0 +1,18 @@
+<?
+$MESS["CRM_ALL"] = "合計";
+$MESS["CRM_ORDER_DEDUCTED"] = "出荷済み";
+$MESS["CRM_ORDER_NOT_DEDUCTED"] = "未出荷";
+$MESS["CRM_ORDER_SHIPMENT_DELETE"] = "削除";
+$MESS["CRM_ORDER_SHIPMENT_DELETE_CONFIRM"] = "このアイテムを削除してもよろしいですか？";
+$MESS["CRM_ORDER_SHIPMENT_DELETE_TITLE"] = "出荷を削除";
+$MESS["CRM_ORDER_SHIPMENT_EDIT"] = "編集";
+$MESS["CRM_ORDER_SHIPMENT_EDIT_TITLE"] = "出荷を編集";
+$MESS["CRM_ORDER_SHIPMENT_LIST_ADD"] = "出荷を追加";
+$MESS["CRM_ORDER_SHIPMENT_LIST_ADD_SHORT"] = "出荷";
+$MESS["CRM_ORDER_SHIPMENT_LIST_FILTER_NAV_BUTTON_LIST"] = "リスト";
+$MESS["CRM_ORDER_SHIPMENT_REBUILD_ACCESS_ATTRS"] = "更新されたアクセス許可では、<a id=\"#ID#\" target=\"_blank\" href=\"#URL#\">権限管理ページ</a>を使用して現在のアクセス属性を更新する必要があります。";
+$MESS["CRM_ORDER_SHIPMENT_SHOW"] = "表示";
+$MESS["CRM_ORDER_SHIPMENT_SHOW_TITLE"] = "出荷を表示";
+$MESS["CRM_ORDER_SHIPMENT_SUMMARY"] = "出荷 ##NUMBER# - #DATE#";
+$MESS["CRM_SHOW_ROW_COUNT"] = "数量を表示";
+?>

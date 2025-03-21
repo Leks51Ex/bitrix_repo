@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_ANALYTICS_SOURCE_EDIT_TITLE"] = "配置来源";
+$MESS["CRM_ANALYTICS_SOURCE_EDIT_TITLE_ADS"] = "%name%广告来源";
+?>

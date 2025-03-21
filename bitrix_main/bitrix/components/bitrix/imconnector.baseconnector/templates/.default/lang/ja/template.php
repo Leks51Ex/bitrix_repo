@@ -1,0 +1,3 @@
+<?php
+$MESS["IMCONNECTOR_COMPONENT_BASECONNECTOR_CONNECT"] = "接続";
+$MESS["IMCONNECTOR_COMPONENT_BASECONNECTOR_INDEX_SUBTITLE"] = "顧客からのコメントを直接 Bitrix24 チャットに届けるには、コネクタをオープンチャンネルに接続してください。";

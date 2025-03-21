@@ -1,0 +1,22 @@
+<?php
+$MESS["DISK_UF_FILE_EDIT_SERVICE_LABEL"] = "#NAME# kullanarak yeni belge oluşturun";
+$MESS["WDUF_ALLOW_COLLAGE"] = "Fotoğraf kolajına izin verin";
+$MESS["WDUF_ALLOW_EDIT"] = "Belge düzenlemeye izin verin";
+$MESS["WDUF_CREATE_DOCUMENT"] = "Yeni belge";
+$MESS["WDUF_CREATE_DOCX"] = "Belge";
+$MESS["WDUF_CREATE_PPTX"] = "Sunum";
+$MESS["WDUF_CREATE_XLSX"] = "E-tablo";
+$MESS["WDUF_DND_AREA_TITLE"] = "Dosyalarınızı buraya bırakın";
+$MESS["WDUF_FILE_IS_EXISTS"] = "Dosya zaten mevcut.";
+$MESS["WDUF_ITEM_ERROR"] = "Hata";
+$MESS["WDUF_ITEM_MENU_DELETE"] = "Sil";
+$MESS["WDUF_ITEM_MENU_EDIT"] = "Düzenleme";
+$MESS["WDUF_ITEM_MENU_FILE"] = "Dosya";
+$MESS["WDUF_ITEM_MENU_INSERT_INTO_THE_TEXT"] = "Metne ekleyin";
+$MESS["WDUF_ITEM_MENU_RENAME"] = "Yeniden adlandır";
+$MESS["WDUF_ITEM_MENU_RENAME_CANCEL"] = "İptal";
+$MESS["WDUF_ITEM_MENU_RENAME_SAVE"] = "Kaydet";
+$MESS["WDUF_ITEM_MENU_RENAME_TITLE"] = "Yeniden adlandır";
+$MESS["WDUF_MY_DISK"] = "Sürücüm";
+$MESS["WDUF_UPLOAD"] = "Karşıya yükle";
+$MESS["WDUF_UPLOAD_DOCUMENT"] = "Belgeleri yükle";

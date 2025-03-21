@@ -1,0 +1,29 @@
+<?
+$MESS["LANDING_TPL_ACCESS_ASK_DESCRIPTION_KNOWLEDGE"] = "Kirim permintaan kepada salah satu pengguna untuk akses baca ke pangkalan pengetahuan ini.";
+$MESS["LANDING_TPL_ACCESS_ASK_HEADER_KNOWLEDGE"] = "Pangkalan pengetahuan ini adalah persendirian";
+$MESS["LANDING_TPL_ACCESS_ASK_SEND_KNOWLEDGE"] = "Minta akses";
+$MESS["LANDING_TPL_ACCESS_ASK_TITLE_KNOWLEDGE"] = "Permintaan akses";
+$MESS["LANDING_TPL_COPY_FULL"] = "Dikuasakan oleh #LOGO# &mdash; Laman web percuma dan -CRM.";
+$MESS["LANDING_TPL_COPY_FULL2"] = "Dikuasakan oleh <linklogo>#LOGO#</linklogo> &mdash; <linksite>Laman web percuma</linksite> dan <linkcrm>CRM</linkcrm>. <linkcreate>Cipta laman anda</linkcreate>";
+$MESS["LANDING_TPL_COPY_LINK"] = "Cipta Tapak Anda";
+$MESS["LANDING_TPL_COPY_NAME"] = "Bitrix24";
+$MESS["LANDING_TPL_COPY_NAME_0"] = "Dikuasakan oleh";
+$MESS["LANDING_TPL_COPY_NAME_SMN_0"] = "Dikuasakan oleh";
+$MESS["LANDING_TPL_COPY_NAME_SMN_1"] = "Bitrix24";
+$MESS["LANDING_TPL_COPY_REVIEW"] = "Laman web percuma dan CRM.";
+$MESS["LANDING_TPL_EDIT_PAGE"] = "Sunting halaman";
+$MESS["LANDING_TPL_EDIT_PAGE_GROUP"] = "Sunting artikel";
+$MESS["LANDING_TPL_EDIT_PAGE_KNOWLEDGE"] = "Sunting artikel";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_ASK"] = "Hantar permintaan";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_GROUP"] = "Lihat kumpulan kerja";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_GROUP"] = "Jadilah ahli kumpulan kerja atau hantar permintaan keahlian di #LINK1#halaman profil kumpulan kerja#LINK2#.";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_KNOWLEDGE"] = "Kirim permintaan kepada salah satu pengguna untuk akses ke pangkalan pengetahuan ini.";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE"] = "Tidak ada nasib, kita masih tidak dapat menjumpainya. Sila semak alamat anda sekali lagi.";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE_KNOWLEDGE"] = "Cuba dan cari pangkalan pengetahuan yang anda memerlukan dalam #LINK1#senarai#LINK2#";
+$MESS["LANDING_TPL_SETTINGS_BUTTON_TITLE"] = "Tetapan";
+$MESS["LANDING_TPL_SITES"] = "Laman web saya";
+$MESS["LANDING_TPL_SITES_GROUP"] = "Pangkalan pengetahuan";
+$MESS["LANDING_TPL_SITES_KNOWLEDGE"] = "Pangkalan pengetahuan";
+$MESS["LANDING_TPL_SITES_STORE"] = "Kedai web";
+$MESS["LANDING_TPL_TITLE"] = "Laman web";
+?>

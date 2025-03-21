@@ -1,0 +1,4 @@
+<?
+$MESS["MAIN_COLORPICKER_COMPONENT_DESCR"] = "色選択コンポーネント";
+$MESS["MAIN_COLORPICKER_COMPONENT_NAME"] = "カラーピッカーコントロール";
+?>

@@ -1,0 +1,130 @@
+<?
+$MESS["TASKS_ACCOMPLICE"] = "ผู้เข้าร่วม";
+$MESS["TASKS_ADD_QUICK_TASK"] = "สร้างงานแบบด่วน";
+$MESS["TASKS_ADD_TASK"] = "งานใหม่";
+$MESS["TASKS_ADD_TEMPLATE_TASK"] = "สร้างจากเทมเพลตงาน";
+$MESS["TASKS_APPLY"] = "นำไปใช้";
+$MESS["TASKS_APPROVE_TASK"] = "ยอมรับว่าเสร็จสมบูรณ์แล้ว";
+$MESS["TASKS_AUDITOR"] = "ผู้สังเกตการณ์";
+$MESS["TASKS_CANCEL"] = "ยกเลิก";
+$MESS["TASKS_CONFIGURE_LIST"] = "กำหนดค่ารายการ";
+$MESS["TASKS_CREATOR"] = "ผู้สร้าง";
+$MESS["TASKS_DATE_COMPLETED"] = "เสร็จสมบูรณ์เมื่อ";
+$MESS["TASKS_DATE_END"] = "วันสิ้นสุด";
+$MESS["TASKS_DATE_START"] = "วันเริ่มต้น";
+$MESS["TASKS_DATE_STARTED"] = "เริ่มเมื่อ";
+$MESS["TASKS_DEADLINE"] = "เส้นตาย";
+$MESS["TASKS_DECLINE_REASON"] = "เหตุผลในการปฏิเสธ";
+$MESS["TASKS_DECLINE_TASK"] = "ปฏิเสธ";
+$MESS["TASKS_DEFAULT_SORT"] = "ลำดับการจัดเรียงเริ่มต้น";
+$MESS["TASKS_DOUBLE_CLICK"] = "ดับเบิลคลิกเพื่อดู";
+$MESS["TASKS_DURATION"] = "เวลาที่ใช้ไป";
+$MESS["TASKS_EXPORT_EXCEL"] = "ส่งออกไปยัง Excel";
+$MESS["TASKS_EXPORT_OUTLOOK"] = "ส่งออกไปยัง Outlook";
+$MESS["TASKS_FILTER_BY_TAG"] = "ตามแท็ก";
+$MESS["TASKS_FILTER_CREAT_DATE"] = "สร้างขึ้นเมื่อ";
+$MESS["TASKS_FILTER_FIND"] = "ค้นหา";
+$MESS["TASKS_FILTER_IN_CONTROL"] = "รอการตรวจสอบ";
+$MESS["TASKS_FILTER_NOT_ACCEPTED"] = "ไม่ได้รับการยอมรับ";
+$MESS["TASKS_FILTER_PICK_DATE"] = "เลือกวันที่ในปฏิทิน";
+$MESS["TASKS_FILTER_SELECT"] = "เลือก";
+$MESS["TASKS_FILTER_SHOW_SUBORDINATE"] = "แสดงงานของผู้ใต้บังคับบัญชา";
+$MESS["TASKS_FINISHED"] = "เสร็จสมบูรณ์";
+$MESS["TASKS_GANTT"] = "แผนภูมิแกนต์";
+$MESS["TASKS_HELP"] = "ความช่วยเหลือ";
+$MESS["TASKS_LIST_COLUMN_1"] = "ไอดี";
+$MESS["TASKS_LIST_COLUMN_10"] = "กลุ่ม";
+$MESS["TASKS_LIST_COLUMN_11"] = "เวลาที่ต้องใช้โดยประมาณ";
+$MESS["TASKS_LIST_COLUMN_12"] = "เวลาที่ใช้ในการติดตาม";
+$MESS["TASKS_LIST_COLUMN_13"] = "เวลาที่ใช้";
+$MESS["TASKS_LIST_COLUMN_14"] = "ผู้รับผิดชอบสามารถเปลี่ยนแปลงเส้นตายได้";
+$MESS["TASKS_LIST_COLUMN_15"] = "สร้างขึ้นเมื่อ";
+$MESS["TASKS_LIST_COLUMN_16"] = "ถูกแก้ไขเมื่อ";
+$MESS["TASKS_LIST_COLUMN_17"] = "วันสิ้นสุด";
+$MESS["TASKS_LIST_COLUMN_2"] = "ชื่อ";
+$MESS["TASKS_LIST_COLUMN_3"] = "สร้างขึ้นโดย";
+$MESS["TASKS_LIST_COLUMN_4"] = "ผู้รับผิดชอบ";
+$MESS["TASKS_LIST_COLUMN_5"] = "เส้นตาย";
+$MESS["TASKS_LIST_COLUMN_6"] = "คะแนน";
+$MESS["TASKS_LIST_COLUMN_7"] = "CRM";
+$MESS["TASKS_LIST_COLUMN_8"] = "ลำดับความสำคัญ";
+$MESS["TASKS_LIST_COLUMN_9"] = "สถานะ";
+$MESS["TASKS_LIST_COLUMN_SORTING"] = "กำหนดเอง";
+$MESS["TASKS_LIST_CONFIRM_ACTION_FOR_ALL_ITEMS"] = "คุณต้องการนำการกระทำไปใช้กับงานและงานลูกทั้งหมดในรายการ รวมถึงหน้าต่อ ๆ ไปด้วยหรือไม่?";
+$MESS["TASKS_LIST_CONFIRM_REMOVE_FOR_ALL_ITEMS"] = "คุณต้องการลบงานพร้อมงานลูกทั้งหมด รวมถึงงานที่อยู่ในหน้าถัด ๆ ไปใช่หรือไม่?";
+$MESS["TASKS_LIST_CONFIRM_REMOVE_FOR_SELECTED_ITEMS"] = "คุณต้องการลบงานที่เลือกหรือไม่?";
+$MESS["TASKS_LIST_GROUP_ACTION_ADD_ACCOMPLICE"] = "เพิ่มผู้เข้าร่วม";
+$MESS["TASKS_LIST_GROUP_ACTION_ADD_AUDITOR"] = "เพิ่มผู้สังเกตการณ์";
+$MESS["TASKS_LIST_GROUP_ACTION_ADD_FAVORITE"] = "เพิ่มในรายการโปรด";
+$MESS["TASKS_LIST_GROUP_ACTION_ADJUST_DEADLINE"] = "เลื่อนกำหนดเส้นตายไปข้างหน้า";
+$MESS["TASKS_LIST_GROUP_ACTION_CHANGE_ORIGINATOR"] = "ผู้สร้างการเปลี่ยนแปลง";
+$MESS["TASKS_LIST_GROUP_ACTION_CHANGE_RESPONSIBLE"] = "ตั้งผู้รับผิดชอบ";
+$MESS["TASKS_LIST_GROUP_ACTION_COMPLETE"] = "เสร็จสมบูรณ์";
+$MESS["TASKS_LIST_GROUP_ACTION_DAYS_PLURAL_0"] = "วัน";
+$MESS["TASKS_LIST_GROUP_ACTION_DAYS_PLURAL_1"] = "วัน";
+$MESS["TASKS_LIST_GROUP_ACTION_DAYS_PLURAL_2"] = "วัน";
+$MESS["TASKS_LIST_GROUP_ACTION_DELETE_FAVORITE"] = "เอาออกจากรายการโปรด";
+$MESS["TASKS_LIST_GROUP_ACTION_FOR_ALL"] = "สำหรับทั้งหมด";
+$MESS["TASKS_LIST_GROUP_ACTION_MONTHES_PLURAL_0"] = "เดือน";
+$MESS["TASKS_LIST_GROUP_ACTION_MONTHES_PLURAL_1"] = "เดือน";
+$MESS["TASKS_LIST_GROUP_ACTION_MONTHES_PLURAL_2"] = "เดือน";
+$MESS["TASKS_LIST_GROUP_ACTION_PLEASE_WAIT"] = "กรุณารอสักครู่...";
+$MESS["TASKS_LIST_GROUP_ACTION_REMOVE"] = "ลบ";
+$MESS["TASKS_LIST_GROUP_ACTION_SET_DEADLINE"] = "ใส่เส้นตาย";
+$MESS["TASKS_LIST_GROUP_ACTION_SET_GROUP"] = "เลือกกลุ่มโครงการ";
+$MESS["TASKS_LIST_GROUP_ACTION_SUBSTRACT_DEADLINE"] = "เลื่อนกำหนดเส้นตายย้อนหลัง";
+$MESS["TASKS_LIST_GROUP_ACTION_WEEKS_PLURAL_0"] = "สัปดาห์";
+$MESS["TASKS_LIST_GROUP_ACTION_WEEKS_PLURAL_1"] = "สัปดาห์";
+$MESS["TASKS_LIST_GROUP_ACTION_WEEKS_PLURAL_2"] = "สัปดาห์";
+$MESS["TASKS_LIST_MENU_RESET_TO_DEFAULT_PRESET"] = "มุมมองเริ่มต้น";
+$MESS["TASKS_LIST_SUBMIT"] = "นำไปใช้";
+$MESS["TASKS_LIST_TOOLTIP_FOR_ALL_ITEMS"] = "เลือกงานรวมถึงงานลูกในทุกหน้า";
+$MESS["TASKS_LIST_TRIAL_EXPIRED_TEXT"] = "แผนฟรีจะให้คุณมีงานที่พึ่งพากันได้สูงสุดถึง 5 งาน อัปเกรดไปเป็นการจัดการงานและโครงการขั้นสูง หากคุณต้องการมีการพึ่งพากันที่ไม่จำกัด
+
+ขณะนี้มีการรองรับการพึ่งพากัน 4 ประเภท:
+เสร็จสิ้นไปเริ่มต้น (FS)
+เริ่มต้นไปเริ่มต้น (SS)
+เสร็จสิ้นไปเสร็จสิ้น (FF) 
+เริ่มต้นไปเสร็จสิ้น (SF)
+
+<a href=\"https://bitrix24.com/pro/tasks.php\" target=\"_blank\">เรียนรู้เพิ่มเติม</a>
+
+งานขั้นสูง + CRM ขั้นสูง + ระบบโทรศัพท์ขั้นสูง และคุณลักษณะเพิ่มเติมอื่น ๆ มีให้ใช้ได้ใน แผนเชิงพาณิชย์ที่เลือก";
+$MESS["TASKS_LIST_TRIAL_EXPIRED_TITLE_V2"] = "ใช้ได้เฉพาะใน งานขั้นสูง ของ Bitrix24 เท่านั้น";
+$MESS["TASKS_MARK"] = "คะแนน";
+$MESS["TASKS_MARK_N"] = "เชิงลบ";
+$MESS["TASKS_MARK_NONE"] = "ไม่มีเลย";
+$MESS["TASKS_MARK_P"] = "เชิงบวก";
+$MESS["TASKS_NO_RESPONSIBLE"] = "ไม่ได้ระบุผู้รับผิดชอบ";
+$MESS["TASKS_NO_TASKS"] = "ไม่มีงาน";
+$MESS["TASKS_NO_TEMPLATES"] = "ไม่มีเทมเพลตให้ใช้ได้";
+$MESS["TASKS_NO_TITLE"] = "ไม่ได้ระบุชื่องาน";
+$MESS["TASKS_OK"] = "ตกลง";
+$MESS["TASKS_PLAIN_LIST"] = "มุมมองงานแบบแบนราบ";
+$MESS["TASKS_PRIORITY_V2"] = "งานสำคัญ";
+$MESS["TASKS_QUICK_CANCEL"] = "ยกเลิก";
+$MESS["TASKS_QUICK_DEADLINE"] = "เส้นตาย";
+$MESS["TASKS_QUICK_DESCRIPTION"] = "รายละเอียด";
+$MESS["TASKS_QUICK_INFO_DETAILS"] = "รายละเอียด";
+$MESS["TASKS_QUICK_INFO_EMPTY_DATE"] = "ไม่";
+$MESS["TASKS_QUICK_IN_GROUP"] = "งานในโครงการ";
+$MESS["TASKS_QUICK_SAVE"] = "บันทึก";
+$MESS["TASKS_QUICK_TITLE"] = "ชื่องาน";
+$MESS["TASKS_REPORTS"] = "รายงาน";
+$MESS["TASKS_RESPONSIBLE"] = "รับผิดชอบ";
+$MESS["TASKS_STATUS"] = "สถานะ";
+$MESS["TASKS_STATUS_ACCEPTED"] = "รอดำเนินการ";
+$MESS["TASKS_STATUS_COMPLETED"] = "เสร็จสมบูรณ์";
+$MESS["TASKS_STATUS_DECLINED"] = "ปฏิเสธ";
+$MESS["TASKS_STATUS_DELAYED"] = "เลื่อนออกไป";
+$MESS["TASKS_STATUS_IN_PROGRESS"] = "กำลังดำเนินการ";
+$MESS["TASKS_STATUS_NEW"] = "ใหม่";
+$MESS["TASKS_STATUS_OVERDUE"] = "เกินกำหนด";
+$MESS["TASKS_STATUS_WAITING"] = "รอการตรวจสอบ";
+$MESS["TASKS_TASK_FILES"] = "ไฟล์";
+$MESS["TASKS_TASK_TITLE_LABEL"] = "หมายเลขงาน";
+$MESS["TASKS_TEMPLATES"] = "เทมเพลต";
+$MESS["TASKS_TEMPLATES_LIST"] = "ดูเทมเพลตงานทั้งหมด";
+$MESS["TASKS_TITLE"] = "งาน";
+$MESS["TASKS_TREE_LIST"] = "มุมมองงานและงานลูก";
+?>

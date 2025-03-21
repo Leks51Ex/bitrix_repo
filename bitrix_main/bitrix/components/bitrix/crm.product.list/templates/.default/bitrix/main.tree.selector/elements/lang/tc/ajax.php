@@ -1,0 +1,9 @@
+<?
+$MESS["CRM_IBLOCK_MODULE_NOT_INSTALLED"] = "未安裝資訊區塊模組。";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安裝 CRM 模組。";
+$MESS["CRM_PERMISSION_DENIED"] = "已拒絕存取";
+$MESS["CT_BMTS_CANCEL"] = "取消";
+$MESS["CT_BMTS_SUBMIT"] = "選取";
+$MESS["CT_BMTS_WAIT"] = "正在載入……";
+$MESS["CT_BMTS_WINDOW_CLOSE"] = "關閉";
+?>

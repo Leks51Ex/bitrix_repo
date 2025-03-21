@@ -1,0 +1,4 @@
+<?
+$MESS["M_CRM_DEAL_EDIT_CANCEL_BTN"] = "Batal";
+$MESS["M_CRM_DEAL_EDIT_SAVE_BTN"] = "Simpan";
+?>

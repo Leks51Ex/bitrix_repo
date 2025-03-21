@@ -1,0 +1,31 @@
+<?
+$MESS["BPWI_DELETE_CONFIRM"] = "คุณแน่ใจหรือไม่ ว่าต้องการลบโพรเซส และข้อมูลที่เกี่ยวข้องทั้งหมด?";
+$MESS["BPWI_DELETE_LABEL"] = "ลบ";
+$MESS["BPWI_DOCUMENT_NAME"] = "องค์ประกอบ";
+$MESS["BPWI_FILTER_DOCTYPE_ALL"] = "ทั้งหมด";
+$MESS["BPWI_FILTER_DOCTYPE_CLAIMS"] = "เวิร์กโฟลว์";
+$MESS["BPWI_FILTER_DOCTYPE_CRM"] = "CRM";
+$MESS["BPWI_FILTER_DOCTYPE_DISK"] = "ไฟล์";
+$MESS["BPWI_FILTER_DOCTYPE_LISTS"] = "รายการ";
+$MESS["BPWI_FILTER_PRESET_LOCKED"] = "ถูกแขวนไว้";
+$MESS["BPWI_FILTER_STATUS"] = "สถานะ";
+$MESS["BPWI_IS_LOCKED"] = "ถูกแขวนไว้";
+$MESS["BPWI_MODIFIED"] = "ถูกแก้ไขเมื่อ";
+$MESS["BPWI_MODULE_CRM"] = "CRM";
+$MESS["BPWI_MODULE_DISK"] = "ไดรฟ์";
+$MESS["BPWI_MODULE_IBLOCK"] = "รายการ";
+$MESS["BPWI_MODULE_LISTS"] = "สตรีมกิจกรรม";
+$MESS["BPWI_NO"] = "ไม่";
+$MESS["BPWI_NO_ACCESS"] = "มีเพียงผู้ดูแลระบบพอร์ทัลเท่านั้น จึงจะสามารถเข้าถึงหน้านี้ได้";
+$MESS["BPWI_NO_DOCUMENT"] = "ไม่พบองค์ประกอบ";
+$MESS["BPWI_NO_MATTER"] = "(ไม่สำคัญ)";
+$MESS["BPWI_OPEN_DOCUMENT"] = "องค์ประกอบ (ในหน้าต่างใหม่)";
+$MESS["BPWI_OWNED_UNTIL"] = "ล็อกจนถึง";
+$MESS["BPWI_PAGE_TITLE"] = "เวิร์กโฟลว์ที่ทำงานอยู่";
+$MESS["BPWI_WORKFLOW_ID_ANY"] = "(อะไรก็ได้)";
+$MESS["BPWI_WS_MODULE_ID"] = "โมดูล";
+$MESS["BPWI_WS_STARTED"] = "เริ่มเมื่อ";
+$MESS["BPWI_WS_STARTED_BY"] = "เริ่มโดย";
+$MESS["BPWI_WS_WORKFLOW_TEMPLATE_ID"] = "เวิร์กโฟลว์";
+$MESS["BPWI_YES"] = "ใช่";
+?>

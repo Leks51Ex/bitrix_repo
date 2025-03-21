@@ -1,0 +1,26 @@
+<?
+$MESS["CRM_ORDER_PLC_BASE_PRICE"] = "Harga asas";
+$MESS["CRM_ORDER_PLC_CURRENCY"] = "Mata wang";
+$MESS["CRM_ORDER_PLC_CUSTOM_PRICE"] = "Harga tersuai";
+$MESS["CRM_ORDER_PLC_DEDUCTED"] = "Dihantar";
+$MESS["CRM_ORDER_PLC_DEFAULT_WEIGHT_UNIT"] = "kg";
+$MESS["CRM_ORDER_PLC_DIMENSIONS"] = "Dimensi";
+$MESS["CRM_ORDER_PLC_DISCOUNT_PRICE"] = "Diskaun";
+$MESS["CRM_ORDER_PLC_FAILED_TO_CREATE_OBJECT"] = "Tidak boleh membuat contoh pesanan";
+$MESS["CRM_ORDER_PLC_NAME"] = "Nama";
+$MESS["CRM_ORDER_PLC_NOTES"] = "Jenis harga";
+$MESS["CRM_ORDER_PLC_PRICE"] = "Harga";
+$MESS["CRM_ORDER_PLC_PRODUCT"] = "Produk";
+$MESS["CRM_ORDER_PLC_PRODUCT_ID"] = "ID Produk";
+$MESS["CRM_ORDER_PLC_PRODUCT_PRICE_ID"] = "ID Harga";
+$MESS["CRM_ORDER_PLC_PROPERTIES"] = "Hartanah";
+$MESS["CRM_ORDER_PLC_QUANTITY"] = "Kuantiti";
+$MESS["CRM_ORDER_PLC_SORTING"] = "Isih";
+$MESS["CRM_ORDER_PLC_THE_SUMM"] = "Jumlah";
+$MESS["CRM_ORDER_PLC_TYPE_PRICE_TYPE_ID"] = "ID jenis harga";
+$MESS["CRM_ORDER_PLC_UNKNOWN_DISCOUNT"] = "Diskaun tidak diketahui";
+$MESS["CRM_ORDER_PLC_VAT"] = "Cukai";
+$MESS["CRM_ORDER_PLC_VAT_INCLUDED"] = "Cukai termasuk";
+$MESS["CRM_ORDER_PLC_VAT_RATE"] = "Kadar cukai";
+$MESS["CRM_ORDER_PLC_WEIGHT"] = "Berat";
+?>

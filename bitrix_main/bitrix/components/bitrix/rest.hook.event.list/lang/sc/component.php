@@ -1,0 +1,10 @@
+<?
+$MESS["REST_EVENT_LIST_TITLE"] = "出站 Web hooks";
+$MESS["REST_HOOK_COMMENT"] = "备注";
+$MESS["REST_HOOK_DATE_CREATE"] = "创建时间";
+$MESS["REST_HOOK_DELETE"] = "删除";
+$MESS["REST_HOOK_EDIT"] = "编辑";
+$MESS["REST_HOOK_EVENT_HANDLER"] = "处理程序";
+$MESS["REST_HOOK_EVENT_NAME"] = "事件";
+$MESS["REST_HOOK_TITLE"] = "名称";
+?>

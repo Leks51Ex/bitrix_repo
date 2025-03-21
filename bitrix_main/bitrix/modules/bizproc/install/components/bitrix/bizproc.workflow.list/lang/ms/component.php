@@ -1,0 +1,26 @@
+<?php
+$MESS["BPATT_AE_CREATE"] = "Cipta";
+$MESS["BPATT_AE_DELETE"] = "Hapus";
+$MESS["BPATT_AE_EDIT"] = "Kemas kini";
+$MESS["BPATT_AE_NONE"] = "Tidak";
+$MESS["BPATT_DO_DELETE1"] = "Hapus";
+$MESS["BPATT_DO_DELETE1_CONFIRM"] = "Adakah anda pasti anda mahu menghapuskan templat ini?";
+$MESS["BPATT_DO_EDIT1"] = "Sunting";
+$MESS["BPATT_DO_EDIT_CONSTANTS"] = "Tetapkan nilai malar";
+$MESS["BPATT_DO_EDIT_CONSTANTS1"] = "Pemalar";
+$MESS["BPATT_DO_EDIT_VARS"] = "Ubah nilai pembolehubah awal";
+$MESS["BPATT_DO_EDIT_VARS1"] = "Pembolehubah";
+$MESS["BPATT_DO_LOAD_CREATE"] = "Laksanakan semasa penciptaan";
+$MESS["BPATT_DO_LOAD_CREATE_TITLE"] = "Jangan laksanakan proses perniagaan semasa mencipta unsur";
+$MESS["BPATT_DO_LOAD_EDIT"] = "Laksanakan semasa pengubahsuaian";
+$MESS["BPATT_DO_LOAD_EDIT_TITLE"] = "Laksanakan proses perniagaan semasa mengubah suai unsur";
+$MESS["BPATT_DO_N_LOAD_CREATE"] = "Jangan laksanakan semasa penciptaan";
+$MESS["BPATT_DO_N_LOAD_CREATE_TITLE"] = "Jangan laksanakan proses perniagaan semasa mencipta unsur";
+$MESS["BPATT_DO_N_LOAD_EDIT"] = "Jangan laksanakan semasa pengubah suaian";
+$MESS["BPATT_DO_N_LOAD_EDIT_TITLE"] = "Jangan laksanakan proses perniagaan semasa mengubah suai unsur";
+$MESS["BPATT_NAV"] = "Templat Proses Perniagaan";
+$MESS["BPATT_NO_DOCUMENT_TYPE"] = "Jenis unsur diperlukan.";
+$MESS["BPATT_NO_ENTITY"] = "Tiada entiti ditentukan untuk proses perniagaan yang akan dicipta.";
+$MESS["BPATT_NO_MODULE_ID"] = "ID modul diperlukan.";
+$MESS["BPATT_NO_PERMS"] = "Anda tidak mempunyai kebenaran untuk menjalankan proses perniagaan untuk unsur ini.";
+$MESS["BPATT_TITLE"] = "Templat Proses Perniagaan";

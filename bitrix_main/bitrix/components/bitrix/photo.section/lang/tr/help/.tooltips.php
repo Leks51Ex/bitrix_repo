@@ -1,0 +1,35 @@
+<?
+$MESS["ADD_SECTIONS_CHAIN_TIP"] = "Nevigasyon zincirine bölüm adı ekler.";
+$MESS["AJAX_MODE_TIP"] = "Bileşenlerde AJAX'ı etkinleştirir.";
+$MESS["AJAX_OPTION_HISTORY_TIP"] = "Ajax geçişi için \"Geri\" ve \"İleri\" tarayıcı butonlarına izin verir.";
+$MESS["AJAX_OPTION_JUMP_TIP"] = "AJAX aktarımı bittiğinde bileşeni kaydırmayı belirtir.";
+$MESS["AJAX_OPTION_SHADOW_TIP"] = "AJAX aktarımında değiştirilebilir alanların gölgelenmesini belirtir.";
+$MESS["AJAX_OPTION_STYLE_TIP"] = "AJAX aktarımında bileşenlerin CSS stillerini indirip işlemeyi belirtir.";
+$MESS["CACHE_FILTER_TIP"] = "Bu seçeneği etkinleştirmek tüm filtre sonuçlarının ön belleğe alınmasına neden olur.";
+$MESS["CACHE_TIME_TIP"] = "Önbelleğin geçerli olduğu süreyi burada belirt.";
+$MESS["CACHE_TYPE_TIP"] = "<i>Otomatik</i>: önbellek ayarlarında ön tanımı yapılmış zaman aralığı için önbellekleme geçerli;<br /><i>Önbellekle</i>: bir sonraki alanda belirtilecek zaman aralığı için daima önbellekleme yapar;<br /><i>Önbellekleme Yapma</i>: önbellekleme yapılmaz.";
+$MESS["DETAIL_URL_TIP"] = "Bilgi bloğu öge detay sayfasına giden yolu burada belirt.";
+$MESS["DISPLAY_BOTTOM_PAGER_TIP"] = "İşaretliyse, breadcrumb navigasyon bağlantıları sayfanın en altında gösterilecek.";
+$MESS["DISPLAY_PANEL_TIP"] = "İşaretliyse, araç butonları yönetim araç çubuğunda ve site düzenleme modundaki bileşen düzenleme alanında gösterilecek.";
+$MESS["DISPLAY_TOP_PAGER_TIP"] = "İşaretliyse, breadcrumb navigasyon bağlantıları sayfanın en üstünde gösterilecek.";
+$MESS["ELEMENT_SORT_FIELD_TIP"] = "Fotoğrafları bir bölüm içinde sıralayacak alanlar.";
+$MESS["ELEMENT_SORT_ORDER_TIP"] = "Fotoğrafları sıralayacak alanlar.";
+$MESS["FIELD_CODE_TIP"] = "Listede gösterilmesini istediğin alanları buradan seç.  <i><b>hiçbiri</b></i> seçeneğini seçer ve aşağıdaki alan ifadelerini tanımlamazsan, varsayılan alanlar gösterilecek.";
+$MESS["FILTER_NAME_TIP"] = "Filtre ayarlarının geçeceği bir değişkenin ismi. Varsayılan ismi kullanmak için bu alanı boş bırakabilirsin.";
+$MESS["IBLOCK_ID_TIP"] = "Seçili türden bilgi bloklarından birini seçin. <b>Diğer</b> i seçersen, yanındaki alana bilgi bloğu kimliğini belirtin.";
+$MESS["IBLOCK_TYPE_TIP"] = "Varolan bilgi bloğu türlerinden birini listeden seçin ve <b>Tamam</b>'a tıklayın. Bu seçili türdeki bilgi bloğunu yükleyecektir.";
+$MESS["LINE_ELEMENT_COUNT_TIP"] = "Her tablo satırındaki fotoğraf sayısını belirler.";
+$MESS["META_DESCRIPTION_TIP"] = "Sayfa tanımını özellik değerine ayarlar";
+$MESS["META_KEYWORDS_TIP"] = "Özelliklerden sayfa anahtar kelimelerini kopyala";
+$MESS["PAGER_DESC_NUMBERING_CACHE_TIME_TIP"] = "Geri yönde navigasyon için ilk sayfaları ön bellekleme zamanı, saniye olarak.";
+$MESS["PAGER_DESC_NUMBERING_TIP"] = "Üstte yerleştirilecek yeni unsurlar istiyorsanız bu seçeneği kullanın. Böylece, kırıntı navigasyon yapısında tek bir sayfa düzeltilmiş olcak. Tüm diğer sayfaları önemli ölçüde uzun bir süre için önbelleğe alınabilir.";
+$MESS["PAGER_SHOW_ALWAYS_TIP"] = "İşaretliyse, tüm ögeler sayfaya tam yerleşse de, breadcrumb navigasyon kontrolleri yine de gösterilecek ";
+$MESS["PAGER_TEMPLATE_TIP"] = "Kırıntı gezinimi şablonunun ismi. Varsayılan şablonu (<b><i>.default</i></b>) kullanmak için bu alanı boş bırakabilirsin. (Sistem alternatif bir şablon sağlıyor: <i>orange</i>.)";
+$MESS["PAGER_TITLE_TIP"] = "Gezinti için bir öge ünitesinin ismi. Örneğin: fotoğraf, görsel vb.";
+$MESS["PAGE_ELEMENT_COUNT_TIP"] = "Sayfa başına düşen öge sayısını tanımlar. Diğer ögeler kırıntılar aracılığıyla gezilebilir.";
+$MESS["PROPERTY_CODE_TIP"] = "Öge listesinde görüntülemek istediğin bilgi bloğu özelliklerini seç. <i>Hiçbiri</i> ni seçmek ve aşağıdaki özellik kodlarını tanımlamamak, özelliklerin görüntülenmemesine neden olacaktır.";
+$MESS["SECTION_CODE_TIP"] = "Bölüm hatırlatıcı kodu burada belirt. <b>bölüm kimliği</b> belirtilmişse alanı boş bırakabilirsin.";
+$MESS["SECTION_ID_TIP"] = "Bu alan bölüm kimliğini değerlendiren bir ifade içerir. Varsayılan açıklama şöyledir <b>={\$_REQUEST[\"SECTION_ID\"]}</b>.";
+$MESS["SECTION_URL_TIP"] = "Bölüm içeriklerini gösteren sayfa URLsini burada belirle.";
+$MESS["SET_TITLE_TIP"] = "İşaretliyse, geçerli bölüm adı sayfa başlığı olarak ayarlanacak.";
+?>

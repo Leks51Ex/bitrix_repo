@@ -1,0 +1,8 @@
+<?php
+$MESS["MAIN_NUMERATOR_EDIT_SEQUENCE_ERROR_NUMBER_LESS"] = "หมายเลขควรมากกว่าหมายเลขปัจจุบัน";
+$MESS["MAIN_NUMERATOR_EDIT_SEQUENCE_ERROR_NUMBER_NOT_NUMERIC"] = "หมายเลขควรประกอบด้วยตัวเลขเท่านั้น";
+$MESS["MAIN_NUMERATOR_EDIT_SEQUENCE_ERROR_NUMERATOR_NOT_FOUND"] = "ไม่พบเทมเพลตการกำหนดหมายเลขอัตโนมัติ";
+$MESS["MAIN_NUMERATOR_EDIT_SEQUENCE_ERROR_TITLE"] = "ข้อผิดพลาดภายใน";
+$MESS["MAIN_NUMERATOR_EDIT_SEQUENCE_PAGE_TITLE"] = "หมายเลขปัจจุบัน";
+$MESS["NUMERATOR_EDIT_SEQUENCE_COLUMN_HEADER_NEXT_NUMBER"] = "หมายเลขถัดไปจะเป็น";
+$MESS["NUMERATOR_EDIT_SEQUENCE_COLUMN_HEADER_TEXT_KEY"] = "คีย์เทมเพลตการกำหนดหมายเลข";

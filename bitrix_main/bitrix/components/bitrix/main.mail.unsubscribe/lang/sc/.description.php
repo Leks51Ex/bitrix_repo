@@ -1,0 +1,4 @@
+<?php
+$MESS["MAIN_MAIL_UNSUBSCRIBE_DESC_DESC"] = "实施表单以退订新闻电子邮件";
+$MESS["MAIN_MAIL_UNSUBSCRIBE_DESC_NAME"] = "取消订阅表单";
+$MESS["MAIN_USER_GROUP_NAME"] = "用户";

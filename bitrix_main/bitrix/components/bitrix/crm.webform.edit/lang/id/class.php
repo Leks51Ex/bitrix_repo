@@ -1,0 +1,27 @@
+<?php
+$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "Modul Proses Bisnis belum diinstal.";
+$MESS["CRM_MODULE_ERROR_NOT_FOUNT"] = "Formulir tidak ada";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Modul CRM belum diinstal.";
+$MESS["CRM_MODULE_NOT_INSTALLED_CATALOG"] = "Modul Katalog Komersial belum diinstal.";
+$MESS["CRM_MODULE_NOT_INSTALLED_CURRENCY"] = "Modul Mata Uang belum diinstal.";
+$MESS["CRM_MODULE_NOT_INSTALLED_REST"] = "Modul Rest belum diinstal.";
+$MESS["CRM_MODULE_NOT_INSTALLED_SALE"] = "Modul e-Store belum diinstal.";
+$MESS["CRM_PERMISSION_DENIED"] = "Akses ditolak";
+$MESS["CRM_WEBFORM_EDIT_"] = "Cari";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_DOMAIN"] = "Nama domain";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_DOMAIN_DESC"] = "Nama domain yang darinya formulir dikirimkan";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_ID"] = "ID Formulir";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_ID_DESC"] = "ID Formulir";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_NAME"] = "Nama formulir";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_NAME_DESC"] = "Nama formulir";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_PARAM"] = "Parameter";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_PARAM_DESC"] = "Nama parameter URL yang Anda akan gunakan untuk mengenali formulir";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_RESULT_ID"] = "ID Hasil";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_RESULT_ID_DESC"] = "Menentukan jumlah ditetapkan untuk hasil formulir.";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_URL"] = "Alamat halaman";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_URL_DESC"] = "Alamat halaman yang darinya formulir dikirimkan";
+$MESS["CRM_WEBFORM_EDIT_SECOND_SHORT"] = "dtk";
+$MESS["CRM_WEBFORM_EDIT_TITLE"] = "Edit formulir CRM";
+$MESS["CRM_WEBFORM_EDIT_TITLE_ADD"] = "Buat Formulir CRM";
+$MESS["CRM_WEBFORM_EDIT_TITLE_VIEW"] = "Tampilkan Formulir CRM";
+$MESS["CRM_WEBFORM_SCENARIO_NAME_TEMPLATE"] = "#NAME# dari #DATE#";

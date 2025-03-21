@@ -1,0 +1,6 @@
+<?
+$MESS["TASKS_TTDP_TEMPLATESELECTOR_CREATE_HINT"] = "สร้างงานโดยอาศัยเทมเพลต";
+$MESS["TASKS_TTDP_TEMPLATESELECTOR_EMPTY"] = "ไม่มีเทมเพลต";
+$MESS["TASKS_TTDP_TEMPLATESELECTOR_NO_TEMPLATE"] = "สร้างจากเทมเพลต";
+$MESS["TASKS_TTDP_TEMPLATESELECTOR_TO_LIST"] = "เทมเพลตทั้งหมด";
+?>

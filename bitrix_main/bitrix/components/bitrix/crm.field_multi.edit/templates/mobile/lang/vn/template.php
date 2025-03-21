@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_STATUS_LIST_ADD"] = "Thêm";
+$MESS["CRM_STATUS_LIST_DELETE"] = "Xoá";
+?>

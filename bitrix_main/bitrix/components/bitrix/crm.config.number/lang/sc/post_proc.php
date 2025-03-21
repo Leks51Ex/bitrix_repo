@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安装 CRM 模块。";
+$MESS["CRM_NUMBER_NUMBER_WARNING"] = "初始订单编号 \"#NUMBER#\" 无效。";
+$MESS["CRM_NUMBER_PREFIX_WARNING"] = "编号前缀\"#PREFIX#\"无效。";
+$MESS["CRM_PERMISSION_DENIED"] = "访问被拒绝。";
+?>

@@ -1,0 +1,26 @@
+<?php
+$MESS["VI_BACKUP_LINE_LABEL"] = "Teruskan panggilan ke nomor cadangan dari";
+$MESS["VI_BACKUP_LINE_SAVE"] = "Simpan";
+$MESS["VI_BACKUP_LINE_TITLE"] = "Nomor telepon cadangan";
+$MESS["VI_BACKUP_NUMBER"] = "Alihkan panggilan ke";
+$MESS["VI_BACKUP_NUMBER_LABEL"] = "Tentukan nomor yang padanya panggilan akan dialihkan jika akun Bitrix24 Anda tidak tersedia karena suatu alasan";
+$MESS["VI_COMBINATIONS_SAVE"] = "Simpan";
+$MESS["VI_COMBINATIONS_TITLE"] = "Kode panggilan";
+$MESS["VI_COMBINATION_INTERCEPT_GROUP"] = "Intersepsi panggilan di dalam grup antrean:";
+$MESS["VI_CRM_INTEGRATION_SAVE"] = "Simpan";
+$MESS["VI_CRM_INTEGRATION_TITLE"] = "Integrasi CRM";
+$MESS["VI_CRM_INTEGRATION_WORKFLOW_EXECUTION_TITLE"] = "Mulai alur kerja pembuatan prospek baru:";
+$MESS["VI_INTERFACE_CHAT_ADD"] = "Buat obrolan terpisah untuk setiap panggilan";
+$MESS["VI_INTERFACE_CHAT_APPEND"] = "Buat obrolan tunggal untuk semua panggilan";
+$MESS["VI_INTERFACE_CHAT_NONE"] = "Jangan menampilkan panggilan telepon dalam Messenger";
+$MESS["VI_INTERFACE_CHAT_TITLE"] = "Tampilkan panggilan telepon dalam Messenger: ";
+$MESS["VI_INTERFACE_SAVE"] = "Simpan";
+$MESS["VI_INTERFACE_TITLE"] = "Konfigurasikan antarmuka panggilan";
+$MESS["VI_NUMBERS_APPLY"] = "Terapkan";
+$MESS["VI_NUMBERS_CANCEL"] = "Batal";
+$MESS["VI_NUMBERS_CONFIG"] = "Konfigurasikan";
+$MESS["VI_NUMBERS_CONFIG_BACKPHONE"] = "Nomor default untuk panggilan keluar";
+$MESS["VI_NUMBERS_CONFIG_BACKPHONE_TITLE"] = "Rekan Anda akan melihat nomor ini ketika Anda menghubungi mereka menggunakan Bitrix24";
+$MESS["VI_NUMBERS_EDIT"] = "Edit";
+$MESS["VI_NUMBERS_SAVE"] = "Simpan";
+$MESS["VI_NUMBERS_TITLE_2"] = "Konfigurasikan nomor default";

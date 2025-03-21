@@ -1,0 +1,7 @@
+<?
+$MESS["CRM_ADDITIONAL_FIELDS"] = "Diğer";
+$MESS["CRM_FIELD_COMPANY_ID_START_TEXT"] = "(Şirket adını gir)";
+$MESS["CRM_FIELD_CONVERT_COMPANY"] = "Firmaya Dönüştür";
+$MESS["CRM_FIELD_CONVERT_COMPANY_CHOISE"] = "Firma Seç";
+$MESS["CRM_FIELD_CONVERT_COMPANY_LIST"] = "Listeden seç";
+?>

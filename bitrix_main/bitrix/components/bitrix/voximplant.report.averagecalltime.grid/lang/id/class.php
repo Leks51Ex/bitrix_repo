@@ -1,0 +1,4 @@
+<?php
+$MESS["TELEPHONY_REPORT_AVG_CALL_TIME"] = "Rata-rata lama panggilan";
+$MESS["TELEPHONY_REPORT_AVG_CALL_TIME_DYNAMICS"] = "Statistik panggilan";
+$MESS["TELEPHONY_REPORT_AVG_CALL_TIME_EMPLOYEE"] = "Karyawan";

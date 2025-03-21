@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_REQUISITE_EDIT_BUTTON_CANCEL"] = "रद्द करें";
+$MESS["CRM_REQUISITE_EDIT_BUTTON_SAVE"] = "सेव करें";
+?>

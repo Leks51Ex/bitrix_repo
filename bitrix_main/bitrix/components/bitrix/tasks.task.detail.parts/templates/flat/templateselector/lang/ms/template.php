@@ -1,0 +1,6 @@
+<?
+$MESS["TASKS_TTDP_TEMPLATESELECTOR_CREATE_HINT"] = "Cipta tugas berdasarkan templat";
+$MESS["TASKS_TTDP_TEMPLATESELECTOR_EMPTY"] = "Tiada templat";
+$MESS["TASKS_TTDP_TEMPLATESELECTOR_NO_TEMPLATE"] = "Cipta pada templat";
+$MESS["TASKS_TTDP_TEMPLATESELECTOR_TO_LIST"] = "Semua templat";
+?>

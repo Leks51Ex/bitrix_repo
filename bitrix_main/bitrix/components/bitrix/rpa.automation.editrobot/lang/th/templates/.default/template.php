@@ -1,0 +1,4 @@
+<?
+$MESS["RPA_AUTOMATION_EDITROBOT_TPL_SAVE_SUCCESS"] = "การเปลี่ยนแปลงได้รับการบันทึกแล้ว";
+$MESS["RPA_AUTOMATION_EDITROBOT_TPL_SECTION_MAIN"] = "ทั่วไป";
+?>

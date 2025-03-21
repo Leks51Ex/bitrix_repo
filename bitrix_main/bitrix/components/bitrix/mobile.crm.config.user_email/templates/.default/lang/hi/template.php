@@ -1,0 +1,4 @@
+<?
+$MESS["M_CRM_CONFIG_USER_EMAIL_CANCEL_BTN"] = "रद्द करें";
+$MESS["M_CRM_CONFIG_USER_EMAIL_SAVE_BTN"] = "सेव करें";
+?>

@@ -1,0 +1,27 @@
+<?
+$MESS["CRM_ALL"] = "Total";
+$MESS["CRM_CPS_TPL_MESS_USE_SUBSTRING_QUERY"] = "Jangan menggunakan logika permintaan pencarian yang kompleks";
+$MESS["CRM_PRODUCT_DELETE"] = "Hapus produk";
+$MESS["CRM_PRODUCT_DELETE_CONFIRM"] = "Anda yakin ingin menghapus '%s'?";
+$MESS["CRM_PRODUCT_DELETE_TITLE"] = "Hapus produk ini";
+$MESS["CRM_PRODUCT_EDIT"] = "Edit produk";
+$MESS["CRM_PRODUCT_EDIT_TITLE"] = "Edit produk ini";
+$MESS["CRM_PRODUCT_LIST_SHOW_FILTER"] = "Tunjukkan/sembunyikan filter";
+$MESS["CRM_PRODUCT_LIST_SHOW_FILTER_SHORT"] = "Filter";
+$MESS["CRM_PRODUCT_PROP_DOWNLOAD"] = "Unduh";
+$MESS["CRM_PRODUCT_PROP_ENLARGE"] = "Perbesar";
+$MESS["CRM_PRODUCT_SECTION_ACTION_DELETE1"] = "Hapus bagian";
+$MESS["CRM_PRODUCT_SECTION_ACTION_DELETE_PROPMT"] = "Ini akan menghapus semua subbagian dan elemen anak. Anda yakin ingin menghapus bagian?";
+$MESS["CRM_PRODUCT_SECTION_ACTION_RENAME1"] = "Ganti nama bagian";
+$MESS["CRM_PRODUCT_SHOW"] = "Tampilkan produk";
+$MESS["CRM_PRODUCT_SHOW_TITLE"] = "Tampilkan halaman produk ini";
+$MESS["CRM_SECTION_ADD_BTN_TEXT"] = "Tambahkan";
+$MESS["CRM_SECTION_ADD_DIALOG_TITLE"] = "Tambahkan bagian";
+$MESS["CRM_SECTION_CANCEL_BTN_TEXT"] = "Batal";
+$MESS["CRM_SECTION_DEFAULT_NAME"] = "Bagian Baru";
+$MESS["CRM_SECTION_EMPTY_NAME_ERROR"] = "Silakan masukkan nama bagian.";
+$MESS["CRM_SECTION_NAME_FIELD_TITLE"] = "Nama";
+$MESS["CRM_SECTION_RENAME_BTN_TEXT"] = "Ganti nama";
+$MESS["CRM_SECTION_RENAME_DIALOG_TITLE"] = "Ganti nama bagian";
+$MESS["CRM_SECTION_ROOT_NAME"] = "Bagian";
+?>

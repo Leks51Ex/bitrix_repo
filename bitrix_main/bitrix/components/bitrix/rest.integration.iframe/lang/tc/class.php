@@ -1,0 +1,3 @@
+<?php
+$MESS["REST_INTEGRATION_IFRAME_TITLE"] = "REST 請求結果";
+$MESS["REST_INTEGRATION_WRONG_DOMAIN_ERROR"] = "錯誤：該請求可能已傳送至一些其他網域。您的網域：#DOMAIN#";

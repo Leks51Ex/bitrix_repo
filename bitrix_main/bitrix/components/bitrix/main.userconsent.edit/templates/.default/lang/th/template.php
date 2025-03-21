@@ -1,0 +1,14 @@
+<?
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_APPLY"] = "นำไปใช้";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_BACK_TO_LIST"] = "กลับไปที่รายการ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_CLOSE"] = "ปิด";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_SAVE"] = "บันทึก";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_TUNE"] = "แก้ไข";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_VIEW"] = "มุมมอง";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_DATA_PROVIDER"] = "แหล่งข้อมูล";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_DATA_PROVIDER_DEF"] = "(ใส่ด้วยตนเอง)";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_ERROR_ACCESS_EDIT"] = "คุณทำได้เพียงดูข้อมูลเท่านั้น กรุณาติดต่อผู้ดูแลระบบของคุณ หากคุณจำเป็นต้องใช้สิทธิ์การเขียน";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_NAME"] = "ชื่อ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_POPUP_TITLE"] = "ดูข้อความ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_TYPE"] = "ประเภท: แบบกำหนดเองหรือมาตรฐาน";
+?>

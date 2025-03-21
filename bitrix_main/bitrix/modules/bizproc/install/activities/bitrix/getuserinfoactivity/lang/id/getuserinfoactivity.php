@@ -1,0 +1,27 @@
+<?php
+$MESS["BPGUIA_ERROR_1"] = "Karyawan target tidak ditentukan.";
+$MESS["BPGUIA_ERROR_2"] = "Karyawan target salah (izin tidak cukup)";
+$MESS["BPGUIA_ERROR_USER_NOT_FOUND"] = "ID Karyawan=#ID# tidak ditemukan";
+$MESS["BPGUIA_IS_ABSENT"] = "Tidak di kantor (menurut jadwal absensi)";
+$MESS["BPGUIA_TARGET_USER_NAME"] = "Karyawan";
+$MESS["BPGUIA_TIMEMAN_STATUS"] = "Status hari kerja";
+$MESS["BPGUIA_USER_ACTIVE"] = "Aktif";
+$MESS["BPGUIA_USER_EMAIL"] = "Email";
+$MESS["BPGUIA_USER_LAST_NAME"] = "Nama belakang";
+$MESS["BPGUIA_USER_LOGIN"] = "Login";
+$MESS["BPGUIA_USER_NAME"] = "Nama depan";
+$MESS["BPGUIA_USER_PERSONAL_BIRTHDAY"] = "Tanggal lahir";
+$MESS["BPGUIA_USER_PERSONAL_CITY"] = "Kota";
+$MESS["BPGUIA_USER_PERSONAL_MOBILE"] = "Telepon seluler";
+$MESS["BPGUIA_USER_PERSONAL_WWW"] = "Situs web";
+$MESS["BPGUIA_USER_SECOND_NAME"] = "Nama kedua";
+$MESS["BPGUIA_USER_UF_DEPARTMENT"] = "Departemen (daftar ID)";
+$MESS["BPGUIA_USER_UF_FACEBOOK"] = "Facebook";
+$MESS["BPGUIA_USER_UF_LINKEDIN"] = "LinkedIn";
+$MESS["BPGUIA_USER_UF_PHONE_INNER"] = "Ekstensi telepon";
+$MESS["BPGUIA_USER_UF_SKYPE"] = "Skype";
+$MESS["BPGUIA_USER_UF_TWITTER"] = "Twitter";
+$MESS["BPGUIA_USER_UF_WEB_SITES"] = "Situs web lain";
+$MESS["BPGUIA_USER_UF_XING"] = "Xing";
+$MESS["BPGUIA_USER_WORK_PHONE"] = "Telepon kerja";
+$MESS["BPGUIA_USER_WORK_POSITION"] = "Nama pekerjaan";

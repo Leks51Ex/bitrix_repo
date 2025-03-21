@@ -1,0 +1,23 @@
+<?php
+$MESS["CT_BLL_SELECTED"] = "記錄計數";
+$MESS["TEL_STAT_ACTION_CLOSE"] = "關閉";
+$MESS["TEL_STAT_ACTION_DOWNLOAD"] = "將錄音上傳至 Bitrix24";
+$MESS["TEL_STAT_ACTION_EXECUTE"] = "執行";
+$MESS["TEL_STAT_ACTION_STOP"] = "停止";
+$MESS["TEL_STAT_BACK"] = "上一步";
+$MESS["TEL_STAT_BACK_TITLE"] = "上一步";
+$MESS["TEL_STAT_CANCEL"] = "取消";
+$MESS["TEL_STAT_DOWNLOAD_VOX_RECORD_ERROR"] = "上傳資料時，發生錯誤。請稍後再試。";
+$MESS["TEL_STAT_ERROR"] = "錯誤";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL"] = "將通話詳情匯出至 Microsoft Excel";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL_DESCRIPTION"] = "如此將建立一個通話詳情匯出檔。";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL_LONG_PROCESS"] = "匯出大量資料可能需要一些時間。";
+$MESS["TEL_STAT_EXPORT_ERROR"] = "有發生錯誤。請稍後再試，或是聯繫您的 Bitrix24 管理員。";
+$MESS["TEL_STAT_EXPORT_TO_EXCEL"] = "匯出至 Excel";
+$MESS["TEL_STAT_FILTER_CANCEL"] = "重設篩選條件";
+$MESS["TEL_STAT_FILTER_CANCEL_TITLE"] = "重設篩選條件";
+$MESS["TEL_STAT_LOADING"] = "正在上傳";
+$MESS["TEL_STAT_SHOW_COUNT"] = "顯示數量";
+$MESS["TEL_STAT_TOTAL"] = "總計";
+$MESS["TEL_STAT_USER_ID_CANCEL"] = "重設員工篩選條件";
+$MESS["TEL_STAT_USER_ID_CANCEL_TITLE"] = "重設員工篩選條件";

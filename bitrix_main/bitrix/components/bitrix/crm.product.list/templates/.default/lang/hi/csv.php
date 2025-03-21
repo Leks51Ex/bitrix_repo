@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_PRODUCT_EXP_COLUMN_CURRENCY_ID"] = "मुद्रा";
+$MESS["CRM_PRODUCT_EXP_COLUMN_DESCRIPTION_TYPE"] = "विवरण फॉर्मेट";
+$MESS["CRM_PRODUCT_EXP_COLUMN_SECTION_ID"] = "सेक्शन (level #LEVEL_NUM#)";
+$MESS["ERROR_PRODUCT_LIST_IS_EMPTY"] = "कोई उत्पाद नहीं है!";
+?>

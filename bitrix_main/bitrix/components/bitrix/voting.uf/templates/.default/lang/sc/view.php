@@ -1,0 +1,11 @@
+<?
+$MESS["F_CAPTCHA_PROMT"] = "验证图像字符";
+$MESS["VOTE_ERROR_DEFAULT"] = "未知错误。";
+$MESS["VOTE_EXPORT_BUTTON"] = "结果 (xls)";
+$MESS["VOTE_RESUBMIT_BUTTON"] = "重新投票";
+$MESS["VOTE_RESULTS"] = "总票数：";
+$MESS["VOTE_RESULTS_BUTTON"] = "结果";
+$MESS["VOTE_RESUME_BUTTON"] = "继续执行";
+$MESS["VOTE_STOP_BUTTON"] = "停止";
+$MESS["VOTE_SUBMIT_BUTTON"] = "投票";
+?>

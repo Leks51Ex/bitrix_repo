@@ -1,0 +1,5 @@
+<?
+$MESS["MAIN_INCLUDE_COMPONENT_DESCR"] = "インクルード領域を挿入";
+$MESS["MAIN_INCLUDE_COMPONENT_NAME"] = "インクルード領域を挿入";
+$MESS["MAIN_INCLUDE_GROUP_NAME"] = "エリアを含める";
+?>

@@ -1,0 +1,18 @@
+<?
+$MESS["M_CRM_CONTACT_CONVERSION_NOTIFY"] = "Các trường bắt buộc";
+$MESS["M_CRM_CONTACT_EDIT_CANCEL_BTN"] = "Hủy bỏ";
+$MESS["M_CRM_CONTACT_EDIT_CONTINUE_BTN"] = "Tiếp tục";
+$MESS["M_CRM_CONTACT_EDIT_CONVERT_TITLE"] = "Liên hệ";
+$MESS["M_CRM_CONTACT_EDIT_CREATE_TITLE"] = "Liên hệ mới";
+$MESS["M_CRM_CONTACT_EDIT_EDIT_TITLE"] = "Sửa";
+$MESS["M_CRM_CONTACT_EDIT_SAVE_BTN"] = "Lưu";
+$MESS["M_CRM_CONTACT_EDIT_VIEW_TITLE"] = "Xem liên hệ";
+$MESS["M_CRM_CONTACT_MENU_ACTIVITY"] = "Hoạt động";
+$MESS["M_CRM_CONTACT_MENU_DEALS"] = "Giao dịch";
+$MESS["M_CRM_CONTACT_MENU_DELETE"] = "Xoá";
+$MESS["M_CRM_CONTACT_MENU_EDIT"] = "Sửa";
+$MESS["M_CRM_CONTACT_MENU_HISTORY"] = "Lịch sử";
+$MESS["M_DETAIL_DOWN_TEXT"] = "Nhả để làm mới ...";
+$MESS["M_DETAIL_LOAD_TEXT"] = "Đang cập nhật ...";
+$MESS["M_DETAIL_PULL_TEXT"] = "Kéo xuống để làm mới ...";
+?>

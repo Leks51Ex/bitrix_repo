@@ -1,0 +1,30 @@
+<?
+$MESS["BX_WSTMPL_BACK"] = "ở đây.";
+$MESS["BX_WSTMPL_BACKPRE"] = "Để có được một danh sách đầy đủ các hoạt động, nhấp";
+$MESS["BX_WSTMPL_BSTYLE"] = "Kiểu ràng buộc:";
+$MESS["BX_WSTMPL_CLASS"] = "Lớp:";
+$MESS["BX_WSTMPL_DOC"] = "Mô tả:";
+$MESS["BX_WSTMPL_ENDPOINT"] = "Điểm truy cập:";
+$MESS["BX_WSTMPL_ERROR_NOFORCOMPLEX"] = "Mẫu kiểm tra chỉ có sẵn cho các phương thức có các tham số của các loại nguyên bản.";
+$MESS["BX_WSTMPL_ERROR_NOMETHODS"] = "Dịch vụ Web không xác định bất kỳ phương thức nào.";
+$MESS["BX_WSTMPL_ERROR_NOTENOUGHTPARAMS"] = "Tham số truy vấn bị thiếu.";
+$MESS["BX_WSTMPL_ERROR_NOTFORAUTH"] = "Mẫu kiểm tra chỉ có sẵn cho các phương thức mà không yêu cầu ủy quyền HTTP Cơ bản.";
+$MESS["BX_WSTMPL_ERROR_NOWSDESCR"] = "Dịch vụ web không cung cấp mô tả.";
+$MESS["BX_WSTMPL_ERROR_PARAMETER"] = "Tham số";
+$MESS["BX_WSTMPL_ERROR_SUBMIT"] = "Gửi";
+$MESS["BX_WSTMPL_ERROR_UNKNOWN"] = "Không thể gửi một truy vấn.";
+$MESS["BX_WSTMPL_ERROR_VALUE"] = "Giá trị";
+$MESS["BX_WSTMPL_ERRSEC_NOOP"] = "Các thông tin mà bạn yêu cầu không tồn tại.";
+$MESS["BX_WSTMPL_INNERTEST"] = "ở đây.";
+$MESS["BX_WSTMPL_INNERTESTPRE"] = "Bạn có thể chạy được các kiểm tra xây dựng trong các dịch vụ web";
+$MESS["BX_WSTMPL_METHOD"] = "Phương thức dịch vụ Web:";
+$MESS["BX_WSTMPL_METHODS"] = "Phương thức:";
+$MESS["BX_WSTMPL_NAMESPACE"] = "Không gian tên:";
+$MESS["BX_WSTMPL_PARAMS"] = "Tham số:";
+$MESS["BX_WSTMPL_RESULT"] = "Kết quả cuộc gọi:";
+$MESS["BX_WSTMPL_TEST"] = "Kiểm tra:";
+$MESS["BX_WSTMPL_TITLE_PREFIX"] = "Mô tả dịch vụ Web:";
+$MESS["BX_WSTMPL_WEBSERVICE"] = "Dịch vụ Web:";
+$MESS["BX_WSTMPL_WSDLDESC"] = "Mô tả dịch vụ.";
+$MESS["BX_WSTMPL_WSDLDESCPRE"] = "Các hoạt động sau đây được hỗ trợ. Xem định nghĩa trong";
+?>

@@ -1,0 +1,8 @@
+<?
+$MESS["STEP_MESSAGESERVICES_DESCRIPTION"] = "连接短信提供商，并向您的客户发送群发短信";
+$MESS["STEP_MESSAGESERVICES_IS_NOT_CONFIGURED"] = "找不到正确配置的短信服务。";
+$MESS["STEP_MESSAGESERVICES_TITLE"] = "发送短信";
+$MESS["STEP_MESSAGESERVICE_ERROR_NONEXISTENT_PROVIDER"] = "使用的短信提供商在#provider#中不存在。 ";
+$MESS["STEP_MESSAGESERVICE_ERROR_NONWORKING_PROVIDER"] = "提供商#provider#已使用但未配置。";
+$MESS["STEP_MESSAGESERVICE_IS_NOT_INSTALLED"] = "未安装消息服务模块（messageservice）。请安装该模块。";
+?>

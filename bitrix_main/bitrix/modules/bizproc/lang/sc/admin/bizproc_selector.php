@@ -1,0 +1,20 @@
+<?php
+$MESS["BIZPROC_AS_TITLE"] = "插入值";
+$MESS["BIZPROC_AS_TITLE_TOOLBAR"] = "插入值";
+$MESS["BIZPROC_SEL_CANCEL"] = "取消";
+$MESS["BIZPROC_SEL_ERR"] = "您必须在其中一个列表中选择一个字段！";
+$MESS["BIZPROC_SEL_FIELDS_TAB"] = "文档字段";
+$MESS["BIZPROC_SEL_GROUPS_TAB"] = "用户类别";
+$MESS["BIZPROC_SEL_INSERT"] = "插入";
+$MESS["BIZPROC_SEL_PARAMS_TAB"] = "模板参数";
+$MESS["BIZPROC_SEL_TITLE"] = "选择字段";
+$MESS["BIZPROC_SEL_TITLEBAR"] = "添加字段";
+$MESS["BIZPROC_SEL_TITLEBAR_DESC"] = "双击所需字段来选定，	或者，点击\"插入\"。";
+$MESS["BIZPROC_SEL_USERS_TAB"] = "用户";
+$MESS["BIZPROC_SEL_USERS_TAB_GROUPS"] = "— 组";
+$MESS["BIZPROC_SEL_USERS_TAB_USERS"] = "— 用户";
+$MESS["BP_SEL_ADDIT"] = "附加结果";
+$MESS["BP_SEL_CONSTANTS"] = "常数";
+$MESS["BP_SEL_GCONST"] = "全局常数";
+$MESS["BP_SEL_GVAR"] = "全局变量";
+$MESS["BP_SEL_VARS"] = "变量";

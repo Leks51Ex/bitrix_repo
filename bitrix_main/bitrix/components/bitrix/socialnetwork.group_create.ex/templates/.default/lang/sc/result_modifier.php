@@ -1,0 +1,4 @@
+<?
+$MESS["SONET_GCE_T_TYPE_SUBTITLE_GROUP"] = "选择工作组类型";
+$MESS["SONET_GCE_T_TYPE_SUBTITLE_PROJECT"] = "选择项目类型";
+?>

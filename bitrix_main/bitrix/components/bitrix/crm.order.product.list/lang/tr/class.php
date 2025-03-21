@@ -1,0 +1,26 @@
+<?
+$MESS["CRM_ORDER_PLC_BASE_PRICE"] = "Taban fiyat";
+$MESS["CRM_ORDER_PLC_CURRENCY"] = "Para birimi";
+$MESS["CRM_ORDER_PLC_CUSTOM_PRICE"] = "Özel fiyat";
+$MESS["CRM_ORDER_PLC_DEDUCTED"] = "Sevk edildi";
+$MESS["CRM_ORDER_PLC_DEFAULT_WEIGHT_UNIT"] = "kg";
+$MESS["CRM_ORDER_PLC_DIMENSIONS"] = "Boyutlar";
+$MESS["CRM_ORDER_PLC_DISCOUNT_PRICE"] = "İndirim";
+$MESS["CRM_ORDER_PLC_FAILED_TO_CREATE_OBJECT"] = "Sipariş örneği oluşturulamıyor";
+$MESS["CRM_ORDER_PLC_NAME"] = "Ad";
+$MESS["CRM_ORDER_PLC_NOTES"] = "Fiyat türü";
+$MESS["CRM_ORDER_PLC_PRICE"] = "Fiyat";
+$MESS["CRM_ORDER_PLC_PRODUCT"] = "Ürün";
+$MESS["CRM_ORDER_PLC_PRODUCT_ID"] = "Ürün ID";
+$MESS["CRM_ORDER_PLC_PRODUCT_PRICE_ID"] = "Fiyat ID";
+$MESS["CRM_ORDER_PLC_PROPERTIES"] = "Özellikler";
+$MESS["CRM_ORDER_PLC_QUANTITY"] = "Miktar";
+$MESS["CRM_ORDER_PLC_SORTING"] = "Sırala";
+$MESS["CRM_ORDER_PLC_THE_SUMM"] = "Tutar";
+$MESS["CRM_ORDER_PLC_TYPE_PRICE_TYPE_ID"] = "Fiyat türü ID";
+$MESS["CRM_ORDER_PLC_UNKNOWN_DISCOUNT"] = "Bilinmeyen indirim";
+$MESS["CRM_ORDER_PLC_VAT"] = "Vergi";
+$MESS["CRM_ORDER_PLC_VAT_INCLUDED"] = "Vergi dahildir";
+$MESS["CRM_ORDER_PLC_VAT_RATE"] = "Vergi oranı";
+$MESS["CRM_ORDER_PLC_WEIGHT"] = "Ağırlık";
+?>

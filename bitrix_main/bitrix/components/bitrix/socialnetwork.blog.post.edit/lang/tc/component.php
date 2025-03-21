@@ -1,0 +1,27 @@
+<?php
+$MESS["BLG_GRP_NAME"] = "發起點";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_ERROR"] = "刪除郵件時，發生錯誤";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_NO_RIGHTS"] = "您沒有刪除本郵件的權限";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_OK"] = "已刪除郵件";
+$MESS["BLOG_BLOG_SESSID_WRONG"] = "您的工作階段已經到期。請重試。";
+$MESS["BLOG_EMPTY_TITLE_PLACEHOLDER"] = "影像";
+$MESS["BLOG_EMPTY_TITLE_PLACEHOLDER2"] = "檔案";
+$MESS["BLOG_EMPTY_TITLE_VOTE_PLACEHOLDER"] = "民意調查";
+$MESS["BLOG_ERR_NO_RIGHTS"] = "錯誤：權限不足，無法撰寫郵件";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "未安裝部落格模組。";
+$MESS["BLOG_NEW_MESSAGE"] = "新談話";
+$MESS["BLOG_POST_EDIT"] = "編輯文章";
+$MESS["BLOG_P_INSERT"] = "按一下以插入影像";
+$MESS["BLOG_SONET_GROUP_MODULE_NOT_AVAIBLE"] = "本使用者群組無法使用談話。";
+$MESS["BLOG_SONET_MODULE_NOT_AVAIBLE"] = "本使用者無法使用談話。";
+$MESS["BPE_COPY_DELETE_ERROR"] = "嘗試刪除原始文章時，發生錯誤。<br />";
+$MESS["BPE_HIDDEN_POSTED"] = "已成功添加您的文章。預先暫緩本談話的文章；只要審核者核准，您的文章即可被看到。";
+$MESS["BPE_SESS"] = "您的工作階段已經到期。請重新傳送您的郵件。";
+$MESS["B_B_HIDDEN_DEPARTMENT"] = "隱藏的部門";
+$MESS["B_B_HIDDEN_GROUP"] = "隱藏的群組";
+$MESS["B_B_HIDDEN_USER"] = "隱藏的使用者";
+$MESS["B_B_MES_NO_BLOG"] = "未找到郵件";
+$MESS["B_B_MES_NO_GROUP"] = "未找到社交網路群組。";
+$MESS["B_B_MES_NO_GROUP_ACTIVE"] = "社交網路群組無法使用本功能。";
+$MESS["B_B_MES_NO_GROUP_RIGHTS"] = "權限不足，無法在社交網路群組中建立文章。";
+$MESS["B_B_PC_DUPLICATE_POST"] = "您已經添加您的文章";

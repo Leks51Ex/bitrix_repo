@@ -1,0 +1,35 @@
+<?
+$MESS["SONET_C39_ARCHIVE_GROUP"] = "封存群組";
+$MESS["SONET_C39_SEND_MESSAGE_GROUP"] = "撰寫訊息";
+$MESS["SONET_C39_SEND_MESSAGE_GROUP_TITLE"] = "寫給群組成員一則訊息";
+$MESS["SONET_C6_ACT_BAN"] = "禁止名單";
+$MESS["SONET_C6_ACT_DELETE"] = "刪除群組";
+$MESS["SONET_C6_ACT_EDIT"] = "編輯群組";
+$MESS["SONET_C6_ACT_EXIT"] = "退出群組";
+$MESS["SONET_C6_ACT_FEAT"] = "編輯設定";
+$MESS["SONET_C6_ACT_JOIN"] = "加入群組";
+$MESS["SONET_C6_ACT_MOD"] = "編輯審核者";
+$MESS["SONET_C6_ACT_MOD1"] = "審核者";
+$MESS["SONET_C6_ACT_REQU"] = "邀請加入群組";
+$MESS["SONET_C6_ACT_USER"] = "編輯使用者";
+$MESS["SONET_C6_ACT_USER1"] = "成員";
+$MESS["SONET_C6_ACT_VREQU"] = "檢視加入要求";
+$MESS["SONET_C6_ACT_VREQU_OUT"] = "群組邀請";
+$MESS["SONET_C6_AL_USERS"] = "所有成員";
+$MESS["SONET_C6_BLOG_T"] = "部落格";
+$MESS["SONET_C6_CREATED"] = "已建立";
+$MESS["SONET_C6_DESCR"] = "說明";
+$MESS["SONET_C6_FORUM_T"] = "論壇";
+$MESS["SONET_C6_MODS_TITLE"] = "審核者";
+$MESS["SONET_C6_NMEM"] = "成員";
+$MESS["SONET_C6_NO_MODS"] = "無審核者";
+$MESS["SONET_C6_NO_USERS"] = "無成員";
+$MESS["SONET_C6_PHOTO_T"] = "相片";
+$MESS["SONET_C6_TOPIC"] = "主題";
+$MESS["SONET_C6_TYPE"] = "群組類型";
+$MESS["SONET_C6_TYPE_O1"] = "這是公用群組。任何人皆可加入。";
+$MESS["SONET_C6_TYPE_O2"] = "這是私人群組。使用者成員資格必須經過管理員核准。";
+$MESS["SONET_C6_TYPE_V1"] = "所有人皆可看見本群組。";
+$MESS["SONET_C6_TYPE_V2"] = "本群組是不可見的。僅有群組成員可以查看。";
+$MESS["SONET_C6_USERS_T"] = "成員";
+?>

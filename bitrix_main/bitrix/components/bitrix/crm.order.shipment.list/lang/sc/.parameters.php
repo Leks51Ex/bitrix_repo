@@ -1,0 +1,3 @@
+<?
+$MESS["CRM_ORDER_SHIPMENT_COUNT"] = "每页出货";
+?>

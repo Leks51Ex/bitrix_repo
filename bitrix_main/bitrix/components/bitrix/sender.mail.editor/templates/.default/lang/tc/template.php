@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_COMP_EDITOR_MAIL_CHANGE_TEMPLATE"] = "您是否想要變更訊息範本？將丟失所有變更。";
+$MESS["SENDER_COMP_EDITOR_MAIL_PERS_LIST"] = "個人化欄位";
+?>

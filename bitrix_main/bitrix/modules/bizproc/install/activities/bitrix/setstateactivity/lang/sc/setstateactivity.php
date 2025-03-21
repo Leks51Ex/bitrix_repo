@@ -1,0 +1,5 @@
+<?
+$MESS["BPSSA_CANCEL_CURRENT_STATE"] = "中止当前状态";
+$MESS["BPSSA_ERROR_EMPTY_STATE"] = "未指定目标状态";
+$MESS["BPSSA_EXECUTE_CANCEL"] = "当前状态已中止";
+?>

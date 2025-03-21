@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_UI_MAILBOX_SELECTOR_ADD"] = "เพิ่มอีเมล";
+$MESS["SENDER_UI_MAILBOX_SELECTOR_SETUP"] = "เลือกผู้ส่ง";
+?>

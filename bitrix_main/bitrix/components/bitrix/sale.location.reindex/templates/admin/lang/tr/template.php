@@ -1,0 +1,31 @@
+<?
+$MESS["SALE_SLRI_ALL_LANGS_2"] = "Tüm diller";
+$MESS["SALE_SLRI_ALL_TYPES_2"] = "Tüm türler";
+$MESS["SALE_SLRI_AP_TIMELIMIT"] = "Yeniden indeksleme adımı, sn.";
+$MESS["SALE_SLRI_ERROR"] = "Dahili hata.";
+$MESS["SALE_SLRI_HEAVY_DUTY_HOST_NOTICE"] = "Yeniden indeksleme, veritabanı ve sunucu yükünü artırabilir. Büyük çapta veriyi yeniden indekslemek üzere isen, bunu yapmadan önce barındırıcı firmanın yardım masasına danışman önerilir.";
+$MESS["SALE_SLRI_HEAVY_DUTY_NOTICE"] = "Yeniden indeksleme, web ayarlarına ve donanımına göre yarım saat ile birkaç saat arası zaman alabilir.";
+$MESS["SALE_SLRI_JOB2DO"] = "Şimdi yeniden indeksle";
+$MESS["SALE_SLRI_JOB_DICTIONARY"] = "Sözlükte ara";
+$MESS["SALE_SLRI_JOB_SITE"] = "Sitelere bağlanıyor";
+$MESS["SALE_SLRI_LANGS4INDEX_2"] = "Diller için hızlı aramayı kullan";
+$MESS["SALE_SLRI_SETTINGS_BASE"] = "Ana Ayarlar";
+$MESS["SALE_SLRI_STAGE_CLEANUP"] = "arama indeksi siliniyor";
+$MESS["SALE_SLRI_STAGE_COMPLETE"] = "tekrar indeksleme bitti";
+$MESS["SALE_SLRI_STAGE_CREATE_DICTIONARY"] = "sözlük oluşturuluyor";
+$MESS["SALE_SLRI_STAGE_CREATE_SEARCH_INDEX"] = "arama indeksi oluşturuluyor";
+$MESS["SALE_SLRI_STAGE_CREATE_SITE2LOCATION_INDEX"] = "site ilişkilendirme indeksi oluşturuluyor";
+$MESS["SALE_SLRI_STAGE_INITIAL"] = "başlatılma bekliyor";
+$MESS["SALE_SLRI_STAGE_INTERRUPTED"] = "yeniden indeksleme iptal edildi";
+$MESS["SALE_SLRI_STAGE_INTERRUPTING"] = "iptal ediliyor";
+$MESS["SALE_SLRI_STAGE_RESORT_DICTIONARY"] = "sözlük sıralanıyor";
+$MESS["SALE_SLRI_STAGE_RESTORE_DB_INDEXES"] = "veritabanı indeksleri geri yükleniyor";
+$MESS["SALE_SLRI_START"] = "Şimdi yeniden indeksle";
+$MESS["SALE_SLRI_STATUS"] = "Durum";
+$MESS["SALE_SLRI_STOP"] = "Dur";
+$MESS["SALE_SLRI_STOPPING"] = "Yeniden indeksleme iptal ediliyor…";
+$MESS["SALE_SLRI_SURE_REINDEX"] = "Şimdi yeniden indekslemek istediğinden emin misin?";
+$MESS["SALE_SLRI_TAB_REINDEX_TITLE"] = "Yeniden indeksle";
+$MESS["SALE_SLRI_TAB_REINDEX_TITLE_SETTINGS"] = "Yeniden indeksleme parametreleri";
+$MESS["SALE_SLRI_TYPES4INDEX_2"] = "Türler için hızlı aramayı kullan";
+?>

@@ -1,0 +1,36 @@
+<?
+$MESS["JS_CORE_TMP_EXPIRE"] = "Chưa điểm danh hết giờ";
+$MESS["JS_CORE_TMR_A"] = "Đã thay đổi";
+$MESS["JS_CORE_TMR_APPROVE"] = "Phê duyệt";
+$MESS["JS_CORE_TMR_CANCEL"] = "Hủy bỏ";
+$MESS["JS_CORE_TMR_COMMENTS"] = "Nhận xét";
+$MESS["JS_CORE_TMR_DEP"] = "Đã hết giờ";
+$MESS["JS_CORE_TMR_DURATION"] = "Giờ";
+$MESS["JS_CORE_TMR_EDIT"] = "Sửa";
+$MESS["JS_CORE_TMR_FROM"] = "Từ";
+$MESS["JS_CORE_TMR_NA"] = "Chưa xác nhận";
+$MESS["JS_CORE_TMR_PAUSE"] = "Nghỉ";
+$MESS["JS_CORE_TMR_REPORT"] = "Báo cáo";
+$MESS["JS_CORE_TMR_REPORT_DURATION"] = "Lý do thay đổi (thời lượng)";
+$MESS["JS_CORE_TMR_REPORT_FINISH"] = "Lý do thay đổi (thời gian hết giờ)";
+$MESS["JS_CORE_TMR_REPORT_NO"] = "Không được quy định";
+$MESS["JS_CORE_TMR_REPORT_ORIG"] = "Gốc";
+$MESS["JS_CORE_TMR_REPORT_START"] = "Lý do thay đổi (thời gian vào làm)";
+$MESS["JS_CORE_TMR_START_TITLE"] = "Đã vào làm";
+$MESS["JS_CORE_TMR_TITLE"] = "Báo cáo hàng ngày";
+$MESS["JS_CORE_TMR_TO"] = "Đến";
+$MESS["JS_CORE_TMR_WORKTIME"] = "Giờ làm việc";
+$MESS["TIMEMAN_BTN_CANCEL_TITLE"] = "Đóng";
+$MESS["TIMEMAN_BTN_SAVE_TITLE"] = "Lưu";
+$MESS["TIMEMAN_POPUP_WORK_TIME_TITLE"] = "Giờ làm việc";
+$MESS["TM_APPROVE_FORM_ACCEPT_LABEL"] = "Phê duyệt";
+$MESS["TM_RECORD_NOT_FOUND"] = "Không tìm thấy hồ sơ.";
+$MESS["TM_RECORD_READ_ACCESS_DENIED"] = "Không đủ quyền truy cập để xem mục lịch làm việc.";
+$MESS["TM_RECORD_REPORT_EVENTS_TITLE"] = "Sự kiện";
+$MESS["TM_RECORD_REPORT_HINT_RECORD_IP_INFO"] = "Đã điểm danh vào làm từ địa chỉ IP:<br><b>#IP_OPEN#</b><br>Đã điểm danh hết giờ từ địa chỉ IP:<br><b>#IP_CLOSE#</b>";
+$MESS["TM_RECORD_REPORT_HINT_RECORD_TIMEZONE_INFO"] = "Múi giờ của nhân viên: <b>#TIME_OFFSET#</b><br><small>(múi giờ của bạn: #TIME_OFFSET_SELF#)</small>";
+$MESS["TM_RECORD_REPORT_MORE_EVENTS_TITLE"] = "#COUNT# sự kiện khác";
+$MESS["TM_RECORD_REPORT_MORE_TASKS_TITLE"] = "#COUNT# tác vụ khác";
+$MESS["TM_RECORD_REPORT_ROLL_UP_TITLE"] = "Thu hẹp";
+$MESS["TM_RECORD_REPORT_TASKS_TITLE"] = "Tác vụ";
+?>

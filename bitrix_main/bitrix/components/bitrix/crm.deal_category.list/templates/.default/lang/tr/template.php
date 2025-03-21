@@ -1,0 +1,17 @@
+<?php
+$MESS["CRM_ALL"] = "Toplam";
+$MESS["CRM_DEAL_CATEGORY_BUTTON_CANCEL"] = "İptal";
+$MESS["CRM_DEAL_CATEGORY_BUTTON_SAVE"] = "Kaydet";
+$MESS["CRM_DEAL_CATEGORY_DELETE"] = "Sil";
+$MESS["CRM_DEAL_CATEGORY_DELETE_CONFIRM"] = "#NAME# silinecek! Emin misiniz?";
+$MESS["CRM_DEAL_CATEGORY_DELETE_TITLE"] = "Satış kanalını sil";
+$MESS["CRM_DEAL_CATEGORY_EDIT"] = "Düzenle";
+$MESS["CRM_DEAL_CATEGORY_EDIT_TITLE"] = "Satış kanalı düzenle";
+$MESS["CRM_DEAL_CATEGORY_ERROR_TITLE"] = "Kayıt hatası";
+$MESS["CRM_DEAL_CATEGORY_FIELD_NAME"] = "Ad";
+$MESS["CRM_DEAL_CATEGORY_FIELD_NAME_NOT_ASSIGNED_ERROR"] = "\"Ad\" alanı değeri eksik.";
+$MESS["CRM_DEAL_CATEGORY_FIELD_SORT"] = "Sırala";
+$MESS["CRM_DEAL_CATEGORY_STATUS_EDIT"] = "Aşamaları düzenle";
+$MESS["CRM_DEAL_CATEGORY_STATUS_EDIT_TITLE"] = "Satış kanalı aşamalarını düzenle";
+$MESS["CRM_DEAL_CATEGORY_TITLE_CREATE"] = "Satış kanalı oluştur";
+$MESS["CRM_DEAL_CATEGORY_TITLE_EDIT"] = "Satış kanalı düzenle";

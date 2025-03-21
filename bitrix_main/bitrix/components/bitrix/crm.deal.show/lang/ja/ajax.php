@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_DEAL_CONVERSION_ACCESS_DENIED"] = "アクセス拒否されました";
+$MESS["CRM_DEAL_CONVERSION_ID_NOT_DEFINED"] = "取引IDが見つかりませんでした";
+$MESS["CRM_DEAL_CONVERSION_NOT_FOUND"] = "取引が見つかりませんでした";
+?>

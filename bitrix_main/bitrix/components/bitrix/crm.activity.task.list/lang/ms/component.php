@@ -1,0 +1,37 @@
+<?
+$MESS["CRM_COLUMN_CHANGED_BY"] = "Diubah suai oleh";
+$MESS["CRM_COLUMN_CLOSED_DATE"] = "Ditutup pada";
+$MESS["CRM_COLUMN_DATE_CREATE"] = "Dicipta pada";
+$MESS["CRM_COLUMN_DATE_MODIFY"] = "Diubah suai pada";
+$MESS["CRM_COLUMN_DATE_START"] = "Tarikh Mula";
+$MESS["CRM_COLUMN_ENTITY_TITLE"] = "Jawatan";
+$MESS["CRM_COLUMN_ENTITY_TYPE"] = "Jenis";
+$MESS["CRM_COLUMN_ID"] = "ID";
+$MESS["CRM_COLUMN_PRIORITY"] = "Keutamaan";
+$MESS["CRM_COLUMN_REAL_STATUS"] = "Status";
+$MESS["CRM_COLUMN_RESPONSIBLE_BY"] = "Orang yang bertanggungjawab";
+$MESS["CRM_COLUMN_TITLE"] = "Nama";
+$MESS["CRM_COLUMN_UF_CRM_TASK"] = "Item CRM";
+$MESS["CRM_ENTITY_TYPE_COMPANY"] = "Syarikat";
+$MESS["CRM_ENTITY_TYPE_CONTACT"] = "Kenalan";
+$MESS["CRM_ENTITY_TYPE_DEAL"] = "Urusan";
+$MESS["CRM_ENTITY_TYPE_LEAD"] = "Pendahulu";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Modul CRM tidak dipasang.";
+$MESS["CRM_PERMISSION_DENIED"] = "Akses ditolak";
+$MESS["CRM_PRESET_CHANGE_MY"] = "Diubah Suai oleh Saya";
+$MESS["CRM_PRESET_CHANGE_TODAY"] = "Diubah Suai Hari Ini";
+$MESS["CRM_PRESET_CHANGE_YESTERDAY"] = "Diubah Suai Kelmarin";
+$MESS["CRM_PRESET_MY"] = "Tugas Saya";
+$MESS["CRM_PRESET_NEW"] = "Tugas Baru";
+$MESS["TASKS_MODULE_NOT_INSTALLED"] = "Modul Tugas tidak dipasang.";
+$MESS["TASKS_PRIORITY_0"] = "Rendah";
+$MESS["TASKS_PRIORITY_1"] = "Normal";
+$MESS["TASKS_PRIORITY_2"] = "Tinggi";
+$MESS["TASKS_STATUS_1"] = "Baru";
+$MESS["TASKS_STATUS_2"] = "Belum selesai";
+$MESS["TASKS_STATUS_3"] = "Sedang Dijalankan";
+$MESS["TASKS_STATUS_4"] = "Dikatakan selesai";
+$MESS["TASKS_STATUS_5"] = "Lengkap";
+$MESS["TASKS_STATUS_6"] = "Tertunda";
+$MESS["TASKS_STATUS_7"] = "Ditolak";
+?>

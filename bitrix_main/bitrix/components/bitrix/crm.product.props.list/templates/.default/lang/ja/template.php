@@ -1,0 +1,8 @@
+<?
+$MESS["CRM_ALL"] = "合計";
+$MESS["CRM_PRODUCTPROP_DELETE"] = "削除";
+$MESS["CRM_PRODUCTPROP_DELETE_CONFIRM"] = "%s'を削除してもよろしいですか?";
+$MESS["CRM_PRODUCTPROP_DELETE_TITLE"] = "このプロパティを削除する";
+$MESS["CRM_PRODUCTPROP_EDIT"] = "編集";
+$MESS["CRM_PRODUCTPROP_EDIT_TITLE"] = "編集のためにこのプロパティを開く";
+?>

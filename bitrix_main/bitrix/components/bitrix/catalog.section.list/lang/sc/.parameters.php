@@ -1,0 +1,3 @@
+<?php
+$MESS["CP_BCSL_ADDITIONAL_COUNT_ELEMENTS_FILTER"] = "计算栏目的项目计数时，也按此条件筛选项目：";
+$MESS["CP_BCSL_HIDE_SECTIONS_WITH_ZERO_COUNT_ELEMENTS"] = "隐藏没有项目的栏目";

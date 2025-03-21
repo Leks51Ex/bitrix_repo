@@ -1,0 +1,8 @@
+<?
+$MESS["CRM_STATUS_DELETION_ALERT_DEAL_STATUS"] = "在這一階段有活動項。刪除階段之前，請先移動交易。";
+$MESS["CRM_STATUS_DELETION_ALERT_INVOICE_STATUS"] = "在這一階段有活動項。刪除狀態之前，請先移動發票。";
+$MESS["CRM_STATUS_DELETION_ALERT_QUOTE_STATUS"] = "在這一階段有活動項。刪除狀態之前，請先移動報價。";
+$MESS["CRM_STATUS_DELETION_ALERT_STATUS"] = "在這一階段有活動項。刪除狀態之前，請先移動潛在客戶。";
+$MESS["CRM_STATUS_DELETION_ALERT_TITLE_DEAL_STATUS"] = "刪除階段";
+$MESS["CRM_STATUS_DELETION_ALERT_TITLE_STATUS"] = "刪除狀態";
+?>

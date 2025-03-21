@@ -1,0 +1,33 @@
+<?
+$MESS["IBLOCK_DEFAULT_UF"] = "Thư viện Mặc định";
+$MESS["INTERANET_MODULE_NOT_INSTALL"] = "Mô-đun Intranet không được cài đặt.";
+$MESS["INTR_IRM_NAME_TEMPLATE_DEFAULT"] = "#NOBR##NAME# #LAST_NAME##/NOBR#";
+$MESS["SONET_ACCESS_DENIED"] = "Truy cập bị từ chối.";
+$MESS["SONET_CREATE_WEBDAV"] = "Tạo thư viện";
+$MESS["SONET_FILES"] = "Tập tin";
+$MESS["SONET_FILES_IS_NOT_ACTIVE"] = "Tính năng \"Files\" không được kích hoạt.";
+$MESS["SONET_FILES_LOG"] = "#AUTHOR_NAME# thêm vào một tập tin #TITLE#.";
+$MESS["SONET_FILES_LOG_TEXT"] = "Tập tin mới #TITLE# tại #URL#.";
+$MESS["SONET_GALLERIES_IS_NOT_ACTIVE"] = "Phòng trưng bày hình ảnh của bạn hiện đang không hoạt động. Xin vui lòng liên hệ với quản trị viên.";
+$MESS["SONET_GALLERY_IS_NOT_ACTIVE"] = "Thư viện ảnh của bạn hiện không hoạt động. Xin vui lòng liên hệ với quản trị viên.";
+$MESS["SONET_GALLERY_NOT_FOUND"] = "Không có hình ảnh.";
+$MESS["SONET_GROUP"] = "Nhóm";
+$MESS["SONET_GROUP_NOT_EXISTS"] = "Nhóm không tồn tại.";
+$MESS["SONET_GROUP_PREFIX"] = "Nhóm: ";
+$MESS["SONET_IBLOCK_ID_EMPTY"] = "Khối thông tin không xác định.";
+$MESS["SONET_IB_MODULE_IS_NOT_INSTALLED"] = "Mô-đun Information Blocks chưa được cài đặt.";
+$MESS["SONET_LOADING"] = "Đang tải...";
+$MESS["SONET_LOG_GUEST"] = "Khách truy cập";
+$MESS["SONET_LOG_TEMPLATE_AUTHOR"] = "Tác giả: <a href=\"#AUTHOR_URL#\">#AUTHOR_NAME#</a>.";
+$MESS["SONET_LOG_TEMPLATE_AUTHOR_MAIL"] = "Tác giả: #AUTHOR_NAME# (#AUTHOR_URL#).";
+$MESS["SONET_LOG_TEMPLATE_GUEST"] = "Tác giả: #AUTHOR_NAME#.";
+$MESS["SONET_PHOTO"] = "Ảnh";
+$MESS["SONET_PHOTO_IS_NOT_ACTIVE"] = "Tính năng \"Photos\" không được kích hoạt.";
+$MESS["SONET_PHOTO_LOG_1"] = "#AUTHOR_NAME# thêm vào một tập tin #TITLE#";
+$MESS["SONET_PHOTO_LOG_2"] = "Hình ảnh (#COUNT#)";
+$MESS["SONET_PHOTO_LOG_MAIL_TEXT"] = "Hình ảnh mới: #LINKS# và khác.";
+$MESS["SONET_PHOTO_LOG_TEXT"] = "Hình ảnh mới: <div class='notificationlog'>#LINKS#</div> <a href=\"#HREF#\">Mở album</a>.";
+$MESS["SONET_P_MODULE_IS_NOT_INSTALLED"] = "Mô-đun Photo Gallery không được cài đặt.";
+$MESS["SONET_WD_MODULE_IS_NOT_INSTALLED"] = "Mô-đun Document Library chưa được cài đặt.";
+$MESS["SONET_WEBDAV_NOT_EXISTS"] = "Không tài liệu.";
+?>

@@ -1,0 +1,4 @@
+<?
+$MESS["COMP_CALENDAR_LIST_MOBILE_DESC"] = "イベントリスト(モバイル版)";
+$MESS["COMP_CALENDAR_LIST_MOBILE_TITLE"] = "イベントリスト";
+?>

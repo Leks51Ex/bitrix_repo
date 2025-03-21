@@ -1,0 +1,27 @@
+<?php
+$MESS["DOWN_TEXT"] = "释放以刷新";
+$MESS["LOAD_TEXT"] = "正在更新菜单...";
+$MESS["MB_CALENDAR_LIST"] = "日历";
+$MESS["MB_COMPANY"] = "员工";
+$MESS["MB_CONTACTS"] = "联系人";
+$MESS["MB_CRM_ACTIVITY"] = "我的活动";
+$MESS["MB_CRM_COMPANY"] = "公司";
+$MESS["MB_CRM_CONTACT"] = "联系人";
+$MESS["MB_CRM_DEAL"] = "交易";
+$MESS["MB_CRM_INVOICE"] = "发票";
+$MESS["MB_CRM_LEAD"] = "线索";
+$MESS["MB_CRM_PRODUCT"] = "产品";
+$MESS["MB_CURRENT_USER_FILES_MAIN_MENU_ITEM"] = "我的云盘";
+$MESS["MB_CURRENT_USER_FILES_MAIN_MENU_ITEM_NEW"] = "我的云盘";
+$MESS["MB_EXIT"] = "注销";
+$MESS["MB_HELP"] = "帮助";
+$MESS["MB_LIVE_FEED"] = "事项动态";
+$MESS["MB_MARKETPLACE_GROUP_TITLE_2"] = "Market";
+$MESS["MB_MESSAGES"] = "消息";
+$MESS["MB_SEC_EXTRANET"] = "外部网络组";
+$MESS["MB_SEC_FAVORITE"] = "我的工作区";
+$MESS["MB_SEC_GROUPS"] = "组";
+$MESS["MB_SHARED_FILES_MAIN_MENU_ITEM"] = "公司云盘";
+$MESS["MB_SHARED_FILES_MAIN_MENU_ITEM_NEW"] = "公司云盘";
+$MESS["MB_TASKS_MAIN_MENU_ITEM"] = "任务";
+$MESS["PULL_TEXT"] = "下拉以刷新";

@@ -1,0 +1,36 @@
+<?
+$MESS["CP_SBB_TPL_BRAND_PROPERTY"] = "ブランドプロパティ";
+$MESS["CP_SBB_TPL_COLUMNS_LIST_MOBILE"] = "モバイルデバイス用の列";
+$MESS["CP_SBB_TPL_DATA_LAYER_NAME"] = "データコンテナ名";
+$MESS["CP_SBB_TPL_DEFERRED_REFRESH"] = "遅延製品更新モードを使用する";
+$MESS["CP_SBB_TPL_DISCOUNT_PERCENT_POSITION"] = "ディスカウント・パーセント・ポジション";
+$MESS["CP_SBB_TPL_DISPLAY_MODE"] = "ショッピングカートビューモード";
+$MESS["CP_SBB_TPL_DISPLAY_MODE_COMPACT"] = "コンパクト";
+$MESS["CP_SBB_TPL_DISPLAY_MODE_EXTENDED"] = "拡張";
+$MESS["CP_SBB_TPL_LABEL_PROP"] = "商品タグのプロパティ";
+$MESS["CP_SBB_TPL_LABEL_PROP_MOBILE"] = "モバイルデバイスの商品タグプロパティ";
+$MESS["CP_SBB_TPL_LABEL_PROP_POSITION"] = "商品タグの位置";
+$MESS["CP_SBB_TPL_PRICE_DISPLAY_MODE"] = "個々の列に価格を表示する";
+$MESS["CP_SBB_TPL_PRODUCT_BLOCKS_ORDER"] = "製品ブロックの表示順序";
+$MESS["CP_SBB_TPL_PRODUCT_BLOCK_COLUMNS"] = "製品のプロパティ";
+$MESS["CP_SBB_TPL_PRODUCT_BLOCK_PROPERTIES"] = "ショッピングカートのプロパティ";
+$MESS["CP_SBB_TPL_PRODUCT_BLOCK_SKU"] = "SKU";
+$MESS["CP_SBB_TPL_PROPERTIES_RECALCULATE_BASKET"] = "ショッピングカートの再計算プロパティ";
+$MESS["CP_SBB_TPL_SHOW_DISCOUNT_PERCENT"] = "画像の横に割引率を表示する";
+$MESS["CP_SBB_TPL_SHOW_FILTER"] = "製品フィルターを表示する";
+$MESS["CP_SBB_TPL_SHOW_RESTORE"] = "削除した商品の回復を有効にする";
+$MESS["CP_SBB_TPL_TEMPLATE_THEME"] = "カラーテーマ";
+$MESS["CP_SBB_TPL_THEME_BLUE"] = "青(デフォルトテーマ)";
+$MESS["CP_SBB_TPL_THEME_GREEN"] = "緑";
+$MESS["CP_SBB_TPL_THEME_RED"] = "赤";
+$MESS["CP_SBB_TPL_THEME_SITE"] = "サイトテーマを使用する(bitrix.eshop用)";
+$MESS["CP_SBB_TPL_THEME_YELLOW"] = "黄";
+$MESS["CP_SBB_TPL_TOTAL_BLOCK_DISPLAY"] = "買い物カゴ情報エリアを表示する";
+$MESS["CP_SBB_TPL_TOTAL_BLOCK_DISPLAY_BOTTOM"] = "ショッピングカートの下に";
+$MESS["CP_SBB_TPL_TOTAL_BLOCK_DISPLAY_TOP"] = "上記のショッピングカート";
+$MESS["CP_SBB_TPL_USE_DYNAMIC_SCROLL"] = "スクロールでより多くの商品を読み込む";
+$MESS["CP_SBB_TPL_USE_ENHANCED_ECOMMERCE"] = "eコマースデータをGoogleに送信する";
+$MESS["CP_SBB_TPL_USE_PRICE_ANIMATION"] = "アニメの価格";
+$MESS["SHOW_FILTER_TIP"] = "モバイルデバイスでは使用されません。";
+$MESS["USE_ENHANCED_ECOMMERCE_TIP"] = "これには、Googleアナリティクスの拡張eコマースオプションを設定する必要があります";
+?>

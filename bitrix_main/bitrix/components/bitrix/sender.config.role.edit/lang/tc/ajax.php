@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_CONFIG_PERMISSIONS_DB_ERROR"] = "更新存取權限時，發生錯誤";
+$MESS["SENDER_CONFIG_ROLE_DELETE_DB_ERROR"] = "刪除角色時，發生錯誤";
+?>

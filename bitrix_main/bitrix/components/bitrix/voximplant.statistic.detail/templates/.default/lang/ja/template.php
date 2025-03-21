@@ -1,0 +1,23 @@
+<?php
+$MESS["CT_BLL_SELECTED"] = "レコード数";
+$MESS["TEL_STAT_ACTION_CLOSE"] = "閉じる";
+$MESS["TEL_STAT_ACTION_DOWNLOAD"] = "Bitrix24に録音をアップロード";
+$MESS["TEL_STAT_ACTION_EXECUTE"] = "実行";
+$MESS["TEL_STAT_ACTION_STOP"] = "停止";
+$MESS["TEL_STAT_BACK"] = "戻る";
+$MESS["TEL_STAT_BACK_TITLE"] = "戻る";
+$MESS["TEL_STAT_CANCEL"] = "キャンセル";
+$MESS["TEL_STAT_DOWNLOAD_VOX_RECORD_ERROR"] = "データをアップロード中にエラーが発生しました。後でもう一度お試しください。";
+$MESS["TEL_STAT_ERROR"] = "エラー";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL"] = "通話詳細をMicrosoft Excelにエクスポート";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL_DESCRIPTION"] = "これにより、通話詳細のエクスポートファイルが作成されます。";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL_LONG_PROCESS"] = "大量のデータをエクスポートする際には、時間がかかる場合があります。";
+$MESS["TEL_STAT_EXPORT_ERROR"] = "エラーが発生しました。後でもう一度試すか、Bitrix24管理者に連絡してください。";
+$MESS["TEL_STAT_EXPORT_TO_EXCEL"] = "Excelにエクスポート";
+$MESS["TEL_STAT_FILTER_CANCEL"] = "フィルターをリセットする";
+$MESS["TEL_STAT_FILTER_CANCEL_TITLE"] = "フィルターをリセットする";
+$MESS["TEL_STAT_LOADING"] = "アップロード中";
+$MESS["TEL_STAT_SHOW_COUNT"] = "数量を表示";
+$MESS["TEL_STAT_TOTAL"] = "合計";
+$MESS["TEL_STAT_USER_ID_CANCEL"] = "従業員フィルターをリセットする";
+$MESS["TEL_STAT_USER_ID_CANCEL_TITLE"] = "従業員フィルターをリセットする";

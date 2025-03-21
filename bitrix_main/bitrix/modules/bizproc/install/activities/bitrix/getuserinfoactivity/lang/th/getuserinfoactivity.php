@@ -1,0 +1,27 @@
+<?php
+$MESS["BPGUIA_ERROR_1"] = "ไม่ได้ระบุพนักงานเป้าหมาย";
+$MESS["BPGUIA_ERROR_2"] = "พนักงานเป้าหมายไม่ถูกต้อง (สิทธิ์ไม่เพียงพอ)";
+$MESS["BPGUIA_ERROR_USER_NOT_FOUND"] = "ไม่พบพนักงานที่มีไอดี=#ID#";
+$MESS["BPGUIA_IS_ABSENT"] = "ไม่อยู่สำนักงาน (ตามตารางเวลาที่ไม่อยู่)";
+$MESS["BPGUIA_TARGET_USER_NAME"] = "พนักงาน";
+$MESS["BPGUIA_TIMEMAN_STATUS"] = "สถานะวันทำงาน";
+$MESS["BPGUIA_USER_ACTIVE"] = "ใช้งานอยู่";
+$MESS["BPGUIA_USER_EMAIL"] = "อีเมล";
+$MESS["BPGUIA_USER_LAST_NAME"] = "นามสกุล";
+$MESS["BPGUIA_USER_LOGIN"] = "เข้าสู่ระบบ";
+$MESS["BPGUIA_USER_NAME"] = "ชื่อ";
+$MESS["BPGUIA_USER_PERSONAL_BIRTHDAY"] = "วันเกิด";
+$MESS["BPGUIA_USER_PERSONAL_CITY"] = "เมือง";
+$MESS["BPGUIA_USER_PERSONAL_MOBILE"] = "โทรศัพท์มือถือ";
+$MESS["BPGUIA_USER_PERSONAL_WWW"] = "เว็บไซต์";
+$MESS["BPGUIA_USER_SECOND_NAME"] = "ชื่อที่สอง";
+$MESS["BPGUIA_USER_UF_DEPARTMENT"] = "แผนก (รายการไอดี)";
+$MESS["BPGUIA_USER_UF_FACEBOOK"] = "เฟซบุ๊ก";
+$MESS["BPGUIA_USER_UF_LINKEDIN"] = "LinkedIn";
+$MESS["BPGUIA_USER_UF_PHONE_INNER"] = "โทรศัพท์ต่อพ่วง";
+$MESS["BPGUIA_USER_UF_SKYPE"] = "สไกป์";
+$MESS["BPGUIA_USER_UF_TWITTER"] = "ทวิตเตอร์";
+$MESS["BPGUIA_USER_UF_WEB_SITES"] = "เว็บไซต์อื่น ๆ";
+$MESS["BPGUIA_USER_UF_XING"] = "Xing";
+$MESS["BPGUIA_USER_WORK_PHONE"] = "โทรศัพท์ที่ทำงาน";
+$MESS["BPGUIA_USER_WORK_POSITION"] = "ตำแหน่งงาน";

@@ -1,0 +1,7 @@
+<?
+$MESS["CRM_ADDITIONAL_FIELDS"] = "Diğer";
+$MESS["CRM_FIELD_CONTACT_ID_START_TEXT"] = "(Kişinin adını yaz)";
+$MESS["CRM_FIELD_CONVERT_CONTACT"] = "İletişime dönüştür";
+$MESS["CRM_FIELD_CONVERT_CONTACT_CHOISE"] = "Bir Kişi Seç";
+$MESS["CRM_FIELD_CONVERT_CONTACT_LIST"] = "Listeden seç";
+?>

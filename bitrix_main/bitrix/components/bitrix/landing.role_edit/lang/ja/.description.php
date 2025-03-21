@@ -1,0 +1,5 @@
+<?
+$MESS["LANDING_CMP_DESCRIPTION"] = "ロールを編集します。";
+$MESS["LANDING_CMP_NAME"] = "ロールの編集";
+$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";
+?>

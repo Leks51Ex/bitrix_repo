@@ -1,0 +1,22 @@
+<?php
+$MESS["MIB_APPLY_SETTING_MENU_ITEM"] = "Selesaikan penyesuaian";
+$MESS["MIB_CANCEL_BUTTON"] = "Batal";
+$MESS["MIB_DROPZONE_TEXT"] = "Sembunyikan item";
+$MESS["MIB_HIDDEN"] = "Tersembunyi";
+$MESS["MIB_LICENSE_BUY_BUTTON"] = "Beli";
+$MESS["MIB_LICENSE_TRIAL_BUTTON"] = "Cuba secara percuma";
+$MESS["MIB_LICENSE_WINDOW_HEADER_TEXT"] = "Dapatkan akses";
+$MESS["MIB_LICENSE_WINDOW_TEXT"] = "Beli lesen atau cuba secara percuma";
+$MESS["MIB_MAIN_BUTTONS_LOADING"] = "Memuat...";
+$MESS["MIB_MAIN_BUTTONS_MORE"] = "Lebih lagi";
+$MESS["MIB_MANAGE"] = "Tetapan";
+$MESS["MIB_NO_HIDDEN"] = "Seret di sini untuk menyembunyikan";
+$MESS["MIB_PIN_HINT"] = "Beralih ke menu atas";
+$MESS["MIB_RESET_ALERT"] = "Set semula menu ke paparan lalai?";
+$MESS["MIB_RESET_BUTTON"] = "Set semula";
+$MESS["MIB_RESET_SETTINGS"] = "Set semula menu";
+$MESS["MIB_SETTING_MENU_ITEM"] = "Tetapkan menu";
+$MESS["MIB_SET_HIDE"] = "Sembunyikan";
+$MESS["MIB_SET_HOME"] = "Tetapkan sebagai laman utama bahagian";
+$MESS["MIB_SET_SHOW"] = "Tunjuk";
+$MESS["MIB_UNPIN_ITEM"] = "Berundur ke \"#NAME#\"";

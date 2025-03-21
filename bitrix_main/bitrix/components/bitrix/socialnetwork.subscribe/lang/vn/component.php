@@ -1,0 +1,33 @@
+<?
+$MESS["SONET_C3_GROUP_SETTINGS"] = "Sự đăng ký";
+$MESS["SONET_C3_NO_ENTITY_ID"] = "ID của thư mục không cụ thể";
+$MESS["SONET_C3_NO_GROUP"] = "Không tìm thấy nhóm";
+$MESS["SONET_C3_NO_SUBSCRIPTIONS"] = "Không hiển thị sự đăng ký";
+$MESS["SONET_C3_PERMS"] = "Bạn không có quyền thực hiện thao tác này.";
+$MESS["SONET_C3_PVG_ALL"] = "Tất cả người dùng";
+$MESS["SONET_C3_PVG_MOD"] = "người dùng của nhóm và những người điều hành";
+$MESS["SONET_C3_PVG_OWNER"] = "Người dùng của nhóm";
+$MESS["SONET_C3_PVG_USER"] = "tất cả những thành viên";
+$MESS["SONET_C3_PVU_ALL"] = "Tất cả người dùng";
+$MESS["SONET_C3_PVU_FR"] = "Chỉ những người bạn";
+$MESS["SONET_C3_PVU_FR2"] = "Chỉ những người bạn và bạn của họ";
+$MESS["SONET_C3_PVU_NONE"] = "Chỉ một mình tôi";
+$MESS["SONET_C3_SYSTEM"] = "Hệ thống";
+$MESS["SONET_C3_SYSTEM_FR"] = "Bạn bè";
+$MESS["SONET_C3_SYSTEM_GR"] = "các nhóm";
+$MESS["SONET_C3_USER_SETTINGS"] = "Sự đăng ký";
+$MESS["SONET_MODULE_NOT_INSTALL"] = "Mô-đun Social Network không được cài đặt";
+$MESS["SONET_P_USER_NO_USER"] = "Không tìm thấy người dùng";
+$MESS["SUBSCRIBE_NAME1_blog"] = "Báo cáo";
+$MESS["SUBSCRIBE_NAME1_calendar"] = "Lịch";
+$MESS["SUBSCRIBE_NAME1_files"] = "Tập tin";
+$MESS["SUBSCRIBE_NAME1_forum"] = "Thảo luận";
+$MESS["SUBSCRIBE_NAME1_photo"] = "Ảnh";
+$MESS["SUBSCRIBE_NAME1_tasks"] = "Tác vụ";
+$MESS["SUBSCRIBE_NAME_blog"] = "Blog";
+$MESS["SUBSCRIBE_NAME_calendar"] = "Lịch";
+$MESS["SUBSCRIBE_NAME_files"] = "Tập tin";
+$MESS["SUBSCRIBE_NAME_forum"] = "Diễn đàn";
+$MESS["SUBSCRIBE_NAME_photo"] = "Ảnh";
+$MESS["SUBSCRIBE_NAME_tasks"] = "Tác vụ";
+?>

@@ -1,0 +1,2 @@
+<?php
+$MESS["CRM_CATALOG_CONTROLLER_ACCESS_DENIED_ERROR_TITLE"] = "權限不足，無法檢視產品目錄。";

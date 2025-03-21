@@ -1,0 +1,22 @@
+<?php
+$MESS["MIB_APPLY_SETTING_MENU_ITEM"] = "完成自定义";
+$MESS["MIB_CANCEL_BUTTON"] = "取消";
+$MESS["MIB_DROPZONE_TEXT"] = "隐藏项目";
+$MESS["MIB_HIDDEN"] = "已隐藏";
+$MESS["MIB_LICENSE_BUY_BUTTON"] = "购买";
+$MESS["MIB_LICENSE_TRIAL_BUTTON"] = "免费试用";
+$MESS["MIB_LICENSE_WINDOW_HEADER_TEXT"] = "获取访问权限";
+$MESS["MIB_LICENSE_WINDOW_TEXT"] = "购买许可证或免费试用";
+$MESS["MIB_MAIN_BUTTONS_LOADING"] = "正在加载...";
+$MESS["MIB_MAIN_BUTTONS_MORE"] = "更多";
+$MESS["MIB_MANAGE"] = "设置";
+$MESS["MIB_NO_HIDDEN"] = "拖动到此处隐藏";
+$MESS["MIB_PIN_HINT"] = "移至顶部菜单";
+$MESS["MIB_RESET_ALERT"] = "将菜单重置为默认视图？";
+$MESS["MIB_RESET_BUTTON"] = "重置";
+$MESS["MIB_RESET_SETTINGS"] = "重置菜单";
+$MESS["MIB_SETTING_MENU_ITEM"] = "配置菜单";
+$MESS["MIB_SET_HIDE"] = "隐藏";
+$MESS["MIB_SET_HOME"] = "设为章节主页";
+$MESS["MIB_SET_SHOW"] = "显示";
+$MESS["MIB_UNPIN_ITEM"] = "回移至 \"#NAME#\"";

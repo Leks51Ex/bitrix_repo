@@ -1,0 +1,26 @@
+<?php
+$MESS["BPATT_AE_CREATE"] = "Oluştur";
+$MESS["BPATT_AE_DELETE"] = "Sil";
+$MESS["BPATT_AE_EDIT"] = "Güncelleme";
+$MESS["BPATT_AE_NONE"] = "Hayır";
+$MESS["BPATT_DO_DELETE1"] = "Sil";
+$MESS["BPATT_DO_DELETE1_CONFIRM"] = "Bu şablonu silmek istediğinden emin misin?";
+$MESS["BPATT_DO_EDIT1"] = "Düzenle";
+$MESS["BPATT_DO_EDIT_CONSTANTS"] = "Sabit değerleri ayarla";
+$MESS["BPATT_DO_EDIT_CONSTANTS1"] = "Sabitler";
+$MESS["BPATT_DO_EDIT_VARS"] = "İlk değişken değerlerini değiştir";
+$MESS["BPATT_DO_EDIT_VARS1"] = "Değişkenler";
+$MESS["BPATT_DO_LOAD_CREATE"] = "Oluşturma sırasında yürüt";
+$MESS["BPATT_DO_LOAD_CREATE_TITLE"] = "Bir belge oluştururken iş sürecini yürüt";
+$MESS["BPATT_DO_LOAD_EDIT"] = "Değişiklik sırasında yürüt";
+$MESS["BPATT_DO_LOAD_EDIT_TITLE"] = "Bir belge düzenlerken iş sürecini yürüt";
+$MESS["BPATT_DO_N_LOAD_CREATE"] = "Oluşturma sırasında yürütme yapma";
+$MESS["BPATT_DO_N_LOAD_CREATE_TITLE"] = "Bir belge oluştururken bir iş sürecini yönetme";
+$MESS["BPATT_DO_N_LOAD_EDIT"] = "Düzenleme sırasında yürütme yapma";
+$MESS["BPATT_DO_N_LOAD_EDIT_TITLE"] = "Bir belge düzenlerken bir iş sürecini yönetme";
+$MESS["BPATT_NAV"] = "İş Süreci Şablonları";
+$MESS["BPATT_NO_DOCUMENT_TYPE"] = "Belge türü gerekli.";
+$MESS["BPATT_NO_ENTITY"] = "İş sürecinin oluşturulacağı varlık belirlenmedi.";
+$MESS["BPATT_NO_MODULE_ID"] = "Modül kimliği gerekli.";
+$MESS["BPATT_NO_PERMS"] = "Bu belge için bir iş süreci çalıştırma iznin yok.";
+$MESS["BPATT_TITLE"] = "İş Süreci Şablonları";

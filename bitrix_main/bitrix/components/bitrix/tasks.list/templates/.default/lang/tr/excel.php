@@ -1,0 +1,31 @@
+<?
+$MESS["TASKS_DURATION_DAYS"] = "gün";
+$MESS["TASKS_DURATION_HOURS"] = "saat";
+$MESS["TASKS_ELAPSED_H"] = "s";
+$MESS["TASKS_ELAPSED_M"] = "M";
+$MESS["TASKS_EXCEL_ADD_IN_REPORT"] = "Raporda";
+$MESS["TASKS_EXCEL_CLOSED_DATE"] = "Tarihi Kapat";
+$MESS["TASKS_EXCEL_CREATED_BY"] = "Oluşturan";
+$MESS["TASKS_EXCEL_CREATED_DATE"] = "Oluşturulma Tarihi";
+$MESS["TASKS_EXCEL_DEADLINE"] = "Son tarih";
+$MESS["TASKS_EXCEL_END_DATE_PLAN"] = "Önerilen Bitiş Tarihi";
+$MESS["TASKS_EXCEL_GROUP_ID"] = "Grup";
+$MESS["TASKS_EXCEL_ID"] = "ID";
+$MESS["TASKS_EXCEL_MARK"] = "Skor";
+$MESS["TASKS_EXCEL_PRIORITY"] = "Öncelik";
+$MESS["TASKS_EXCEL_REAL_STATUS"] = "Durum";
+$MESS["TASKS_EXCEL_RESPONSIBLE_ID"] = "Sorumlu Kişi";
+$MESS["TASKS_EXCEL_START_DATE_PLAN"] = "Önerilen Başlangıç Tarihi";
+$MESS["TASKS_EXCEL_TIME_ESTIMATE"] = "Planlanan Süre";
+$MESS["TASKS_EXCEL_TIME_SPENT_IN_LOGS"] = "Fiili Süre";
+$MESS["TASKS_EXCEL_TITLE"] = "Görev";
+$MESS["TASKS_SIDEBAR_IN_REPORT_NO"] = "Hayır";
+$MESS["TASKS_SIDEBAR_IN_REPORT_YES"] = "Evet";
+$MESS["TASKS_STATUS_1"] = "Yeni ek alan";
+$MESS["TASKS_STATUS_2"] = "Bekleyen";
+$MESS["TASKS_STATUS_3"] = "Üzerinde çalışılıyor";
+$MESS["TASKS_STATUS_4"] = "Bitirildi varsayıldı";
+$MESS["TASKS_STATUS_5"] = "Tamamlanan";
+$MESS["TASKS_STATUS_6"] = "Ertelenen";
+$MESS["TASKS_STATUS_7"] = "Reddedilen";
+?>

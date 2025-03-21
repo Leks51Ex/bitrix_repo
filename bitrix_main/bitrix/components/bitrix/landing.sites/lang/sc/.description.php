@@ -1,0 +1,5 @@
+<?
+$MESS["LANDING_CMP_DESCRIPTION"] = "显示登陆站点列表。";
+$MESS["LANDING_CMP_NAME"] = "网站";
+$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";
+?>

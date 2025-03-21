@@ -1,0 +1,2 @@
+<?php
+$MESS["VOX_INVOICES_REQUEST_ORIGINAL"] = "索取原始文件";

@@ -1,0 +1,35 @@
+<?
+$MESS["SONET_C39_ARCHIVE_GROUP"] = "Arşiv Grubu";
+$MESS["SONET_C39_SEND_MESSAGE_GROUP"] = "Mesaj yaz ";
+$MESS["SONET_C39_SEND_MESSAGE_GROUP_TITLE"] = "Grup üyelerine bir mesaj yaz";
+$MESS["SONET_C6_ACT_BAN"] = "Yasaklı Listesi";
+$MESS["SONET_C6_ACT_DELETE"] = "Grubu Sil";
+$MESS["SONET_C6_ACT_EDIT"] = "Grubu Düzenle";
+$MESS["SONET_C6_ACT_EXIT"] = "Gruptan Ayrıl";
+$MESS["SONET_C6_ACT_FEAT"] = "Ayarları Düzenle";
+$MESS["SONET_C6_ACT_JOIN"] = "Gruba Katıl";
+$MESS["SONET_C6_ACT_MOD"] = "Moderatörleri Düzenle";
+$MESS["SONET_C6_ACT_MOD1"] = "Moderatörler";
+$MESS["SONET_C6_ACT_REQU"] = "Gruba Davet Et";
+$MESS["SONET_C6_ACT_USER"] = "Kullanıcıları Düzenle";
+$MESS["SONET_C6_ACT_USER1"] = "Üyeler";
+$MESS["SONET_C6_ACT_VREQU"] = "Katılma İsteklerini Görüntüle";
+$MESS["SONET_C6_ACT_VREQU_OUT"] = "Grup Davetleri";
+$MESS["SONET_C6_AL_USERS"] = "Tüm Üyeler";
+$MESS["SONET_C6_BLOG_T"] = "Blog";
+$MESS["SONET_C6_CREATED"] = "Oluşturulma Tarihi";
+$MESS["SONET_C6_DESCR"] = "Açıklama";
+$MESS["SONET_C6_FORUM_T"] = "Forum";
+$MESS["SONET_C6_MODS_TITLE"] = "Moderatörler";
+$MESS["SONET_C6_NMEM"] = "Üyeler";
+$MESS["SONET_C6_NO_MODS"] = "Moderatör yok";
+$MESS["SONET_C6_NO_USERS"] = "Üye yok";
+$MESS["SONET_C6_PHOTO_T"] = "Fotoğraflar";
+$MESS["SONET_C6_TOPIC"] = "Başlık";
+$MESS["SONET_C6_TYPE"] = "Grup Türü";
+$MESS["SONET_C6_TYPE_O1"] = "Bu herkese açık bir grup. Herkes katılabilir.";
+$MESS["SONET_C6_TYPE_O2"] = "Bu özel bir grup. Kullanıcı üyeliği için yönetici onayı gerekli.";
+$MESS["SONET_C6_TYPE_V1"] = "Bu grubu herkes görebilir.";
+$MESS["SONET_C6_TYPE_V2"] = "Bu gurup görünmez. Sadece gurup üyeleri görebilir.";
+$MESS["SONET_C6_USERS_T"] = "Üyeler";
+?>

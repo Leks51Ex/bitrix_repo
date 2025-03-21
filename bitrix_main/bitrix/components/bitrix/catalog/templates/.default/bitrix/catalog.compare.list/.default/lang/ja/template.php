@@ -1,0 +1,6 @@
+<?
+$MESS["CATALOG_COMPARE_ELEMENTS"] = "アイテムリストを比較する";
+$MESS["CATALOG_DELETE"] = "削除する";
+$MESS["CP_BCCL_TPL_MESS_COMPARE_COUNT"] = "比較表の項目:";
+$MESS["CP_BCCL_TPL_MESS_COMPARE_PAGE"] = "比較";
+?>

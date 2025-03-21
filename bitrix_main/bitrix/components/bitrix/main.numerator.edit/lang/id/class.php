@@ -1,0 +1,4 @@
+<?
+$MESS["NUMERATOR_EDIT_BTN_CANCEL"] = "Batal";
+$MESS["NUMERATOR_EDIT_BTN_SAVE"] = "Simpan";
+?>

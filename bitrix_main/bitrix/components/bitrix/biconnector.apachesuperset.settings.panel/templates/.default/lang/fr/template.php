@@ -1,0 +1,27 @@
+<?php
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_BUTTON"] = "Mettre à jour les données maintenant";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_BUTTON_HINT_TIME_LEFT_PLURAL_0"] = "La mise à jour sera disponible dans #COUNT# minute.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_BUTTON_HINT_TIME_LEFT_PLURAL_1"] = "La mise à jour sera disponible dans #COUNT# minutes.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_BUTTON_HINT_TIME_LEFT_PLURAL_2"] = "La mise à jour sera disponible dans #COUNT# minutes.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_ERROR"] = "Impossible de mettre à jour les données du tableau de bord.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_HINT_LINK"] = "Les données seront mises à jour pour tous les tableaux de bord. Vous pourrez de nouveau mettre à jour les données lorsque le minuteur de verrouillage de la mise à jour sera écoulé. #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_SUCCESS"] = "Les données du tableau de bord ont été mises à jour.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_KEY_COPIED"] = "La clé a été copiée.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_KEY_FIELD_HINT_LINK"] = "Cette clé est utilisée pour chiffrer les données du tableau de bord que le système envoie de Bitrix24 à BI Builder. Actualisez la clé si vous pensez qu'elle est compromise. #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_KEY_FIELD_REFRESH_BUTTON"] = "Actualiser";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_KEY_FIELD_REFRESH_BUTTON_MSGVER_1"] = "Mettre à jour la clé";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_RANGE_FIELD_HINT"] = "Cette plage de dates sera utilisée pour tous les tableaux de bord qui ne spécifient pas de plage de dates personnalisée. #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_RANGE_FIELD_HINT_LINK"] = "En savoir plus";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_RANGE_FROM_TITLE"] = "Date de début";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_RANGE_INCLUDE_LAST_DATE"] = "Incluse";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_RANGE_TO_TITLE"] = "Date de fin";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_DASHBOARD_HINT_LINK"] = "En savoir plus";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_DASHBOARD_RANGE_FIELD_HINT"] = "La nouvelle plage de dates sera appliquée à ce tableau de bord seulement.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_DELETE_SUPERSET_FIELD_DELETE_BUTTON"] = "Désactiver";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_DELETE_SUPERSET_FIELD_HINT"] = "Vos tableaux de bord, jeux de données et paramètres seront irrévocablement perdus si vous désactivez BI Builder. Vous devrez reconfigurer votre environnement BI Builder. #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_KEY_UPDATE_FAILED"] = "Erreur lors de l'actualisation de la clé.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_KEY_UPDATE_SUCCESS"] = "La clé a été actualisée.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_NEW_DASHBOARD_NOTIFICATION_HINT_LINK"] = "Sélectionnez les employés qui recevront des notifications quand un nouveau tableau de bord ou une nouvelle mise à jour sera disponible. #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_OWNER_HINT_LINK"] = "Le propriétaire du tableau de bord a un accès complet au tableau de bord. Vous pouvez perdre votre accès si vous changez de propriétaire du tableau de bord. #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_PARAMS_HINT_LINK"] = "La disponibilité des paramètres dépend de la portée sélectionnée. Seul le paramètre \"ID de l'utilisateur\" est disponible si aucune portée n'est sélectionnée. #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_SCOPE_HINT_LINK"] = "Ce tableau de bord sera présent dans les zones Bitrix24 sélectionnées. #HINT_LINK#";

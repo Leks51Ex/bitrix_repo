@@ -1,0 +1,3 @@
+<?
+$MESS["REPORT_IGNORE_FILTER_VALUE"] = "無視する";
+?>

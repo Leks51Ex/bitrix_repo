@@ -1,0 +1,9 @@
+<?
+$MESS["P_ELEMENT_ID"] = "アクティブな要素ID";
+$MESS["P_SHOW_PAGE_NAVIGATION"] = "ディスプレイのナビゲーション";
+$MESS["P_SHOW_PAGE_NAVIGATION_BOTH"] = "上下";
+$MESS["P_SHOW_PAGE_NAVIGATION_BOTTOM"] = "下";
+$MESS["P_SHOW_PAGE_NAVIGATION_NONE"] = "表示しない";
+$MESS["P_SHOW_PAGE_NAVIGATION_TOP"] = "上";
+$MESS["P_SLIDER_COUNT_CELL"] = "スライダ内の写真の数";
+?>

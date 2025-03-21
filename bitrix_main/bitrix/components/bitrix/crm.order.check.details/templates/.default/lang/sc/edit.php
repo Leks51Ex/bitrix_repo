@@ -1,0 +1,7 @@
+<?
+$MESS["CRM_BUTTONS_CANCEL"] = "取消";
+$MESS["CRM_BUTTONS_SAVE"] = "保存";
+$MESS["CRM_ORDER_CHECK_ADDITION_ENTITY"] = "选择额外的付款/发货";
+$MESS["CRM_ORDER_CHECK_MAIN_ENTITY"] = "选择付款或发货";
+$MESS["CRM_ORDER_CHECK_TYPE"] = "收据类型";
+?>

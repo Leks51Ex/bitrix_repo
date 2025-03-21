@@ -1,0 +1,9 @@
+<?php
+$MESS["TASKS_COUNTER_EXPIRED"] = "期限切れ";
+$MESS["TASKS_COUNTER_MORE"] = "もっと見る";
+$MESS["TASKS_COUNTER_MY"] = "マイアイテム:";
+$MESS["TASKS_COUNTER_MY_TASKS"] = "自分のタスク:";
+$MESS["TASKS_COUNTER_NEW_COMMENTS"] = "コメント";
+$MESS["TASKS_COUNTER_OTHER"] = "その他:";
+$MESS["TASKS_COUNTER_OTHER_TASKS"] = "その他のタスク: #TITLE#";
+$MESS["TASKS_COUNTER_READ_ALL"] = "すべて既読にする";

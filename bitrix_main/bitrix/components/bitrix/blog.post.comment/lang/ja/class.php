@@ -1,0 +1,27 @@
+<?
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "Blog はインストールされていません.";
+$MESS["BPC_SONET_COMMENT_TITLE"] = "ブログエントリ \"#TITLE#\"にコメントが追加されました";
+$MESS["B_B_PC_CAPTCHA_ERROR"] = "自動フォーム提出防止コードが正しくありません";
+$MESS["B_B_PC_COM_ERROR"] = "コメントの追加エラー:";
+$MESS["B_B_PC_COM_ERROR_EDIT"] = "コメントを更新中のエラー:";
+$MESS["B_B_PC_COM_ERROR_LOST"] = "コメントは見つかりませんでした";
+$MESS["B_B_PC_DUPLICATE_COMMENT"] = "既にあなたのコメントを追加しました";
+$MESS["B_B_PC_EDIT_ALREADY_COMMENTED"] = "あなたのコメントにコメントが既に作成されています";
+$MESS["B_B_PC_HIDDEN_POSTED"] = "コメントは正常に追加されました  このブログのコメントはあらかじめ作成されています  ブログのオーナーが承認したらコメントが表示されます";
+$MESS["B_B_PC_MES_DELED"] = "コメントを削除しました";
+$MESS["B_B_PC_MES_ERROR_DELETE"] = "コメントの削除中にエラーが発生しました";
+$MESS["B_B_PC_MES_ERROR_HIDE"] = "コメントを非表示にするエラー";
+$MESS["B_B_PC_MES_ERROR_SESSION"] = "あなたのセッションは期限切れです  あなたのコメントをもう一度投稿してください";
+$MESS["B_B_PC_MES_ERROR_SHOW"] = "コメントを表示中にエラーが発生しました";
+$MESS["B_B_PC_MES_HIDDEN_ADDED"] = "コメントは正常に追加されました  このブログのコメントはあらかじめ作成されています  ブログのオーナーが承認したらコメントが表示されます";
+$MESS["B_B_PC_MES_HIDDEN_EDITED"] = "あなたのコメントは正常に編集されました  このブログはモデレートされており、あなたのコメントはブログのモデレーター(オーナー)がチェックした後に表示されます";
+$MESS["B_B_PC_MES_NAME_TEMPLATE_DEFAULT"] = "#NOBR##LAST_NAME# #NAME##/NOBR#";
+$MESS["B_B_PC_MES_NOCOMMENTREASON_A"] = "未登録の訪問者はリンクを追加できません  登録または承認してください";
+$MESS["B_B_PC_MES_NOCOMMENTREASON_L"] = "システムパラメータはリンクを使用できません";
+$MESS["B_B_PC_MES_NOCOMMENTREASON_R"] = "あなたの評価は低すぎます  リンクは使用できません";
+$MESS["B_B_PC_NO_ANAME"] = "著者名が空です";
+$MESS["B_B_PC_NO_COMMENT"] = "コメントメッセージが空です";
+$MESS["B_B_PC_NO_RIGHTS"] = "メッセージにコメントする権限がありません";
+$MESS["B_B_PC_NO_RIGHTS_EDIT"] = "コメントを編集する権限がありません";
+$MESS["B_B_PC_SONET_POST_TITLE"] = "ブログに投稿「#TITLE#」を追加しました";
+?>

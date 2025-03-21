@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_FIELD_MULTI_EDIT_TYPE_ID_NOT_DEFINED"] = "缺少字段类型。";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安装 CRM 模块。";
+?>

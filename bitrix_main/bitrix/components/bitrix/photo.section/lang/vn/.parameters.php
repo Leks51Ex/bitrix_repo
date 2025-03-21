@@ -1,0 +1,32 @@
+<?
+$MESS["CP_BPS_BROWSER_TITLE"] = "Thiết lập tiêu đề cửa sổ trình duyệt từ giá trị thuộc tính";
+$MESS["CP_BPS_CACHE_GROUPS"] = "Tôn trọng Quyền Truy cập";
+$MESS["CP_BPS_SECTION_USER_FIELDS"] = "Section Properties";
+$MESS["IBLOCK_CACHE_FILTER"] = "Bộ nhớ Cache nếu bộ lọc đang hoạt động";
+$MESS["IBLOCK_DETAIL_URL"] = "URL của trang với các nội dung chi tiết";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD"] = "Trường để sắp xếp các bức ảnh";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER"] = "Sắp xếp theo yêu cầu các hình ảnh của mỗi phần";
+$MESS["IBLOCK_FIELD"] = "Lĩnh vực";
+$MESS["IBLOCK_FILTER_NAME_IN"] = "Tên của mảng với các giá trị sử dụng để lọc các yếu tố";
+$MESS["IBLOCK_IBLOCK"] = "Khối thông tin";
+$MESS["IBLOCK_LINE_ELEMENT_COUNT"] = "Số ảnh hiển thị trong một dòng của bảng";
+$MESS["IBLOCK_PAGE_ELEMENT_COUNT"] = "Số phần tử trên mỗi trang";
+$MESS["IBLOCK_PROPERTY"] = "Các thuộc tính";
+$MESS["IBLOCK_SECTION_CODE"] = "Section code";
+$MESS["IBLOCK_SECTION_ID"] = "Section ID";
+$MESS["IBLOCK_SECTION_URL"] = "URL của trang với các nội dung phần";
+$MESS["IBLOCK_SORT_ACTIVE_FROM"] = "active from";
+$MESS["IBLOCK_SORT_ACTIVE_TO"] = "tích cực";
+$MESS["IBLOCK_SORT_ASC"] = "tăng dần";
+$MESS["IBLOCK_SORT_DESC"] = "giảm dần";
+$MESS["IBLOCK_SORT_ID"] = "ID";
+$MESS["IBLOCK_SORT_NAME"] = "tên";
+$MESS["IBLOCK_SORT_SHOWS"] = "lượt xem trung bình";
+$MESS["IBLOCK_SORT_SORT"] = "chỉ số phân loại";
+$MESS["IBLOCK_SORT_TIMESTAMP"] = "ngày sửa đổi";
+$MESS["IBLOCK_TYPE"] = "Loại của khối thông tin";
+$MESS["T_IBLOCK_DESC_ADD_SECTIONS_CHAIN"] = "Thêm vào mục tên để chuyển hướng mẩu bánh mì";
+$MESS["T_IBLOCK_DESC_DESCRIPTION"] = "Thiết lập mô tả của trang từ thuộc tính";
+$MESS["T_IBLOCK_DESC_KEYWORDS"] = "Thiết lập từ khóa của trang từ thuộc tính";
+$MESS["T_IBLOCK_DESC_PAGER_PHOTO"] = "Hình ảnh";
+?>

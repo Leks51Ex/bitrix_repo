@@ -1,0 +1,30 @@
+<?
+$MESS["F_ATTACH_FILES"] = "Đính kèm file";
+$MESS["F_CAPTCHA_PROMT"] = "Ký tự hình ảnh CAPTCHA";
+$MESS["F_CAPTCHA_TITLE"] = "Bảo vệ thư rác bot (CAPTCHA)";
+$MESS["F_C_GOTO_FORUM"] = "Đi đến forum &gt;&gt;";
+$MESS["F_DELETE"] = "Xoá";
+$MESS["F_DELETE_CONFIRM"] = "Tin nhắn sẽ bị khóa vĩnh viễn. Tiếp tục?";
+$MESS["F_DOWNLOAD"] = "Tải về";
+$MESS["F_FILE_EXTENSION"] = "Cho phép file: #EXTENSION#";
+$MESS["F_FILE_SIZE"] = "kích thước tập tin không được vượt quá #SIZE#";
+$MESS["F_HIDE"] = "Ẩn";
+$MESS["F_LOAD_FILE"] = "Tải file";
+$MESS["F_LOAD_IMAGE"] = "Tải hình ảnh";
+$MESS["F_NAME"] = "Tên";
+$MESS["F_PREVIEW"] = "Xem trước";
+$MESS["F_QUOTE_FULL"] = "Trích";
+$MESS["F_QUOTE_HINT"] = "Để Trích các tin nhắn trả lời trong hình thức chọn văn bản và bấm vào đây";
+$MESS["F_SHOW"] = "Hiển thị";
+$MESS["F_WAIT"] = "Vui lòng đợi...";
+$MESS["F_WANT_ALLOW_SMILES"] = "Bạn có muốn <b>cho phép</b> biểu tượng mặt cười trong bài viết này?";
+$MESS["F_WANT_SUBSCRIBE_TOPIC"] = "Theo dõi bài viết mới trong chủ đề này";
+$MESS["JERROR_MAX_LEN"] = "Độ dài tin nhắn tối đa là ký hiệu #MAX_LENGTH#. Tổng số ký tự: #LENGTH#.";
+$MESS["JERROR_NO_MESSAGE"] = "Vui lòng cung cấp tin nhắn của bạn.";
+$MESS["JERROR_NO_TOPIC_NAME"] = "Vui lòng cung cấp tiêu đề tin nhắn.";
+$MESS["JQOUTE_AUTHOR_WRITES"] = "viết";
+$MESS["OPINIONS_EMAIL"] = "E-mail của bạn";
+$MESS["OPINIONS_NAME"] = "Tên của bạn ";
+$MESS["OPINIONS_PREVIEW"] = "Xem trước";
+$MESS["OPINIONS_SEND"] = "Gửi";
+?>

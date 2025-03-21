@@ -1,0 +1,15 @@
+<?
+$MESS["CRM_CATALOG_MODULE_NOT_INSTALLED"] = "未安装商业目录模块。";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安装 CRM 模块。";
+$MESS["CRM_PERMISSION_DENIED"] = "访问被拒绝";
+$MESS["CRM_VAT_ADD_UNKNOWN_ERROR"] = "创建增值税税率时出错。";
+$MESS["CRM_VAT_DELETE_UNKNOWN_ERROR"] = "删除增值税税率时出错。";
+$MESS["CRM_VAT_FIELD_ACTIVE"] = "活动";
+$MESS["CRM_VAT_FIELD_C_SORT"] = "排序";
+$MESS["CRM_VAT_FIELD_ID"] = "ID";
+$MESS["CRM_VAT_FIELD_NAME"] = "名称";
+$MESS["CRM_VAT_FIELD_RATE"] = "比率";
+$MESS["CRM_VAT_NOT_FOUND"] = "未找到增值税税率。";
+$MESS["CRM_VAT_SECTION_MAIN"] = "增值税税率";
+$MESS["CRM_VAT_UPDATE_UNKNOWN_ERROR"] = "更新增值税税率时出错。";
+?>

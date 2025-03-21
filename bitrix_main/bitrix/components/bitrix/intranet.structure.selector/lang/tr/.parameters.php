@@ -1,0 +1,9 @@
+<?
+$MESS["INTR_ISS_GROUP_FILTER"] = "Filtre Parametreleri";
+$MESS["INTR_ISS_PARAM_FILTER_DEPARTMENT_SINGLE"] = "Filtrelenmiş Departmanlar";
+$MESS["INTR_ISS_PARAM_FILTER_DEPARTMENT_SINGLE_VALUE_N"] = "Çoklu";
+$MESS["INTR_ISS_PARAM_FILTER_DEPARTMENT_SINGLE_VALUE_Y"] = "tek";
+$MESS["INTR_ISS_PARAM_FILTER_NAME"] = "Filter Adı";
+$MESS["INTR_ISS_PARAM_FILTER_SESSION"] = "Filtreyi Oturum içinde Depola";
+$MESS["INTR_ISS_PARAM_LIST_URL"] = "Çalışan Listesi Sayfası";
+?>

@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_CONTACT_COMPLEX_NAME"] = "Kontak";
+$MESS["CRM_CONTACT_NAME"] = "Kontak";
+?>

@@ -1,0 +1,7 @@
+<?
+$MESS["ORDER_PAYMENT_ADD"] = "支払いを追加";
+$MESS["ORDER_PAYMENT_ADD_TITLE"] = "支払いを追加";
+$MESS["ORDER_PAYMENT_CRM_TYPE"] = "CRMモード";
+$MESS["ORDER_PAYMENT_DELETE"] = "支払いを削除";
+$MESS["ORDER_PAYMENT_DELETE_TITLE"] = "支払いを削除";
+?>

@@ -1,0 +1,15 @@
+<?
+$MESS["TIMEMAN_MODULE_NOT_INSTALLED"] = "<strong>Working Time Management</strong>モジュールがインストールされていません。";
+$MESS["TM_SCHEDULE_PLAN_DELETE_USER_CONFIRM"] = "このスケジュールから #USER_NAME# さんを削除してもよろしいですか（それぞれのシフトもこのスケジュールから削除されます）？";
+$MESS["TM_SCHEDULE_PLAN_DELETE_USER_CONFIRM_NO"] = "いいえ";
+$MESS["TM_SCHEDULE_PLAN_DELETE_USER_CONFIRM_TITLE"] = "従業員の割り当て解除";
+$MESS["TM_SCHEDULE_PLAN_DELETE_USER_CONFIRM_YES"] = "はい";
+$MESS["TM_SCHEDULE_PLAN_TITLE"] = "#SCHEDULE_NAME# - スケジュール";
+$MESS["TM_SCHEDULE_PLAN_TODAY"] = "今日";
+$MESS["TM_SCHEDULE_PLAN_UNBIND_USER_CONFIRM"] = "このスケジュールから従業員の割り当てを解除してもよろしいですか？";
+$MESS["TM_SCHEDULE_PLAN_USER_ADD"] = "従業員を追加";
+$MESS["TM_SCHEDULE_SHIFT_PLAN_ACCESS_DENIED"] = "権限がありません。";
+$MESS["TM_SCHEDULE_SHIFT_PLAN_SCHEDULE_NOT_FOUND"] = "スケジュールが見つかりませんでした";
+$MESS["TM_SHIFT_PLAN_MENU_ADD_SHIFT_TITLE"] = "シフトを追加";
+$MESS["TM_SHIFT_PLAN_MENU_DELETE_SHIFT_TITLE"] = "シフトを削除";
+?>

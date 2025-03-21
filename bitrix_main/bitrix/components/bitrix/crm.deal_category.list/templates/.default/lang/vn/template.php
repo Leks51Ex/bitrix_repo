@@ -1,0 +1,18 @@
+<?
+$MESS["CRM_ALL"] = "Tổng";
+$MESS["CRM_DEAL_CATEGORY_BUTTON_CANCEL"] = "Hủy bỏ";
+$MESS["CRM_DEAL_CATEGORY_BUTTON_SAVE"] = "Lưu";
+$MESS["CRM_DEAL_CATEGORY_DELETE"] = "Xoá";
+$MESS["CRM_DEAL_CATEGORY_DELETE_CONFIRM"] = "Bạn có chắc bạn muốn xóa \"#NAME#\"?";
+$MESS["CRM_DEAL_CATEGORY_DELETE_TITLE"] = "Xóa đường ống";
+$MESS["CRM_DEAL_CATEGORY_EDIT"] = "Chỉnh sửa";
+$MESS["CRM_DEAL_CATEGORY_EDIT_TITLE"] = "Chỉnh sửa đường ống";
+$MESS["CRM_DEAL_CATEGORY_ERROR_TITLE"] = "Lỗi khi lưu";
+$MESS["CRM_DEAL_CATEGORY_FIELD_NAME"] = "Tên";
+$MESS["CRM_DEAL_CATEGORY_FIELD_NAME_NOT_ASSIGNED_ERROR"] = "Giá trị trường \"Tên\" bị thiếu.";
+$MESS["CRM_DEAL_CATEGORY_FIELD_SORT"] = "Phân loại";
+$MESS["CRM_DEAL_CATEGORY_STATUS_EDIT"] = "Chỉnh sửa giai đoạn";
+$MESS["CRM_DEAL_CATEGORY_STATUS_EDIT_TITLE"] = "Chỉnh sửa giai đoạn đường ống";
+$MESS["CRM_DEAL_CATEGORY_TITLE_CREATE"] = "Tạo đường ống";
+$MESS["CRM_DEAL_CATEGORY_TITLE_EDIT"] = "Chỉnh sửa đường ống";
+?>

@@ -1,0 +1,5 @@
+<?
+$MESS["TASKS_CANCEL"] = "Batal";
+$MESS["TASKS_FILTER_ID"] = "ID";
+$MESS["TASKS_FILTER_SELECT"] = "pilih";
+?>

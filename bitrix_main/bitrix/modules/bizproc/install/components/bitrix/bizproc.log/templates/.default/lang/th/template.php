@@ -1,0 +1,23 @@
+<?php
+$MESS["BPABL_LOG"] = "ประวัติกระบวนการทางธุรกิจ";
+$MESS["BPABL_RES_1"] = "ไม่";
+$MESS["BPABL_RES_2"] = "สำเร็จ";
+$MESS["BPABL_RES_3"] = "ยกเลิก";
+$MESS["BPABL_RES_4"] = "ข้อผิดพลาด";
+$MESS["BPABL_RES_5"] = "ไม่ได้เตรียมใช้งาน";
+$MESS["BPABL_RES_6"] = "ไม่ได้กำหนด";
+$MESS["BPABL_STATE_MODIFIED_1"] = "วันที่ของสถานะปัจจุบัน";
+$MESS["BPABL_STATE_NAME_1"] = "สถานะปัจจุบันของกระบวนการทางธุรกิจ";
+$MESS["BPABL_STATUS_1"] = "เตรียมใช้งาน";
+$MESS["BPABL_STATUS_2"] = "กำลังดำเนินการ";
+$MESS["BPABL_STATUS_3"] = "ถูกยกเลิก";
+$MESS["BPABL_STATUS_4"] = "เสร็จสมบูรณ์";
+$MESS["BPABL_STATUS_5"] = "ข้อผิดพลาด";
+$MESS["BPABL_STATUS_6"] = "ไม่ได้กำหนด";
+$MESS["BPABL_TYPE_1_1"] = "กิจกรรมที่เปิดตัว '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_2_1"] = "กิจกรรมที่เสร็จสมบูรณ์ '#ACTIVITY#' สถานะที่ส่งกลับ: '#STATUS#' ผลลัพธ์: '#RESULT#'#NOTE#";
+$MESS["BPABL_TYPE_3_1"] = "กิจกรรมที่ยกเลิก '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_4_1"] = "ข้อผิดพลาดของกิจกรรม '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_5_1"] = "กิจกรรม '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_6_1"] = "กิจกรรมที่ไม่รู้จักที่เกี่ยวข้องกับ '#ACTIVITY#'#NOTE# ได้รับการดำเนินการแล้ว";
+$MESS["BPWC_WLCT_TOTAL"] = "ทั้งหมด";

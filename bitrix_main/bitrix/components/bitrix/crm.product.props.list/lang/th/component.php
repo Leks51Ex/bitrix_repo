@@ -1,0 +1,29 @@
+<?
+$MESS["CRM_INTS_TASKS_NAV"] = "เรคคอร์ด";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล CRM";
+$MESS["CRM_PERMISSION_DENIED"] = "ปฏิเสธการเข้าใช้";
+$MESS["CRM_PRODUCT_PROP_IBLOCK_ALL"] = "(อะไรก็ได้)";
+$MESS["CRM_PRODUCT_PROP_IBLOCK_PROP_E"] = "ผูกกับองค์ประกอบ";
+$MESS["CRM_PRODUCT_PROP_IBLOCK_PROP_F"] = "ไฟล์";
+$MESS["CRM_PRODUCT_PROP_IBLOCK_PROP_G"] = "ผูกกับส่วน";
+$MESS["CRM_PRODUCT_PROP_IBLOCK_PROP_L"] = "รายการ";
+$MESS["CRM_PRODUCT_PROP_IBLOCK_PROP_N"] = "ตัวเลข";
+$MESS["CRM_PRODUCT_PROP_IBLOCK_PROP_S"] = "สตริง";
+$MESS["CRM_PRODUCT_PROP_PL_ACTIVE"] = "ใช้งานอยู่";
+$MESS["CRM_PRODUCT_PROP_PL_CODE"] = "รหัสสัญลักษณ์";
+$MESS["CRM_PRODUCT_PROP_PL_DELETE_ERROR"] = "เกิดข้อผิดพลาดขณะลบวัตถุ";
+$MESS["CRM_PRODUCT_PROP_PL_FILTRABLE"] = "แสดงในตัวกรอง";
+$MESS["CRM_PRODUCT_PROP_PL_HINT"] = "คำบอกใบ้";
+$MESS["CRM_PRODUCT_PROP_PL_ID"] = "ไอดี";
+$MESS["CRM_PRODUCT_PROP_PL_IS_REQUIRED"] = "จำเป็นต้องมี";
+$MESS["CRM_PRODUCT_PROP_PL_MULTIPLE"] = "หลาย";
+$MESS["CRM_PRODUCT_PROP_PL_NAME"] = "ชื่อ";
+$MESS["CRM_PRODUCT_PROP_PL_PROPERTY_TYPE"] = "ประเภท";
+$MESS["CRM_PRODUCT_PROP_PL_SAVE_ERROR"] = "เกิดข้อผิดพลาดในการบันทึกเรคคอร์ด ##ID#: #ERROR_TEXT#";
+$MESS["CRM_PRODUCT_PROP_PL_SEARCHABLE"] = "ค้นหา";
+$MESS["CRM_PRODUCT_PROP_PL_SORT"] = "เรียงลำดับ";
+$MESS["CRM_PRODUCT_PROP_PL_WITH_DESCRIPTION"] = "มีรายละเอียด";
+$MESS["CRM_PRODUCT_PROP_PL_XML_ID"] = "ไอดีภายนอก";
+$MESS["CRM_SALE_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล e-Store";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูลบล็อกข้อมูล";
+?>

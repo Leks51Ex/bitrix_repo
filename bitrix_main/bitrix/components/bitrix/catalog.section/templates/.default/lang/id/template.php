@@ -1,0 +1,27 @@
+<?php
+$MESS["ADD_TO_BASKET_OK"] = "Item ditambahkan ke troli";
+$MESS["CP_BCS_TPL_MESS_PRODUCT_NOT_AVAILABLE_SERVICE"] = "Tidak tersedia";
+$MESS["CT_BCS_CATALOG_BASKET_UNKNOWN_ERROR"] = "Terjadi kesalahan tak dikenal saat menambahkan item ke troli belanja";
+$MESS["CT_BCS_CATALOG_BTN_MESSAGE_BASKET_REDIRECT"] = "Pergi ke troli belanja";
+$MESS["CT_BCS_CATALOG_BTN_MESSAGE_CLOSE"] = "Tutup";
+$MESS["CT_BCS_CATALOG_BTN_MESSAGE_CLOSE_POPUP"] = "Lanjutkan berbelanja";
+$MESS["CT_BCS_CATALOG_BTN_MESSAGE_COMPARE_REDIRECT"] = "Bandingkan produk";
+$MESS["CT_BCS_CATALOG_BTN_MESSAGE_LAZY_LOAD_WAITER"] = "Memuat";
+$MESS["CT_BCS_CATALOG_BTN_MESSAGE_SEND_PROPS"] = "Pilih";
+$MESS["CT_BCS_CATALOG_MESS_BTN_LAZY_LOAD"] = "Lihat lengkap";
+$MESS["CT_BCS_CATALOG_MESS_COMPARE_OK"] = "Produk telah ditambahkan ke bagan perbandingan";
+$MESS["CT_BCS_CATALOG_MESS_COMPARE_TITLE"] = "Perbandingan produk";
+$MESS["CT_BCS_CATALOG_MESS_COMPARE_UNKNOWN_ERROR"] = "Kesalahan saat menambahkan produk ke bagan perbandingan";
+$MESS["CT_BCS_CATALOG_PRICE_TOTAL_PREFIX"] = "total";
+$MESS["CT_BCS_CATALOG_RELATIVE_QUANTITY_FEW"] = "hanya tersisa sedikit";
+$MESS["CT_BCS_CATALOG_RELATIVE_QUANTITY_MANY"] = "stok tersedia";
+$MESS["CT_BCS_CATALOG_SHOW_MAX_QUANTITY"] = "Stok";
+$MESS["CT_BCS_CATALOG_TITLE_BASKET_PROPS"] = "Properti item untuk diteruskan ke troli belanja";
+$MESS["CT_BCS_CATALOG_TITLE_ERROR"] = "Kesalahan";
+$MESS["CT_BCS_TPL_ELEMENT_DELETE_CONFIRM"] = "Semua informasi yang ditautkan pada rekaman ini akan dihapus. Tetap lanjutkan?";
+$MESS["CT_BCS_TPL_MESS_BTN_ADD_TO_BASKET"] = "Tambahkan ke troli";
+$MESS["CT_BCS_TPL_MESS_BTN_BUY"] = "Beli";
+$MESS["CT_BCS_TPL_MESS_BTN_COMPARE"] = "Bandingkan";
+$MESS["CT_BCS_TPL_MESS_BTN_DETAIL"] = "Selengkapnya";
+$MESS["CT_BCS_TPL_MESS_BTN_SUBSCRIBE"] = "Beri tahu saat kembali tersedia";
+$MESS["CT_BCS_TPL_MESS_PRODUCT_NOT_AVAILABLE"] = "tidak tersedia dari stok";

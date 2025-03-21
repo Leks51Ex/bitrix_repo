@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_MAIL_TEMPLATE_ENTITY_FIELD_SELECTOR"] = "Chọn các vùng";
+$MESS["CRM_MAIL_TEMPLATE_ENTITY_FIELD_SELECTOR_ADD_BTN"] = "Thêm";
+$MESS["CRM_MAIL_TEMPLATE_TAB_1"] = "Bản mẫu e-mail";
+$MESS["CRM_MAIL_TEMPLATE_TAB_1_TITLE"] = "Các thông số bản mẫu e-mail";
+?>

@@ -1,0 +1,34 @@
+<?
+$MESS["INTASK_C29T_AUTHOR"] = "Rezervasyon yapan kullanıcı";
+$MESS["INTASK_C29T_DATE_FROM"] = "Başlangıç Tarihi";
+$MESS["INTASK_C29T_DATE_TO"] = "Bitiş tarihi";
+$MESS["INTASK_C29T_DESCR"] = "Açıklama";
+$MESS["INTASK_C29T_DURATION"] = "Süre";
+$MESS["INTASK_C29T_FLOOR"] = "Zemin";
+$MESS["INTASK_C29T_FROM_TIME"] = "Süreyi Başlat";
+$MESS["INTASK_C29T_HOURS"] = "saat";
+$MESS["INTASK_C29T_NAME"] = "Ad";
+$MESS["INTASK_C29T_NO"] = "Hayır";
+$MESS["INTASK_C29T_PERSONS"] = "Kişiler";
+$MESS["INTASK_C29T_PHONE"] = "Telefon";
+$MESS["INTASK_C29T_PLACE"] = "Kapasite";
+$MESS["INTASK_C29T_PREP"] = "Toplantı Odası Hazırlama";
+$MESS["INTASK_C29T_REGULAR"] = "Tekrarla";
+$MESS["INTASK_C29T_REGULARITY_NONE"] = "Hiçbir zaman";
+$MESS["INTASK_C29T_REGULARITY_UNTIL"] = "şu zamana kadar tekrarla:";
+$MESS["INTASK_C29T_RWD_1"] = "Pazartesi";
+$MESS["INTASK_C29T_RWD_2"] = "Salı";
+$MESS["INTASK_C29T_RWD_3"] = "Çarşamba";
+$MESS["INTASK_C29T_RWD_4"] = "Perşembe";
+$MESS["INTASK_C29T_RWD_5"] = "Cuma";
+$MESS["INTASK_C29T_RWD_6"] = "Cumartesi";
+$MESS["INTASK_C29T_RWD_7"] = "Pazar";
+$MESS["INTASK_C29T_SAVE"] = "Rezervasyon";
+$MESS["INTASK_C29T_TO_TIME"] = "Bitiş saati";
+$MESS["INTASK_C29T_TRANSS_DAILY"] = "her #VAL# gün";
+$MESS["INTASK_C29T_TRANSS_MONTHLY"] = "her #VAL# ay";
+$MESS["INTASK_C29T_TRANSS_WEEKLY"] = "her #VAL# hafta";
+$MESS["INTASK_C29T_TRANSS_YEARLY"] = "her #VAL# yıl";
+$MESS["INTASK_C29T_TYPE"] = "Toplantı Türü";
+$MESS["INTASK_C29T_YES"] = "Evet";
+?>

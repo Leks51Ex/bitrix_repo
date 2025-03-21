@@ -1,0 +1,3 @@
+<?
+$MESS["VOX_TRANSCRIPT_FILTER_PLACEHOLDER"] = "輸入搜尋文字";
+?>

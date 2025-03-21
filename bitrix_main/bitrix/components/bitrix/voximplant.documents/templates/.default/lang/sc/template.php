@@ -1,0 +1,21 @@
+<?php
+$MESS["VI_DOCS_BODY"] = "对于某些国家/地区，法律要求电话服务提供商核实您的住宅状态，依此同意给您租用的电话号码。<br>您可能需要提交相应的文件，以便能够在整个租赁期内租用电话号码。";
+$MESS["VI_DOCS_BODY_2"] = "在某些国家/地区，法律要求电话公司在您使用租借号码之前必须向您索取法律文件。<br>如果您想在租期内保留和使用这些号码，则需如此。在上传所需文档并获得批准之前，您将无法使用这些号码。";
+$MESS["VI_DOCS_COUNTRY_RU"] = "俄罗斯";
+$MESS["VI_DOCS_SERVICE_ERROR"] = "向文档上传服务发送请求时出错";
+$MESS["VI_DOCS_SERVICE_UPLOAD"] = "上传";
+$MESS["VI_DOCS_STATUS"] = "状态：";
+$MESS["VI_DOCS_TABLE_COMMENT"] = "评论";
+$MESS["VI_DOCS_TABLE_LINK"] = "文档上传历史";
+$MESS["VI_DOCS_TABLE_OWNER"] = "所有者";
+$MESS["VI_DOCS_TABLE_STATUS"] = "检查状态";
+$MESS["VI_DOCS_TABLE_TYPE"] = "法律实体";
+$MESS["VI_DOCS_TABLE_UPLOAD"] = "上传于";
+$MESS["VI_DOCS_TITLE"] = "上传文档以租借电话号码";
+$MESS["VI_DOCS_UNTIL_DATE"] = "您上传文件的截止日期为 #DATE#";
+$MESS["VI_DOCS_UNTIL_DATE_NOTICE"] = "在所示日期后，预留号码将被断开，资金将返还到您的帐户。<br><br>租用号码在租期结束前一直有效。";
+$MESS["VI_DOCS_UPDATE_BTN"] = "上传新文档";
+$MESS["VI_DOCS_UPLOAD_BTN"] = "上传文档";
+$MESS["VI_DOCS_UPLOAD_NOTICE"] = "请注意，您即将提交的文件将直接上传至 Voximplant, Inc，并根据相应国家/地区的法律进行处理。 Bitrix24 不会收集、存储或处理与这些文档相关的任何数据。";
+$MESS["VI_DOCS_UPLOAD_WHILE_RENT"] = "如果需要验证您的文件才能租用电话号码，则号码租用的用户界面将显示文件上传表单";
+$MESS["VI_DOCS_WAIT"] = "正在上传......请稍候";

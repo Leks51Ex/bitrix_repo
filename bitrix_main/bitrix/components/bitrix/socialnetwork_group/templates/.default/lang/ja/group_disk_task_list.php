@@ -1,0 +1,4 @@
+<?
+$MESS["DISK_BIZPROC_BACK_TEXT"] = "戻る";
+$MESS["DISK_BIZPROC_BACK_TITLE"] = "戻る";
+?>

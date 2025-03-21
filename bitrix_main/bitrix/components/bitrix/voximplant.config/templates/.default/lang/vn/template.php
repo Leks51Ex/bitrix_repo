@@ -1,0 +1,32 @@
+<?
+$MESS["VI_CONFIG_BUY"] = "Thuê số điện thoại";
+$MESS["VI_CONFIG_BUY_DESC_1"] = "định tuyến cuộc gọi cho nhiều nhân viên";
+$MESS["VI_CONFIG_BUY_DESC_2"] = "ghi âm các cuộc gọi";
+$MESS["VI_CONFIG_BUY_DESC_3"] = "tích hợp CRM toàn diện";
+$MESS["VI_CONFIG_BUY_DESC_4"] = "mức giá cạnh tranh";
+$MESS["VI_CONFIG_BUY_DESC_5"] = "số điện thoại ở hơn 50 quốc gia";
+$MESS["VI_CONFIG_LINK"] = "Kết nối số của bạn";
+$MESS["VI_CONFIG_LINK_DESC_1"] = "chỉ cuộc gọi đi";
+$MESS["VI_CONFIG_LINK_DESC_2"] = "không mua số điện thoại trong Bitrix24";
+$MESS["VI_CONFIG_LINK_DESC_3"] = "ghi lại các cuộc gọi trong hồ sơ khách hàng";
+$MESS["VI_CONFIG_LINK_DESC_4"] = "ghi âm các cuộc gọi đi";
+$MESS["VI_CONFIG_LINK_DESC_5"] = "hỗ trợ gọi lại";
+$MESS["VI_CONFIG_NOTICE_NEW"] = "Chọn số gọi đi mặc định ở đây: \"#LINK_CONFIG#\". Thiết lập số máy lẻ ở đây: \"#LINK_USERS#\".";
+$MESS["VI_CONFIG_OWN"] = "Kết nối PBX của bạn";
+$MESS["VI_CONFIG_OWN_DESC_1"] = "định tuyến cuộc gọi cho nhiều nhân viên";
+$MESS["VI_CONFIG_OWN_DESC_2"] = "ghi âm các cuộc gọi";
+$MESS["VI_CONFIG_OWN_DESC_3"] = "tích hợp CRM toàn diện";
+$MESS["VI_CONFIG_OWN_DESC_4"] = "thanh toán cho nhà cung cấp telephony của bạn";
+$MESS["VI_CONFIG_PAGE_CONFIG"] = "Cài đặt Khác";
+$MESS["VI_CONFIG_PAGE_CONFIG_USERS"] = "Người dùng Telephony";
+$MESS["VI_CONFIG_PARTNERS_TITLE"] = "Telephony Đối tác";
+$MESS["VI_CONFIG_RENT"] = "Thuê một số";
+$MESS["VI_CONFIG_RENT_2_DESC"] = "Kết nối một số điện thoại, gọi và nhận cuộc gọi trong Bitrix24. Tiện lợi, phải chăng!";
+$MESS["VI_CONFIG_RENT_DESC"] = "Thuê một số từ nhà điều hành của chúng tôi và chấp nhận cuộc gọi trực tiếp bên trong Bitrix24. Thật dễ dàng, thuận tiện, và giúp doanh nghiệp của bạn!";
+$MESS["VI_CONFIG_SET"] = "Kết nối";
+$MESS["VI_CONFIG_SET_ACTIVE"] = "Đã kết nối";
+$MESS["VI_CONFIG_SET_OTHER"] = "Kết nối thông qua ứng dụng chợ";
+$MESS["VI_CONFIG_SIP"] = "Kết nối SIP PBX";
+$MESS["VI_CONFIG_SIP_DESC"] = "Bạn có PBX của riêng bạn? Kết nối nó và gọi trực tiếp từ Bitrix24.";
+$MESS["VI_CONFIG_WELCOME_MESSAGE"] = "Thực hiện cuộc gọi cho các khách hàng của bạn từ Bitrix24 ở mức giá phải chăng. Thuê một số để chấp nhận cuộc gọi đến. Ghi lại các cuộc hội thoại, thêm sự kiện cuộc gọi đến với CRM, tạo địa chỉ liên lạc từ các cuộc gọi đến và xem báo cáo tất cả các cuộc gọi với Bitrix24.";
+?>

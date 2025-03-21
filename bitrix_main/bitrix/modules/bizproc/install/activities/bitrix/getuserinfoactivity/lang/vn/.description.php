@@ -1,0 +1,27 @@
+<?php
+$MESS["BPGUIA_DESCR_DESCR"] = "Thông tin nhân viên";
+$MESS["BPGUIA_DESCR_DESCR_1"] = "Gửi thông tin về nhân viên đến các quy tắc tự động hóa khác.";
+$MESS["BPGUIA_DESCR_NAME"] = "Thông tin nhân viên";
+$MESS["BPGUIA_DESCR_NAME_1"] = "Nhận thông tin về nhân viên";
+$MESS["BPGUIA_IS_ABSENT"] = "Không ở văn phòng (theo lịch nghỉ phép)";
+$MESS["BPGUIA_TIMEMAN_STATUS"] = "Trạng thái ngày làm việc";
+$MESS["BPGUIA_USER_ACTIVE"] = "Hoạt động";
+$MESS["BPGUIA_USER_EMAIL"] = "Email";
+$MESS["BPGUIA_USER_LAST_NAME"] = "Họ";
+$MESS["BPGUIA_USER_LOGIN"] = "Đăng nhập";
+$MESS["BPGUIA_USER_NAME"] = "Tên";
+$MESS["BPGUIA_USER_PERSONAL_BIRTHDAY"] = "Ngày sinh";
+$MESS["BPGUIA_USER_PERSONAL_CITY"] = "Thành phố";
+$MESS["BPGUIA_USER_PERSONAL_MOBILE"] = "Điện thoại di động";
+$MESS["BPGUIA_USER_PERSONAL_WWW"] = "Website";
+$MESS["BPGUIA_USER_SECOND_NAME"] = "Tên thứ hai";
+$MESS["BPGUIA_USER_UF_DEPARTMENT"] = "Phòng ban (danh sách ID)";
+$MESS["BPGUIA_USER_UF_FACEBOOK"] = "Facebook";
+$MESS["BPGUIA_USER_UF_LINKEDIN"] = "LinkedIn";
+$MESS["BPGUIA_USER_UF_PHONE_INNER"] = "Số máy lẻ";
+$MESS["BPGUIA_USER_UF_SKYPE"] = "Skype";
+$MESS["BPGUIA_USER_UF_TWITTER"] = "Twitter";
+$MESS["BPGUIA_USER_UF_WEB_SITES"] = "Website khác";
+$MESS["BPGUIA_USER_UF_XING"] = "Xing";
+$MESS["BPGUIA_USER_WORK_PHONE"] = "Điện thoại cơ quan";
+$MESS["BPGUIA_USER_WORK_POSITION"] = "Chức danh công việc";

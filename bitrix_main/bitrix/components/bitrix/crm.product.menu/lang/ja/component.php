@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_ADD_PRODUCT_SECTION"] = "セクションの追加";
+$MESS["CRM_ADD_PRODUCT_SECTION_TITLE"] = "現在のセクションに新しいセクションを追加する";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM はインストールされていません.";
+$MESS["CRM_MOVE_UP"] = "上へ";
+$MESS["CRM_MOVE_UP_TITLE"] = "親セクションを参照";
+$MESS["CRM_PERMISSION_DENIED"] = "アクセス拒否されました";
+$MESS["CRM_PRODUCT_ADD"] = "製品の追加";
+$MESS["CRM_PRODUCT_ADD_TITLE"] = "新しい製品を作成する";
+$MESS["CRM_PRODUCT_COPY"] = "コピー";
+$MESS["CRM_PRODUCT_COPY_TITLE"] = "製品コピーページを開く";
+$MESS["CRM_PRODUCT_DELETE"] = "製品を削除する";
+$MESS["CRM_PRODUCT_DELETE_DLG_BTNTITLE"] = "製品を削除する";
+$MESS["CRM_PRODUCT_DELETE_DLG_MESSAGE"] = "この商品を削除してもよろしいですか?";
+$MESS["CRM_PRODUCT_DELETE_DLG_TITLE"] = "製品を削除する";
+$MESS["CRM_PRODUCT_DELETE_TITLE"] = "この商品を削除する";
+$MESS["CRM_PRODUCT_EDIT"] = "編集";
+$MESS["CRM_PRODUCT_EDIT_TITLE"] = "この商品を編集";
+$MESS["CRM_PRODUCT_EXPORT_ALL_FIELDS"] = "すべての商品フィールドをエクスポート";
+$MESS["CRM_PRODUCT_EXPORT_CSV"] = "商品をCSVにエクスポート";
+$MESS["CRM_PRODUCT_EXPORT_CSV_TITLE"] = "商品をCSVにエクスポート";
+$MESS["CRM_PRODUCT_EXPORT_EXCEL"] = "商品をMicrosoft Excelにエクスポート";
+$MESS["CRM_PRODUCT_EXPORT_EXCEL_TITLE"] = "商品をMicrosoft Excelにエクスポート";
+$MESS["CRM_PRODUCT_EXPORT_INCLUDE_SUBSECTIONS"] = "サブセクションをエクスポート";
+$MESS["CRM_PRODUCT_IMPORT"] = "製品のインポート";
+$MESS["CRM_PRODUCT_IMPORT_TITLE"] = "製品のインポート";
+$MESS["CRM_PRODUCT_LIST"] = "製品";
+$MESS["CRM_PRODUCT_LIST_TITLE"] = "製品を見る";
+$MESS["CRM_PRODUCT_SECTIONS"] = "セクション管理";
+$MESS["CRM_PRODUCT_SECTIONS_TITLE"] = "セクションの編集と削除";
+$MESS["CRM_PRODUCT_SHOW"] = "表示";
+$MESS["CRM_PRODUCT_SHOW_TITLE"] = "この商品ページを見る";
+$MESS["CRM_PRODUCT_STEXPORT_SUMMARY"] = "これにより、商品のエクスポートファイルが作成されます。大量の商品をエクスポートする際には、時間がかかる場合があります。";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "情報ブロックモジュールがインストールされていません";
+?>

@@ -1,0 +1,26 @@
+<?php
+$MESS["CRM_TAB_ACTIVITY_CONFIG"] = "Hoạt động";
+$MESS["CRM_TAB_ACTIVITY_CONFIG_TITLE"] = "Các thông số hoạt động";
+$MESS["CRM_TAB_ACTIVITY_CONFIG_TITLE2"] = "Tùy chọn hoạt động";
+$MESS["CRM_TAB_CONFIG"] = "Gửi email";
+$MESS["CRM_TAB_CONFIG_TITLE"] = "Cấu hình các thông số gửi email";
+$MESS["CRM_TAB_DEAL_CONFIG"] = "Các thoả thuận";
+$MESS["CRM_TAB_DEAL_CONFIG_TITLE"] = "Tham số giao dịch";
+$MESS["CRM_TAB_DUPLICATE_CONTROL"] = "Kiểm soát bản sao";
+$MESS["CRM_TAB_DUPLICATE_CONTROL_TITLE"] = "Các thông số kiểm soát bản sao";
+$MESS["CRM_TAB_FORMAT"] = "Định dạng";
+$MESS["CRM_TAB_FORMAT_TITLE"] = "Định dạng các thông số";
+$MESS["CRM_TAB_GENERAL"] = "Chung";
+$MESS["CRM_TAB_GENERAL_TITLE"] = "Tham số phổ biến";
+$MESS["CRM_TAB_HISTORY"] = "Lịch sử";
+$MESS["CRM_TAB_HISTORY_TITLE"] = "Cài đặt lịch sử";
+$MESS["CRM_TAB_LIVEFEED"] = "Bản tin";
+$MESS["CRM_TAB_LIVEFEED2"] = "Bảng tin";
+$MESS["CRM_TAB_LIVEFEED_TITLE"] = "Cài đặt Bản tin";
+$MESS["CRM_TAB_LIVEFEED_TITLE2"] = "Cài đặt bảng tin";
+$MESS["CRM_TAB_RECYCLE_BIN_CONFIG"] = "Thùng Rác";
+$MESS["CRM_TAB_RECYCLE_BIN_CONFIG_TITLE"] = "Cài đặt Thùng rác";
+$MESS["CRM_TAB_REST_2"] = "Market";
+$MESS["CRM_TAB_REST_TITLE"] = "Cài đặt ứng dụng";
+$MESS["CRM_TAB_STATUS_CONFIG"] = "Các Trạng thái và Danh sách Thả xuống";
+$MESS["CRM_TAB_STATUS_CONFIG_TITLE"] = "Kiểm soát lựa chọn thực thể";

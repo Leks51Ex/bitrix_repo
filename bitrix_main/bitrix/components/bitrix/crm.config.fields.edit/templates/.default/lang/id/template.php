@@ -1,0 +1,31 @@
+<?
+$MESS["CRM_FE_DELETE_TITLE"] = "Hapus";
+$MESS["CRM_FE_ENUM_DEFAULT"] = "Nilai Default";
+$MESS["CRM_FE_ENUM_DEFAULTS"] = "Nilai Default";
+$MESS["CRM_FE_ENUM_IMPORT"] = "Impor sebagai daftar";
+$MESS["CRM_FE_ENUM_IMPORT_HINT"] = "Setiap baris akan menjadi item daftar. Jika nilai item tidak sama dengan judul item, sebutkan dalam tanda kurung kotak sebelum judul. Sebagai contoh: \"[v1]Nilai 1\".";
+$MESS["CRM_FE_ENUM_NO_DEFAULT"] = "(tidak ada)";
+$MESS["CRM_FE_FIELD_COMMON_LABEL"] = "Nama";
+$MESS["CRM_FE_FIELD_IS_REQUIRED"] = "Wajib";
+$MESS["CRM_FE_FIELD_MULTIPLE"] = "Banyak";
+$MESS["CRM_FE_FIELD_NAME"] = "Nama";
+$MESS["CRM_FE_FIELD_SHOW_FILTER"] = "Tunjukkan dalam filter";
+$MESS["CRM_FE_FIELD_SHOW_IN_LIST"] = "Tunjukkan dalam daftar";
+$MESS["CRM_FE_FIELD_SORT"] = "Menyortir";
+$MESS["CRM_FE_FIELD_TYPE"] = "Tipe";
+$MESS["CRM_FE_FIELD_USE_MULTI_LANG_LABEL"] = "Tetapkan nama dalam semua bahasa";
+$MESS["CRM_FE_LIST_ITEM_ADD"] = "Tambahkan";
+$MESS["CRM_FE_SORT_DOWN_TITLE"] = "Turun";
+$MESS["CRM_FE_SORT_UP_TITLE"] = "Naik";
+$MESS["CRM_FE_TAB_EDIT"] = "Pengaturan";
+$MESS["CRM_FE_TAB_EDIT_TITLE"] = "Parameter umum";
+$MESS["CRM_FE_TAB_LIST"] = "Daftar";
+$MESS["CRM_FE_TAB_LIST_TITLE"] = "Nilai properti daftar";
+$MESS["CRM_FE_TOOLBAR_ADD"] = "Tambahkan bidang";
+$MESS["CRM_FE_TOOLBAR_ADD_TITLE"] = "Tambahkan bidang baru";
+$MESS["CRM_FE_TOOLBAR_DELETE"] = "Hapus Bidang";
+$MESS["CRM_FE_TOOLBAR_DELETE_TITLE"] = "Hapus bidang dan buka formulir bidang";
+$MESS["CRM_FE_TOOLBAR_DELETE_WARNING"] = "Anda yakin ingin menghapus bidang ini?";
+$MESS["CRM_FE_TOOLBAR_FIELDS"] = "Bidang";
+$MESS["CRM_FE_TOOLBAR_FIELDS_TITLE"] = "Tambahkan bidang tersedia";
+?>

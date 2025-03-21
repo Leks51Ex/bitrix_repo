@@ -1,0 +1,7 @@
+<?
+$MESS["CRM_BUTTONS_CANCEL"] = "取消";
+$MESS["CRM_BUTTONS_SAVE"] = "儲存";
+$MESS["CRM_ORDER_CHECK_ADDITION_ENTITY"] = "選擇額外付款 / 出貨";
+$MESS["CRM_ORDER_CHECK_MAIN_ENTITY"] = "選擇付款或出貨";
+$MESS["CRM_ORDER_CHECK_TYPE"] = "收據類型";
+?>

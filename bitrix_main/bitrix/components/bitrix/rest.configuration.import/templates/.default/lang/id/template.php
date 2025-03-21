@@ -1,0 +1,19 @@
+<?php
+$MESS["REST_CONFIGURATION_IMPORT_APP_ERROR_TYPE"] = "Aplikasi ini tidak memiliki file pengaturan";
+$MESS["REST_CONFIGURATION_IMPORT_EASY_DELETE_APP"] = "Anda tidak memiliki preset Bitrix24 yang tersedia, yang menjadi alasan kami menghapus aplikasi.";
+$MESS["REST_CONFIGURATION_IMPORT_ERRORS_MAX_FILE_SIZE"] = "Ukuran file impor maksimum: #SIZE# MB";
+$MESS["REST_CONFIGURATION_IMPORT_ERRORS_POPUP_BTN_COPY"] = "Salin";
+$MESS["REST_CONFIGURATION_IMPORT_ERRORS_POPUP_TEXT_LABEL"] = "Deskripsi masalah";
+$MESS["REST_CONFIGURATION_IMPORT_ERRORS_POPUP_TEXT_PLACEHOLDER"] = "Teks deskripsi masalah";
+$MESS["REST_CONFIGURATION_IMPORT_ERRORS_POPUP_TITLE"] = "Laporan kesalahan";
+$MESS["REST_CONFIGURATION_IMPORT_ERRORS_REPORT_BTN"] = "Laporan kesalahan";
+$MESS["REST_CONFIGURATION_IMPORT_FINISH_DESCRIPTION"] = "Pengaturan telah berhasil diimpor";
+$MESS["REST_CONFIGURATION_IMPORT_FINISH_ERROR_DESCRIPTION"] = "Pengaturan telah diimpor; namun, ada masalah.";
+$MESS["REST_CONFIGURATION_IMPORT_INSTALL_APP_TITLE_BLOCK"] = "Instalasi aplikasi";
+$MESS["REST_CONFIGURATION_IMPORT_ROLLBACK_MODE_DESCRIPTION"] = "Untuk menghapus aplikasi yang saat ini digunakan, Anda harus memilih salah satu preset Bitrix24 yang tersedia, atau pilih aplikasi baru di Marketplace.";
+$MESS["REST_CONFIGURATION_IMPORT_ROLLBACK_MODE_DESCRIPTION_2"] = "Untuk menghapus aplikasi, pilih salah satu konfigurasi Bitrix24 yang tersedia, atau pilih aplikasi baru di Bitrix24.Market.";
+$MESS["REST_CONFIGURATION_IMPORT_ROLLBACK_SUBMIT_BTN"] = "Terapkan";
+$MESS["REST_CONFIGURATION_IMPORT_ROLLBACK_TITLE_BLOCK"] = "Pulihkan preset solusi";
+$MESS["REST_CONFIGURATION_IMPORT_SAVE_FILE_BTN"] = "Unggah";
+$MESS["REST_CONFIGURATION_IMPORT_SAVE_FILE_DESCRIPTION"] = "Unggah file preset solusi";
+$MESS["REST_CONFIGURATION_IMPORT_TITLE_BLOCK"] = "Impor preset solusi";

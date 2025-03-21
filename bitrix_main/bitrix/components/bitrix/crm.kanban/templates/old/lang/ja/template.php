@@ -1,0 +1,31 @@
+<?
+$MESS["CRM_KANBAN_ACTIVITY_LETSGO_DEAL"] = "新しい活動を計画し、取引をパイプラインの下に移す。";
+$MESS["CRM_KANBAN_ACTIVITY_LETSGO_LEAD"] = "リードを販売ファネルに移動するための新しい活動を計画します。";
+$MESS["CRM_KANBAN_ACTIVITY_MORE"] = "もっと見る";
+$MESS["CRM_KANBAN_ACTIVITY_MY"] = "アクティビティ";
+$MESS["CRM_KANBAN_ACTIVITY_PLAN"] = "計画";
+$MESS["CRM_KANBAN_ACTIVITY_PLAN_CALL"] = "コール";
+$MESS["CRM_KANBAN_ACTIVITY_PLAN_MEETING"] = "ミーティング";
+$MESS["CRM_KANBAN_ACTIVITY_PLAN_TASK"] = "タスク";
+$MESS["CRM_KANBAN_CONVERT_POPUP_TITLE"] = "リードに基づいて作成：";
+$MESS["CRM_KANBAN_CONVERT_SELECT_ENTITY"] = "選択";
+$MESS["CRM_KANBAN_ERROR_DISABLE_CONVERTED_LEAD"] = "変換されたリードの状態を変更することはできません。";
+$MESS["CRM_KANBAN_FAIL_CONFIRM_APPLY"] = "適用";
+$MESS["CRM_KANBAN_FAIL_CONFIRM_CANCEL"] = "キャンセル";
+$MESS["CRM_KANBAN_FAIL_CONFIRM_DEAL"] = "取引ステータスを「#STATUS_NAME#」に変更しますか？ このステータスは、取引が失われたことを意味します。";
+$MESS["CRM_KANBAN_FAIL_CONFIRM_INVOICE"] = "請求書ステータスを「#STATUS_NAME#」に変更しますか？ このステータスは、請求書が失われたことを意味します。";
+$MESS["CRM_KANBAN_FAIL_CONFIRM_LEAD"] = "リードステータスを「#STATUS_NAME#」に変更しますか？ このステータスは、リードが失われたことを意味します。";
+$MESS["CRM_KANBAN_FAIL_CONFIRM_QUOTE"] = "見積もりステータスを「#STATUS_NAME#」に変更しますか？ このステータスは、見積もりが失われたことを意味します。";
+$MESS["CRM_KANBAN_FINAL_ALERT"] = "失敗として終了しますか?";
+$MESS["CRM_KANBAN_INVOICE_PARAMS"] = "請求ステータスを終了にする";
+$MESS["CRM_KANBAN_INVOICE_PARAMS_CANCEL"] = "キャンセル";
+$MESS["CRM_KANBAN_INVOICE_PARAMS_COMMENT"] = "コメント";
+$MESS["CRM_KANBAN_INVOICE_PARAMS_DATE"] = "日付";
+$MESS["CRM_KANBAN_INVOICE_PARAMS_DOCNUM"] = "請求書番号";
+$MESS["CRM_KANBAN_INVOICE_PARAMS_SAVE"] = "保存";
+$MESS["CRM_KANBAN_NO_DATA"] = "現在、このページにはデータはありません。";
+$MESS["CRM_KANBAN_NO_EMAIL"] = "Eメールなし";
+$MESS["CRM_KANBAN_NO_IMOL"] = "チャットコミュニケーションなし";
+$MESS["CRM_KANBAN_NO_PHONE"] = "電話なし";
+$MESS["CRM_KANBAN_RELOAD_PAGE"] = "ページを更新してください";
+?>

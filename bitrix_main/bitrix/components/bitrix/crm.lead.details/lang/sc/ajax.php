@@ -1,0 +1,4 @@
+<?php
+$MESS["CRM_LEAD_DELETION_ERROR"] = "删除交易时出错。";
+$MESS["CRM_LEAD_NOT_FOUND"] = "找不到线索。";
+$MESS["CRM_LEAD_PRODUCT_ROWS_SAVING_ERROR"] = "保存产品时出错。";

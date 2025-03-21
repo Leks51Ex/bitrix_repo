@@ -1,0 +1,4 @@
+<?
+$MESS["BPC_DESCR_DESCR"] = "Mã PHP";
+$MESS["BPC_DESCR_NAME"] = "Mã PHP";
+?>

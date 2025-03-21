@@ -1,0 +1,10 @@
+<?php
+$MESS["MENU_ACCOUNT_POPUP_CONNECT"] = "Połącz";
+$MESS["MENU_ACCOUNT_POPUP_DISCONNECT"] = "Odłącz";
+$MESS["MENU_ACCOUNT_POPUP_REMOVE"] = "Usuń";
+$MESS["MENU_ADD"] = "Dodaj";
+$MESS["MENU_HISTORY_ITEM_ICON"] = "B";
+$MESS["MENU_HISTORY_ITEM_NAME"] = "Bitrix24";
+$MESS["MENU_NEWLY_OPENED"] = "Ostatnie strony";
+$MESS["MENU_SHOW_ALL"] = "Pokaż wszystkie";
+$MESS["MENU_YOUR_BITRIX24"] = "Twój Bitrix24";

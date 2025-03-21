@@ -1,0 +1,34 @@
+<?
+$MESS["AJAX_TYPE_TIP"] = "Sử dụng AJAX ";
+$MESS["CACHE_TIME_TIP"] = "Bộ nhớ cache thời gian sống (giây.)";
+$MESS["CACHE_TYPE_TIP"] = "Loại bộ nhớ cache ";
+$MESS["DATE_FORMAT_TIP"] = "Định dạng ngày ";
+$MESS["DATE_TIME_FORMAT_TIP"] = "Định dạng ngày và giờ ";
+$MESS["FID_TIP"] = "Forum ID";
+$MESS["IMAGE_SIZE_TIP"] = "Kích thước hình ảnh đính kèm (px)";
+$MESS["MESSAGES_PER_PAGE_TIP"] = "Số tin nhắn của mỗi trang ";
+$MESS["MID_TIP"] = "Post ID";
+$MESS["PAGE_NAVIGATION_SHOW_ALL_TIP"] = "Kích hoạt hiển thị tất cả các trang tùy chọn ";
+$MESS["PAGE_NAVIGATION_TEMPLATE_TIP"] = "Biểu mẫu chuyển hướng Breadcrumb ";
+$MESS["PAGE_NAVIGATION_WINDOW_TIP"] = "Các trang trong các Breadcrumb ";
+$MESS["SET_NAVIGATION_TIP"] = "Hiển thị các Breadcrumb ";
+$MESS["SET_PAGE_PROPERTY_TIP"] = "Thêm các từ khóa và mô tả chủ đề tới trang HEAD tag ";
+$MESS["SET_TITLE_TIP"] = "Thiết lập tiêu đề trang ";
+$MESS["SHOW_FIRST_POST_TIP"] = "Hiển thị bài viết ban đầu trên tất cả các trang ";
+$MESS["SHOW_RATING_TIP"] = "Hiển thị xếp hạng ";
+$MESS["TID_TIP"] = "Topic ID";
+$MESS["URL_TEMPLATES_INDEX_TIP"] = "Trang các diễn đàn ";
+$MESS["URL_TEMPLATES_LIST_TIP"] = "Trang các chủ đề ";
+$MESS["URL_TEMPLATES_MESSAGE_MOVE_TIP"] = "Trang di chuyển tin nhắn ";
+$MESS["URL_TEMPLATES_MESSAGE_SEND_TIP"] = "Trang tạo tin nhắn ";
+$MESS["URL_TEMPLATES_MESSAGE_TIP"] = "Trang xem tin nhắn (với message ID)";
+$MESS["URL_TEMPLATES_PM_EDIT_TIP"] = "Trang các tin nhắn riêng ";
+$MESS["URL_TEMPLATES_PROFILE_VIEW_TIP"] = "Mẫu URL hồ sơ người dùng ";
+$MESS["URL_TEMPLATES_READ_TIP"] = "Trang xem chủ đề ";
+$MESS["URL_TEMPLATES_RSS_TIP"] = "Trang RSS ";
+$MESS["URL_TEMPLATES_SUBSCR_LIST_TIP"] = "Trang đăng ký ";
+$MESS["URL_TEMPLATES_TOPIC_MOVE_TIP"] = "Trang di chuyển chủ đề ";
+$MESS["URL_TEMPLATES_TOPIC_NEW_TIP"] = "Trang tạo một chủ đề mới ";
+$MESS["URL_TEMPLATES_USER_POST_TIP"] = "Trang các tin nhắn của người dùng ";
+$MESS["WORD_LENGTH_TIP"] = "Chiều dài từ ";
+?>

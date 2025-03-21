@@ -1,0 +1,10 @@
+<?
+$MESS["CRM_BP_LIST_AUTOSTART"] = "自动运行";
+$MESS["CRM_BP_LIST_DATE_MODIFY"] = "修订时间";
+$MESS["CRM_BP_LIST_MODIFIED_BY"] = "修订人";
+$MESS["CRM_BP_LIST_NAME"] = "名称";
+$MESS["CRM_BP_TOOLBAR_ADD"] = "添加模板";
+$MESS["CRM_BP_TOOLBAR_ADD_TITLE"] = "添加新模板";
+$MESS["CRM_BP_TOOLBAR_TYPES"] = "类型";
+$MESS["CRM_BP_TOOLBAR_TYPES_TITLE"] = "可用类型";
+?>

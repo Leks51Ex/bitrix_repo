@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_DEAL_DISABLE_COMPENSATION"] = "ステージ補償を無効にする";
+$MESS["CRM_DEAL_FUNNEL_PARAM_ALLOW_FUNNEL_TYPE_CHANGE"] = "ユーザーは漏斗タイプを変更できます";
+$MESS["CRM_NAME_TEMPLATE"] = "名前の形式";
+?>

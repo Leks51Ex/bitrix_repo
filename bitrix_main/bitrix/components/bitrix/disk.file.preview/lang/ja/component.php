@@ -1,0 +1,5 @@
+<?
+$MESS["FILE_PREVIEW_SIZE"] = "サイズ";
+$MESS["FILE_PREVIEW_TITLE"] = "ファイル";
+$MESS["FILE_PREVIEW_UPDATED"] = "更新しました";
+?>

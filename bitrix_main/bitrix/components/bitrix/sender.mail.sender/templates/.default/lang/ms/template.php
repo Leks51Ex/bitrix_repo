@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_UI_MAILBOX_SELECTOR_ADD"] = "Tambah e-mel";
+$MESS["SENDER_UI_MAILBOX_SELECTOR_SETUP"] = "Pilih pengirim";
+?>

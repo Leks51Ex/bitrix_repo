@@ -1,0 +1,48 @@
+<?php
+$MESS["VI_CONFIG_RENT_BUY_CONFIGURE"] = "配置号码";
+$MESS["VI_CONFIG_RENT_FORM_BTN"] = "申请电话号码";
+$MESS["VI_CONFIG_RENT_FORM_TITLE_KZ"] = "请提供您的详细信息和联系信息，以申请电话号码。";
+$MESS["VI_CONFIG_RENT_FORM_TITLE_UA"] = "Please provide your details and contact information in Ukrainian to apply for a phone number.";
+$MESS["VI_CONFIG_RENT_GROUP_CONFIGURE"] = "配置号码池";
+$MESS["VI_CONFIG_RENT_INCLUDE_2"] = "您将享受：<br>- 无限制呼入线路<br>- 无限制呼入电话<br>-
+所有员工的内部号码<br>- 呼入电话处理规则<br>-
+未接来电通知<br>- 电话通话录音<br>- 呼入、拨出和
+未接来电记录<br>- 所有通话的详细统计数据<br>- CRM集成<br>-
+连接物理电话的能力";
+$MESS["VI_CONFIG_RENT_NA"] = "目前，没有可供租用的电话号码，但请很快重试，这是一个暂时的问题。";
+$MESS["VI_CONFIG_RENT_ORDER_ALL_FIELD_REQUIRED"] = "在发送申请之前，您必须填写所有字段。";
+$MESS["VI_CONFIG_RENT_ORDER_BTN"] = "提交申请";
+$MESS["VI_CONFIG_RENT_ORDER_COMPANY_BIN"] = "BIN";
+$MESS["VI_CONFIG_RENT_ORDER_COMPANY_CONTACT"] = "联系人";
+$MESS["VI_CONFIG_RENT_ORDER_COMPANY_EMAIL"] = "联系电子邮件";
+$MESS["VI_CONFIG_RENT_ORDER_COMPANY_NAME"] = "公司名称";
+$MESS["VI_CONFIG_RENT_ORDER_COMPANY_PHONE"] = "联系电话";
+$MESS["VI_CONFIG_RENT_ORDER_COMPANY_REG_CODE"] = "公司注册号";
+$MESS["VI_CONFIG_RENT_ORDER_COMPLETE"] = "谢谢！您的申请已提交。电话公司代表将在3个工作小时内与您联系。";
+$MESS["VI_CONFIG_RENT_ORDER_DESC"] = "使用Bitrix24租用电话号码非常简单！提交您的申请，然后等待电话公司代表的电话吧。";
+$MESS["VI_CONFIG_RENT_ORDER_ERROR"] = "错误";
+$MESS["VI_CONFIG_RENT_ORDER_EXTRA_BTN"] = "订单";
+$MESS["VI_CONFIG_RENT_ORDER_EXTRA_CHANGE"] = "改变当前服务";
+$MESS["VI_CONFIG_RENT_ORDER_EXTRA_CITY"] = "其他本地号码";
+$MESS["VI_CONFIG_RENT_ORDER_EXTRA_LINE"] = "额外电话线";
+$MESS["VI_CONFIG_RENT_ORDER_EXTRA_NUMBER"] = "额外号码";
+$MESS["VI_CONFIG_RENT_ORDER_EXTRA_TITLE"] = "订购额外服务";
+$MESS["VI_CONFIG_RENT_ORDER_EXTRA_TOLLFREE"] = "免费号码";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_ACCEPT"] = "已接受";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_ACCOUNT"] = "电话服务帐号：";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_ACTIVE_BLOCKED"] = "Fully blocked";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_ACTIVE_PARTIAL_BLOCKED"] = "Partially blocked";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_ACTIVE_TERMINATION"] = "已终止";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_DATE"] = "申请日期：";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_DATE_MODIFY"] = "状态更改日期：";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_DECLINE"] = "已拒绝";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_IN_PROCESS"] = "待处理";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_NA"] = "联系电信提供商了解详情";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_OID"] = "电话公司帐号：";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_STATUS"] = "申请状态：";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_TITLE_1"] = "申请摘要：";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_TITLE_2"] = "帐户信息：";
+$MESS["VI_CONFIG_RENT_ORDER_INFO_WAIT"] = "审核中";
+$MESS["VI_CONFIG_RENT_ORDER_ORDER"] = "租用电话号码申请";
+$MESS["VI_CONFIG_RENT_PHONES"] = "您租用以下电话号码：";
+$MESS["VI_CONFIG_RENT_PHONE_CONFIGURE"] = "配置号码";

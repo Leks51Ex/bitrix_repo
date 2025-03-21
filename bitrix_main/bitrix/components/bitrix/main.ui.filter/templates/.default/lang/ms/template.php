@@ -1,0 +1,27 @@
+<?php
+$MESS["MAIN_UI_FILTER__ADDITIONAL_FILTER_PLACEHOLDER_HOW"] = "Bagaimanakah medan ini berfungsi?";
+$MESS["MAIN_UI_FILTER__ADD_FIELD"] = "Tambah medan";
+$MESS["MAIN_UI_FILTER__ADD_FILTER"] = "Simpan penapis";
+$MESS["MAIN_UI_FILTER__BUTTON_CANCEL"] = "Batal";
+$MESS["MAIN_UI_FILTER__BUTTON_SAVE"] = "Simpan";
+$MESS["MAIN_UI_FILTER__CONFIRM_APPLY_FOR_ALL_CHECKBOX"] = "Guna untuk semua pengguna";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_APPLY"] = "Teruskan";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_CANCEL"] = "Batal";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_MESSAGE"] = "Ini akan memulihkan penapis praset tetapi penapis anda sendiri masih tidak akan berubah.";
+$MESS["MAIN_UI_FILTER__DRAG_TITLE"] = "Tarik untuk mengisih senarai penapis";
+$MESS["MAIN_UI_FILTER__EDIT_PRESET_TITLE"] = "Sunting nama penapis";
+$MESS["MAIN_UI_FILTER__FILTER"] = "Tapis";
+$MESS["MAIN_UI_FILTER__FILTER_NAME_PLACEHOLDER"] = "Nama penapis";
+$MESS["MAIN_UI_FILTER__FILTER_SETTINGS_TITLE"] = "Tetapkan penapis";
+$MESS["MAIN_UI_FILTER__FIND"] = "Carian";
+$MESS["MAIN_UI_FILTER__IS_SET_AS_DEFAULT_PRESET"] = "Penapis lalai";
+$MESS["MAIN_UI_FILTER__ON"] = "melalui";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER"] = "Tapis";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER_DEFAULT"] = "Penapis dan carian";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER_WITH_FILTER"] = "carian";
+$MESS["MAIN_UI_FILTER__REMOVE_PRESET"] = "Hapus penapis";
+$MESS["MAIN_UI_FILTER__RESET"] = "Set semula";
+$MESS["MAIN_UI_FILTER__RESET_LINK"] = "Set semula kepada lalai";
+$MESS["MAIN_UI_FILTER__RESTORE_FIELDS"] = "Pulih medan lalai";
+$MESS["MAIN_UI_FILTER__RESTORE_PRESET"] = "Pulih penapis";
+$MESS["MAIN_UI_FILTER__SET_AS_DEFAULT_PRESET"] = "Tetapkan sebagai penapis lalai";

@@ -1,0 +1,4 @@
+<?php
+$MESS["LANDING_TPL_LABEL_DESC"] = "詳細";
+$MESS["LANDING_TPL_NEW_COOKIES"] = "新しいCookieタイプ";
+$MESS["LANDING_TPL_TITLE_SHOW_COOKIES"] = "#BLOCK_NAME#ブロックを表示";

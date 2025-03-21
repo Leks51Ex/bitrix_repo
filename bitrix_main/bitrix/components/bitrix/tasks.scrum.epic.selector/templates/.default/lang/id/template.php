@@ -1,0 +1,5 @@
+<?php
+$MESS["TSE_SELECTOR_ADD"] = "Tambah";
+$MESS["TSE_SELECTOR_EDIT"] = "edit";
+$MESS["TSE_SELECTOR_ERROR_POPUP_TITLE"] = "Ada eror";
+$MESS["TSE_SELECTOR_SEARCHER_EPIC_ADD"] = "Buat epic";

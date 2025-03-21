@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_COMP_CAMPAIGN_EDIT_TITLE_ADD"] = "Cipta Kempen";
+$MESS["SENDER_COMP_CAMPAIGN_EDIT_TITLE_EDIT"] = "Sunting Kempen";
+?>

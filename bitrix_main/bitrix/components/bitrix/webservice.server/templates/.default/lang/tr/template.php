@@ -1,0 +1,30 @@
+<?
+$MESS["BX_WSTMPL_BACK"] = "burada.";
+$MESS["BX_WSTMPL_BACKPRE"] = "İşlemler tam listesini edinmek için tıkla";
+$MESS["BX_WSTMPL_BSTYLE"] = "Bağlama stili: ";
+$MESS["BX_WSTMPL_CLASS"] = "Sınıf: ";
+$MESS["BX_WSTMPL_DOC"] = "Açıklama: ";
+$MESS["BX_WSTMPL_ENDPOINT"] = "Erişim noktaları: ";
+$MESS["BX_WSTMPL_ERROR_NOFORCOMPLEX"] = "Bu test formu sadece birincil türden parametreleri olan yöntemler için geçerlidir.";
+$MESS["BX_WSTMPL_ERROR_NOMETHODS"] = "Web servisi hiçbir yöntem belirtmedi.";
+$MESS["BX_WSTMPL_ERROR_NOTENOUGHTPARAMS"] = "Sorgu parametreleri eksik.";
+$MESS["BX_WSTMPL_ERROR_NOTFORAUTH"] = "Bu test formu sadece HTTP Temel kimlik doğrulama gerektirmeyen yöntemler için geçerlidir.";
+$MESS["BX_WSTMPL_ERROR_NOWSDESCR"] = "Web servisi açıklamayı sağlamadı.";
+$MESS["BX_WSTMPL_ERROR_PARAMETER"] = "Parametre";
+$MESS["BX_WSTMPL_ERROR_SUBMIT"] = "Gönder";
+$MESS["BX_WSTMPL_ERROR_UNKNOWN"] = "Sorgu gönderilemiyor.";
+$MESS["BX_WSTMPL_ERROR_VALUE"] = "Değer";
+$MESS["BX_WSTMPL_ERRSEC_NOOP"] = "İstediğin bilgi mevcut değil.";
+$MESS["BX_WSTMPL_INNERTEST"] = "burada.";
+$MESS["BX_WSTMPL_INNERTESTPRE"] = "Web servislerinin entegre testlerini çalıştırabilirsin.";
+$MESS["BX_WSTMPL_METHOD"] = "Web servisi yöntemi:";
+$MESS["BX_WSTMPL_METHODS"] = "Yöntemler: ";
+$MESS["BX_WSTMPL_NAMESPACE"] = "İsimboşluğu:";
+$MESS["BX_WSTMPL_PARAMS"] = "Parametreler: ";
+$MESS["BX_WSTMPL_RESULT"] = "Çağrı sonucu: ";
+$MESS["BX_WSTMPL_TEST"] = "Test: ";
+$MESS["BX_WSTMPL_TITLE_PREFIX"] = "Web servisi açıklaması: ";
+$MESS["BX_WSTMPL_WEBSERVICE"] = "Web servisi: ";
+$MESS["BX_WSTMPL_WSDLDESC"] = "Servis açıklaması.";
+$MESS["BX_WSTMPL_WSDLDESCPRE"] = "Aşağıdaki operasyonlar destekleniyor. Açıklamayı şurada gör: ";
+?>

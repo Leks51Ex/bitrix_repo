@@ -1,0 +1,38 @@
+<?
+$MESS["CATEGORY_NAME"] = "Danh mục";
+$MESS["FILE_NAME"] = "Tập tin";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "Mô-đun Information Blocks chưa được cài đặt.";
+$MESS["IBLOCK_NOT_ASSIGNED"] = "Không có khối thông tin được chọn.";
+$MESS["SOCNET_MODULE_NOT_INSTALLED"] = "Mô-đun Social Network không được cài đặt";
+$MESS["WIKI_ACCESS_DENIED"] = "Truy cập bị từ chối.";
+$MESS["WIKI_BUTTON_DELETE"] = "Xóa bỏ";
+$MESS["WIKI_CHOISE_CATEGORY"] = "Chọn Danh mục";
+$MESS["WIKI_DEFAULT_DETAIL_TEXT"] = "%NEWLINE%%HEAD%%NEWLINE%%NEWLINE%Không có văn bản trên trang này.";
+$MESS["WIKI_DELETE_CONFIRM"] = "Bạn có chắc chắn muốn xóa nó?";
+$MESS["WIKI_DELETE_ERROR"] = "Lỗi xóa trang";
+$MESS["WIKI_DELETE_PAGE"] = "Bạn có chắc chắn muốn xóa trang và các thay đổi hoàn toàn?";
+$MESS["WIKI_DEL_SONET_LOG_TITLE_TEMPLATE"] = "Bài viết wiki \"#TITLE#\" xóa";
+$MESS["WIKI_DIALOG_RENAME_BUT_RENAME"] = "Đổi tên";
+$MESS["WIKI_DIALOG_RENAME_ERROR"] = "Không thể đổi tên.";
+$MESS["WIKI_DIALOG_RENAME_PAGE_NAME"] = "Tên mới";
+$MESS["WIKI_DIALOG_RENAME_TITLE"] = "Đổi tên";
+$MESS["WIKI_ERROR_NAME_BAD_SYMBOL"] = "Tên chứa các ký hiệu không hợp lệ (/)";
+$MESS["WIKI_ERROR_NAME_EMPTY"] = "Tiêu đề trang bị mất.";
+$MESS["WIKI_ERROR_RENAME"] = "Một trang có tên như vậy đã tồn tại.";
+$MESS["WIKI_ERROR_TEXT_EMPTY"] = "Trang văn bản là trống rỗng.";
+$MESS["WIKI_IMAGE_INSERT"] = "Chèn ảnh";
+$MESS["WIKI_IMAGE_UPLOAD_ERROR"] = "Chỉ có các hình ảnh có thể được tải lên (JPG, JPEG, JPE, PNG, GIF, BMP).";
+$MESS["WIKI_MODIFY_COMMENT"] = "Bình luận về bản cập nhật";
+$MESS["WIKI_MODIFY_COMMENT_ABSENT"] = "Không";
+$MESS["WIKI_MODULE_NOT_INSTALLED"] = "Mô-đun Wiki không được cài đặt.";
+$MESS["WIKI_PAGE_NOT_FIND"] = "Không có văn bản, hoặc các trang không tồn tại. Bạn có thể <a href=\"%LINK%\">tạo ra một trang mới với tiêu đề này ngay bây giờ</a>.";
+$MESS["WIKI_PAGE_RENAMED"] = "trang %OLD_NAME% đã được đổi tên %NEW_NAME%.";
+$MESS["WIKI_REDIRECT"] = "Chuyển";
+$MESS["WIKI_SESS_TIMEOUT"] = "Phiên của bạn đã hết hạn. Hãy lưu lại trang này.";
+$MESS["WIKI_SOCNET_INITIALIZING_FAILED"] = "Mạng xã hội không thể khởi tạo.";
+$MESS["WIKI_SONET_IM_ADD"] = "Một trang Wiki mới \"#title#\" thêm vào #group_name#.";
+$MESS["WIKI_SONET_IM_DELETE"] = "Trang wiki \"#title#\" loại bỏ trong #group_name#.";
+$MESS["WIKI_SONET_IM_EDIT"] = "Trang wiki \"#title#\" cập nhật trong #group_name#.";
+$MESS["WIKI_SONET_IM_RENAME"] = "Trang wiki \"#title_old#\" đổi tên thành \"#title_new#\" trong #group_name#.";
+$MESS["WIKI_SONET_LOG_TITLE_TEMPLATE"] = "Điều khoản \"#TITLE#\" bổ sung hoặc cập nhật";
+?>

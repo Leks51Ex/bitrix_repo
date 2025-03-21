@@ -1,0 +1,8 @@
+<?
+$MESS["CT_BLS_NEW_SECTION_NAME"] = "輸入新目錄名稱";
+$MESS["CT_BLS_SECTION_NAME"] = "名稱";
+$MESS["CT_BLS_TOOLBAR_ADD_SECTION_TITLE"] = "將新目錄新增至目前目錄";
+$MESS["CT_BLS_TOOLBAR_ELEMENTS_TITLE"] = "開啟清單";
+$MESS["CT_BLS_TOOLBAR_UP"] = "上";
+$MESS["CT_BLS_TOOLBAR_UP_TITLE"] = "瀏覽上層目錄";
+?>

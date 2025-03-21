@@ -1,0 +1,6 @@
+<?
+$MESS["CP_CATALOG_STORE_CSA_DESCRIPTION"] = "選択した製品を在庫している倉庫と数量が表示されます";
+$MESS["CP_CATALOG_STORE_CSA_NAME"] = "倉庫在庫";
+$MESS["CP_CATALOG_STORE_MAIN_SECTION"] = "オンラインショップ";
+$MESS["CP_CATALOG_STORE_STORE_SECTION"] = "倉庫一覧";
+?>

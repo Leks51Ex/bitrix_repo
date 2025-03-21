@@ -1,0 +1,26 @@
+<?
+$MESS["CRM_COLUMN_ACTIVE"] = "ใช้งานอยู่";
+$MESS["CRM_COLUMN_CATALOG_ID"] = "แค็ตตาล็อก";
+$MESS["CRM_COLUMN_CODE"] = "รหัสสัญลักษณ์";
+$MESS["CRM_COLUMN_DESCRIPTION"] = "รายละเอียด";
+$MESS["CRM_COLUMN_ID"] = "ไอดี";
+$MESS["CRM_COLUMN_MEASURE"] = "หน่วยวัด";
+$MESS["CRM_COLUMN_NAME"] = "ชื่อ";
+$MESS["CRM_COLUMN_PRICE"] = "ราคา";
+$MESS["CRM_COLUMN_SECTION"] = "ส่วน";
+$MESS["CRM_COLUMN_SORT"] = "เรียงลำดับ";
+$MESS["CRM_COLUMN_VAT_ID"] = "อัตรา VAT";
+$MESS["CRM_COLUMN_VAT_INCLUDED"] = "รวม VAT แล้ว";
+$MESS["CRM_COLUMN_XML_ID"] = "ไอดีภายนอก";
+$MESS["CRM_MEASURE_NOT_SELECTED"] = "[ไม่ได้เลือก]";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล CRM";
+$MESS["CRM_NOT_SELECTED"] = "(ไม่มีเลย)";
+$MESS["CRM_PRODUCT_FIELD_DETAIL_PICTURE"] = "ภาพเต็ม";
+$MESS["CRM_PRODUCT_FIELD_PREVIEW_PICTURE"] = "ดูตัวอย่างภาพ";
+$MESS["CRM_PRODUCT_LIST_FILTER_CHECKBOX_NO"] = "ไม่";
+$MESS["CRM_PRODUCT_LIST_FILTER_CHECKBOX_NOT_SELECTED"] = "ไม่ได้เลือก";
+$MESS["CRM_PRODUCT_LIST_FILTER_CHECKBOX_YES"] = "ใช่";
+$MESS["CRM_PRODUCT_LIST_FILTER_SECTION_ALL"] = "(อะไรก็ได้)";
+$MESS["CRM_PRODUCT_LIST_FILTER_SECTION_ROOT"] = "รูท";
+$MESS["CRM_PRODUCT_NAV_TITLE_LIST"] = "ผลิตภัณฑ์";
+?>

@@ -1,0 +1,4 @@
+<?
+$MESS["REPORT_FEEDBACK_BUTTON_TITLE"] = "回饋意見";
+$MESS["REPORT_FEEDBACK_TITLE"] = "回饋意見";
+?>

@@ -1,0 +1,35 @@
+<?
+$MESS["FORUM_MAIN_WAIT"] = "Vui lòng đợi...";
+$MESS["F_ANCHOR"] = "Liên kết đến bài viết này";
+$MESS["F_ATTACH_FILES"] = "Tập tin đính kèm";
+$MESS["F_AUTHOR_PROFILE"] = "Hồ sơ tác giả tin nhắn";
+$MESS["F_BAD_NEW_TOPIC"] = "Không có chủ đề được chọn. Click &laquo;<b>...</b>&raquo; xác định vị trí một chủ đề yêu cầu";
+$MESS["F_BAD_TOPIC"] = "Chủ đề không được tim thấy";
+$MESS["F_BUTTON_MOVE"] = "Di chuyển";
+$MESS["F_DATE_REGISTER"] = "Đăng ký ngày:";
+$MESS["F_DELETE"] = "Xoá";
+$MESS["F_DELETE_MESSAGES_CONFIRM"] = "Tin nhắn sẽ thay đổi,xóa bỏ. Bạn có muốn típ tục?";
+$MESS["F_EDIT"] = "Chỉnh sửa";
+$MESS["F_EDIT_HEAD"] = "Đươc chỉnh sửa:";
+$MESS["F_EMAIL_TITLE"] = "Gửi tin nhắn e-mail";
+$MESS["F_HEAD_TO_EXIST_TOPIC"] = "Chủ đề hiện có";
+$MESS["F_HEAD_TO_NEW_TOPIC"] = "Một chủ đề mới";
+$MESS["F_HIDE"] = "Ẩn";
+$MESS["F_MOVE_TO"] = "Di chuyển đến";
+$MESS["F_NUM_MESS"] = "Tổng số tin nhắn";
+$MESS["F_POINTS"] = "Điểm:";
+$MESS["F_PRIVATE_MESSAGE"] = "Tin nhắn";
+$MESS["F_PRIVATE_MESSAGE_TITLE"] = "Gửi tin nhẳn riêng tư";
+$MESS["F_REAL_IP"] = "/ thực";
+$MESS["F_SHOW"] = "Hiển thị";
+$MESS["F_TITLE"] = "Di chuyển các bài viết";
+$MESS["F_TITLE_ON_FORUM"] = "trong diễn đàn";
+$MESS["F_TOPIC_DESCR"] = "Mô tả chủ đề";
+$MESS["F_TOPIC_ID"] = "ID chủ đề";
+$MESS["F_TOPIC_NAME"] = "Tiêu đề chủ đề";
+$MESS["F_TOPIC_NOT_FOUND"] = "Chủ đề không được tìm thấy";
+$MESS["F_TOPIC_SEARCH_TITLE"] = "Nhập ID chủ đề hoạc click &laquo;...&raquo; đến trình duyệt cho một yêu cầu chủ đề";
+$MESS["F_TOPIC_TAGS"] = "Tags";
+$MESS["F_USER_ID"] = "ID khách";
+$MESS["F_USER_ID_USER"] = "ID người dùng";
+?>

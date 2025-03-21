@@ -1,0 +1,12 @@
+<?
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_ACCOMPLICES"] = "ผู้เข้าร่วม";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_ADD"] = "เพิ่ม";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_AUDITORS"] = "ผู้สังเกตการณ์";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_CHANGE"] = "เปลี่ยน";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_DELETE"] = "ลบ";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_ENTER_AUDITOR"] = "สังเกตการณ์";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_LEAVE_AUDITOR"] = "ไม่ดู";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_LEAVE_AUDITOR_CONFIRM"] = "คุณอาจไม่สามารถดูงานได้ หากคุณไม่ได้เป็นผู้สังเกตการณ์อีกต่อไป คุณต้องการที่จะ เอาบทบาทผู้สังเกตการณ์ของคุณออกหรือไม่?";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_ORIGINATOR"] = "สร้างขึ้นโดย";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_RESPONSIBLE"] = "ผู้รับผิดชอบ";
+?>

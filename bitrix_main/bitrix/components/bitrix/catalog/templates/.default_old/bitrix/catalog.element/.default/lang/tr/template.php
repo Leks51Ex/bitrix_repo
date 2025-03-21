@@ -1,0 +1,34 @@
+<?
+$MESS["CATALOG_NO_VAT"] = "vergilendirilmedi";
+$MESS["CATALOG_PRICE_NOVAT"] = "Vergi hariç";
+$MESS["CATALOG_PRICE_VAT"] = "Vergi dahil";
+$MESS["CATALOG_QUANTITY"] = "Miktar";
+$MESS["CATALOG_QUANTITY_FROM"] = "#FROM# ve daha fazlası";
+$MESS["CATALOG_QUANTITY_FROM_TO"] = "#FROM# 'dan #TO# 'ya";
+$MESS["CATALOG_QUANTITY_TO"] = "şuna kadar #TO#:";
+$MESS["CATALOG_VAT"] = "Vergi Oranı";
+$MESS["CATALOG_VAT_INCLUDED"] = "Vergi oranı fiyata dahil";
+$MESS["CATALOG_VAT_NOT_INCLUDED"] = "Vergi oranı fiyata dahil değil";
+$MESS["COMMENTARY"] = "Yorumlar";
+$MESS["CT_BCE_CATALOG_ADD"] = "Sepete Ekle";
+$MESS["CT_BCE_CATALOG_ADD_TO_BASKET_OK"] = "Alışveriş sepetine eklendi";
+$MESS["CT_BCE_CATALOG_BASKET_UNKNOWN_ERROR"] = "Alışveriş sepetine ürün eklerken bilinmeyen hata";
+$MESS["CT_BCE_CATALOG_BTN_MESSAGE_BASKET_REDIRECT"] = "Alışveriş sepetini görüntüle";
+$MESS["CT_BCE_CATALOG_BTN_MESSAGE_CLOSE"] = "Kapat";
+$MESS["CT_BCE_CATALOG_BTN_MESSAGE_CLOSE_POPUP"] = "Alışverişe devam et";
+$MESS["CT_BCE_CATALOG_BTN_MESSAGE_COMPARE_REDIRECT"] = "Ürünleri karşılaştır";
+$MESS["CT_BCE_CATALOG_BTN_SEND_PROPS"] = "Seç";
+$MESS["CT_BCE_CATALOG_BUY"] = "Satın Al";
+$MESS["CT_BCE_CATALOG_COMPARE"] = "Karşılaştır";
+$MESS["CT_BCE_CATALOG_ECONOMY_INFO"] = "(Tasarruf - #ECONOMY#)";
+$MESS["CT_BCE_CATALOG_MESS_BASIS_PRICE"] = "1 #MEASURE# için #PRICE#";
+$MESS["CT_BCE_CATALOG_MESS_COMPARE_OK"] = "Ürün karşılaştırma tablosuna eklendi";
+$MESS["CT_BCE_CATALOG_MESS_COMPARE_TITLE"] = "Ürün karşılaştırma";
+$MESS["CT_BCE_CATALOG_MESS_COMPARE_UNKNOWN_ERROR"] = "Ürün, karşılaştırma tablosuna eklenirken hata oluştu";
+$MESS["CT_BCE_CATALOG_NOT_AVAILABLE"] = "stokta yok";
+$MESS["CT_BCE_CATALOG_TITLE_BASKET_PROPS"] = "Alışveriş sepetine taşınacak öge özellikleri";
+$MESS["CT_BCE_CATALOG_TITLE_ERROR"] = "Hata";
+$MESS["CT_BCE_QUANTITY"] = "Miktar";
+$MESS["FULL_DESCRIPTION"] = "Tam Tanım";
+$MESS["OSTATOK"] = "Stoktaki miktar";
+?>

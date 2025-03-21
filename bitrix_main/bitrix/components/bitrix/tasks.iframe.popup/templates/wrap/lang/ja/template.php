@@ -1,0 +1,5 @@
+<?
+$MESS["TASKS_TIP_TEMPLATE_COPY_CURRENT_URL"] = "タスクリンクをクリップボードにコピーする";
+$MESS["TASKS_TIP_TEMPLATE_LINK_COPIED"] = "タスクリンクがクリップボードにコピーされました";
+$MESS["TASKS_TIP_TEMPLATE_LINK_COPIED_TEMPLATE_BAR_TITLE"] = "タスクテンプレート";
+?>

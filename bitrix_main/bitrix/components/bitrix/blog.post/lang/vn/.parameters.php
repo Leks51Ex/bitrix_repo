@@ -1,0 +1,31 @@
+<?
+$MESS["BB_PATH_TO_SMILE"] = "Đường dẫn vào thư mục có các biểu tượng mặc cười, liên quan đến gốc của trang";
+$MESS["BC_DATE_TIME_FORMAT"] = "Định dạng ngày và giờ";
+$MESS["BC_SEO_D"] = "các vùng mặc định";
+$MESS["BC_SEO_N"] = "không bao giờ";
+$MESS["BC_SEO_USE"] = "Sử dụng SEO";
+$MESS["BC_SEO_Y"] = "sử dụng các vùng khác cho phần miêu tả";
+$MESS["BPC_IMAGE_MAX_HEIGHT"] = "Chiều cao tối đa của hình";
+$MESS["BPC_IMAGE_MAX_WIDTH"] = "Chiều rộng tối đa của hình";
+$MESS["BP_BLOG_URL"] = "URL Blog";
+$MESS["BP_BLOG_VAR"] = "Biến nhận dạng Blog";
+$MESS["BP_ID"] = "ID Message";
+$MESS["BP_PAGE_VAR"] = "Biến trang";
+$MESS["BP_PATH_TO_BLOG"] = "Biểu mẫu chứa đường dẫn đến trang blog";
+$MESS["BP_PATH_TO_BLOG_CATEGORY"] = "Biểu mẫu chứa đường dẫn đến trang blog với bộ lọc thẻ";
+$MESS["BP_PATH_TO_POST_EDIT"] = "Biểu mẫu của đường dẫn đến trang chỉnh sửa tin nhắn blog";
+$MESS["BP_PATH_TO_USER"] = "Biểu mẫu của đường dẫn đến trang người dùng blog";
+$MESS["BP_POST_VAR"] = "Biến nhận dạng tin nhắn Blog";
+$MESS["BP_SET_NAV_CHAIN"] = "Thêm mục vào chuỗi chuyển hướng ";
+$MESS["BP_USER_VAR"] = "Biến nhận dạng người dùng Blog";
+$MESS["B_VARIABLE_ALIASES"] = "Các bí danh của biến";
+$MESS["POST_PROPERTY"] = "Hiển thị các đặc tính bài bổ sung";
+$MESS["RATING_TYPE"] = "Thiết kế của các nút đánh giá";
+$MESS["RATING_TYPE_CONFIG"] = "mặc định";
+$MESS["RATING_TYPE_LIKE_GRAPHIC"] = "Thích (hình)";
+$MESS["RATING_TYPE_LIKE_TEXT"] = "Thích (chữ)";
+$MESS["RATING_TYPE_STANDART_GRAPHIC"] = "Thích/Không thích (hình)";
+$MESS["RATING_TYPE_STANDART_TEXT"] = "Thích/Không thích (chữ)";
+$MESS["SHOW_RATING"] = "Kích hoạt đánh giá";
+$MESS["SHOW_RATING_CONFIG"] = "mặc định";
+?>

@@ -1,0 +1,4 @@
+<?
+$MESS["INTR_MAIL_DOMAIN_SAVE"] = "Simpan";
+$MESS["INTR_MAIL_INP_CANCEL"] = "Batal";
+?>

@@ -1,0 +1,3 @@
+<?
+$MESS["CRM_DEAL_LIST_ROW_COUNT"] = "Tổng: #ROW_COUNT#";
+?>

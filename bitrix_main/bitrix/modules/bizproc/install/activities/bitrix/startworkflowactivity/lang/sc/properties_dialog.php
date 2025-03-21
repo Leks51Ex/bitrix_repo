@@ -1,0 +1,7 @@
+<?php
+$MESS["BPSWFA_PD_ACCESS_DENIED_1"] = "只有帐户管理员才可以访问动作属性。";
+$MESS["BPSWFA_PD_DOCUMENT_ID"] = "文档 ID";
+$MESS["BPSWFA_PD_DOCUMENT_TYPE"] = "文档类型";
+$MESS["BPSWFA_PD_ENTITY"] = "实体";
+$MESS["BPSWFA_PD_TEMPLATE"] = "模板";
+$MESS["BPSWFA_PD_USE_SUBSCRIPTION"] = "等待工作流程结束";

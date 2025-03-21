@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_ANALYTICS_LIMIT_MASK_TITLE"] = "Giới hạn hiện tại";
+$MESS["CRM_ANALYTICS_LIMIT_UPDATE_LINK"] = "Cập nhật";
+?>

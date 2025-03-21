@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_CONFIG_NAME"] = "設定";
+$MESS["CRM_NAME"] = "CRM";
+$MESS["CRM_PERMS_RELATION_DESCRIPTION"] = "CRMロールの関係を設定する";
+$MESS["CRM_PERMS_RELATION_NAME"] = "役割の関係を設定する";
+?>

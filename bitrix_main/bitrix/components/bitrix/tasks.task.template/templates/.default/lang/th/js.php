@@ -1,0 +1,10 @@
+<?
+$MESS["TASKS_TASK_TEMPLATE_COMPONENT_TEMPLATE_MULTIPLE_RESPONSIBLE_NOTICE"] = "จะสร้างงานแยกต่างหากสำหรับผู้รับผิดชอบแต่ละราย";
+$MESS["TASKS_TASK_TEMPLATE_COMPONENT_TEMPLATE_NO_PARENT_TEMPLATE_NOTICE"] = "เทมเพลตงานไม่สามารถมีเทมเพลตแม่ได้ หากมีการเลือกตัวเลือก '#TPARAM_FOR_NEW_USER#'";
+$MESS["TASKS_TASK_TEMPLATE_COMPONENT_TEMPLATE_POPUP_MENU_CHECKLIST_SECTION"] = "รายการตรวจสอบ";
+$MESS["TASKS_TASK_TEMPLATE_COMPONENT_TEMPLATE_POPUP_MENU_SHOW_COMPLETED"] = "แสดงรายการตรวจสอบที่เสร็จสมบูรณ์แล้ว";
+$MESS["TASKS_TASK_TEMPLATE_COMPONENT_TEMPLATE_POPUP_MENU_SHOW_ONLY_MINE"] = "แสดงรายการตรวจสอบที่เกี่ยวข้องกับฉันเท่านั้น";
+$MESS["TASKS_TASK_TEMPLATE_COMPONENT_TEMPLATE_TO_CHECKLIST_ADD_NEW_CHECKLIST"] = "สร้างใหม่";
+$MESS["TASKS_TASK_TEMPLATE_COMPONENT_TEMPLATE_TO_CHECKLIST_HINT"] = "เลือกข้อความในรายละเอียดเทมเพลตที่คุณต้องการเพิ่มลงในรายการตรวจสอบ";
+$MESS["TASKS_TASK_TEMPLATE_COMPONENT_TEMPLATE_TPARAM_TYPE"] = "เทมเพลตงานสำหรับพนักงานใหม่";
+?>

@@ -1,0 +1,27 @@
+<?php
+$MESS["MAIN_UI_FILTER__ADDITIONAL_FILTER_PLACEHOLDER_HOW"] = "Bagaimana cara kerja kolom ini?";
+$MESS["MAIN_UI_FILTER__ADD_FIELD"] = "Tambahkan bidang";
+$MESS["MAIN_UI_FILTER__ADD_FILTER"] = "Simpan filter";
+$MESS["MAIN_UI_FILTER__BUTTON_CANCEL"] = "Batal";
+$MESS["MAIN_UI_FILTER__BUTTON_SAVE"] = "Simpan";
+$MESS["MAIN_UI_FILTER__CONFIRM_APPLY_FOR_ALL_CHECKBOX"] = "Terapkan untuk semua pengguna";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_APPLY"] = "Lanjutkan";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_CANCEL"] = "Batal";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_MESSAGE"] = "Ini akan memulihkan filter preset tetapi tidak akan mengubah filter Anda sendiri.";
+$MESS["MAIN_UI_FILTER__DRAG_TITLE"] = "Tarik untuk menyortir daftar filter";
+$MESS["MAIN_UI_FILTER__EDIT_PRESET_TITLE"] = "Edit nama filter";
+$MESS["MAIN_UI_FILTER__FILTER"] = "Filter";
+$MESS["MAIN_UI_FILTER__FILTER_NAME_PLACEHOLDER"] = "Nama filter";
+$MESS["MAIN_UI_FILTER__FILTER_SETTINGS_TITLE"] = "Konfigurasi filter";
+$MESS["MAIN_UI_FILTER__FIND"] = "Cari";
+$MESS["MAIN_UI_FILTER__IS_SET_AS_DEFAULT_PRESET"] = "Filter default";
+$MESS["MAIN_UI_FILTER__ON"] = "melalui";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER"] = "Filter";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER_DEFAULT"] = "Filter dan pencarian";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER_WITH_FILTER"] = "cari";
+$MESS["MAIN_UI_FILTER__REMOVE_PRESET"] = "Hapus filter";
+$MESS["MAIN_UI_FILTER__RESET"] = "Reset";
+$MESS["MAIN_UI_FILTER__RESET_LINK"] = "Reset ke default";
+$MESS["MAIN_UI_FILTER__RESTORE_FIELDS"] = "Pulihkan bidang default";
+$MESS["MAIN_UI_FILTER__RESTORE_PRESET"] = "Pulihkan filter";
+$MESS["MAIN_UI_FILTER__SET_AS_DEFAULT_PRESET"] = "Atur sebagai filter default";

@@ -1,0 +1,12 @@
+<?php
+$MESS["MAIN_AUTH_CHD_FIELD_CAPTCHA"] = "键入您在图片中看到的字符";
+$MESS["MAIN_AUTH_CHD_FIELD_CHECKWORD"] = "校验字";
+$MESS["MAIN_AUTH_CHD_FIELD_LOGIN"] = "登录名";
+$MESS["MAIN_AUTH_CHD_FIELD_PASS"] = "密码";
+$MESS["MAIN_AUTH_CHD_FIELD_PASS2"] = "确认密码";
+$MESS["MAIN_AUTH_CHD_FIELD_SUBMIT"] = "更改密码";
+$MESS["MAIN_AUTH_CHD_HEADER"] = "更改密码";
+$MESS["MAIN_AUTH_CHD_SECURE_NOTE"] = "密码将被加密后发送。这将防止密码在数据传输通道上显示为开放格式。";
+$MESS["MAIN_AUTH_CHD_SUCCESS"] = "您已注册并成功登录。";
+$MESS["MAIN_AUTH_CHD_URL_AUTH_URL"] = "登录";
+$MESS["MAIN_AUTH_CHD_URL_REGISTER_URL"] = "注册";

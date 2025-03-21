@@ -1,0 +1,5 @@
+<?php
+$MESS["TASKS_REPORT_ALL"] = "所有";
+$MESS["TASKS_REPORT_CANCEL"] = "取消";
+$MESS["TASKS_REPORT_PERIOD"] = "报告周期";
+$MESS["TASKS_REPORT_TASKS"] = "任务";

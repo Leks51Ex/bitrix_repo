@@ -1,0 +1,4 @@
+<?
+$MESS["OL_COMPONENT_MODULE_NOT_INSTALLED"] = "未安装 Open Channels 模块。";
+$MESS["OL_COMPONENT_PERMISSION_DENIED"] = "访问被拒绝";
+?>

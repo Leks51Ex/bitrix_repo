@@ -1,0 +1,7 @@
+<?php
+$MESS["IMCONNECTOR_COMPONENT_VIBER_API_KEY"] = "密钥：";
+$MESS["IMCONNECTOR_COMPONENT_VIBER_FINAL_FORM_DESCRIPTION_1"] = "Viber 已连接到您的 Open Channel。现在，在您的公共帐户上发布的所有消息都会被重都定向到您的 Bitrix24。";
+$MESS["IMCONNECTOR_COMPONENT_VIBER_FINAL_FORM_DESCRIPTION_2"] = "<br>您现在可以访问<a href='#URL_MOBILE#'>Bitrix24移动应用</a>或 <a href='#URL#'>在浏览器中打开您的Bitrix24帐户</a>。";
+$MESS["IMCONNECTOR_COMPONENT_VIBER_LINK_CHAT_ONE_TO_ONE"] = "个人之间聊天链接";
+$MESS["IMCONNECTOR_COMPONENT_VIBER_NAME_BOT"] = "已连接公共帐户";
+$MESS["IMCONNECTOR_COMPONENT_VIBER_SIMPLE_FORM_DESCRIPTION_1"] = "从剪贴板粘贴Viber密钥，然后点击\"保存\"。";

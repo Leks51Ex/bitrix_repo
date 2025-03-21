@@ -1,0 +1,2 @@
+<?php
+$MESS["TASKS_RESULTS_SYSTEM_ERROR"] = "系統錯誤";

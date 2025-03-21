@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_COMPANY_EDIT_DESCRIPTION"] = "会社の編集";
+$MESS["CRM_COMPANY_EDIT_NAME"] = "会社の編集";
+$MESS["CRM_COMPANY_NAME"] = "企業";
+$MESS["CRM_NAME"] = "CRM";
+?>

@@ -1,0 +1,21 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM はインストールされていません.";
+$MESS["CRM_PERMISSION_DENIED"] = "アクセス拒否されました";
+$MESS["M_CRM_LEAD_LIST_ADD_DEAL"] = "アクティビティを追加";
+$MESS["M_CRM_LEAD_LIST_CALL"] = "電話を掛ける";
+$MESS["M_CRM_LEAD_LIST_CREATE_BASE"] = "ソースを使用して作成";
+$MESS["M_CRM_LEAD_LIST_CREATE_DEAL"] = "取引";
+$MESS["M_CRM_LEAD_LIST_DECLINE"] = "拒否";
+$MESS["M_CRM_LEAD_LIST_DELETE"] = "削除";
+$MESS["M_CRM_LEAD_LIST_EDIT"] = "編集";
+$MESS["M_CRM_LEAD_LIST_FILTER_CUSTOM"] = "の検索結果";
+$MESS["M_CRM_LEAD_LIST_FILTER_NONE"] = "すべてのリード";
+$MESS["M_CRM_LEAD_LIST_JUNK"] = "質の低い";
+$MESS["M_CRM_LEAD_LIST_MAIL"] = "メッセージを送信";
+$MESS["M_CRM_LEAD_LIST_MEETING"] = "会議をセットアップする";
+$MESS["M_CRM_LEAD_LIST_MORE"] = "もっと見る";
+$MESS["M_CRM_LEAD_LIST_NO_FILTER"] = "すべてのリード";
+$MESS["M_CRM_LEAD_LIST_PRESET_MY"] = "自分のリード";
+$MESS["M_CRM_LEAD_LIST_PRESET_NEW"] = "新規リード";
+$MESS["M_CRM_LEAD_LIST_PRESET_USER"] = "カスタムフィルタ";
+?>

@@ -1,0 +1,19 @@
+<?
+$MESS["TASKS_LIST_CRM_TYPE_C"] = "Liên hệ";
+$MESS["TASKS_LIST_CRM_TYPE_CO"] = "Công ty";
+$MESS["TASKS_LIST_CRM_TYPE_D"] = "Thỏa Thuận";
+$MESS["TASKS_LIST_CRM_TYPE_L"] = "Lãnh đạo";
+$MESS["TASKS_LIST_ITEMS_NO"] = "Không";
+$MESS["TASKS_LIST_ITEMS_PRIORITY_0"] = "Thấp";
+$MESS["TASKS_LIST_ITEMS_PRIORITY_1"] = "Bình thường";
+$MESS["TASKS_LIST_ITEMS_PRIORITY_2"] = "Cao";
+$MESS["TASKS_LIST_ITEMS_STATUS_1"] = "Mới";
+$MESS["TASKS_LIST_ITEMS_STATUS_2"] = "Đang chờ";
+$MESS["TASKS_LIST_ITEMS_STATUS_3"] = "Đang tiến hành";
+$MESS["TASKS_LIST_ITEMS_STATUS_4"] = "Đang đợi điều khiển";
+$MESS["TASKS_LIST_ITEMS_STATUS_5"] = "Đã hoàn tất";
+$MESS["TASKS_LIST_ITEMS_STATUS_6"] = "Bị trì hoãn";
+$MESS["TASKS_LIST_ITEMS_STATUS_7"] = "Đã bị từ chối";
+$MESS["TASKS_LIST_ITEMS_YES"] = "Có";
+$MESS["TASKS_LIST_NOT_SET"] = "Nhân viên mới";
+?>

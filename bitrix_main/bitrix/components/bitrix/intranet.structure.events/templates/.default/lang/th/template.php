@@ -1,0 +1,5 @@
+<?
+$MESS["INTR_ISE_TPL_FILTER_DEPARTMENT"] = "แผนก";
+$MESS["ISL_ID"] = "ไอดี";
+$MESS["ISL_PERSONAL_ICQ"] = "ICQ";
+?>

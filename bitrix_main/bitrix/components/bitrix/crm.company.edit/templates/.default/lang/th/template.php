@@ -1,0 +1,20 @@
+<?
+$MESS["CRM_COMPANY_CREATE_TITLE"] = "บริษัทใหม่";
+$MESS["CRM_COMPANY_EDIT_DUP_CTRL_BANK_DETAIL_SUMMARY_TITLE"] = "ตามรายละเอียดธนาคาร";
+$MESS["CRM_COMPANY_EDIT_DUP_CTRL_EMAIL_SUMMARY_TITLE"] = "ตามอีเมล";
+$MESS["CRM_COMPANY_EDIT_DUP_CTRL_PHONE_SUMMARY_TITLE"] = "ตามโทรศัพท์";
+$MESS["CRM_COMPANY_EDIT_DUP_CTRL_REQUISITE_SUMMARY_TITLE"] = "ตามรายละเอียดบริษัท";
+$MESS["CRM_COMPANY_EDIT_DUP_CTRL_SHORT_SUMMARY_TITLE"] = "พบ";
+$MESS["CRM_COMPANY_EDIT_DUP_CTRL_SUMMARY_TITLE"] = "พบข้อมูลที่ตรงกัน";
+$MESS["CRM_COMPANY_EDIT_DUP_CTRL_TTL_SUMMARY_TITLE"] = "ตามชื่อ";
+$MESS["CRM_COMPANY_EDIT_DUP_CTRL_WARNING_ACCEPT_BTN_TITLE"] = "ไม่สนใจและบันทึก";
+$MESS["CRM_COMPANY_EDIT_DUP_CTRL_WARNING_CANCEL_BTN_TITLE"] = "ยกเลิก";
+$MESS["CRM_COMPANY_EDIT_DUP_CTRL_WARNING_DLG_TITLE"] = "รายการซ้ำที่เป็นไปได้";
+$MESS["CRM_COMPANY_EDIT_TITLE"] = "บริษัท ##ID# &mdash; #TITLE#";
+$MESS["CRM_TAB_1"] = "บริษัท";
+$MESS["CRM_TAB_1_TITLE"] = "คุณสมบัติของบริษัท";
+$MESS["CRM_TAB_2"] = "ล็อก";
+$MESS["CRM_TAB_2_TITLE"] = "ล็อกของบริษัท";
+$MESS["CRM_TAB_3"] = "กระบวนการทางธุรกิจ";
+$MESS["CRM_TAB_3_TITLE"] = "กระบวนการทางธุรกิจของบริษัท";
+?>

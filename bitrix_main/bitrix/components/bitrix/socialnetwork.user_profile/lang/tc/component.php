@@ -1,0 +1,10 @@
+<?
+$MESS["SONET_C38_PAGE_TITLE"] = "設定檔";
+$MESS["SONET_C39_BLOG_TITLE"] = "部落格";
+$MESS["SONET_C39_FORUM_TITLE"] = "論壇";
+$MESS["SONET_C39_TASKS_TITLE"] = "任務";
+$MESS["SONET_MODULE_NOT_INSTALL"] = "未安裝社交網路模組。";
+$MESS["SONET_P_USER_NO_USER"] = "未找到使用者。";
+$MESS["SONET_P_USER_SEX_F"] = "女";
+$MESS["SONET_P_USER_SEX_M"] = "男";
+?>

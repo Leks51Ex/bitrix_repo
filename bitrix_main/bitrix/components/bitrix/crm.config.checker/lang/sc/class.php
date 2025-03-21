@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_DONT_HAVE_CONFIG_PERMS"] = "您没有权限配置 CRM。";
+$MESS["CRM_MODULE_IS_NOT_INSTALLED"] = "未安装 CRM 模块。";
+?>

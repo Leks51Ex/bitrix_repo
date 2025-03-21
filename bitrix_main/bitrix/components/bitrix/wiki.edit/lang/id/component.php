@@ -1,0 +1,38 @@
+<?
+$MESS["CATEGORY_NAME"] = "Kategori";
+$MESS["FILE_NAME"] = "File";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "Modul Blok Informasi belum diinstal.";
+$MESS["IBLOCK_NOT_ASSIGNED"] = "Tidak ada blok informasi yang dipilih.";
+$MESS["SOCNET_MODULE_NOT_INSTALLED"] = "Modul Jejaring Sosial belum diinstal.";
+$MESS["WIKI_ACCESS_DENIED"] = "Akses Ditolak.";
+$MESS["WIKI_BUTTON_DELETE"] = "Hapus";
+$MESS["WIKI_CHOISE_CATEGORY"] = "Pilih Kategori";
+$MESS["WIKI_DEFAULT_DETAIL_TEXT"] = "%NEWLINE%%HEAD%%NEWLINE%%NEWLINE%Tidak ada teks di halaman ini.";
+$MESS["WIKI_DELETE_CONFIRM"] = "Anda yakin ingin menghapus ini?";
+$MESS["WIKI_DELETE_ERROR"] = "Kesalahan menghapus halaman";
+$MESS["WIKI_DELETE_PAGE"] = "Anda yakin ingin menghapus halaman dan changelog sepenuhnya?";
+$MESS["WIKI_DEL_SONET_LOG_TITLE_TEMPLATE"] = "Artikel Wiki \"#TITLE#\" dihapus";
+$MESS["WIKI_DIALOG_RENAME_BUT_RENAME"] = "Ganti nama";
+$MESS["WIKI_DIALOG_RENAME_ERROR"] = "Tidak dapat mengganti nama.";
+$MESS["WIKI_DIALOG_RENAME_PAGE_NAME"] = "Nama baru";
+$MESS["WIKI_DIALOG_RENAME_TITLE"] = "Ganti nama";
+$MESS["WIKI_ERROR_NAME_BAD_SYMBOL"] = "Nama berisi simbol yang tidak valid (/)";
+$MESS["WIKI_ERROR_NAME_EMPTY"] = "Judul halaman hilang.";
+$MESS["WIKI_ERROR_RENAME"] = "Halaman dengan nama seperti itu sudah ada.";
+$MESS["WIKI_ERROR_TEXT_EMPTY"] = "Teks halaman kosong.";
+$MESS["WIKI_IMAGE_INSERT"] = "Sisipkan Gambar";
+$MESS["WIKI_IMAGE_UPLOAD_ERROR"] = "Hanya gambar yang dapat diunggah (JPG, JPEG, JPE, PNG, GIF, BMP).";
+$MESS["WIKI_MODIFY_COMMENT"] = "Komentar pada pembaruan";
+$MESS["WIKI_MODIFY_COMMENT_ABSENT"] = "Tidak ada";
+$MESS["WIKI_MODULE_NOT_INSTALLED"] = "Modul Wiki belum diinstal.";
+$MESS["WIKI_PAGE_NOT_FIND"] = "Tidak ada teks, atau halaman tidak ada. Anda dapat <a href=\"%LINK%\">membuat halaman baru dengan judul ini sekarang</a>.";
+$MESS["WIKI_PAGE_RENAMED"] = "halaman %OLD_NAME% sudah diganti namanya menjadi %NEW_NAME%.";
+$MESS["WIKI_REDIRECT"] = "Alihkan";
+$MESS["WIKI_SESS_TIMEOUT"] = "Sesi Anda kedaluwarsa. Silakan simpan halaman kembali.";
+$MESS["WIKI_SOCNET_INITIALIZING_FAILED"] = "Jejaring sosial gagal menginisialisasi.";
+$MESS["WIKI_SONET_IM_ADD"] = "Halaman Wiki baru \"#title#\" ditambahkan ke #group_name#.";
+$MESS["WIKI_SONET_IM_DELETE"] = "Halaman Wiki \"#title#\" dihapus dalam #group_name#.";
+$MESS["WIKI_SONET_IM_EDIT"] = "Halaman Wiki \"#title#\" diperbarui dalam #group_name#.";
+$MESS["WIKI_SONET_IM_RENAME"] = "Halaman Wiki \"#title_old#\" diganti namanya menjadi \"#title_new#\" dalam #group_name#.";
+$MESS["WIKI_SONET_LOG_TITLE_TEMPLATE"] = "Artikel \"#TITLE#\" ditambahkan atau diperbarui";
+?>

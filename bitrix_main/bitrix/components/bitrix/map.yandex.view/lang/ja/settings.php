@@ -1,0 +1,37 @@
+<?
+$MESS["MYMS_PARAM_INIT_MAP_NOTHING_FOUND"] = "(見つかりません)";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_HYBRID"] = "ハイブリッド";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_MAP"] = "地図";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_PUBLIC"] = "人の地図";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_PUBLIC_HYBRID"] = "ラベル付きの人々の地図";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_SATELLITE"] = "衛星";
+$MESS["MYMV_SET_ADDRESS_SEARCH"] = "地図を検索";
+$MESS["MYMV_SET_NONAME"] = "---無題---";
+$MESS["MYMV_SET_POINTS"] = "ホットスポット";
+$MESS["MYMV_SET_POINTS_ADD"] = "スポットを追加";
+$MESS["MYMV_SET_POINTS_ADD_DESCRIPTION"] = "ホットスポットを追加するには、地図をダブルクリックします";
+$MESS["MYMV_SET_POINTS_ADD_FINISH"] = "完了";
+$MESS["MYMV_SET_POLY"] = "地図ルート";
+$MESS["MYMV_SET_POLY_ADD"] = "ルートを追加";
+$MESS["MYMV_SET_POLY_ADD_DESCRIPTION"] = "最初の経路目印をダブルクリックします";
+$MESS["MYMV_SET_POLY_ADD_DESCRIPTION1"] = "地図をクリックして、目印をルートに追加します  バルーンをクリックしてルートを終了します";
+$MESS["MYMV_SET_POLY_ADD_FINISH"] = "経路を終了します";
+$MESS["MYMV_SET_POLY_COLOR"] = "線の色";
+$MESS["MYMV_SET_POLY_FINISH"] = "完了";
+$MESS["MYMV_SET_POLY_OPACITY"] = "不透明度(%)";
+$MESS["MYMV_SET_POLY_SETTINGS"] = "設定";
+$MESS["MYMV_SET_POLY_START_POINT"] = "開始";
+$MESS["MYMV_SET_POLY_TITLE"] = "名前";
+$MESS["MYMV_SET_POLY_WIDTH"] = "厚さ(px)";
+$MESS["MYMV_SET_POPUP_TITLE"] = "地図の設定";
+$MESS["MYMV_SET_POPUP_WINDOW_DESCRIPTION"] = "マップレイアウトと可視オブジェクトの設定";
+$MESS["MYMV_SET_POPUP_WINDOW_TITLE"] = "地図の設定を編集する";
+$MESS["MYMV_SET_START_POS"] = "最初の場所";
+$MESS["MYMV_SET_START_POS_FIX"] = "修正";
+$MESS["MYMV_SET_START_POS_LAT"] = "緯度";
+$MESS["MYMV_SET_START_POS_LON"] = "経度";
+$MESS["MYMV_SET_START_POS_RESTORE"] = "復元";
+$MESS["MYMV_SET_START_POS_SCALE"] = "規模";
+$MESS["MYMV_SET_START_POS_VIEW"] = "表示";
+$MESS["MYMV_SET_SUBMIT"] = "保存";
+?>

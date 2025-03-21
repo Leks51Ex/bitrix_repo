@@ -1,0 +1,34 @@
+<?
+$MESS["F_ANCHOR"] = "この投稿へのリンク";
+$MESS["F_ATTACH_FILES"] = "添付ファイル";
+$MESS["F_AUTHOR_PROFILE"] = "ユーザープロフィール";
+$MESS["F_DATE_REGISTER"] = "参加者:";
+$MESS["F_DELETE"] = "削除";
+$MESS["F_DELETE_CONFIRM"] = "メッセージは完全に削除されます。 続行しますか？";
+$MESS["F_DELETE_TOPIC"] = "トピックを削除";
+$MESS["F_DELETE_TOPIC_CONFIRM"] = "これは、トピックを不可逆的に削除します  持続する?";
+$MESS["F_EDIT"] = "変更";
+$MESS["F_EDIT_HEAD"] = "編集:";
+$MESS["F_EDIT_TOPIC"] = "トピックを変更する";
+$MESS["F_EMAIL_TITLE"] = "電子メールメッセージを送信する";
+$MESS["F_GOTO"] = "続行";
+$MESS["F_HIDE"] = "非表示";
+$MESS["F_HIDE_TOPIC"] = "トピックを非表示にする";
+$MESS["F_INSERT_NAME"] = "回答のユーザー名を貼り付ける";
+$MESS["F_NAME"] = "名前";
+$MESS["F_NO_VOTE_DO"] = "投票";
+$MESS["F_NO_VOTE_UNDO"] = "投票を取り消す";
+$MESS["F_NUM_MESS"] = "投稿:";
+$MESS["F_POINTS"] = "ポイント:";
+$MESS["F_PRIVATE_MESSAGE"] = "メッセージ";
+$MESS["F_PRIVATE_MESSAGE_TITLE"] = "プライベートメッセージを送信する";
+$MESS["F_QUOTE"] = "引用";
+$MESS["F_QUOTE_HINT"] = "返信フォームでメッセージを引用するにはテキストを選択してここをクリックしてください";
+$MESS["F_REAL_IP"] = "/実";
+$MESS["F_REPLY"] = "返信";
+$MESS["F_SHOW"] = "表示";
+$MESS["F_SHOW_TOPIC"] = "トピックを表示";
+$MESS["F_USER_ID"] = "ユーザーID";
+$MESS["F_USER_ID_USER"] = "IDユーザー";
+$MESS["F_USER_PROFILE"] = "ユーザープロフィール";
+?>

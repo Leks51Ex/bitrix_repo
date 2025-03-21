@@ -1,0 +1,4 @@
+<?
+$MESS["INTR_MAIL_MANAGE_SEARCH_CANCEL"] = "रद्द करें";
+$MESS["INTR_MAIL_MANAGE_SETUP_SAVE"] = "सेव करें";
+?>

@@ -1,0 +1,3 @@
+<?php
+$MESS["TASKS_SCRUM_BURN_DOWN_ACCESS_DENIED"] = "您无权浏览此内容。";
+$MESS["TASKS_SCRUM_BURN_DOWN_TITLE"] = "任务燃尽图";

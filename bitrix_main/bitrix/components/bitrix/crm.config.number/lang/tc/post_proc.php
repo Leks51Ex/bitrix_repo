@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安裝 CRM 模組。";
+$MESS["CRM_NUMBER_NUMBER_WARNING"] = "初始訂單號碼 \"#NUMBER#\" 無效。";
+$MESS["CRM_NUMBER_PREFIX_WARNING"] = "號碼前置詞 \"#PREFIX#\" 無效。";
+$MESS["CRM_PERMISSION_DENIED"] = "已拒絕存取。";
+?>

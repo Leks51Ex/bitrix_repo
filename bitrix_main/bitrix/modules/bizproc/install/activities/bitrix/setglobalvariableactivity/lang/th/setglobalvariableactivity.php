@@ -1,0 +1,24 @@
+<?php
+$MESS["BPSGCA_ACCESS_DENIED"] = "มีเพียงผู้ดูแลระบบ Bitrix24 เท่านั้น จึงจะสามารถเข้าถึงคุณสมบัติกิจกรรมได้";
+$MESS["BPSGCA_EMPTY_VARIABLES"] = "ไม่มีการกำหนดค่าให้กับตัวแปรส่วนกลาง";
+$MESS["BPSGVA_BOOL_NO"] = "ไม่";
+$MESS["BPSGVA_BOOL_YES"] = "ใช่";
+$MESS["BPSGVA_CLEAR"] = "รีเซ็ต";
+$MESS["BPSGVA_CREATE_GCONSTANT"] = "สร้างค่าคงที่";
+$MESS["BPSGVA_CREATE_GCONSTANT_QUESTION"] = "คุณต้องการสร้างค่าคงที่ใหม่ใช่หรือไม่?";
+$MESS["BPSGVA_CREATE_GVARIABLE"] = "สร้างตัวแปร";
+$MESS["BPSGVA_CREATE_GVARIABLE_QUESTION"] = "คุณต้องการสร้างตัวแปรใหม่ใช่หรือไม่?";
+$MESS["BPSGVA_DOCUMENT"] = "ค่าฟิลด์";
+$MESS["BPSGVA_EMPTY"] = "ไม่ได้เลือก";
+$MESS["BPSGVA_GCONSTANT_NOT_FOUND"] = "ไม่พบค่าคงที่";
+$MESS["BPSGVA_GCONSTANT_NO_EXIST"] = "ไม่มีค่าคงที่";
+$MESS["BPSGVA_GLOBAL_CONST"] = "ค่าคงที่ส่วนกลาง";
+$MESS["BPSGVA_GLOBAL_VAR"] = "ตัวแปรส่วนกลาง";
+$MESS["BPSGVA_GVARIABLE_NOT_FOUND"] = "ไม่พบตัวแปร";
+$MESS["BPSGVA_GVARIABLE_NO_EXIST"] = "ไม่มีตัวแปร";
+$MESS["BPSGVA_INPUT_TEXT"] = "ใส่ค่า";
+$MESS["BPSGVA_LIST_OF_VALUES"] = "ค่า";
+$MESS["BPSGVA_PARAMETER"] = "เลือกพารามิเตอร์";
+$MESS["BPSGVA_TEXT"] = "ค่าที่กำหนดเอง";
+$MESS["BPSGVA_TYPE_OF_PARAMETER"] = "ประเภทพารามิเตอร์";
+$MESS["BPSGVA_VARIABLE"] = "เลือกตัวแปร";

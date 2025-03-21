@@ -1,0 +1,32 @@
+<?
+$MESS["BITRIXTV_GROUP_PREVIEW_TV"] = "Oynatıcı ayarları";
+$MESS["BITRIXTV_GROUP_PREVIEW_TV_PLAYER"] = "Çalma listesi ayarları";
+$MESS["BITRIXTV_GROUP_SETTINGS"] = "Genel Ayarlar";
+$MESS["BITRIXTV_SETTING_ALLOW_SWF"] = "SWF dosyalarını oynatmaya izin ver (önerilmez)";
+$MESS["BITRIXTV_SETTING_DEFAULT_BIG_IMAGE"] = "Büyük resim (varsayılan)";
+$MESS["BITRIXTV_SETTING_DEFAULT_SMALL_IMAGE"] = "Küçük resim (varsayılan)";
+$MESS["BITRIXTV_SETTING_DURATION"] = "Video dosyası devam süresi değeri içeren özellik";
+$MESS["BITRIXTV_SETTING_IBLOCK_ID"] = "Bilgi bloğu kodu";
+$MESS["BITRIXTV_SETTING_IBLOCK_TYPE"] = "Bilgi Bloğu Türü";
+$MESS["BITRIXTV_SETTING_LOGO"] = "Logo";
+$MESS["BITRIXTV_SETTING_PATH_TO_FILE"] = "Video dosyasına giden yolu içeren özellik";
+$MESS["BITRIXTV_SETTING_PREVIEW_HEIGHT"] = "Oynatıcı yüksekliği";
+$MESS["BITRIXTV_SETTING_PREVIEW_TV_ELEMENT"] = "Öge";
+$MESS["BITRIXTV_SETTING_PREVIEW_TV_SECTION"] = "Bölüm";
+$MESS["BITRIXTV_SETTING_PREVIEW_WIDTH"] = "Oynatıcı genişliği";
+$MESS["BITRIXTV_SETTING_SHOW_COUNTER_EVENT"] = "Artış ögesi görüntülenme sayacı";
+$MESS["BITRIXTV_SETTING_STAT"] = "İstatistikleri görüntüler";
+$MESS["BITRIXTV_SETTING_STAT_EVENT"] = "Web Analytics içerisindeki etkinlikleri takip et";
+$MESS["BITRIXTV_SETTING_STAT_EVENT1"] = "Etkinlik1";
+$MESS["BITRIXTV_SETTING_STAT_EVENT2"] = "Etkinlik2";
+$MESS["CP_BIT_CACHE_GROUPS"] = "Erişim İzinlerine Riayet Et";
+$MESS["T_IBLOCK_DESC_ASC"] = "Artarak";
+$MESS["T_IBLOCK_DESC_DESC"] = "Azalan";
+$MESS["T_IBLOCK_DESC_FACT"] = "Başlangıç Tarihi";
+$MESS["T_IBLOCK_DESC_FID"] = "ID";
+$MESS["T_IBLOCK_DESC_FNAME"] = "Ad";
+$MESS["T_IBLOCK_DESC_FSORT"] = "Sıralama";
+$MESS["T_IBLOCK_DESC_FTSAMP"] = "Son Değiştirilme Tarihi";
+$MESS["T_IBLOCK_DESC_IBBY1"] = "İlk sıralama düzeni";
+$MESS["T_IBLOCK_DESC_IBORD1"] = "İlk sıralama alanı";
+?>

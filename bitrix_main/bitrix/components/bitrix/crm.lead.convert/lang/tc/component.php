@@ -1,0 +1,14 @@
+<?
+$MESS["CRM_COMPANY_ERROR"] = "請選取公司。";
+$MESS["CRM_CONTACT_ERROR"] = "請選取連絡人。";
+$MESS["CRM_DEAL_ERROR"] = "請填寫交易欄位。";
+$MESS["CRM_FIELD_LEAD_COMPANY"] = "轉換公司";
+$MESS["CRM_FIELD_LEAD_CONTACT"] = "轉換連絡人";
+$MESS["CRM_FIELD_LEAD_DEAL"] = "轉換交易";
+$MESS["CRM_FIELD_TITLE"] = "潛在客戶名稱";
+$MESS["CRM_LEAD_NAV_TITLE_EDIT"] = "轉換潛在客戶：#NAME#";
+$MESS["CRM_LEAD_NAV_TITLE_LIST"] = "潛在客戶";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安裝 CRM 模組。";
+$MESS["CRM_PERMISSION_DENIED"] = "已拒絕存取";
+$MESS["UNKNOWN_ERROR"] = "未知錯誤。";
+?>

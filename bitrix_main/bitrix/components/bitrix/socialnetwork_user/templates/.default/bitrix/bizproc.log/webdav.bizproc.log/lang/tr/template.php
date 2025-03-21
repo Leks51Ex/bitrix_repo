@@ -1,0 +1,23 @@
+<?php
+$MESS["BPABL_LOG"] = "İş Sürecü Geçmişi";
+$MESS["BPABL_RES_1"] = "Hayır";
+$MESS["BPABL_RES_2"] = "Başarı";
+$MESS["BPABL_RES_3"] = "İptal edildi";
+$MESS["BPABL_RES_4"] = "Hata";
+$MESS["BPABL_RES_5"] = "Başlatılmamış";
+$MESS["BPABL_RES_6"] = "Tanımlanmamış";
+$MESS["BPABL_STATE_MODIFIED"] = "Geçerli Durum Tarihi";
+$MESS["BPABL_STATE_NAME"] = "Geçerli İş Süreci Durumu";
+$MESS["BPABL_STATUS_1"] = "Başlatıldı";
+$MESS["BPABL_STATUS_2"] = "Üzerinde çalışılıyor";
+$MESS["BPABL_STATUS_3"] = "İptal Ediliyor";
+$MESS["BPABL_STATUS_4"] = "Tamamlanan";
+$MESS["BPABL_STATUS_5"] = "Hata";
+$MESS["BPABL_STATUS_6"] = "Tanımlanmamış";
+$MESS["BPABL_TYPE_1"] = "Başlatılan eylem: '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_2"] = "Tamamlanan eylem: '#ACTIVITY#', geri dönüş durumu: '#STATUS#', sonuç: '#RESULT#'#NOTE#";
+$MESS["BPABL_TYPE_3"] = "İptal edilen eylem: '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_4"] = "#ACTIVITY#'#NOTE# eylemi hatası";
+$MESS["BPABL_TYPE_5"] = "#ACTIVITY#'#NOTE# eylemi";
+$MESS["BPABL_TYPE_6"] = "#ACTIVITY#'#NOTE# ile ilişkili bilinmeyen bir eylem gerçekleştirildi.";
+$MESS["BPWC_WLCT_TOTAL"] = "Toplam";

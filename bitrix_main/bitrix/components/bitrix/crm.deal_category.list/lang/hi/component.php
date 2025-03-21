@@ -1,0 +1,9 @@
+<?
+$MESS["CRM_COLUMN_DEAL_CATEGORY_CREATED_DATE"] = "बनाने की तिथि";
+$MESS["CRM_COLUMN_DEAL_CATEGORY_ID"] = "आईडी";
+$MESS["CRM_COLUMN_DEAL_CATEGORY_NAME"] = "नाम";
+$MESS["CRM_COLUMN_DEAL_CATEGORY_SORT"] = "सॉर्टिंग";
+$MESS["CRM_DEAL_CATEGORY_DEFAULT_NAME"] = "नई पाइपलाइन";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM मॉड्यूल इन्स्टॉल नहीं है।";
+$MESS["CRM_PERMISSION_DENIED"] = "पहुँच नामंजूर";
+?>

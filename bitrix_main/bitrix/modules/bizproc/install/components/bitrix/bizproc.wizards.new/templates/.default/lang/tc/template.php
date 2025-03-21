@@ -1,0 +1,26 @@
+<?php
+$MESS["BPWC_WNCT_2LIST"] = "商務程序";
+$MESS["BPWC_WNCT_CANCEL"] = "取消";
+$MESS["BPWC_WNCT_COMP_LIST_TPL"] = "商務程序清單元件範本";
+$MESS["BPWC_WNCT_COMP_START_TPL"] = "商務程序啟動元件範本";
+$MESS["BPWC_WNCT_COMP_TPL_DEF"] = "（預設）";
+$MESS["BPWC_WNCT_COMP_VIEW_TPL"] = "商務程序元件範本";
+$MESS["BPWC_WNCT_DESCR"] = "商務程序描述";
+$MESS["BPWC_WNCT_EADD"] = "「新增項目」標題";
+$MESS["BPWC_WNCT_FILTERABLEFIELDS"] = "可用的篩選";
+$MESS["BPWC_WNCT_ICON"] = "商務程序圖示";
+$MESS["BPWC_WNCT_NAME"] = "商務程序名稱";
+$MESS["BPWC_WNCT_NEW_TMPL"] = "建立範本（連續商務程序）";
+$MESS["BPWC_WNCT_NEW_TMPL_1"] = "建立範本 (狀態導向商務程序)";
+$MESS["BPWC_WNCT_P"] = "商務程序項目的唯一名稱";
+$MESS["BPWC_WNCT_PERMS"] = "商務程序可用於";
+$MESS["BPWC_WNCT_PS"] = "商務程序項目的多個名稱";
+$MESS["BPWC_WNCT_SAVE0"] = "編輯";
+$MESS["BPWC_WNCT_SAVE1"] = "建立商務程序";
+$MESS["BPWC_WNCT_SAVE2"] = "下一步";
+$MESS["BPWC_WNCT_SORT"] = "商務程序排序次序";
+$MESS["BPWC_WNCT_SUBTITLE1"] = "新商務程序";
+$MESS["BPWC_WNCT_SUBTITLE2"] = "新商務程序設定";
+$MESS["BPWC_WNCT_SUBTITLE11"] = "編輯商務程序";
+$MESS["BPWC_WNCT_TMPL"] = "商務程序範本";
+$MESS["BPWC_WNCT_VISIBLEFIELDS"] = "可查看的欄位";

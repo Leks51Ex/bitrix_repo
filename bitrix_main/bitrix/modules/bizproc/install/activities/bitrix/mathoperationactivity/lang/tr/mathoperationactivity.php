@@ -1,0 +1,20 @@
+<?php
+$MESS["BPMOA_CHOOSE_PARAMETER"] = "Parametre seçin";
+$MESS["BPMOA_CHOOSE_VARIABLE"] = "Değişken seçin";
+$MESS["BPMOA_CREATE_GCONSTANT"] = "Sabit oluştur";
+$MESS["BPMOA_CREATE_GCONSTANT_QUESTION"] = "Yeni bir sabit oluşturmak istiyor musunuz?";
+$MESS["BPMOA_CREATE_GVARIABLE"] = "Değişken oluştur";
+$MESS["BPMOA_CREATE_GVARIABLE_QUESTION"] = "Yeni bir değişken oluşturmak istiyor musunuz?";
+$MESS["BPMOA_DOCUMENT"] = "Alan değeri";
+$MESS["BPMOA_EMPTY"] = "Seçilmedi";
+$MESS["BPMOA_EMPTY_OPERATION"] = "İşleç belirtilmedi";
+$MESS["BPMOA_EMPTY_VARIABLE"] = "Değişkenlerin hiçbirine bir değer atanmamış";
+$MESS["BPMOA_GCONSTANT_NOT_FOUND"] = "Sabit bulunamadı";
+$MESS["BPMOA_GCONSTANT_NO_EXIST"] = "Sabit yok";
+$MESS["BPMOA_GVARIABLE_NOT_FOUND"] = "Değişken bulunamadı";
+$MESS["BPMOA_GVARIABLE_NO_EXIST"] = "Değişken yok";
+$MESS["BPMOA_INPUT_NUMBER"] = "Bir sayı girin";
+$MESS["BPMOA_INVALID_VALUE"] = "İfade değerlerinden biri sayı değil";
+$MESS["BPMOA_LIST_OF_VALUES"] = "Değerler";
+$MESS["BPMOA_NUMBER"] = "Özel değer";
+$MESS["BPMOA_TYPE_OF_PARAMETER"] = "Parametre türü";

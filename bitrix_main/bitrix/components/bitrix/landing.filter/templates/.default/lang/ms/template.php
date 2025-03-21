@@ -1,0 +1,18 @@
+<?
+$MESS["LANDING_TPL_CREATE_FOLDER"] = "Cipta folder";
+$MESS["LANDING_TPL_CREATE_FOLDER_ACTION"] = "Cipta";
+$MESS["LANDING_TPL_FLT_CREATED_BY_ID"] = "Dicipta oleh";
+$MESS["LANDING_TPL_FLT_DATE_CREATE"] = "Dicipta pada";
+$MESS["LANDING_TPL_FLT_DATE_MODIFY"] = "Diubah suai pada";
+$MESS["LANDING_TPL_FLT_DELETED"] = "Dalam Tong Kitar Semula";
+$MESS["LANDING_TPL_FLT_MODIFIED_BY_ID"] = "Diubah suai oleh";
+$MESS["LANDING_TPL_FLT_N"] = "Tidak";
+$MESS["LANDING_TPL_FLT_STATUS"] = "Status";
+$MESS["LANDING_TPL_FLT_STATUS_ACTIVE"] = "Diterbitkan";
+$MESS["LANDING_TPL_FLT_STATUS_ACTIVE_CHANGED"] = "Diterbitkan, diubah suai";
+$MESS["LANDING_TPL_FLT_STATUS_NOT_ACTIVE"] = "Tidak diterbitkan";
+$MESS["LANDING_TPL_FLT_Y"] = "Ya";
+$MESS["LANDING_TPL_PRS_ACTIVE"] = "Aktif";
+$MESS["LANDING_TPL_PRS_MY"] = "Saya";
+$MESS["LANDING_TPL_RECYCLE_BIN"] = "Tong kitar semula";
+?>

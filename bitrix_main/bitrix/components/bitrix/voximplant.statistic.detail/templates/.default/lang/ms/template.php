@@ -1,0 +1,23 @@
+<?php
+$MESS["CT_BLL_SELECTED"] = "Kiraan rekod";
+$MESS["TEL_STAT_ACTION_CLOSE"] = "Tutup";
+$MESS["TEL_STAT_ACTION_DOWNLOAD"] = "Muat naik rakaman ke Bitrix24";
+$MESS["TEL_STAT_ACTION_EXECUTE"] = "Jalankan";
+$MESS["TEL_STAT_ACTION_STOP"] = "Berhenti";
+$MESS["TEL_STAT_BACK"] = "Undur";
+$MESS["TEL_STAT_BACK_TITLE"] = "Undur";
+$MESS["TEL_STAT_CANCEL"] = "Batal";
+$MESS["TEL_STAT_DOWNLOAD_VOX_RECORD_ERROR"] = "Ralat memuat naik data. Sila cuba lagi kemudian.";
+$MESS["TEL_STAT_ERROR"] = "Ralat";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL"] = "Eksport butiran panggilan ke Microsoft Excel";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL_DESCRIPTION"] = "Ini akan membuat fail eksport butiran panggilan.";
+$MESS["TEL_STAT_EXPORT_DETAIL_TO_EXCEL_LONG_PROCESS"] = "Mengeksport sejumlah besar data yang agak banyak mengambil sedikit masa.";
+$MESS["TEL_STAT_EXPORT_ERROR"] = "Terdapat ralat. Sila cuba lagi kemudian atau hubungi pentadbir Bitrix24 anda.";
+$MESS["TEL_STAT_EXPORT_TO_EXCEL"] = "Eksport ke Excel";
+$MESS["TEL_STAT_FILTER_CANCEL"] = "Set semula penapis";
+$MESS["TEL_STAT_FILTER_CANCEL_TITLE"] = "Set semula penapis";
+$MESS["TEL_STAT_LOADING"] = "Sedang muat naik";
+$MESS["TEL_STAT_SHOW_COUNT"] = "Tunjuk kuantiti";
+$MESS["TEL_STAT_TOTAL"] = "Jumlah";
+$MESS["TEL_STAT_USER_ID_CANCEL"] = "Set semula penapis pekerja";
+$MESS["TEL_STAT_USER_ID_CANCEL_TITLE"] = "Set semula penapis pekerja";

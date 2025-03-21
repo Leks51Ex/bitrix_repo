@@ -1,0 +1,25 @@
+<?php
+$MESS["CRM_COLUMN_ORDER_CHECK_DATE_CREATE"] = "Ngày tạo";
+$MESS["CRM_COLUMN_ORDER_CHECK_ENTITY"] = "ID thực thể (#ENTITY_NAME#)";
+$MESS["CRM_COLUMN_ORDER_CHECK_ID"] = "ID";
+$MESS["CRM_COLUMN_ORDER_CHECK_LINK"] = "Liên kết biên lai";
+$MESS["CRM_COLUMN_ORDER_CHECK_ORDER_ID"] = "ID đơn hàng";
+$MESS["CRM_COLUMN_ORDER_CHECK_PAYMENT_DESCR"] = "Thanh toán";
+$MESS["CRM_COLUMN_ORDER_CHECK_SHIPMENT_DESCR"] = "Kiện hàng";
+$MESS["CRM_COLUMN_ORDER_CHECK_STATUS"] = "Trạng thái biên lai";
+$MESS["CRM_COLUMN_ORDER_CHECK_SUM"] = "Số tiền trong biên lai";
+$MESS["CRM_COLUMN_ORDER_CHECK_TYPE"] = "Loại biên lai";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Mô-đun CRM chưa được cài đặt.";
+$MESS["CRM_ORDER_CHECK_ADD_TITLE"] = "Thêm Biên lai mới";
+$MESS["CRM_ORDER_CHECK_LINK"] = "Liên kết biên lai";
+$MESS["CRM_ORDER_CHECK_TITLE"] = "Biên lai ##ID# / #DATE_CREATE#";
+$MESS["CRM_ORDER_COPY_PAGE_TITLE"] = "Sao chép Biên lai";
+$MESS["CRM_ORDER_NOT_FOUND"] = "Không tìm thấy đơn hàng.";
+$MESS["CRM_ORDER_PAYMENT"] = "Thanh toán ##PAYMENT_NUMBER#: #PAYSYSTEM_NAME#";
+$MESS["CRM_ORDER_PAYMENT_TITLE"] = "Thanh toán ##ACCOUNT_NUMBER# / #DATE_BILL#";
+$MESS["CRM_ORDER_SECTION_ADDITIONAL"] = "Chi tiết thanh toán";
+$MESS["CRM_ORDER_SECTION_MAIN"] = "Chi tiết biên lai";
+$MESS["CRM_ORDER_SHIPMENT"] = "Kiện hàng ##SHIPMENT_NUMBER#: #DELIVERY_SYSTEM_NAME#";
+$MESS["CRM_ORDER_SHIPMENT_TITLE"] = "Kiện hàng ##ACCOUNT_NUMBER# / #DATE_INSERT#";
+$MESS["CRM_PERMISSION_DENIED"] = "Truy cập bị từ chối";
+$MESS["CRM_SALE_MODULE_NOT_INSTALLED"] = "Mô-đun e-Store chưa được cài đặt.";

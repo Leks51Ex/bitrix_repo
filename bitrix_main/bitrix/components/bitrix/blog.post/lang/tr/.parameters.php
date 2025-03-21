@@ -1,0 +1,31 @@
+<?
+$MESS["BB_PATH_TO_SMILE"] = "Site köküne göre, ifadeler klasörü yolu";
+$MESS["BC_DATE_TIME_FORMAT"] = "Tarih ve saat biçimi";
+$MESS["BC_SEO_D"] = "varsayılan alanlar";
+$MESS["BC_SEO_N"] = "Hiçbir zaman";
+$MESS["BC_SEO_USE"] = "SEO kullan";
+$MESS["BC_SEO_Y"] = "açıklama için ayrı alanlar kullan";
+$MESS["BPC_IMAGE_MAX_HEIGHT"] = "Maks. Görsel Yüksekliği";
+$MESS["BPC_IMAGE_MAX_WIDTH"] = "Maks. Görsel Genişliği";
+$MESS["BP_BLOG_URL"] = "Blog URL";
+$MESS["BP_BLOG_VAR"] = "Blog tanımlayıcı değişkeni";
+$MESS["BP_ID"] = "Mesaj Kimliği";
+$MESS["BP_PAGE_VAR"] = "Sayfa Değişkeni";
+$MESS["BP_PATH_TO_BLOG"] = "Blog sayfa yolu şablonu";
+$MESS["BP_PATH_TO_BLOG_CATEGORY"] = "Etiket filtresi ile blog sayfa yolu şablonu";
+$MESS["BP_PATH_TO_POST_EDIT"] = "Blog mesajı düzenleme sayfa yolu şablonu";
+$MESS["BP_PATH_TO_USER"] = "Blog kullanıcısı sayfa yolu şablonu";
+$MESS["BP_POST_VAR"] = "Blog mesaj tanımlayıcı değişkeni";
+$MESS["BP_SET_NAV_CHAIN"] = "Navigasyon zincirine öge ekle";
+$MESS["BP_USER_VAR"] = "Blog kullanıcı tanımlayıcısı değişkeni";
+$MESS["B_VARIABLE_ALIASES"] = "Değişken Mahlaslar";
+$MESS["POST_PROPERTY"] = "Ek gönderi özelliklerini göster";
+$MESS["RATING_TYPE"] = "Puanlama düğmeleri tasarımı";
+$MESS["RATING_TYPE_CONFIG"] = "Varsayılan";
+$MESS["RATING_TYPE_LIKE_GRAPHIC"] = "Beğen (görsel)";
+$MESS["RATING_TYPE_LIKE_TEXT"] = "Beğen (metin)";
+$MESS["RATING_TYPE_STANDART_GRAPHIC"] = "Beğen / Beğenmekten Vazgeç (görsel)";
+$MESS["RATING_TYPE_STANDART_TEXT"] = "Beğen / Beğenmekten Vazgeç (metin)";
+$MESS["SHOW_RATING"] = "Puanlamayı Etkinleştir";
+$MESS["SHOW_RATING_CONFIG"] = "Varsayılan";
+?>

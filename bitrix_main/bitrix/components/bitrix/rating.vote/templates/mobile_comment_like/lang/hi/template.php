@@ -1,0 +1,4 @@
+<?
+$MESS["RATING_COMMENT_LIKE"] = "लाइक";
+$MESS["RATING_COMMENT_LIST_BACK"] = "वापस";
+?>

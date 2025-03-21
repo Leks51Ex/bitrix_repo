@@ -1,0 +1,4 @@
+<?
+$MESS["ISS_TPL_FILTER_CANCEL"] = "रद्द करें";
+$MESS["ISS_TPL_SIMPLE_FILTER_DEPARTMENT"] = "विभाग";
+?>

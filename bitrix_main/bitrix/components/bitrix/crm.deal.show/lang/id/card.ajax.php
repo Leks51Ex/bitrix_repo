@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_COLUMN_COMPANY_TITLE"] = "Perusahaan";
+$MESS["CRM_COLUMN_CONTACT_FULL_NAME"] = "Kontak";
+$MESS["CRM_OPER_EDIT"] = "Edit";
+?>

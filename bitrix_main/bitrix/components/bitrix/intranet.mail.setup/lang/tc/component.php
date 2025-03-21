@@ -1,0 +1,31 @@
+<?
+$MESS["INTR_MAIL_AJAX_ERROR"] = "處理該項要求時，發生錯誤。";
+$MESS["INTR_MAIL_AUTH"] = "驗證錯誤";
+$MESS["INTR_MAIL_B24_PAGE_TITLE"] = "Bitrix24.Mail";
+$MESS["INTR_MAIL_CONTROLLER_INVALID"] = "無法提供服務。";
+$MESS["INTR_MAIL_CSRF"] = "提交表單時，發生安全錯誤。";
+$MESS["INTR_MAIL_DOMAIN_ICON"] = "b24mail-en.png";
+$MESS["INTR_MAIL_DOMAIN_PAGE_TITLE"] = "新增電子郵件網域";
+$MESS["INTR_MAIL_FORM_ERROR"] = "處理表單時，發生錯誤。";
+$MESS["INTR_MAIL_IMAP_AUTH_ERR_EXT"] = "驗證錯誤。請驗證登入名稱和密碼是否正確。<br>請注意，如果您使用了應用程式密碼並啟用了兩步驟驗證，您必須使用特殊整合的密碼。";
+$MESS["INTR_MAIL_IMAP_DIRS"] = "選擇要同步的資料夾";
+$MESS["INTR_MAIL_IMAP_OAUTH_ACC"] = "取得信箱資料時，發生錯誤";
+$MESS["INTR_MAIL_INP_DOMAINTOKEN_BAD"] = "所提供的權杖與網域不符。";
+$MESS["INTR_MAIL_INP_DOMAIN_EMPTY"] = "網域名稱為必填項。";
+$MESS["INTR_MAIL_INP_DOMAIN_REMOVE"] = "網域已成功中斷連結。";
+$MESS["INTR_MAIL_INP_DOMAIN_WAIT"] = "等候網域連結至 Yandex Hosted E-Mail 完成";
+$MESS["INTR_MAIL_INP_EMAIL_BAD"] = "電子郵件地址無效";
+$MESS["INTR_MAIL_INP_PASSWORD2_BAD"] = "您的密碼與確認密碼不符。";
+$MESS["INTR_MAIL_INP_TOKEN_EMPTY"] = "權杖為必填項。";
+$MESS["INTR_MAIL_MAILBOX_OCCUPIED"] = "本信箱正由另一位使用者使用。";
+$MESS["INTR_MAIL_MANAGE_CHANGE"] = "編輯";
+$MESS["INTR_MAIL_MANAGE_CREATE"] = "建立";
+$MESS["INTR_MAIL_MANAGE_DELETE"] = "刪除信箱";
+$MESS["INTR_MAIL_MANAGE_PAGE_TITLE"] = "管理電子郵件信箱";
+$MESS["INTR_MAIL_MANAGE_PASSWORD"] = "變更密碼";
+$MESS["INTR_MAIL_MAX_AGE_ERROR"] = "請指定同步間隔時間。";
+$MESS["INTR_MAIL_SAVE_ERROR"] = "儲存連線資料時，發生錯誤。";
+$MESS["INTR_MAIL_UNAVAILABLE"] = "不提供電子郵件服務。請聯絡您的內部網路管理員。 ";
+$MESS["MAIL_MODULE_NOT_INSTALLED"] = "未安裝郵件模組。";
+$MESS["NTR_MAIL_PAGE_TITLE"] = "信箱整合";
+?>

@@ -1,0 +1,5 @@
+<?
+$MESS["VOX_DOCUMENT_STATUS_DECLINED"] = "Đã từ chối";
+$MESS["VOX_DOCUMENT_STATUS_IN_PROGRESS"] = "Đang xác minh";
+$MESS["VOX_DOCUMENT_STATUS_VERIFIED"] = "Đã xác nhận";
+?>

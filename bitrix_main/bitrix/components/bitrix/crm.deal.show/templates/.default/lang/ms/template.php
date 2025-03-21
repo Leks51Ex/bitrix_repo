@@ -1,0 +1,20 @@
+<?php
+$MESS["CRM_DEAL_CLIENT"] = "Pelanggan";
+$MESS["CRM_DEAL_CLIENT_EMAIL"] = "E-mel";
+$MESS["CRM_DEAL_CLIENT_PHONE"] = "Telefon";
+$MESS["CRM_DEAL_COMMENT"] = "Komen";
+$MESS["CRM_DEAL_CONV_DIALOG_CANCEL_BTN"] = "Batal";
+$MESS["CRM_DEAL_CREATOR"] = "Dicipta oleh";
+$MESS["CRM_DEAL_DURATION"] = "Tarikh";
+$MESS["CRM_DEAL_RESPONSIBLE"] = "Orang yang bertanggungjawab";
+$MESS["CRM_TAB_1"] = "Urusan";
+$MESS["CRM_TAB_2"] = "Kenalan";
+$MESS["CRM_TAB_4"] = "Pendahulu";
+$MESS["CRM_TAB_6"] = "Aktiviti";
+$MESS["CRM_TAB_8"] = "Invois";
+$MESS["CRM_TAB_8_TITLE_V2"] = "Invois urusan";
+$MESS["CRM_TAB_8_V2"] = "Invois";
+$MESS["CRM_TAB_9"] = "Sebut harga";
+$MESS["CRM_TAB_AUTOMATION"] = "Automasi";
+$MESS["CRM_TAB_PRODUCT_ROWS"] = "Produk";
+$MESS["CRM_TAB_TREE"] = "Kebergantungan";

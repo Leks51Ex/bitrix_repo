@@ -1,0 +1,4 @@
+<?
+$MESS["DISK_AGGREGATOR_GROUP_TITLE"] = "群组云盘";
+$MESS["DISK_AGGREGATOR_USER_TITLE"] = "员工云盘";
+?>

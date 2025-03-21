@@ -1,0 +1,4 @@
+<?
+$MESS["INTR_ISHU_PARAM_DETAIL_URL"] = "部門URLテンプレート";
+$MESS["INTR_ISHU_PARAM_ID"] = "ユーザーID";
+?>

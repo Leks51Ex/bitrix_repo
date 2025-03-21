@@ -1,0 +1,2 @@
+<?php
+$MESS["CRM_CATALOG_CONTROLLER_ACCESS_DENIED_ERROR_TITLE"] = "商品カタログを表示する権限がありません。";

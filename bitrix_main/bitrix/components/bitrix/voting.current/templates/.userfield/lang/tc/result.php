@@ -1,0 +1,6 @@
+<?
+$MESS["VOTE_RESUBMIT_BUTTON"] = "再次投票";
+$MESS["VOTE_RESUME_BUTTON"] = "繼續";
+$MESS["VOTE_STOP_BUTTON"] = "停止";
+$MESS["VOTE_SUBMIT_BUTTON"] = "投票";
+?>

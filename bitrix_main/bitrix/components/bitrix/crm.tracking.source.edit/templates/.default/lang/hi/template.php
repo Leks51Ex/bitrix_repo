@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_TRACKING_SOURCE_EDIT_AD_ACCOUNT"] = "विज्ञापन अकाउंट";
+$MESS["CRM_TRACKING_SOURCE_EDIT_ARCHIVE"] = "आर्काइव";
+$MESS["CRM_TRACKING_SOURCE_EDIT_AUTH"] = "%name% पर लॉग ऑन करें";
+$MESS["CRM_TRACKING_SOURCE_EDIT_AUTH_DESC"] = "लॉग ऑन करने के लिए %name% अकाउंट का उपयोग करें";
+$MESS["CRM_TRACKING_SOURCE_EDIT_AUTO_CONFIGURED"] = "यह चैनल ऑटोमेटिक है। इसके लिए किसी खास कॉन्फ़िगरेशन की आवश्यकता नहीं है।";
+$MESS["CRM_TRACKING_SOURCE_EDIT_CONNECT"] = "कनेक्ट करें";
+$MESS["CRM_TRACKING_SOURCE_EDIT_CONNECTED"] = "स्रोत %name% कनेक्ट है";
+$MESS["CRM_TRACKING_SOURCE_EDIT_DESC_ORGANIC1"] = "अन्य ट्रैफिक में वे सभी ग्राहक शामिल हैं जो किसी भी जुड़े हुए स्रोत से संबंधित नहीं हैं। अन्य ट्रैफिक पूरी तरह से स्वचालित है और इसके लिए किसी खास कॉन्फ़िगरेशन की आवश्यकता नहीं है। रिपोर्ट में आंकड़े उपलब्ध हैं।";
+$MESS["CRM_TRACKING_SOURCE_EDIT_DISCONNECT"] = "डिस्कनेक्ट करें";
+$MESS["CRM_TRACKING_SOURCE_EDIT_EXPENSES"] = "लागत";
+$MESS["CRM_TRACKING_SOURCE_EDIT_ICON_COLOR"] = "रंग चुनें";
+$MESS["CRM_TRACKING_SOURCE_EDIT_ICON_COLOR_CHOOSE"] = "अन्य रंग";
+$MESS["CRM_TRACKING_SOURCE_EDIT_INSTALL_SEO"] = "कृपया अपना विज्ञापन अकाउंट जोड़ने के लिए SEO मॉड्यूल इंस्टॉल करें।";
+$MESS["CRM_TRACKING_SOURCE_EDIT_LOADING"] = "लोड हो रहा है";
+$MESS["CRM_TRACKING_SOURCE_EDIT_REF_DOMAIN_ADD"] = "डोमेन जोड़ें";
+$MESS["CRM_TRACKING_SOURCE_EDIT_REF_DOMAIN_HINT"] = "इन डोमेन पर जाने के बाद बनाई गईं लीड्स और डील्स इस स्रोत के आँकड़ों में जोड़ी जाएंगी।";
+$MESS["CRM_TRACKING_SOURCE_EDIT_REF_DOMAIN_NAME"] = "रेफरिंग डोमेन";
+$MESS["CRM_TRACKING_SOURCE_EDIT_REPLACE_BUTTON"] = "मेरी संपर्क जानकारी स्वैप करें";
+$MESS["CRM_TRACKING_SOURCE_EDIT_REPLACE_EMAIL"] = "ईमेल";
+$MESS["CRM_TRACKING_SOURCE_EDIT_REPLACE_EXISTED"] = "आपका वर्तमान संपर्क विवरण:";
+$MESS["CRM_TRACKING_SOURCE_EDIT_REPLACE_NEW"] = "वर्तमान संपर्क जानकारी इसके साथ स्वैप की जाएगी:";
+$MESS["CRM_TRACKING_SOURCE_EDIT_REPLACE_NOT_SETUP"] = "उल्लिखित नहीं";
+$MESS["CRM_TRACKING_SOURCE_EDIT_REPLACE_PHONE"] = "फोन";
+$MESS["CRM_TRACKING_SOURCE_EDIT_REPLACE_SETUP"] = "कॉन्फ़िगर करें";
+$MESS["CRM_TRACKING_SOURCE_EDIT_REPLACE_TITLE"] = "फोन और ईमेल";
+$MESS["CRM_TRACKING_SOURCE_EDIT_TEXT"] = "रिपोर्ट में %name% मार्केटिंग ROI और आपके सेल्स प्रतिनिधियों की परफॉर्मेंस को दिखाया जाएगा।";
+$MESS["CRM_TRACKING_SOURCE_EDIT_TITLE"] = "%name% को सेल्स इंटेलिजेंस से कनेक्ट करें";
+$MESS["CRM_TRACKING_SOURCE_EDIT_UNAVAILABLE"] = "विज्ञापन अकाउंट सेटिंग जल्द ही उपलब्ध होंगी";
+$MESS["CRM_TRACKING_SOURCE_EDIT_UTM_NAME"] = "स्रोत का नाम";
+$MESS["CRM_TRACKING_SOURCE_EDIT_UTM_NAME_DESC"] = "जैसा कि रिपोर्ट्स में देखा जा सकता है। उदाहरण: न्यूजलेटर, रेडियो, Instagram पोस्ट";
+$MESS["CRM_TRACKING_SOURCE_EDIT_UTM_SOURCE_BTN_ADD"] = "UTM पैरामीटर जोड़ें";
+$MESS["CRM_TRACKING_SOURCE_EDIT_UTM_SOURCE_DESC"] = "स्रोत पर क्लिक करें। उदाहरण: ईमेल, न्यूजलेटर, बैनर, इंस्टाग्राम";
+$MESS["CRM_TRACKING_SOURCE_EDIT_UTM_TAGS"] = "UTM पैरामीटर";
+?>

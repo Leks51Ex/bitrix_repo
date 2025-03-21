@@ -1,0 +1,34 @@
+<?php
+$MESS["CRM_DOCUMENT_VIEW_COPY_PUBLIC_URL_MESSAGE"] = "Liên kết công khai đã được sao chép vào Bảng nháp";
+$MESS["CRM_DOCUMENT_VIEW_CREATE_OR_EDIT_MY_COMPANY_REQUISITES"] = "<a href=\"#URL#\" target=\"_blank\" class=\"docs-preview-details-link\">Cung cấp hoặc chỉnh sửa</a>
+<span class=\"docs-preview-details-text\">chi tiết công ty của tôi</span>";
+$MESS["CRM_DOCUMENT_VIEW_DOWNLOAD_IN"] = "Tải về dưới dạng:";
+$MESS["CRM_DOCUMENT_VIEW_EDIT_DOCUMENT"] = "Chỉnh sửa Tài liệu";
+$MESS["CRM_DOCUMENT_VIEW_EDIT_TEMPLATE"] = "Chỉnh sửa Khuôn mẫu";
+$MESS["CRM_DOCUMENT_VIEW_FEEDBACK"] = "Phản hồi";
+$MESS["CRM_DOCUMENT_VIEW_NO_AVAILABLE_FILES"] = "Không có tệp nào để gửi";
+$MESS["CRM_DOCUMENT_VIEW_PAYMENT_BUTTON"] = "Nhận thanh toán";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_GENERATION_MESSAGE"] = "Tạo tài liệu";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_MESSAGE_PREPARE"] = "Bản xem trước PDF đang được tạo";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_MESSAGE_READY"] = "Bạn có thể tải về tài liệu dưới dạng một tập tin DOCX ngay bây giờ, hoặc gửi liên kết đến cho khách hàng";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_READY_MESSAGE"] = "Tài liệu hiện sẵn có trong định dạng DOCX. Bạn có thể nhận một liên kết tài liệu, tải nó về máy hoặc gửi đến khách hàng của mình.";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_TIME_MESSAGE"] = "Ảnh tài liệu và phiên bản PDF sẽ cần khoảng 20 giây";
+$MESS["CRM_DOCUMENT_VIEW_PUBLIC_LINK"] = "Liên kết công khai";
+$MESS["CRM_DOCUMENT_VIEW_PUBLIC_ON"] = "Bật";
+$MESS["CRM_DOCUMENT_VIEW_PUBLIC_URL_VIEWED_TIME"] = "Khách hàng đã nhấn vào liên kết công khai lúc <span>#TIME#</span>";
+$MESS["CRM_DOCUMENT_VIEW_QR"] = "Mã QR thanh toán";
+$MESS["CRM_DOCUMENT_VIEW_REQUISITES_MY_COMPANY_TITLE"] = "Chi tiết công ty của tôi";
+$MESS["CRM_DOCUMENT_VIEW_SEND"] = "Gửi";
+$MESS["CRM_DOCUMENT_VIEW_SEND_EMAIL"] = "qua email";
+$MESS["CRM_DOCUMENT_VIEW_SEND_SMS"] = "qua sms";
+$MESS["CRM_DOCUMENT_VIEW_SHOW_FULL_DOCUMENT"] = "Hiển thị tài liệu đầy đủ";
+$MESS["CRM_DOCUMENT_VIEW_SIGNED"] = "với chữ ký và con dấu";
+$MESS["CRM_DOCUMENT_VIEW_SIGN_AND_STAMP"] = "Đóng dấu và ký";
+$MESS["CRM_DOCUMENT_VIEW_SIGN_BUTTON"] = "Ký";
+$MESS["CRM_DOCUMENT_VIEW_SIGN_CLICKED"] = "Bạn đã bắt đầu ký kết tài liệu rồi.";
+$MESS["CRM_DOCUMENT_VIEW_SMS_PUBLIC_URL_NECESSARY"] = "Cần liên kết công khai để gửi SMS";
+$MESS["CRM_DOCUMENT_VIEW_TRANSFORMATION_NO_PDF_ERROR"] = "Không thể tìm thấy phiên bản PDF của tài liệu. Tập tin này có thể chưa được chuyển đổi thành công.";
+$MESS["CRM_DOCUMENT_VIEW_TRANSFORMATION_PROGRESS"] = "Bạn vui lòng chờ đến khi quá trình chuyển đổi hoàn tất";
+$MESS["CRM_DOCUMENT_VIEW_TRANSFORM_ERROR"] = "Không thể tạo tệp PDF cho tài liệu.";
+$MESS["CRM_DOCUMENT_VIEW_TRY_AGAIN"] = "Thử lại";
+$MESS["CRM_DOCUMENT_VIEW_TRY_LATER"] = "Vui lòng thử lại sau.";

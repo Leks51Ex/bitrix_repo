@@ -1,0 +1,37 @@
+<?
+$MESS["CRM_COMPANY_LINK"] = "Công ty";
+$MESS["CRM_CONTACT_LINK"] = "Người liên lạc";
+$MESS["CRM_DEAL_CLIENT_NOT_ASSIGNED"] = "[chưa chỉ định]";
+$MESS["CRM_DEAL_LINK"] = "Hoá đơn của Deal";
+$MESS["CRM_DEAL_NOT_OPENED"] = "Deal này hạn chế người xem";
+$MESS["CRM_DEAL_OPENED"] = "Cho phép tất cả người sử dụng xem";
+$MESS["CRM_EDIT_BTN_TTL"] = "Nhấp chuột để chỉnh sửa";
+$MESS["CRM_INVOICE_CLIENT"] = "Nhà thầu";
+$MESS["CRM_INVOICE_COMMENT"] = "Bình luận của người đại diện kinh doanh";
+$MESS["CRM_INVOICE_DATE_BILL"] = "Ngày hoá đơn";
+$MESS["CRM_INVOICE_DATE_INSERT"] = "Đã tạo vào";
+$MESS["CRM_INVOICE_DATE_PAY_BEFORE"] = "Thanh toán trước ngày";
+$MESS["CRM_INVOICE_DATE_UPDATE"] = "Đã chỉnh sửa vào";
+$MESS["CRM_INVOICE_FIELD_DATE_MARKED"] = "Ngày huỷ bỏ";
+$MESS["CRM_INVOICE_FIELD_PAY_VOUCHER_DATE"] = "Ngày thanh toán";
+$MESS["CRM_INVOICE_FIELD_PAY_VOUCHER_NUM"] = "Văn bản #";
+$MESS["CRM_INVOICE_FIELD_REASON_MARKED"] = "Bình luận";
+$MESS["CRM_INVOICE_PRICE_SHORT"] = "Tổng số";
+$MESS["CRM_INVOICE_PUBLIC_LINK_COPY"] = "Sao chép";
+$MESS["CRM_INVOICE_RECUR_SHOW_TITLE"] = "Hóa đơn định kỳ ##ACCOUNT_NUMBER# &mdash; #ORDER_TOPIC#";
+$MESS["CRM_INVOICE_SHOW_LEGEND"] = "hoá đơn ##ACCOUNT_NUMBER#";
+$MESS["CRM_INVOICE_SHOW_TITLE"] = "Hoá đơn ##ACCOUNT_NUMBER# &mdash; #ORDER_TOPIC#";
+$MESS["CRM_INVOICE_SIDEBAR_STATUS"] = "Trạng thái";
+$MESS["CRM_INVOICE_TITLE"] = "Hoá đơn";
+$MESS["CRM_LOCK_BTN_TTL"] = "Không thể chỉnh sửa mục này";
+$MESS["CRM_QUOTE_LINK"] = "Báo giá";
+$MESS["CRM_TAB_1"] = "Thông tin hóa đơn";
+$MESS["CRM_TAB_1_TITLE"] = "Tham số hóa đơn";
+$MESS["CRM_TAB_HISTORY"] = "Lịch sử";
+$MESS["CRM_TAB_HISTORY_TITLE"] = "Lịch sử thay đổi của hoá đơn";
+$MESS["CRM_TAB_PRODUCT_ROWS"] = "Các sản phầm";
+$MESS["CRM_TAB_PRODUCT_ROWS_TITLE"] = "Các sản phẩm hoá đơn";
+$MESS["CRM_TAB_TREE"] = "Yếu tố phụ thuộc";
+$MESS["CRM_TAB_TREE_TITLE"] = "Liên kết đến các thực thể và mục khác";
+$MESS["INVOICE_USER_DESCRIPTION"] = "Ghi chú hoá đơn (hiển thị trên hoá đơn)";
+?>

@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_NAME"] = "CRM";
+$MESS["CRM_REQUISITE_MENU_DESCRIPTION"] = "Arça çubuğu";
+$MESS["CRM_REQUISITE_MENU_NAME"] = "Arça çubuğu";
+$MESS["CRM_REQUISITE_NAME"] = "Ayrıntılar";
+?>

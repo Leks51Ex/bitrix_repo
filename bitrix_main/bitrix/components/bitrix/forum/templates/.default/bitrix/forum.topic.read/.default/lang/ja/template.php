@@ -1,0 +1,35 @@
+<?
+$MESS["F_CLOSED"] = "終了";
+$MESS["F_CLOSE_TOPIC"] = "トピックを閉じる";
+$MESS["F_COLLAPSE"] = "折りたたむ";
+$MESS["F_DELETE_CONFIRM"] = "メッセージは完全に削除されます。 続行しますか？";
+$MESS["F_DELETE_MESSAGES"] = "メッセージを削除する";
+$MESS["F_DELETE_MESSAGES_CONFIRM"] = "これにより、メッセージが不可逆的に削除されます  持続する?";
+$MESS["F_DELETE_TOPIC"] = "トピックを削除";
+$MESS["F_DELETE_TOPIC_CONFIRM"] = "これは、トピックを不可逆的に削除します  持続する?";
+$MESS["F_EDIT_TOPIC"] = "トピックを変更する";
+$MESS["F_HIDE"] = "非表示";
+$MESS["F_HIDE_MESSAGES"] = "メッセージを非表示にする";
+$MESS["F_HIDE_TOPIC"] = "トピックを非表示にする";
+$MESS["F_MANAGE_MESSAGES"] = "メッセージを管理する";
+$MESS["F_MANAGE_TOPIC"] = "トピックを管理する";
+$MESS["F_MOVE_MESSAGES"] = "メッセージの移動";
+$MESS["F_MOVE_TOPIC"] = "トピックを移動する";
+$MESS["F_OPEN_TOPIC"] = "トピックを開く";
+$MESS["F_PINN_TOPIC"] = "スティックトピック";
+$MESS["F_POSTS"] = "投稿";
+$MESS["F_REPLY"] = "返信";
+$MESS["F_SELECT_ALL"] = "すべて選択";
+$MESS["F_SHOW"] = "表示";
+$MESS["F_SHOW_MESSAGES"] = "メッセージを表示する";
+$MESS["F_SHOW_TOPIC"] = "トピックを表示";
+$MESS["F_SUBSCRIBE"] = "購読";
+$MESS["F_SUBSCRIBE_TITLE"] = "新しい投稿を購読する";
+$MESS["F_UNPINN_TOPIC"] = "アンスティックトピック";
+$MESS["F_UNSUBSCRIBE"] = "退会する";
+$MESS["F_UNSUBSCRIBE_TITLE"] = "新しい投稿通知の登録を解除する";
+$MESS["F_WAIT"] = "お待ちください...";
+$MESS["JQOUTE_AUTHOR_WRITES"] = "書きました";
+$MESS["JS_NO_ACTION"] = "アクションは選択されていません  アクションを選択してください";
+$MESS["JS_NO_MESSAGES"] = "メッセージは選択されていません  メッセージを選択してください";
+?>

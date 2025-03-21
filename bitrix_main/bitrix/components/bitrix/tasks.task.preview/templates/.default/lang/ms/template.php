@@ -1,0 +1,34 @@
+<?
+$MESS["TASKS_CLOSED_DATE"] = "Lengkap pada";
+$MESS["TASKS_CREATED_DATE"] = "Dicipta pada";
+$MESS["TASKS_CREATOR"] = "Dicipta oleh";
+$MESS["TASKS_DATE_START"] = "Dimulakan pada";
+$MESS["TASKS_DEADLINE"] = "Tarikh akhir";
+$MESS["TASKS_END_DATE_PLAN"] = "Tarikh tamat";
+$MESS["TASKS_NEW_RESPONSIBLE"] = "Pekerja baharu";
+$MESS["TASKS_NO_DATE"] = "tidak";
+$MESS["TASKS_PRIORITY"] = "Keutamaan";
+$MESS["TASKS_PRIORITY_0"] = "Rendah";
+$MESS["TASKS_PRIORITY_1"] = "Normal";
+$MESS["TASKS_PRIORITY_2"] = "Tinggi";
+$MESS["TASKS_RESPONSIBLE"] = "Orang yang bertanggungjawab";
+$MESS["TASKS_SIDEBAR_START_DATE"] = "dari";
+$MESS["TASKS_START_DATE_PLAN"] = "Tarikh mula";
+$MESS["TASKS_STATUS"] = "Status";
+$MESS["TASKS_STATUS_1"] = "Baru";
+$MESS["TASKS_STATUS_2"] = "Belum selesai";
+$MESS["TASKS_STATUS_3"] = "Sedang dijalankan";
+$MESS["TASKS_STATUS_4"] = "Menunggu semakan";
+$MESS["TASKS_STATUS_5"] = "Selesai";
+$MESS["TASKS_STATUS_6"] = "Tertunda";
+$MESS["TASKS_STATUS_7"] = "Ditolak";
+$MESS["TASKS_STATUS_ACCEPTED"] = "Belum selesai";
+$MESS["TASKS_STATUS_COMPLETED"] = "Lengkap";
+$MESS["TASKS_STATUS_DECLINED"] = "Ditolak";
+$MESS["TASKS_STATUS_DELAYED"] = "Tertunda";
+$MESS["TASKS_STATUS_IN_PROGRESS"] = "Sedang dijalankan";
+$MESS["TASKS_STATUS_NEW"] = "Baru";
+$MESS["TASKS_STATUS_OVERDUE"] = "Terlewat";
+$MESS["TASKS_STATUS_WAITING"] = "Menunggu semakan";
+$MESS["TASKS_TASK_TITLE_LABEL"] = "Tugas";
+?>

@@ -1,0 +1,3 @@
+<?
+$MESS["REPORT_ERR_USER_FIELD_NOT_FOUND"] = "未找到實體 \"#ENTITY_ID#\" 的自訂欄位 #FIELD_NAME#";
+?>

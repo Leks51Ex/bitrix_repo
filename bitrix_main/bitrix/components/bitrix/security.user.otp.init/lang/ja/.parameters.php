@@ -1,0 +1,4 @@
+<?
+$MESS["SECURITY_USER_OTP_INIT_SHOW_DESCRIPTION"] = "説明を表示";
+$MESS["SECURITY_USER_OTP_INIT_SUCCESSFUL_URL"] = "デバイス接続に成功するとリダイレクトするURL";
+?>

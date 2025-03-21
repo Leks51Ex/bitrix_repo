@@ -1,0 +1,6 @@
+<?
+$MESS["RPA_KANBAN_PERMISSION_ERROR"] = "您沒有編輯工作流程喜好設定的權限";
+$MESS["RPA_KANBAN_POPUP_CANCEL"] = "取消";
+$MESS["RPA_KANBAN_POPUP_SAVE"] = "儲存";
+$MESS["RPA_KANBAN_STAGE_NOT_FOUND"] = "未找到階段";
+?>

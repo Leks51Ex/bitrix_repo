@@ -1,0 +1,5 @@
+<?
+$MESS["INTR_IAU_TPL_FROM"] = "Kimden";
+$MESS["INTR_IAU_TPL_TO"] = "şu tarihe kadar:";
+$MESS["SONET_ABSENCE_USER_TITLE"] = "İzin";
+?>

@@ -1,0 +1,2 @@
+<?php
+$MESS["CRM_SCENARIO_SELECTION_NOT_ENOUGH_PERMISSIONS"] = "没有足够权限来更改模式。";

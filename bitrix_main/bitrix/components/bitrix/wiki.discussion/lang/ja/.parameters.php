@@ -1,0 +1,37 @@
+<?
+$MESS["CP_BND_ELEMENT_CODE"] = "ニュースコード";
+$MESS["CP_BND_ELEMENT_ID"] = "ニュースID";
+$MESS["CP_BND_ELEMENT_NAME"] = "Wikiページタイトル";
+$MESS["CP_BND_SET_STATUS_404"] = "要素またはセクションが見つからないときに404ステータスを生成する";
+$MESS["F_FORUM_ID"] = "フォーラムID";
+$MESS["F_MESSAGES_PER_PAGE"] = "1ページあたりのメッセージ数";
+$MESS["F_PATH_TO_SMILE"] = "笑顔画像を含むフォルダへのパス";
+$MESS["F_POST_FIRST_MESSAGE"] = "この要素のテキストを使用してトピックを開始する";
+$MESS["F_READ_TEMPLATE"] = "トピック読んだページ(空の値 - フォーラムの設定から取得)";
+$MESS["F_SHOW_LINK_TO_FORUM"] = "フォーラムへのリンクを表示";
+$MESS["F_USE_CAPTCHA"] = "CAPTCHAを使用する";
+$MESS["RATING_TYPE"] = "評価ボタンのデザイン";
+$MESS["RATING_TYPE_CONFIG"] = "デフォルト";
+$MESS["RATING_TYPE_LIKE_GRAPHIC"] = "いいね (画像)";
+$MESS["RATING_TYPE_LIKE_TEXT"] = "いいね (テキスト)";
+$MESS["RATING_TYPE_STANDART_GRAPHIC"] = "いいね/いいね取消 (画像)";
+$MESS["RATING_TYPE_STANDART_TEXT"] = "いいね/いいね取消 (テキスト)";
+$MESS["SHOW_RATING"] = "評価を有効にする";
+$MESS["SHOW_RATING_CONFIG"] = "デフォルト";
+$MESS["T_IBLOCK_DESC_ADD_SECTIONS_CHAIN"] = "ブレッドクラムナビゲーションにセクション名を追加する";
+$MESS["T_IBLOCK_DESC_INCLUDE_IBLOCK_INTO_CHAIN"] = "ナビゲーションチェーンに情報ブロックを含める";
+$MESS["T_IBLOCK_DESC_LIST_ID"] = "情報ブロックコード";
+$MESS["T_IBLOCK_DESC_LIST_TYPE"] = "情報ブロックのタイプ(検証にのみ使用)";
+$MESS["WIKI_OPER_VAR"] = "操作変数名";
+$MESS["WIKI_PAGE_VAR"] = "ページ変数名";
+$MESS["WIKI_PATH_TO_CATEGORIES"] = "Wikiカテゴリページパステンプレート";
+$MESS["WIKI_PATH_TO_CATEGORY"] = "Wikiカテゴリ説明ページパステンプレート";
+$MESS["WIKI_PATH_TO_DISCUSSION"] = "ディスカッションページパステンプレート";
+$MESS["WIKI_PATH_TO_HISTORY"] = "Wikiページ更新ログパステンプレート";
+$MESS["WIKI_PATH_TO_HISTORY_DIFF"] = "Wikiページのバージョン管理パステンプレート";
+$MESS["WIKI_PATH_TO_PAGES"] = "Wikiページリストパステンプレート";
+$MESS["WIKI_PATH_TO_POST"] = "Wikiページパステンプレート";
+$MESS["WIKI_PATH_TO_POST_EDIT"] = "Wikiページエディタのパステンプレート";
+$MESS["WIKI_PATH_TO_USER"] = "ユーザープロフィールパステンプレート";
+$MESS["WIKI_VARIABLE_ALIASES"] = "変数エイリアス";
+?>

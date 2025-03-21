@@ -1,0 +1,4 @@
+<?php
+$MESS["BIZPROC_AUTOMATION_SGVA_ACCESS_DENIED"] = "Bitrix24 管理者のみが自動化ルールのプロパティにアクセスできます。";
+$MESS["BIZPROC_AUTOMATION_SGVA_DELETE"] = "削除";
+$MESS["BIZPROC_AUTOMATION_SGVA_VARIABLE_LIST"] = "グローバル変数を選択";

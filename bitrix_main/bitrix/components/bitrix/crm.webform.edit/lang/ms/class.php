@@ -1,0 +1,27 @@
+<?php
+$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "Modul Proses Perniagaan tidak dipasang.";
+$MESS["CRM_MODULE_ERROR_NOT_FOUNT"] = "Borang tidak ditemui";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Modul CRM tidak dipasang.";
+$MESS["CRM_MODULE_NOT_INSTALLED_CATALOG"] = "Modul Katalog Komersial tidak dipasang.";
+$MESS["CRM_MODULE_NOT_INSTALLED_CURRENCY"] = "Modul Crm tidak dipasang.";
+$MESS["CRM_MODULE_NOT_INSTALLED_REST"] = "Modul Pindahan Keadaan Berupa tidak dipasang.";
+$MESS["CRM_MODULE_NOT_INSTALLED_SALE"] = "Modul e-Store tidak dipasang.";
+$MESS["CRM_PERMISSION_DENIED"] = "Akses ditolak";
+$MESS["CRM_WEBFORM_EDIT_"] = "Carian";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_DOMAIN"] = "Nama domain";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_DOMAIN_DESC"] = "Nama domain dari mana borang diserahkan";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_ID"] = "Borang ID";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_ID_DESC"] = "Borang ID";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_NAME"] = "Nama borang";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_NAME_DESC"] = "Nama borang";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_PARAM"] = "Parameter";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_PARAM_DESC"] = "Nama URL parameter yang anda akan gunakan untuk mengenal pasti borang tersebut";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_RESULT_ID"] = "ID Hasil";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_RESULT_ID_DESC"] = "Menentukan nombor yang diberikan kepada hasil borang.";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_URL"] = "Alamat halaman";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_URL_DESC"] = "Alamat halaman dari mana borang diserahkan";
+$MESS["CRM_WEBFORM_EDIT_SECOND_SHORT"] = "saat";
+$MESS["CRM_WEBFORM_EDIT_TITLE"] = "Sunting borang CRM";
+$MESS["CRM_WEBFORM_EDIT_TITLE_ADD"] = "Cipta Borang CRM";
+$MESS["CRM_WEBFORM_EDIT_TITLE_VIEW"] = "Lihat Borang CRM";
+$MESS["CRM_WEBFORM_SCENARIO_NAME_TEMPLATE"] = "#NAME# dari #DATE#";

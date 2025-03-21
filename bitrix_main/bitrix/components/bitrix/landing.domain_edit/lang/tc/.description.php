@@ -1,0 +1,5 @@
+<?
+$MESS["LANDING_CMP_DESCRIPTION"] = "編輯登陸站點網域。";
+$MESS["LANDING_CMP_NAME"] = "編輯網域";
+$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";
+?>

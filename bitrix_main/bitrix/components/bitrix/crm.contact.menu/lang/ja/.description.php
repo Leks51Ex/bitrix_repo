@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_CONTACT_MENU_DESCRIPTION"] = "連絡先ツールバー";
+$MESS["CRM_CONTACT_MENU_NAME"] = "ツールバー";
+$MESS["CRM_CONTACT_NAME"] = "連絡先";
+$MESS["CRM_NAME"] = "CRM";
+?>

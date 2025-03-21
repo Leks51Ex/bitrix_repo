@@ -1,0 +1,7 @@
+<?
+$MESS["INTR_EVENTS_GROUP_NAME"] = "異動";
+$MESS["INTR_GROUP_NAME"] = "イントラネットポータル";
+$MESS["INTR_HR_GROUP_NAME"] = "HR";
+$MESS["INTR_ISIN_COMPONENT_DESCR"] = "新入社員を紹介する情報提供者";
+$MESS["INTR_ISIN_COMPONENT_NAME"] = "新社員";
+?>

@@ -1,0 +1,33 @@
+<?
+$MESS["BPAA_PD_APPROVERS"] = "贊成的投票者";
+$MESS["BPAA_PD_DESCR"] = "指派描述";
+$MESS["BPAA_PD_NAME"] = "指派名稱";
+$MESS["BPAA_PD_NO"] = "否";
+$MESS["BPAA_PD_PERCENT"] = "如要接受，要求參與使用者的最小比例";
+$MESS["BPAA_PD_SET_STATUS_MESSAGE"] = "設定狀態訊息";
+$MESS["BPAA_PD_STATUS_MESSAGE"] = "狀態文字";
+$MESS["BPAA_PD_STATUS_MESSAGE_HINT"] = "下列的巨集可用：#PERC# - 百分比，#REV# - 目前認識的人，#TOT# - 要認識的人總數。";
+$MESS["BPAA_PD_STATUS_MESSAGE_HINT1"] = "下列的巨集可用：#PERCENT# - 回應比例，#VOTED# - 回應數，#TOTAL# - 指派的人員總數，#APPROVERS# - 核准該項目的使用者，#REJECTERS# - 拒絕該項目的使用者";
+$MESS["BPAA_PD_TIMEOUT_DURATION"] = "時間期限";
+$MESS["BPAA_PD_TIMEOUT_DURATION_HINT"] = "如果文件在此期間未被核准或拒絕，則將被自動拒絕。空值或零值，則表示不指定期限。";
+$MESS["BPAA_PD_TIMEOUT_LIMIT"] = "最短核准時間";
+$MESS["BPAA_PD_TIME_D"] = "天";
+$MESS["BPAA_PD_TIME_H"] = "小時";
+$MESS["BPAA_PD_TIME_M"] = "分鐘";
+$MESS["BPAA_PD_TIME_S"] = "秒";
+$MESS["BPAA_PD_TYPE"] = "核准類型";
+$MESS["BPAA_PD_TYPE_ALL"] = "所有人";
+$MESS["BPAA_PD_TYPE_ANY"] = "任何人";
+$MESS["BPAA_PD_TYPE_VOTE"] = "投票";
+$MESS["BPAA_PD_WAIT"] = "等待來自所有參與者的回應";
+$MESS["BPAA_PD_YES"] = "是";
+$MESS["BPAR_PD_ACCESS_CONTROL"] = "僅向負責人顯示指派說明";
+$MESS["BPAR_PD_COMMENT_LABEL_MESSAGE"] = "評論輸入欄位標籤";
+$MESS["BPAR_PD_COMMENT_REQUIRED"] = "意見為必填項";
+$MESS["BPAR_PD_COMMENT_REQUIRED_YA"] = "僅在核准時";
+$MESS["BPAR_PD_COMMENT_REQUIRED_YR"] = "僅在拒絕時";
+$MESS["BPAR_PD_DELEGATION_TYPE"] = "委派到";
+$MESS["BPAR_PD_SHOW_COMMENT"] = "顯示評論輸入欄位";
+$MESS["BPAR_PD_TASK_BUTTON1_MESSAGE"] = "接受按鈕文字";
+$MESS["BPAR_PD_TASK_BUTTON2_MESSAGE"] = "拒絕按鈕文字";
+?>

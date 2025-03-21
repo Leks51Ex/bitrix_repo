@@ -1,0 +1,2 @@
+<?php
+$MESS["CRM_CONFIG_CHECKER_TITLE"] = "檢查 CRM 配置";

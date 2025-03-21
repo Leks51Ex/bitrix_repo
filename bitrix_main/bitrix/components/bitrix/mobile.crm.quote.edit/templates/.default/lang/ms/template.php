@@ -1,0 +1,4 @@
+<?php
+$MESS["M_CRM_QUOTE_EDIT_CANCEL_BTN"] = "Batal";
+$MESS["M_CRM_QUOTE_EDIT_CONVERT_TITLE"] = "Sebut harga";
+$MESS["M_CRM_QUOTE_EDIT_SAVE_BTN"] = "Simpan";

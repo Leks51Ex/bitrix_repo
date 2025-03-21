@@ -1,0 +1,12 @@
+<?
+$MESS["TASKS_TTDP_LICENSE_BODY"] = "Pautan tugas boleh didapati di pelan yang dilanjutkan.";
+$MESS["TASKS_TTDP_LICENSE_TITLE"] = "Pautkan Tugas";
+$MESS["TASKS_TTDP_TEMPLATE_PROJDEP_ADD"] = "Tambah tugas sebelum ini";
+$MESS["TASKS_TTDP_TEMPLATE_PROJDEP_COL_RELATED"] = "Tugas sebelum ini";
+$MESS["TASKS_TTDP_TEMPLATE_PROJDEP_COL_REL_TYPE"] = "Tindakan";
+$MESS["TASKS_TTDP_TEMPLATE_PROJDEP_CURRENT_TASK"] = "Tugas semasa";
+$MESS["TASKS_TTDP_TEMPLATE_PROJDEP_DELETE"] = "Hapus";
+$MESS["TASKS_TTDP_TEMPLATE_PROJDEP_WHEN"] = "bila";
+$MESS["TASKS_TTDP_TEMPLATE_PROJDEP_WHEN_END"] = "akan selesai";
+$MESS["TASKS_TTDP_TEMPLATE_PROJDEP_WHEN_START"] = "akan bermula";
+?>

@@ -1,0 +1,24 @@
+<?php
+$MESS["BPAR_PD_TASK_BUTTON_CANCEL_MESSAGE"] = "Teks untuk butang \"Tolak\" dalam tugas";
+$MESS["BPRIA_PD_CANCEL_TYPE"] = "Boleh ditolak oleh";
+$MESS["BPRIA_PD_CANCEL_TYPE_ALL"] = "Semua pekerja";
+$MESS["BPRIA_PD_CANCEL_TYPE_ANY"] = "Mana-mana Pekerja";
+$MESS["BPRIA_PD_SAVE_VARIABLES"] = "Simpan nilai pada kegagalan";
+$MESS["BPRIOA_ACT_APPROVE_TRACK"] = "Pengguna #PERSON# telah menyediakan maklumat tambahan #COMMENT#";
+$MESS["BPRIOA_ACT_BUTTON1"] = "Simpan";
+$MESS["BPRIOA_ACT_BUTTON2"] = "Tolak";
+$MESS["BPRIOA_ACT_CANCEL_TRACK"] = "Pengguna #PERSON# telah membatal maklumat tambahan #COMMENT#";
+$MESS["BPRIOA_ACT_COMMENT"] = "Komen";
+$MESS["BPRIOA_ACT_COMMENT_ERROR"] = "Medan '#COMMENT_LABEL#' diperlukan.";
+$MESS["BPRIOA_ACT_INFO"] = "Menunggu maklumat tambahan";
+$MESS["BPRIOA_ACT_PROP_EMPTY1"] = "Sifat 'Sifat pengguna' tidak ditentukan.";
+$MESS["BPRIOA_ACT_PROP_EMPTY2"] = "Sekurang-kurangnya satu medan diperlukan.";
+$MESS["BPRIOA_ACT_PROP_EMPTY4"] = "Sifat 'Nama' hilang.";
+$MESS["BPRIOA_ACT_TRACK1"] = "Maklumat tambahan akan disediakan oleh #VAL#";
+$MESS["BPRIOA_ARGUMENT_NULL"] = "Nilai yang diperlukan '#PARAM#' hilang.";
+$MESS["BPRIOA_LOG_COMMENTS"] = "Komen";
+$MESS["BPSFA_COMMENT_REQUIRED_YA"] = "Hanya apabila diluluskan";
+$MESS["BPSFA_COMMENT_REQUIRED_YR"] = "Hanya apabila ditolak";
+$MESS["BPSFA_PD_CANCEL"] = "Batal";
+$MESS["BPSFA_PD_NO"] = "Tidak";
+$MESS["BPSFA_PD_YES"] = "Ya";

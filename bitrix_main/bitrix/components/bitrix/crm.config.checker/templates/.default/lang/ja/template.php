@@ -1,0 +1,12 @@
+<?php
+$MESS["CMR_CONFIG_CHECKER_TITLE"] = "必要な機能を設定します";
+$MESS["CRM_BUTTON_APPLY"] = "適用";
+$MESS["CRM_BUTTON_CHECK"] = "適用";
+$MESS["CRM_CHANGE_CRM_FORM_NUMBER"] = "コールバックフォームで使用する電話番号:";
+$MESS["CRM_CONFIG"] = "設定";
+$MESS["CRM_CONFIG_CHECKER_DONE"] = "準備完了";
+$MESS["CRM_CONFIG_CHECKER_INPROCESS"] = "保留中";
+$MESS["CRM_CONFIG_CHECKER_NOT_ACTUAL"] = "未使用";
+$MESS["CRM_CONFIG_CHECKER_NOT_CHECKED"] = "未チェック";
+$MESS["CRM_PICK_UP_THE_NUMBER_FOR_CRMFORM"] = "番号を選択してください";
+$MESS["CRM_SEVERAL_NUMBERS_IS_IN_USE"] = "このフォームは別の電話番号を使用しています";

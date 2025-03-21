@@ -1,0 +1,29 @@
+<?
+$MESS["IBLOCK_DETAIL_URL"] = "Detaylı içerik olan sayfanın URL'si";
+$MESS["T_IBLOCK_DESC_CAL_DATE_ACTIVE_FROM"] = "Aktivite tarihi (Başlangıç)";
+$MESS["T_IBLOCK_DESC_CAL_DATE_ACTIVE_TO"] = "Aktivite tarihi (Bitiş)";
+$MESS["T_IBLOCK_DESC_CAL_DATE_CREATE"] = "Oluşturma tarihi";
+$MESS["T_IBLOCK_DESC_CAL_DATE_FIELD"] = "Tarih alanı";
+$MESS["T_IBLOCK_DESC_CAL_MVN"] = "Ay için değişken ismi";
+$MESS["T_IBLOCK_DESC_CAL_NEWS_COUNT"] = "Tarih başına haber sayısı (0 - sınırsız)";
+$MESS["T_IBLOCK_DESC_CAL_SHOW_CURRENT_DATE"] = "Geçerli yıl ve ayı göster";
+$MESS["T_IBLOCK_DESC_CAL_SHOW_MONTH_LIST"] = "Ayların aşağı açılır listesini göster";
+$MESS["T_IBLOCK_DESC_CAL_SHOW_TIME"] = "Haber zamanını göster";
+$MESS["T_IBLOCK_DESC_CAL_SHOW_YEAR"] = "Yıl değiştirmeyi göster";
+$MESS["T_IBLOCK_DESC_CAL_TIMESTAMP_X"] = "Son değişiklik tarihi";
+$MESS["T_IBLOCK_DESC_CAL_TITLE_LEN"] = "Başlık uzunluğu (0 - sınırsız)";
+$MESS["T_IBLOCK_DESC_CAL_TYPE"] = "Takvim türü";
+$MESS["T_IBLOCK_DESC_CAL_TYPE_EVENTS"] = "Etkinlikler";
+$MESS["T_IBLOCK_DESC_CAL_TYPE_NEWS"] = "Haberler";
+$MESS["T_IBLOCK_DESC_CAL_WS"] = "Haftanın başlangıcı";
+$MESS["T_IBLOCK_DESC_CAL_WS_0"] = "Pazar";
+$MESS["T_IBLOCK_DESC_CAL_WS_1"] = "Pazartesi";
+$MESS["T_IBLOCK_DESC_CAL_WS_2"] = "Salı";
+$MESS["T_IBLOCK_DESC_CAL_WS_3"] = "Çarşamba";
+$MESS["T_IBLOCK_DESC_CAL_WS_4"] = "Perşembe";
+$MESS["T_IBLOCK_DESC_CAL_WS_5"] = "Cuma";
+$MESS["T_IBLOCK_DESC_CAL_WS_6"] = "Cumartesi";
+$MESS["T_IBLOCK_DESC_CAL_YVN"] = "Yıl için değişken ismi";
+$MESS["T_IBLOCK_DESC_LIST_ID"] = "Bilgi bloğu kodu";
+$MESS["T_IBLOCK_DESC_LIST_TYPE"] = "Bilgi bloğunun türü (sadece doğrulama için kullanılır)";
+?>

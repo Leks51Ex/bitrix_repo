@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_COLUMN_ASSIGNED_BY"] = "ผู้รับผิดชอบ";
+$MESS["CRM_COLUMN_BEGINDATE"] = "วันเริ่มต้น";
+$MESS["CRM_COLUMN_CLOSED"] = "ปิดแล้ว";
+$MESS["CRM_COLUMN_CLOSEDATE"] = "วันปิดที่อนุมาน";
+$MESS["CRM_COLUMN_COMPANY_LIST"] = "บริษัท";
+$MESS["CRM_COLUMN_CONTACT_LIST"] = "รายชื่อติดต่อ";
+$MESS["CRM_COLUMN_COUNT"] = "ดีล";
+$MESS["CRM_COLUMN_CURRENCY_ID"] = "สกุลเงิน";
+$MESS["CRM_COLUMN_DATE_CREATE"] = "สร้างขึ้น";
+$MESS["CRM_COLUMN_DATE_MODIFY"] = "ถูกแก้ไข";
+$MESS["CRM_COLUMN_FUNNEL"] = " การคัดกรอง";
+$MESS["CRM_COLUMN_MODIFY_BY"] = "ถูกแก้ไขโดย";
+$MESS["CRM_COLUMN_OPPORTUNITY"] = "จำนวน";
+$MESS["CRM_COLUMN_PROBABILITY"] = "ความเป็นไปได้";
+$MESS["CRM_COLUMN_PROCENT"] = "%";
+$MESS["CRM_COLUMN_PRODUCT_ID"] = "ผลิตภัณฑ์";
+$MESS["CRM_COLUMN_STAGE_ID"] = "ขั้นดีล";
+$MESS["CRM_COLUMN_STATE_ID"] = "สถานะ";
+$MESS["CRM_COLUMN_SUMM"] = "จำนวนเงิน #CURRENCY#";
+$MESS["CRM_COLUMN_TITLE"] = "ขั้นดีล";
+$MESS["CRM_COLUMN_TYPE_ID"] = "ประเภท";
+$MESS["CRM_DEAL_NAV_TITLE_LIST"] = "การคัดกรองการขาย";
+$MESS["CRM_FUNNEL_TYPE_CLASSICAL"] = "มาตรฐาน";
+$MESS["CRM_FUNNEL_TYPE_CUMULATIVE"] = "ที่มีการแปลง";
+$MESS["CRM_FUNNEL_TYPE_CUMULATIVE2"] = "ที่มีการแปลง";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล CRM";
+$MESS["CRM_PERMISSION_DENIED"] = "ปฏิเสธการเข้าใช้";
+$MESS["CRM_PRESET_MONTH"] = "เดือนนี้";
+$MESS["CRM_PRESET_MONTH_PREV"] = "เดือนที่แล้ว";
+$MESS["CRM_PRESET_MY_WEEK"] = "ดีลของฉันสัปดาห์นี้";
+$MESS["CRM_PRESET_MY_WEEK_AGO"] = "ดีลของฉันสัปดาห์ที่แล้ว";
+$MESS["CRM_PRESET_WEEK"] = "สัปดาห์นี้";
+$MESS["CRM_PRESET_WEEK_PREV"] = "สัปดาห์ที่แล้ว";
+?>

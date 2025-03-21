@@ -1,0 +1,36 @@
+<?
+$MESS["CRM_ADS_LEADADS_AFTER_DISABLE_FACEBOOK"] = "Una volta scollegato da Facebook, il modulo è disponibile per la modifica; i dati del modulo non saranno inviati al CRM.";
+$MESS["CRM_ADS_LEADADS_AFTER_ENABLE_FACEBOOK"] = "Una volta collegato a Facebook, il modulo non può essere modificato; i dati del modulo saranno inviati al CRM.";
+$MESS["CRM_ADS_LEADADS_APPLY"] = "Esegui";
+$MESS["CRM_ADS_LEADADS_BUTTON_EXPORTED_SUCCESS"] = "Riuscito";
+$MESS["CRM_ADS_LEADADS_BUTTON_EXPORT_FACEBOOK"] = "Collega a Facebook";
+$MESS["CRM_ADS_LEADADS_BUTTON_UNLINK_FACEBOOK"] = "Scollega da Facebook";
+$MESS["CRM_ADS_LEADADS_CABINET_FACEBOOK"] = "Pagine Facebook";
+$MESS["CRM_ADS_LEADADS_CANCEL"] = "Annulla";
+$MESS["CRM_ADS_LEADADS_CAPTION_FACEBOOK"] = "Moduli di annunci Facebook";
+$MESS["CRM_ADS_LEADADS_CLOSE"] = "Chiudi";
+$MESS["CRM_ADS_LEADADS_ERROR_ACTION"] = "L'azione è stata annullata poiché si è verificato un errore.";
+$MESS["CRM_ADS_LEADADS_ERROR_NO_ACCOUNTS_FACEBOOK"] = "Nessuna pagina Facebook trovata. Procedi a %name% e crea una pagina.";
+$MESS["CRM_ADS_LEADADS_FORM_ID"] = "ID modulo";
+$MESS["CRM_ADS_LEADADS_FORM_NAME_FACEBOOK"] = "Nome modulo Facebook";
+$MESS["CRM_ADS_LEADADS_FORM_SUCCESS_URL"] = "URL di reindirizzamento dopo invio modulo";
+$MESS["CRM_ADS_LEADADS_GROUP_DO_AUTH_HINT_VKONTAKTE"] = "È possibile connettere un solo gruppo.";
+$MESS["CRM_ADS_LEADADS_GROUP_DO_AUTH_VKONTAKTE"] = "Connetti gruppo";
+$MESS["CRM_ADS_LEADADS_GROUP_IS_AUTH_HINT_VKONTAKTE"] = "Per modificare un gruppo, disconnetti quello attualmente connesso. Saranno inoltre disconnessi tutti i moduli collegati.";
+$MESS["CRM_ADS_LEADADS_GROUP_IS_AUTH_VKONTAKTE"] = "Disconnetti gruppo";
+$MESS["CRM_ADS_LEADADS_IS_LINKED"] = "collegato";
+$MESS["CRM_ADS_LEADADS_LINKS_ITEM_FACEBOOK"] = "per pagina \"%account%\" come \"%name%\"";
+$MESS["CRM_ADS_LEADADS_LINKS_ITEM_VKONTAKTE"] = "per gruppo \"%account%\" come \"%name%\"";
+$MESS["CRM_ADS_LEADADS_LINKS_TITLE"] = "Il modulo \"%name%\" è stato già aggiunto";
+$MESS["CRM_ADS_LEADADS_LIST"] = "Elenco";
+$MESS["CRM_ADS_LEADADS_LOCALE"] = "Lingua modulo";
+$MESS["CRM_ADS_LEADADS_LOCALE_AUTO"] = "Lingua corrente";
+$MESS["CRM_ADS_LEADADS_LOGIN"] = "Connetti";
+$MESS["CRM_ADS_LEADADS_LOGOUT"] = "Disconnetti";
+$MESS["CRM_ADS_LEADADS_MORE"] = "Dettagli";
+$MESS["CRM_ADS_LEADADS_NOW"] = "collegato ora";
+$MESS["CRM_ADS_LEADADS_REFRESH"] = "Aggiorna";
+$MESS["CRM_ADS_LEADADS_REFRESH_TEXT"] = "Aggiorna le preferenze disponibili.";
+$MESS["CRM_ADS_LEADADS_SELECT_ACCOUNT_FACEBOOK"] = "Aggiungi un modulo per le pagine Facebook";
+$MESS["CRM_ADS_LEADADS_TITLE_FACEBOOK"] = "Gli annunci di Facebook possono mostrare i moduli aggiunti in Bitrix24.";
+?>

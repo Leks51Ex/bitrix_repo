@@ -1,0 +1,7 @@
+<?
+$MESS["MARKETPLACE_APP_FREE"] = "Miễn phí";
+$MESS["MARKETPLACE_APP_PRICE"] = "#PRICE# mỗi tháng";
+$MESS["MARKETPLACE_PRICE_FREE"] = "Miễn phí";
+$MESS["MARKETPLACE_PRICE_PAID"] = "Đã thanh toán";
+$MESS["MARKETPLACE_SHOW_APP"] = "Lượt xem";
+?>

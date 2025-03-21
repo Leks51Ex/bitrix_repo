@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_ACT_EMAIL_HISTORY_MORE"] = "もっと見る";
+$MESS["CRM_ACT_EMAIL_RCPT"] = "To";
+?>

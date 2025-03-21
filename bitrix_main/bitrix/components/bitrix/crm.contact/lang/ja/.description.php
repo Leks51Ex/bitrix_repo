@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_CONTACT_COMPLEX_DESCRIPTION"] = "連絡先管理コンポーネント";
+$MESS["CRM_CONTACT_COMPLEX_NAME"] = "連絡先";
+$MESS["CRM_CONTACT_NAME"] = "連絡先";
+$MESS["CRM_NAME"] = "CRM";
+?>

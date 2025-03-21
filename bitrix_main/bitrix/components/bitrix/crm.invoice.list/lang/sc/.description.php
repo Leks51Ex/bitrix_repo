@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_INVOICE_LIST_DESCRIPTION"] = "发票";
+$MESS["CRM_INVOICE_LIST_NAME"] = "发票";
+$MESS["CRM_INVOICE_NAME"] = "发票";
+?>

@@ -1,0 +1,2 @@
+<?php
+$MESS["CATALOG_PRODUCTCARD_FEEDBACK_TITLE"] = "回饋意見";

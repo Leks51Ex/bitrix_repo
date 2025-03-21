@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_ORDER_SHIPMENT_MENU_DESCRIPTION"] = "Araç Çubuğu";
+$MESS["CRM_ORDER_SHIPMENT_MENU_NAME"] = "Araç Çubuğu";
+$MESS["CRM_ORDER_SHIPMENT_NAME"] = "Gönderiler";
+?>

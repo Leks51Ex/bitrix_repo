@@ -1,0 +1,4 @@
+<?
+$MESS["RATING_COMMENT_LIKE"] = "thích";
+$MESS["RATING_COMMENT_LIST_BACK"] = "Trở lại";
+?>

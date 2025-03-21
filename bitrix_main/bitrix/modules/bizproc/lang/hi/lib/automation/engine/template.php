@@ -1,0 +1,5 @@
+<?
+$MESS["BIZPROC_AUTOMATION_DELAY_ACTIVITY"] = "तनिक रोकें";
+$MESS["BIZPROC_AUTOMATION_PARALLEL_ACTIVITY"] = "समानांतर क्रियान्वयन";
+$MESS["BIZPROC_AUTOMATION_TEMPLATE_NAME"] = "ऑटोमेशन टेम्पलेट (#STATUS#)";
+?>

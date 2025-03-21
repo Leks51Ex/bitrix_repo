@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_KANBAN_ACTIVITY_MORE"] = "अधिक";
+$MESS["CRM_KANBAN_FAIL_CONFIRM_CANCEL"] = "रद्द करें";
+$MESS["CRM_KANBAN_INVOICE_PARAMS_CANCEL"] = "रद्द करें";
+?>

@@ -1,0 +1,4 @@
+<?
+$MESS["COMP_WEBDAV_RECENT_MOBILE_DESCR"] = "ファイル";
+$MESS["COMP_WEBDAV_RECENT_MOBILE_TITLE"] = "ファイル(モバイル)";
+?>

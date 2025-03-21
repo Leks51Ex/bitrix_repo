@@ -1,0 +1,7 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安装 CRM 模块。";
+$MESS["CRM_PRESET_ENTITY_TYPE_INVALID"] = "不正确的联系人或公司详情模板";
+$MESS["CRM_REQUISITE_ENTITY_TYPE_INVALID"] = "不正确的联系人或公司详情实体类型";
+$MESS["CRM_REQUISITE_FORM_ID_INVALID"] = "不正确的联系人或公司详情表单 ID";
+$MESS["CRM_REQUISITE_PRESET_NAME_EMPTY"] = "无标题的模板";
+?>

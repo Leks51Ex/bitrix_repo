@@ -1,0 +1,12 @@
+<?
+$MESS["BIZPROC_JS_BP_STARTER_AUTOSTART"] = "เวิร์กโฟลว์ที่ทำงานอัตโนมัติ";
+$MESS["BIZPROC_JS_BP_STARTER_CANCEL"] = "ยกเลิก";
+$MESS["BIZPROC_JS_BP_STARTER_CONTROL_CLONE"] = "เพิ่ม";
+$MESS["BIZPROC_JS_BP_STARTER_DESTINATION_CHOOSE"] = "เลือก";
+$MESS["BIZPROC_JS_BP_STARTER_DESTINATION_EDIT"] = "แก้ไข";
+$MESS["BIZPROC_JS_BP_STARTER_FILE_CHOOSE"] = "เลือกไฟล์";
+$MESS["BIZPROC_JS_BP_STARTER_NO_TEMPLATES"] = "ไม่มีเทมเพลตเวิร์กโฟลว์";
+$MESS["BIZPROC_JS_BP_STARTER_REQUEST_FAILURE"] = "เกิดข้อผิดพลาดในการดำเนินการคำร้องขอ ลองรีเฟรชหน้าใหม่";
+$MESS["BIZPROC_JS_BP_STARTER_SAVE"] = "บันทึก";
+$MESS["BIZPROC_JS_BP_STARTER_START"] = "เริ่ม";
+?>

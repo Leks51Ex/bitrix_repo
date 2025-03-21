@@ -1,0 +1,35 @@
+<?
+$MESS["F_CLOSED"] = "Đã đóng";
+$MESS["F_CLOSE_TOPIC"] = "Đóng chủ đề ";
+$MESS["F_COLLAPSE"] = "Ẩn";
+$MESS["F_DELETE_CONFIRM"] = "Tin nhắn sẽ không được phục hồi khi xóa. Tiếp tục? ";
+$MESS["F_DELETE_MESSAGES"] = "Xóa các tin nhắn ";
+$MESS["F_DELETE_MESSAGES_CONFIRM"] = "Điều này sẽ không thể phục hồi khi xóa các tin nhắn. Tiếp tục? ";
+$MESS["F_DELETE_TOPIC"] = "Xóa chủ đề ";
+$MESS["F_DELETE_TOPIC_CONFIRM"] = "Điều này sẽ không thể phục hồi khi xóa chủ đề. Tiếp tục? ";
+$MESS["F_EDIT_TOPIC"] = "Sửa đổi chủ đề ";
+$MESS["F_HIDE"] = "Ẩn";
+$MESS["F_HIDE_MESSAGES"] = "Ẩn các tin nhắn ";
+$MESS["F_HIDE_TOPIC"] = "Ẩn chủ đề ";
+$MESS["F_MANAGE_MESSAGES"] = "Quản lý các tin nhắn ";
+$MESS["F_MANAGE_TOPIC"] = "Quản lý chủ đề ";
+$MESS["F_MOVE_MESSAGES"] = "Di chuyển các tin nhắn ";
+$MESS["F_MOVE_TOPIC"] = "Di chuyển chủ đề ";
+$MESS["F_OPEN_TOPIC"] = "Mở chủ đề ";
+$MESS["F_PINN_TOPIC"] = "Gắn chủ đề ";
+$MESS["F_POSTS"] = "Các bài đăng ";
+$MESS["F_REPLY"] = "Trả lời";
+$MESS["F_SELECT_ALL"] = "Chọn tất cả ";
+$MESS["F_SHOW"] = "Hiển thị";
+$MESS["F_SHOW_MESSAGES"] = "Hiển thị các tin nhắn ";
+$MESS["F_SHOW_TOPIC"] = "Hiển thị chủ đề ";
+$MESS["F_SUBSCRIBE"] = "Đăng ký ";
+$MESS["F_SUBSCRIBE_TITLE"] = "Đăng ký cho các bài đăng mới ";
+$MESS["F_UNPINN_TOPIC"] = "Bỏ gắn chủ đề ";
+$MESS["F_UNSUBSCRIBE"] = "Bỏ đăng ký ";
+$MESS["F_UNSUBSCRIBE_TITLE"] = "Bỏ đăng ký từ thông báo bài đăng mới ";
+$MESS["F_WAIT"] = "Vui lòng đợi...";
+$MESS["JQOUTE_AUTHOR_WRITES"] = "Đã viết ";
+$MESS["JS_NO_ACTION"] = "Không có hoạt động chọn. Vui lòng chọn một hoạt động.";
+$MESS["JS_NO_MESSAGES"] = "Không có tin nhắn được chọn. Vui lòng chọn tin nhắn.";
+?>

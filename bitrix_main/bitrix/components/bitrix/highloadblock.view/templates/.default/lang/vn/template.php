@@ -1,0 +1,5 @@
+<?
+$MESS["HLBLOCK_ROW_VIEW_BACK_TO_LIST"] = "Quay lại danh sách";
+$MESS["HLBLOCK_ROW_VIEW_NAME_COLUMN"] = "Trường";
+$MESS["HLBLOCK_ROW_VIEW_VALUE_COLUMN"] = "Giá trị";
+?>

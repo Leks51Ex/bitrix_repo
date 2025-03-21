@@ -1,0 +1,36 @@
+<?
+$MESS["SENDER_LETTER_LIST_BTN_ADD"] = "कैंपेन बनाएँ";
+$MESS["SENDER_LETTER_LIST_BTN_COPY"] = "कॉपी करें";
+$MESS["SENDER_LETTER_LIST_BTN_COPY_TITLE"] = "कॉपी करें";
+$MESS["SENDER_LETTER_LIST_BTN_EDIT"] = "संपादित करें";
+$MESS["SENDER_LETTER_LIST_BTN_EDIT_TITLE"] = "संपादित करें";
+$MESS["SENDER_LETTER_LIST_BTN_REMOVE"] = "डिलीट करें";
+$MESS["SENDER_LETTER_LIST_BTN_REMOVE_TITLE"] = "डिलीट करें";
+$MESS["SENDER_LETTER_LIST_BTN_VIEW"] = "देखें";
+$MESS["SENDER_LETTER_LIST_BTN_VIEW_TITLE"] = "देखें";
+$MESS["SENDER_LETTER_LIST_BUTTON_RECIPIENT"] = "प्राप्तकर्ता";
+$MESS["SENDER_LETTER_LIST_BUTTON_STAT"] = "आँकड़े";
+$MESS["SENDER_LETTER_LIST_DURATION"] = "अभी शुरू किए जाने पर ईमेल संदेश भेजने के लिए जरूरी समय।";
+$MESS["SENDER_LETTER_LIST_DUR_DATE_CREATE"] = "बनाने की तिथि";
+$MESS["SENDER_LETTER_LIST_DUR_DATE_FINISH"] = "समाप्त होने तक";
+$MESS["SENDER_LETTER_LIST_RECIPIENTS_ALL"] = "प्राप्तकर्ताओं की संख्या।";
+$MESS["SENDER_LETTER_LIST_RECIPIENTS_SENT"] = "ईमेल भेजे जाने वाले प्राप्तकर्ताओं की संख्या।";
+$MESS["SENDER_LETTER_LIST_ROW_FROM"] = "का";
+$MESS["SENDER_LETTER_LIST_ROW_RECIPIENT"] = "प्राप्तकर्ता";
+$MESS["SENDER_LETTER_LIST_ROW_STATS"] = "आँकड़े";
+$MESS["SENDER_LETTER_LIST_SENDING_LOADER_TITLE"] = "ईमेल कैंपेन प्रगति पर है, सब ठीक है।";
+$MESS["SENDER_LETTER_LIST_SENDING_TITLE"] = "%count%प्राप्तकर्ताओं को ईमेल संदेश भेज दिए गए हैं।";
+$MESS["SENDER_LETTER_LIST_SPEED_TITLE"] = "दैनिक संदेश सीमा पहुँच गई। प्रेषण कल जारी होगा।";
+$MESS["SENDER_LETTER_LIST_STATE_IS_PAUSED"] = "रोका गया";
+$MESS["SENDER_LETTER_LIST_STATE_IS_SENT"] = "पूर्ण";
+$MESS["SENDER_LETTER_LIST_STATE_IS_STOPPED"] = "रोका गया";
+$MESS["SENDER_LETTER_LIST_STATE_PAUSE"] = "रोकें";
+$MESS["SENDER_LETTER_LIST_STATE_PAUSE_TITLE"] = "भेजना स्थगित करें। आप इसे किसी भी समय फिर शुरू कर सकते हैं।";
+$MESS["SENDER_LETTER_LIST_STATE_RESUME"] = "फिर शुरू करें";
+$MESS["SENDER_LETTER_LIST_STATE_RESUME_TITLE"] = "शेष प्राप्तकर्ताओं को ईमेल संदेश भेजना जारी रखें";
+$MESS["SENDER_LETTER_LIST_STATE_SEND"] = "अभी भेजें";
+$MESS["SENDER_LETTER_LIST_STATE_SEND_TITLE"] = "अभी ईमेल कैंपेन संदेश भेजना शुरू करें";
+$MESS["SENDER_LETTER_LIST_STATE_STOP"] = "रद्द करें";
+$MESS["SENDER_LETTER_LIST_STATE_STOP_TITLE"] = "बंद करें और कैंपेन समाप्त करें।";
+$MESS["SENDER_LETTER_LIST_STATE_WILL_SEND"] = "लॉन्च किया जाएगा";
+?>

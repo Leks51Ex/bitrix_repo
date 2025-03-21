@@ -1,0 +1,5 @@
+<?php
+$MESS["SONET_SM_FEATURES_FORM_CANCEL"] = "Batal";
+$MESS["SONET_SM_FEATURES_FORM_OK"] = "OK";
+$MESS["SONET_SM_M_LOG"] = "Suapan";
+$MESS["SONET_SM_M_LOG2"] = "Suapan";

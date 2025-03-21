@@ -1,0 +1,3 @@
+<?php
+$MESS["MAIL_ADDRESSBOOK_ADD_ADDRESSES"] = "ईमेल जोड़ें";
+$MESS["MAIL_ADDRESSBOOK_LIST_PAGE_TITLE"] = "संपर्क";

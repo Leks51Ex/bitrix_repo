@@ -1,0 +1,31 @@
+<?
+$MESS["TASKS_DURATION_DAYS"] = "hari";
+$MESS["TASKS_DURATION_HOURS"] = "jam";
+$MESS["TASKS_ELAPSED_H"] = "j";
+$MESS["TASKS_ELAPSED_M"] = "m";
+$MESS["TASKS_EXCEL_ADD_IN_REPORT"] = "Dalam Laporan";
+$MESS["TASKS_EXCEL_CLOSED_DATE"] = "Tanggal Tutup";
+$MESS["TASKS_EXCEL_CREATED_BY"] = "Pencipta";
+$MESS["TASKS_EXCEL_CREATED_DATE"] = "Dibuat pada";
+$MESS["TASKS_EXCEL_DEADLINE"] = "Tenggat waktu";
+$MESS["TASKS_EXCEL_END_DATE_PLAN"] = "Tanggal Selesai yang Diusulkan";
+$MESS["TASKS_EXCEL_GROUP_ID"] = "Grup";
+$MESS["TASKS_EXCEL_ID"] = "ID";
+$MESS["TASKS_EXCEL_MARK"] = "Skor";
+$MESS["TASKS_EXCEL_PRIORITY"] = "Prioritas";
+$MESS["TASKS_EXCEL_REAL_STATUS"] = "Status";
+$MESS["TASKS_EXCEL_RESPONSIBLE_ID"] = "Penanggung Jawab";
+$MESS["TASKS_EXCEL_START_DATE_PLAN"] = "Tanggal Mulai yang Diusulkan";
+$MESS["TASKS_EXCEL_TIME_ESTIMATE"] = "Durasi yang Direncanakan";
+$MESS["TASKS_EXCEL_TIME_SPENT_IN_LOGS"] = "Durasi Aktual";
+$MESS["TASKS_EXCEL_TITLE"] = "Tugas";
+$MESS["TASKS_SIDEBAR_IN_REPORT_NO"] = "Tidak";
+$MESS["TASKS_SIDEBAR_IN_REPORT_YES"] = "Ya";
+$MESS["TASKS_STATUS_1"] = "Bidang tambahan baru";
+$MESS["TASKS_STATUS_2"] = "Ditunda";
+$MESS["TASKS_STATUS_3"] = "Sedang Berlangsung";
+$MESS["TASKS_STATUS_4"] = "Seharusnya selesai";
+$MESS["TASKS_STATUS_5"] = "Selesai";
+$MESS["TASKS_STATUS_6"] = "Ditangguhkan";
+$MESS["TASKS_STATUS_7"] = "Ditolak";
+?>

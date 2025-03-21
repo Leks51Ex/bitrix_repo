@@ -1,0 +1,25 @@
+<?php
+$MESS["TASKS_FLOW_ADD_BUTTON"] = "Nuovo flusso";
+$MESS["TASKS_FLOW_LIST_ABOUT_EFFICIENCY"] = "L'efficienza corrisponde alla percentuale degli incarichi <br>completati entro il tempo assegnato.";
+$MESS["TASKS_FLOW_LIST_ANALYTICS_BTN"] = "Analisi";
+$MESS["TASKS_FLOW_LIST_BI_ANALYTICS_BADLY"] = "Scarsa";
+$MESS["TASKS_FLOW_LIST_BI_ANALYTICS_EMPTY_DASHBOARDS"] = "Dashboard non disponibile.";
+$MESS["TASKS_FLOW_LIST_BI_ANALYTICS_GREAT"] = "Eccellente";
+$MESS["TASKS_FLOW_LIST_COLUMN_DEMO_LABEL"] = "Non assegnato";
+$MESS["TASKS_FLOW_LIST_COLUMN_MY_TASKS_PLURAL_0"] = "{number} incarico";
+$MESS["TASKS_FLOW_LIST_COLUMN_MY_TASKS_PLURAL_1"] = "{number} incarichi";
+$MESS["TASKS_FLOW_LIST_COLUMN_MY_TASKS_PLURAL_2"] = "{number} incarichi";
+$MESS["TASKS_FLOW_LIST_COMING_SOON"] = "Prossimamente";
+$MESS["TASKS_FLOW_LIST_CONFIRM_REMOVE_BUTTON"] = "Sì";
+$MESS["TASKS_FLOW_LIST_CONFIRM_REMOVE_MESSAGE"] = "Eliminare il flusso?";
+$MESS["TASKS_FLOW_LIST_COPILOT_NOT_ENOUGH_TASKS_POPUP_DESCRIPTION"] = "CoPilot mostrerà i suoi suggerimenti quando avrai almeno 10 incarichi nel flusso.";
+$MESS["TASKS_FLOW_LIST_COPILOT_NOT_ENOUGH_TASKS_POPUP_SHOW_EXAMPLE"] = "Visualizza esempi di suggerimenti";
+$MESS["TASKS_FLOW_LIST_COPILOT_NOT_ENOUGH_TASKS_POPUP_TITLE"] = "Raccolta di dati";
+$MESS["TASKS_FLOW_LIST_CREATE_TASK"] = "Crea incarico";
+$MESS["TASKS_FLOW_LIST_FLOW_OFF"] = "Flusso disabilitato.";
+$MESS["TASKS_FLOW_LIST_FLOW_PINNED"] = "Flusso fissato.";
+$MESS["TASKS_FLOW_LIST_FLOW_PIN_CANCEL"] = "Annulla";
+$MESS["TASKS_FLOW_LIST_FLOW_UNPINNED"] = "Flusso rimosso.";
+$MESS["TASKS_FLOW_LIST_GUIDE_BTN"] = "Guida iniziale sui flussi";
+$MESS["TASKS_FLOW_LIST_NO_TASKS"] = "Nessun incarico";
+$MESS["TASKS_FLOW_LIST_NO_YOUR_TASKS"] = "Nessuno";

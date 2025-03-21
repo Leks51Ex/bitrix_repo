@@ -1,0 +1,5 @@
+<?
+$MESS["RPA_ITEMS_LIST_TITLE"] = "#TITLE# 项";
+$MESS["RPA_ITEM_SORT_COLUMN"] = "排序";
+$MESS["RPA_ITEM_STAGE_COLUMN"] = "阶段";
+?>

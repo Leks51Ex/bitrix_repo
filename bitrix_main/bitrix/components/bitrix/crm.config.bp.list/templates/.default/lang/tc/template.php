@@ -1,0 +1,10 @@
+<?
+$MESS["CRM_BP_LIST_AUTOSTART"] = "自動執行";
+$MESS["CRM_BP_LIST_DATE_MODIFY"] = "修改日期";
+$MESS["CRM_BP_LIST_MODIFIED_BY"] = "修改者";
+$MESS["CRM_BP_LIST_NAME"] = "名稱";
+$MESS["CRM_BP_TOOLBAR_ADD"] = "新增範本";
+$MESS["CRM_BP_TOOLBAR_ADD_TITLE"] = "加入新的範本";
+$MESS["CRM_BP_TOOLBAR_TYPES"] = "類型";
+$MESS["CRM_BP_TOOLBAR_TYPES_TITLE"] = "可用類型";
+?>

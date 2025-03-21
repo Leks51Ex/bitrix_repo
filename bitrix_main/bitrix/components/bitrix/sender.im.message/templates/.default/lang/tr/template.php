@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_IM_MESSAGE_TEXT_COUNT"] = "semboller";
+$MESS["SENDER_IM_MESSAGE_TEXT_TITLE"] = "Mesaj metni";
+?>

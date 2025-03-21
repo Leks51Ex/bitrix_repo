@@ -1,0 +1,5 @@
+<?
+$MESS["RPA_ITEMS_LIST_TITLE"] = "#TITLE# öğe";
+$MESS["RPA_ITEM_SORT_COLUMN"] = "Sırala";
+$MESS["RPA_ITEM_STAGE_COLUMN"] = "Aşama";
+?>

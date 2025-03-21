@@ -1,0 +1,7 @@
+<?php
+$MESS["VOX_INVOICES_DATE_RANGE"] = "Tarih aralığı";
+$MESS["VOX_INVOICES_DOCUMENT_DATE"] = "Fatura tarihi";
+$MESS["VOX_INVOICES_DOCUMENT_NUMBER"] = "#";
+$MESS["VOX_INVOICES_DOCUMENT_TYPE"] = "Belge türü";
+$MESS["VOX_INVOICES_DOWNLOAD"] = "İndir";
+$MESS["VOX_INVOICES_TOTAL_AMOUNT"] = "Toplam tutar";

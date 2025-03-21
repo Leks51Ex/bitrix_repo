@@ -1,0 +1,5 @@
+<?
+$MESS["SONET_GROUP_DELETE_TEMPLATE_NAME"] = "Grubu Sil";
+$MESS["SONET_GROUP_DELETE_TEMPLATE_DESCRIPTION"] = "Mevcut bir grubu siler.";
+$MESS["SONET_NAME"] = "Sosyal Ağ";
+?>

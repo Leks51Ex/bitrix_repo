@@ -1,0 +1,14 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล CRM";
+$MESS["CRM_MODULE_NOT_INSTALLED_SALE"] = "ไม่ได้ติดตั้งโมดูล e-Store";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_COLUMN_ACTIVE"] = "ใช้งานอยู่";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_COLUMN_ANONYMOUS"] = "ไม่ระบุตัวตน";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_COLUMN_C_SORT"] = "เรียงลำดับ";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_COLUMN_DESCRIPTION"] = "รายละเอียด";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_COLUMN_ID"] = "ไอดี";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_COLUMN_NAME"] = "ชื่อ";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_CREATE_TITLE"] = "สร้างกลุ่มลูกค้า";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_SAVE_ERROR"] = "เกิดข้อผิดพลาดขึ้นในระหว่างการบันทึกลูกค้า";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_TITLE"] = "แก้ไขกลุ่มลูกค้า";
+$MESS["CRM_PERMISSION_DENIED"] = "ปฏิเสธการเข้าถึง";
+?>

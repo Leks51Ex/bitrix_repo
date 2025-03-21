@@ -1,0 +1,5 @@
+<?
+$MESS["INTR_ISE_TPL_FILTER_DEPARTMENT"] = "Jabatan";
+$MESS["ISL_ID"] = "ID";
+$MESS["ISL_PERSONAL_ICQ"] = "ICQ";
+?>

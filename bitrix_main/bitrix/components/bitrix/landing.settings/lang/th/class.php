@@ -1,0 +1,14 @@
+<?php
+$MESS["LANDING_SITE_SETTINGS_CATALOG_EDIT"] = "การตั้งค่าแค็ตตาล็อก";
+$MESS["LANDING_SITE_SETTINGS_LANDING_DESIGN"] = "การออกแบบหน้า";
+$MESS["LANDING_SITE_SETTINGS_LANDING_EDIT"] = "การตั้งค่าหน้าเว็บ";
+$MESS["LANDING_SITE_SETTINGS_SITE_DESIGN"] = "การออกแบบเว็บไซต์";
+$MESS["LANDING_SITE_SETTINGS_SITE_DESIGN_GROUP"] = "การออกแบบฐานความรู้";
+$MESS["LANDING_SITE_SETTINGS_SITE_DESIGN_KNOWLEDGE"] = "การออกแบบฐานความรู้";
+$MESS["LANDING_SITE_SETTINGS_SITE_DESIGN_PAGE"] = "การออกแบบเว็บไซต์";
+$MESS["LANDING_SITE_SETTINGS_SITE_DESIGN_STORE"] = "การออกแบบร้านค้าออนไลน์";
+$MESS["LANDING_SITE_SETTINGS_SITE_EDIT"] = "การตั้งค่าเว็บไซต์";
+$MESS["LANDING_SITE_SETTINGS_SITE_EDIT_GROUP"] = "การตั้งค่าฐานความรู้";
+$MESS["LANDING_SITE_SETTINGS_SITE_EDIT_KNOWLEDGE"] = "การตั้งค่าฐานความรู้";
+$MESS["LANDING_SITE_SETTINGS_SITE_EDIT_PAGE"] = "การตั้งค่า Site";
+$MESS["LANDING_SITE_SETTINGS_SITE_EDIT_STORE"] = "การตั้งค่าร้านค้าออนไลน์";

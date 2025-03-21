@@ -1,0 +1,23 @@
+<?
+$MESS["CRM_FF_CANCEL"] = "キャンセル";
+$MESS["CRM_FF_CHANGE"] = "編集";
+$MESS["CRM_FF_CHOISE"] = "選択";
+$MESS["CRM_FF_CLOSE"] = "閉じる";
+$MESS["CRM_FF_COMPANY"] = "企業";
+$MESS["CRM_FF_CONTACT"] = "連絡先";
+$MESS["CRM_FF_DEAL"] = "取引";
+$MESS["CRM_FF_LAST"] = "最終";
+$MESS["CRM_FF_LEAD"] = "リード";
+$MESS["CRM_FF_NO_RESULT"] = "残念ながら、あなたの検索要求は結果を返しませんでした";
+$MESS["CRM_FF_OK"] = "選択";
+$MESS["CRM_FF_SEARCH"] = "検索";
+$MESS["CRM_REPORT_CONSTRUCT_BUTTON_CANCEL"] = "キャンセル";
+$MESS["CRM_REPORT_CONSTRUCT_BUTTON_CONTINUE"] = "次へ...";
+$MESS["CRM_REPORT_INCLUDE_ALL"] = "全て";
+$MESS["CRM_REPORT_SELECT_OWNER"] = "新しいレポートのフィールドを選択する";
+$MESS["REPORT_CHOOSE"] = "選択";
+$MESS["REPORT_IGNORE_FILTER_VALUE"] = "無視する";
+$MESS["REPORT_POPUP_COLUMN_TITLE"] = "取引";
+$MESS["REPORT_POPUP_COLUMN_TITLE_CRM"] = "取引";
+$MESS["REPORT_POPUP_COLUMN_TITLE_CRM_PRODUCT_ROW"] = "製品";
+?>

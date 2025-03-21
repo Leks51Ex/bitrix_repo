@@ -1,0 +1,20 @@
+<?php
+$MESS["BIZPROC_AS_TITLE"] = "插入數值";
+$MESS["BIZPROC_AS_TITLE_TOOLBAR"] = "插入數值";
+$MESS["BIZPROC_SEL_CANCEL"] = "取消";
+$MESS["BIZPROC_SEL_ERR"] = "您必須在其中一份清單中選取欄位！";
+$MESS["BIZPROC_SEL_FIELDS_TAB"] = "文件欄位";
+$MESS["BIZPROC_SEL_GROUPS_TAB"] = "使用者類別";
+$MESS["BIZPROC_SEL_INSERT"] = "插入";
+$MESS["BIZPROC_SEL_PARAMS_TAB"] = "範本參數";
+$MESS["BIZPROC_SEL_TITLE"] = "選取欄位";
+$MESS["BIZPROC_SEL_TITLEBAR"] = "新增欄位";
+$MESS["BIZPROC_SEL_TITLEBAR_DESC"] = "按兩下必要欄位以便進行選取	 或按一下「插入」。";
+$MESS["BIZPROC_SEL_USERS_TAB"] = "使用者";
+$MESS["BIZPROC_SEL_USERS_TAB_GROUPS"] = "— 群組";
+$MESS["BIZPROC_SEL_USERS_TAB_USERS"] = "— 使用者";
+$MESS["BP_SEL_ADDIT"] = "更多結果";
+$MESS["BP_SEL_CONSTANTS"] = "常數";
+$MESS["BP_SEL_GCONST"] = "全域常數";
+$MESS["BP_SEL_GVAR"] = "全域變數";
+$MESS["BP_SEL_VARS"] = "變數";

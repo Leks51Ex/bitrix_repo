@@ -1,0 +1,34 @@
+<?php
+$MESS["CRM_DOCUMENT_VIEW_COPY_PUBLIC_URL_MESSAGE"] = "Tautan publik sudah disalin ke Clipboard";
+$MESS["CRM_DOCUMENT_VIEW_CREATE_OR_EDIT_MY_COMPANY_REQUISITES"] = "<a href=\"#URL#\" target=\"_blank\" class=\"docs-preview-details-link\">Berikan atau edit</a>
+<span class=\"docs-preview-details-text\">detail perusahaan saya</span>";
+$MESS["CRM_DOCUMENT_VIEW_DOWNLOAD_IN"] = "Unduh sebagai:";
+$MESS["CRM_DOCUMENT_VIEW_EDIT_DOCUMENT"] = "Edit Dokumen";
+$MESS["CRM_DOCUMENT_VIEW_EDIT_TEMPLATE"] = "Edit Template";
+$MESS["CRM_DOCUMENT_VIEW_FEEDBACK"] = "Masukan";
+$MESS["CRM_DOCUMENT_VIEW_NO_AVAILABLE_FILES"] = "Tidak ada file untuk dikirim yang tersedia";
+$MESS["CRM_DOCUMENT_VIEW_PAYMENT_BUTTON"] = "Terima pembayaran";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_GENERATION_MESSAGE"] = "Memunculkan dokumen";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_MESSAGE_PREPARE"] = "Pratinjau PDF sedang dibuat";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_MESSAGE_READY"] = "Kini Anda dapat mengunduh dokumen sebagai file DOCX, atau mengirimkan tautan kepada pelanggan";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_READY_MESSAGE"] = "Dokumen sekarang tersedia dalam format DOCX. Anda dapat memperoleh tautan dokumen, mengunduhnya, atau mengirimkan ke pelanggan Anda.";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_TIME_MESSAGE"] = "Gambar dokumen dan versi PDF akan memerlukan sekitar 20 detik";
+$MESS["CRM_DOCUMENT_VIEW_PUBLIC_LINK"] = "Tautan publik";
+$MESS["CRM_DOCUMENT_VIEW_PUBLIC_ON"] = "On";
+$MESS["CRM_DOCUMENT_VIEW_PUBLIC_URL_VIEWED_TIME"] = "Pelanggan mengeklik tautan publik pada <span>#TIME#</span>";
+$MESS["CRM_DOCUMENT_VIEW_QR"] = "Kode QR pembayaran";
+$MESS["CRM_DOCUMENT_VIEW_REQUISITES_MY_COMPANY_TITLE"] = "Detail perusahaan saya";
+$MESS["CRM_DOCUMENT_VIEW_SEND"] = "Kirim";
+$MESS["CRM_DOCUMENT_VIEW_SEND_EMAIL"] = "melalui email";
+$MESS["CRM_DOCUMENT_VIEW_SEND_SMS"] = "melalui sms";
+$MESS["CRM_DOCUMENT_VIEW_SHOW_FULL_DOCUMENT"] = "Tampilkan dokumen lengkap";
+$MESS["CRM_DOCUMENT_VIEW_SIGNED"] = "dengan tanda tangan dan cap";
+$MESS["CRM_DOCUMENT_VIEW_SIGN_AND_STAMP"] = "Stempel dan tanda tangan";
+$MESS["CRM_DOCUMENT_VIEW_SIGN_BUTTON"] = "Tanda tangan";
+$MESS["CRM_DOCUMENT_VIEW_SIGN_CLICKED"] = "Anda telah mulai menandatangani dokumen.";
+$MESS["CRM_DOCUMENT_VIEW_SMS_PUBLIC_URL_NECESSARY"] = "Tautan publik diperlukan untuk mengirim SMS";
+$MESS["CRM_DOCUMENT_VIEW_TRANSFORMATION_NO_PDF_ERROR"] = "Tidak bisa menemukan versi PDF dari dokumen. File mungkin tidak berhasil dikonversi.";
+$MESS["CRM_DOCUMENT_VIEW_TRANSFORMATION_PROGRESS"] = "Silakan tunggu hingga konversi selesai";
+$MESS["CRM_DOCUMENT_VIEW_TRANSFORM_ERROR"] = "Tidak dapat memunculkan file PDF untuk dokumen.";
+$MESS["CRM_DOCUMENT_VIEW_TRY_AGAIN"] = "Coba lagi";
+$MESS["CRM_DOCUMENT_VIEW_TRY_LATER"] = "Silakan coba lagi nanti.";

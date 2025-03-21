@@ -1,0 +1,24 @@
+<?php
+$MESS["BPSGCA_ACCESS_DENIED"] = "Bitrix24 管理者のみがアクションのプロパティにアクセスできます。";
+$MESS["BPSGCA_EMPTY_VARIABLES"] = "グローバル変数に割り当てられている値がありません";
+$MESS["BPSGVA_BOOL_NO"] = "いいえ";
+$MESS["BPSGVA_BOOL_YES"] = "はい";
+$MESS["BPSGVA_CLEAR"] = "リセット";
+$MESS["BPSGVA_CREATE_GCONSTANT"] = "定数を作成";
+$MESS["BPSGVA_CREATE_GCONSTANT_QUESTION"] = "新しい定数を作成しますか？";
+$MESS["BPSGVA_CREATE_GVARIABLE"] = "変数を作成";
+$MESS["BPSGVA_CREATE_GVARIABLE_QUESTION"] = "新しい変数を作成しますか？";
+$MESS["BPSGVA_DOCUMENT"] = "フィールド値";
+$MESS["BPSGVA_EMPTY"] = "未選択";
+$MESS["BPSGVA_GCONSTANT_NOT_FOUND"] = "定数が見つかりませんでした";
+$MESS["BPSGVA_GCONSTANT_NO_EXIST"] = "定数がありません";
+$MESS["BPSGVA_GLOBAL_CONST"] = "グローバル定数";
+$MESS["BPSGVA_GLOBAL_VAR"] = "グローバル変数";
+$MESS["BPSGVA_GVARIABLE_NOT_FOUND"] = "変数が見つかりませんでした";
+$MESS["BPSGVA_GVARIABLE_NO_EXIST"] = "変数がありません";
+$MESS["BPSGVA_INPUT_TEXT"] = "値を入力してください";
+$MESS["BPSGVA_LIST_OF_VALUES"] = "値";
+$MESS["BPSGVA_PARAMETER"] = "パラメータを選択";
+$MESS["BPSGVA_TEXT"] = "カスタム値";
+$MESS["BPSGVA_TYPE_OF_PARAMETER"] = "パラメータタイプ";
+$MESS["BPSGVA_VARIABLE"] = "変数を選択";

@@ -1,0 +1,33 @@
+<?
+$MESS["TASKS_COUNTER_EMPTY"] = "तत्काल ध्यान देने की जरूरत वाले कोई टास्क नहीं है";
+$MESS["TASKS_COUNTER_EXPIRED_CANDIDATES_PLURAL_0"] = "लगभग ओवरड्यू";
+$MESS["TASKS_COUNTER_EXPIRED_CANDIDATES_PLURAL_1"] = "लगभग ओवरड्यू";
+$MESS["TASKS_COUNTER_EXPIRED_CANDIDATES_PLURAL_2"] = "लगभग ओवरड्यू";
+$MESS["TASKS_COUNTER_EXPIRED_PLURAL_0"] = "ओवरड्यू";
+$MESS["TASKS_COUNTER_EXPIRED_PLURAL_1"] = "ओवरड्यू";
+$MESS["TASKS_COUNTER_EXPIRED_PLURAL_2"] = "ओवरड्यू";
+$MESS["TASKS_COUNTER_NEW_PLURAL_0"] = "नहीं देखा";
+$MESS["TASKS_COUNTER_NEW_PLURAL_1"] = "नहीं देखा";
+$MESS["TASKS_COUNTER_NEW_PLURAL_2"] = "नहीं देखा";
+$MESS["TASKS_COUNTER_TOTAL"] = "टास्क:";
+$MESS["TASKS_COUNTER_TOTAL_PLURAL_0"] = "टास्क";
+$MESS["TASKS_COUNTER_TOTAL_PLURAL_1"] = "टास्क";
+$MESS["TASKS_COUNTER_TOTAL_PLURAL_2"] = "टास्क";
+$MESS["TASKS_COUNTER_WAIT_CTRL_PLURAL_0"] = "लंबित रिव्यू";
+$MESS["TASKS_COUNTER_WAIT_CTRL_PLURAL_1"] = "लंबित रिव्यू";
+$MESS["TASKS_COUNTER_WAIT_CTRL_PLURAL_2"] = "लंबित रिव्यू";
+$MESS["TASKS_COUNTER_WO_DEADLINE_PLURAL_0"] = "कोई डेडलाइन नहीं";
+$MESS["TASKS_COUNTER_WO_DEADLINE_PLURAL_1"] = "कोई डेडलाइन नहीं";
+$MESS["TASKS_COUNTER_WO_DEADLINE_PLURAL_2"] = "कोई डेडलाइन नहीं";
+$MESS["TASKS_FULL_TASK_INDEXING_TITLE"] = "टास्क और टिप्पणियों की इंडेक्सिंग";
+$MESS["TASKS_GROUP_COUNTERS_SOON"] = "प्रोजेक्ट टास्क काउंटर जल्द ही उपलब्ध होंगे";
+$MESS["TASKS_SWITCHER_ITEM_GANTT"] = "गैंट";
+$MESS["TASKS_SWITCHER_ITEM_KANBAN"] = "कानबान";
+$MESS["TASKS_SWITCHER_ITEM_LIST"] = "सूची";
+$MESS["TASKS_SWITCHER_ITEM_REPORTS"] = "रिपोर्ट";
+$MESS["TASKS_SWITCHER_ITEM_ROBOTS"] = "ऑटोमेशन नियम";
+$MESS["TASKS_SWITCHER_NAME"] = "व्यू";
+$MESS["TASKS_TASK_CHECKLIST_CONVERTING_TITLE"] = "टास्क चेकलिस्ट कनवर्ट करें";
+$MESS["TASKS_TEMPLATE_CHECKLIST_CONVERTING_TITLE"] = "टास्क टेम्पलेट चेकलिस्ट कनवर्ट करें";
+$MESS["TASKS_TEMPLATE_SPOTLIGHT_TIMELINE"] = "अपने टास्कों को प्लान करने और डेडलाइन देखने के लिए नए व्यू का उपयोग करें।";
+?>

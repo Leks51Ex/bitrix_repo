@@ -1,0 +1,14 @@
+<?
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_APPLY"] = "Terapkan";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_BACK_TO_LIST"] = "Kembali ke daftar";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_CLOSE"] = "Tutup";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_SAVE"] = "Simpan";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_TUNE"] = "Edit";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_VIEW"] = "Tampilkan";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_DATA_PROVIDER"] = "Sumber data";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_DATA_PROVIDER_DEF"] = "(masukkan secara manual)";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_ERROR_ACCESS_EDIT"] = "Anda hanya dapat melihat data. Silakan menghubungi administrator jika Anda memerlukan izin menulis.";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_NAME"] = "Nama";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_POPUP_TITLE"] = "Tampilkan teks";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_TYPE"] = "Tipe: khusus atau standar";
+?>

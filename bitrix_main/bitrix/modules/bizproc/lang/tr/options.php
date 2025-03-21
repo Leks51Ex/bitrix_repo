@@ -1,0 +1,21 @@
+<?php
+$MESS["BIZPROC_EMPLOYEE_COMPATIBLE_MODE"] = "\"Bind user\" türü için uyumluluk modunu etkinleştir";
+$MESS["BIZPROC_LIMIT_SIMULTANEOUS_PROCESSES"] = "Belge için en fazla eş zamanlı işlem";
+$MESS["BIZPROC_LOG_CLEANUP_DAYS"] = "İş süreci kayıt günlüğünün tutulacağı gün sayısı";
+$MESS["BIZPROC_LOG_SKIP_TYPES"] = "Etkinlik günlüğü tutma";
+$MESS["BIZPROC_LOG_SKIP_TYPES_1_1"] = "eylem başlangıcı";
+$MESS["BIZPROC_LOG_SKIP_TYPES_2_1"] = "eylem bitişi";
+$MESS["BIZPROC_NAME_TEMPLATE"] = "İsim gösterme biçimi";
+$MESS["BIZPROC_OPTIONS_NAME_IN_SITE_FORMAT"] = "Web sitesi biçimi";
+$MESS["BIZPROC_OPT_LOCKED_WI_PATH"] = "Askıdaki iş akışları liste yolu";
+$MESS["BIZPROC_OPT_TIME_LIMIT"] = "Minimum cevap zaman aşımı";
+$MESS["BIZPROC_OPT_TIME_LIMIT_D"] = "gün";
+$MESS["BIZPROC_OPT_TIME_LIMIT_H"] = "saat";
+$MESS["BIZPROC_OPT_TIME_LIMIT_M"] = "dakika";
+$MESS["BIZPROC_OPT_TIME_LIMIT_S"] = "saniye";
+$MESS["BIZPROC_OPT_USE_GZIP_COMPRESSION"] = "Arşivlenmiş verileri sıkıştır";
+$MESS["BIZPROC_OPT_USE_GZIP_COMPRESSION_EMPTY"] = "Varsayılan";
+$MESS["BIZPROC_OPT_USE_GZIP_COMPRESSION_N"] = "Hayır";
+$MESS["BIZPROC_OPT_USE_GZIP_COMPRESSION_Y"] = "Evet";
+$MESS["BIZPROC_TAB_SET"] = "Ayarlar";
+$MESS["BIZPROC_TAB_SET_ALT"] = "Modül Ayarları";

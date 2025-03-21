@@ -1,0 +1,6 @@
+<?
+$MESS["IM_FULLSCREEN_BACK"] = "回到 Bitrix24";
+$MESS["IM_FULLSCREEN_BACK_BUS"] = "回到網站";
+$MESS["IM_FULLSCREEN_TITLE"] = "即時訊息";
+$MESS["IM_FULLSCREEN_TITLE_2"] = "聊天和通話";
+?>

@@ -1,0 +1,27 @@
+<?php
+$MESS["BLG_GRP_NAME"] = "Dimulakan dalam";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_ERROR"] = "Ralat menghapus mesej";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_NO_RIGHTS"] = "Anda tidak mempunyai kebenaran untuk memadam mesej ini";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_OK"] = "Mesej telah dipadamkan";
+$MESS["BLOG_BLOG_SESSID_WRONG"] = "Sesi anda telah tamat tempoh. Sila cuba lagi.";
+$MESS["BLOG_EMPTY_TITLE_PLACEHOLDER"] = "Imej";
+$MESS["BLOG_EMPTY_TITLE_PLACEHOLDER2"] = "Fail";
+$MESS["BLOG_EMPTY_TITLE_VOTE_PLACEHOLDER"] = "Undian";
+$MESS["BLOG_ERR_NO_RIGHTS"] = "Ralat: kebenaran yang tidak mencukupi untuk menulis mesej";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "Modul blog tidak dipasang.";
+$MESS["BLOG_NEW_MESSAGE"] = "Perbualan baru";
+$MESS["BLOG_POST_EDIT"] = "Sunting siaran";
+$MESS["BLOG_P_INSERT"] = "Klik untuk memasukkan imej";
+$MESS["BLOG_SONET_GROUP_MODULE_NOT_AVAIBLE"] = "Perbualan tidak tersedia untuk kumpulan pengguna ini.";
+$MESS["BLOG_SONET_MODULE_NOT_AVAIBLE"] = "Perbualan tidak tersedia untuk pengguna ini.";
+$MESS["BPE_COPY_DELETE_ERROR"] = "Ralat cuba memadam catatan asal.<br />";
+$MESS["BPE_HIDDEN_POSTED"] = "Catatan anda berjaya ditambah. Catatan dalam perbualan ini ditersederhanakan; catatan anda akan menjadi nyata sebaik sahaja penyederhana telah meluluskannya.";
+$MESS["BPE_SESS"] = "Sesi anda telah tamat tempoh. Sila siarkan semula mesej anda.";
+$MESS["B_B_HIDDEN_DEPARTMENT"] = "Jabatan tersembunyi";
+$MESS["B_B_HIDDEN_GROUP"] = "Kumpulan tersembunyi";
+$MESS["B_B_HIDDEN_USER"] = "Pengguna tersembunyi";
+$MESS["B_B_MES_NO_BLOG"] = "Mesej tidak ditemui";
+$MESS["B_B_MES_NO_GROUP"] = "Kumpulan rangkaian sosial tidak ditemui.";
+$MESS["B_B_MES_NO_GROUP_ACTIVE"] = "Ciri ini tidak tersedia untuk kumpulan rangkaian sosial.";
+$MESS["B_B_MES_NO_GROUP_RIGHTS"] = "Kebenaran yang tidak mencukupi untuk mencipta siaran dalam kumpulan rangkaian sosial.";
+$MESS["B_B_PC_DUPLICATE_POST"] = "Anda sudah menambah siaran anda";

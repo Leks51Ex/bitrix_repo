@@ -1,0 +1,6 @@
+<?
+$MESS["OL_COMPONENT_LIVECHAT_DESCRIPTION"] = "Open Channel 与公司员工沟通。";
+$MESS["OL_COMPONENT_MODULE_IMCONNECTOR_NOT_INSTALLED"] = "未安装\"外部 IM 连接器\"模块。";
+$MESS["OL_COMPONENT_MODULE_IM_NOT_INSTALLED"] = "未安装网页 Messenger 模块。";
+$MESS["OL_COMPONENT_MODULE_NOT_INSTALLED"] = "未安装 Open Channels 模块。";
+?>

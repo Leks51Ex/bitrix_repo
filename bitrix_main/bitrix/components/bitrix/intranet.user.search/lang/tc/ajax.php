@@ -1,0 +1,4 @@
+<?
+$MESS["INTR_EMP_CANCEL"] = "取消";
+$MESS["INTR_EMP_WINDOW_CLOSE"] = "關閉";
+?>

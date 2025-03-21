@@ -1,0 +1,13 @@
+<?php
+$MESS["STORES_LIST_DROPDOWN_ACTIONS_LIST_DELETE"] = "Hapus";
+$MESS["STORES_LIST_DROPDOWN_ACTIONS_LIST_NONE"] = "Pilih tindakan";
+$MESS["STORE_LIST_GRID_HEADER_AMOUNT"] = "Jumlah";
+$MESS["STORE_LIST_GRID_HEADER_QUANTITY"] = "Stok tersedia";
+$MESS["STORE_LIST_GRID_HEADER_QUANTITY_COMMON"] = "Baki stok";
+$MESS["STORE_LIST_GRID_HEADER_QUANTITY_RESERVED"] = "Ditempah";
+$MESS["STORE_LIST_GRID_HEADER_TITLE"] = "Gudang";
+$MESS["STORE_LIST_GRID_IM_STUB_TITLE"] = "Sila bolehkan Pengurusan Inventori untuk menguruskan inventori produk.";
+$MESS["STORE_LIST_GRID_OPEN_DETAILS_TITLE"] = "Buka";
+$MESS["STORE_LIST_GRID_STORE_TITLE_WITHOUT_NAME"] = "Tidak berjudul";
+$MESS["STORE_LIST_GRID_STUB_TITLE"] = "Produk ini kehabisan stok di semua gudang.";
+$MESS["STORE_LIST_INVENTORY_MANAGEMENT"] = "Pengurusan inventori";

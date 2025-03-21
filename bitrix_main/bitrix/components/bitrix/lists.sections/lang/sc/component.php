@@ -1,0 +1,14 @@
+<?
+$MESS["CC_BLS_ACCESS_DENIED"] = "没有足够权限来查看和编辑该列表。";
+$MESS["CC_BLS_CHAIN_TITLE"] = "节管理";
+$MESS["CC_BLS_LISTS_FOR_SONET_GROUP_DISABLED"] = "已为此组禁用了列表。";
+$MESS["CC_BLS_MODULE_NOT_INSTALLED"] = "未安装通用列表模块。";
+$MESS["CC_BLS_NEW_SECTION_NAME_PROMPT"] = "输入新节名称";
+$MESS["CC_BLS_PAGE_TITLE"] = "#NAME#：节管理";
+$MESS["CC_BLS_SECTION_ACTION_MENU_DELETE"] = "删除";
+$MESS["CC_BLS_SECTION_ACTION_MENU_RENAME"] = "重命名";
+$MESS["CC_BLS_SECTION_DELETE_PROPMT"] = "这将删除所有子节和子元素。您确定要删除此节吗？";
+$MESS["CC_BLS_UNKNOWN_ERROR"] = "未知错误。";
+$MESS["CC_BLS_WRONG_IBLOCK"] = "指定的列表不正确。";
+$MESS["CC_BLS_WRONG_IBLOCK_TYPE"] = "不正确的信息块类型。";
+?>

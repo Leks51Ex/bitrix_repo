@@ -1,0 +1,7 @@
+<?
+$MESS["BPTA2_DESCR_CLOSEDBY"] = "任務關閉者";
+$MESS["BPTA2_DESCR_CLOSEDDATE"] = "任務關閉時間";
+$MESS["BPTA2_DESCR_DESCR"] = "加入新的任務";
+$MESS["BPTA2_DESCR_NAME"] = "任務";
+$MESS["BPTA2_DESCR_TASKID"] = "任務 ID";
+?>

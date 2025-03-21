@@ -1,0 +1,22 @@
+<?php
+$MESS["CATALOG_STORE_DOCUMENT_BARCODE_EXIST_ERROR"] = "Kode batang \"#BARCODE#\" sudah ditetapkan pada produk yang berbeda di dalam katalog.";
+$MESS["CATALOG_STORE_DOCUMENT_CANCEL_CONDUCT_BUTTON"] = "Batalkan pemrosesan";
+$MESS["CATALOG_STORE_DOCUMENT_CONDUCT_BUTTON"] = "Proses";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_CANCEL_ERROR"] = "Kesalahan saat membatalkan pemrosesan";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_CONDUCT_ERROR"] = "Kesalahan pemrosesan";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOCUMENT_BUTTON"] = "Dokumen";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOCUMENT_NOT_FOUND_ERROR"] = "Objek inventaris tidak ditemukan.";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOCUMENT_TYPE_NOT_SPECIFIED_ERROR"] = "Jenis objek inventaris harus diisi.";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOC_TYPE_A"] = "Tanda terima stok";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOC_TYPE_D"] = "Penghapusan";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOC_TYPE_M"] = "Transfer stok";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_INCORRECT_VALUE"] = "Nilai \"#FIELD_NAME#\" salah";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_NO_VIEW_RIGHTS_ERROR"] = "Izin tidak mencukupi untuk melihat objek inventaris";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_NO_WRITE_RIGHTS_ERROR"] = "Izin tidak mencukupi untuk menyimpan objek inventaris";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_SAVE_ERROR"] = "Kesalahan saat menyimpan objek inventaris";
+$MESS["CATALOG_STORE_DOCUMENT_ELEMENT_STORE_ACCESS_DENIED"] = "Anda tidak memiliki izin untuk mengakses gudang ini untuk menyimpan entitas untuk \"#PRODUCT_NAME#\".";
+$MESS["CATALOG_STORE_DOCUMENT_ERR_ACCESS_DENIED"] = "Izin tidak mencukupi untuk melihat area Manajemen Inventaris.";
+$MESS["CATALOG_STORE_DOCUMENT_ERR_ACCESS_DENIED_BOX"] = "Anda tidak memiliki izin untuk mengakses Manajemen Inventaris. Silakan hubungi administrator Bitrix24 Anda untuk mendapatkan akses. <a href=\"https://training.bitrix24.com/support/training/course/index.php?COURSE_ID=178&LESSON_ID=25118\" target=\"_blank\">Lihat lengkap</a>";
+$MESS["CATALOG_STORE_DOCUMENT_ERR_ACCESS_DENIED_CLOUD"] = "Anda tidak memiliki izin untuk mengakses Manajemen Inventaris. Silakan hubungi administrator Bitrix24 Anda untuk mendapatkan akses. Administrator harus menetapkan peran Manajer untuk Anda di dalam pengaturan CRM. <a onclick=\"top.BX.Helper.show('redirect=detail&code=15955386')\" style=\"cursor: pointer; \">Lihat lengkap</a>";
+$MESS["CATALOG_STORE_DOCUMENT_NO_PRODUCT"] = "Anda harus memilih atau membuat produk untuk menyimpan objek inventaris";
+$MESS["CATALOG_STORE_DOCUMENT_SAVE_AND_CONDUCT_BUTTON"] = "Simpan dan proses";

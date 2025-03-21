@@ -1,0 +1,14 @@
+<?
+$MESS["CRM_COMPANY_ERROR"] = "请选择一家公司。";
+$MESS["CRM_CONTACT_ERROR"] = "请选择一个联系人。";
+$MESS["CRM_DEAL_ERROR"] = "请填写交易字段。";
+$MESS["CRM_FIELD_LEAD_COMPANY"] = "转换公司";
+$MESS["CRM_FIELD_LEAD_CONTACT"] = "转换联系人";
+$MESS["CRM_FIELD_LEAD_DEAL"] = "转换交易";
+$MESS["CRM_FIELD_TITLE"] = "线索名称";
+$MESS["CRM_LEAD_NAV_TITLE_EDIT"] = "转换线索：#NAME#";
+$MESS["CRM_LEAD_NAV_TITLE_LIST"] = "线索";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安装 CRM 模块。";
+$MESS["CRM_PERMISSION_DENIED"] = "访问被拒绝";
+$MESS["UNKNOWN_ERROR"] = "未知错误。";
+?>

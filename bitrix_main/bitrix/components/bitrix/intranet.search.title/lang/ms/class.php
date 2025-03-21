@@ -1,0 +1,24 @@
+<?php
+$MESS["CC_BST_ALL_QUERY_PROMPT"] = "Semua keputusan untuk: <b>\"#query#\"</b>";
+$MESS["CC_BST_ALL_RESULTS"] = "Semua Keputusan";
+$MESS["CC_BST_MODULE_NOT_INSTALLED"] = "Maaf, modul carian adalah tidak tersedia sementara waktu.";
+$MESS["CC_BST_MORE"] = "lebih";
+$MESS["CC_BST_QUERY_PROMPT"] = "keputusan untuk: <b>\"#query#\"</b>";
+$MESS["CT_BST_GLOBAL_SEARCH"] = "Carian";
+$MESS["CT_BST_GLOBAL_SEARCH_CALENDAR"] = "Kalendar";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM"] = "CRM";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_ACTIVITY"] = "Aktiviti saya";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_COMPANY"] = "Syarikat";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_CONTACT"] = "Kenalan";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_DEAL"] = "Tawaran";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_INVOICE"] = "Invois";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_LEAD"] = "Pendahulu";
+$MESS["CT_BST_GLOBAL_SEARCH_CRM_QUOTE"] = "Sebut harga";
+$MESS["CT_BST_GLOBAL_SEARCH_DISK"] = "Bitrix24.Drive";
+$MESS["CT_BST_GLOBAL_SEARCH_MORE"] = "Lebih lagi";
+$MESS["CT_BST_GLOBAL_SEARCH_NEWS"] = "Suapan";
+$MESS["CT_BST_GLOBAL_SEARCH_NO_RESULT"] = "Tiada masukan ditemui.";
+$MESS["CT_BST_GLOBAL_SEARCH_PROCESS"] = "Aliran kerja saya";
+$MESS["CT_BST_GLOBAL_SEARCH_SITE"] = "Tapak";
+$MESS["CT_BST_GLOBAL_SEARCH_STREAM"] = "Suapan";
+$MESS["CT_BST_GLOBAL_SEARCH_TASKS"] = "Tugas";

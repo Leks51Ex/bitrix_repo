@@ -1,0 +1,29 @@
+<?
+$MESS["INTR_MAIL_CHECK"] = "Kontrol Et";
+$MESS["INTR_MAIL_CHECK_ERROR"] = "Hata";
+$MESS["INTR_MAIL_CHECK_JUST_NOW"] = "saniye önce";
+$MESS["INTR_MAIL_CHECK_NA"] = "N/A";
+$MESS["INTR_MAIL_CHECK_SUCCESS"] = "Başarı";
+$MESS["INTR_MAIL_CHECK_TEXT"] = "Son kontrol #DATE#";
+$MESS["INTR_MAIL_CHECK_TEXT_NA"] = "Veri yok.";
+$MESS["INTR_MAIL_CHOOSE"] = "İntranetin ile kullanacağın e-posta servisini seç";
+$MESS["INTR_MAIL_COMPLETE"] = "Posta kutusu başarıyla entegre edildi.";
+$MESS["INTR_MAIL_CREATE"] = "Bağlan";
+$MESS["INTR_MAIL_INP_ENCRYPT"] = "SSL kullan";
+$MESS["INTR_MAIL_INP_ENCRYPT_NO"] = "Hayır";
+$MESS["INTR_MAIL_INP_ENCRYPT_YES"] = "Evet";
+$MESS["INTR_MAIL_INP_LINK"] = "E-Posta sunucu web arayüz URL'si";
+$MESS["INTR_MAIL_INP_LOGIN"] = "Giriş";
+$MESS["INTR_MAIL_INP_PASS"] = "Şifre";
+$MESS["INTR_MAIL_INP_PORT"] = "Port";
+$MESS["INTR_MAIL_INP_SERVER"] = "IMAP sunucusu adresi";
+$MESS["INTR_MAIL_LINK"] = "E-postayı görüntüle";
+$MESS["INTR_MAIL_REMOVE"] = "Sil";
+$MESS["INTR_MAIL_REMOVE_COMPLETE"] = "Bağlantı ve oturum açma tercihleri kaldırıldı.";
+$MESS["INTR_MAIL_REMOVE_CONFIRM"] = "Bu posta kutusu için bağlantı tercihleri silinsin mi?";
+$MESS["INTR_MAIL_SETUP"] = "IMAP bağlantısı parametrelerini gir";
+$MESS["INTR_MAIL_SETUP_HINT"] = "Bir posta kutusunu herhangi bi zaman birleştirmek için profilini kullan.";
+$MESS["INTR_MAIL_SETUP_LINK"] = "Yeni bağlantı kur";
+$MESS["INTR_MAIL_STATUS"] = "Durum";
+$MESS["INTR_MAIL_UPDATE"] = "Kaydet";
+?>

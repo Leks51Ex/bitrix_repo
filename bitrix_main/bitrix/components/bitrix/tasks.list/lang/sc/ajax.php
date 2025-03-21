@@ -1,0 +1,11 @@
+<?
+$MESS["TASKS_DOUBLE_CLICK"] = "双击查看";
+$MESS["TASKS_MARK"] = "得分";
+$MESS["TASKS_MARK_N"] = "负";
+$MESS["TASKS_MARK_NONE"] = "无";
+$MESS["TASKS_MARK_P"] = "正";
+$MESS["TASKS_PRIORITY"] = "优先级";
+$MESS["TASKS_PRIORITY_0"] = "低";
+$MESS["TASKS_PRIORITY_1"] = "普通";
+$MESS["TASKS_PRIORITY_2"] = "高";
+?>

@@ -1,0 +1,12 @@
+<?
+$MESS["CRM_COLUMN_COMPANY_TITLE"] = "企業";
+$MESS["CRM_COLUMN_DATE_MODIFY"] = "変更日";
+$MESS["CRM_COLUMN_EMAIL"] = "メールアドレス";
+$MESS["CRM_COLUMN_PHONE"] = "電話番号";
+$MESS["CRM_COLUMN_TYPE"] = "連絡先の種類";
+$MESS["CRM_OPER_EDIT"] = "編集";
+$MESS["CRM_OPER_SHOW"] = "表示";
+$MESS["CRM_SECTION_CONTACT_INFO"] = "連絡先";
+$MESS["CRM_SIP_MGR_MAKE_CALL"] = "通話";
+$MESS["CRM_SIP_MGR_UNKNOWN_RECIPIENT"] = "不明な発信者";
+?>

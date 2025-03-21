@@ -1,0 +1,12 @@
+<?
+$MESS["BIZPROC_JS_BP_STARTER_AUTOSTART"] = "Aliran kerja jallan secara automatik";
+$MESS["BIZPROC_JS_BP_STARTER_CANCEL"] = "Batal";
+$MESS["BIZPROC_JS_BP_STARTER_CONTROL_CLONE"] = "tambah";
+$MESS["BIZPROC_JS_BP_STARTER_DESTINATION_CHOOSE"] = "pilih";
+$MESS["BIZPROC_JS_BP_STARTER_DESTINATION_EDIT"] = "sunting";
+$MESS["BIZPROC_JS_BP_STARTER_FILE_CHOOSE"] = "Pilih fail";
+$MESS["BIZPROC_JS_BP_STARTER_NO_TEMPLATES"] = "Tiada templat aliran kerja";
+$MESS["BIZPROC_JS_BP_STARTER_REQUEST_FAILURE"] = "Ralat melaksanakan permintaan. Cuba segar semula halaman.";
+$MESS["BIZPROC_JS_BP_STARTER_SAVE"] = "Simpan";
+$MESS["BIZPROC_JS_BP_STARTER_START"] = "Mula";
+?>

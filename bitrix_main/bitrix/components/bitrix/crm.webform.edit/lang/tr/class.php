@@ -1,0 +1,27 @@
+<?php
+$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "İş Süreçleri modülü yüklenmemiş.";
+$MESS["CRM_MODULE_ERROR_NOT_FOUNT"] = "Form bulunamadı";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM modülü kurulu değil.";
+$MESS["CRM_MODULE_NOT_INSTALLED_CATALOG"] = "Katalog modülü kurulu değil.";
+$MESS["CRM_MODULE_NOT_INSTALLED_CURRENCY"] = "Para Birimi Modülü yüklenmemiş.";
+$MESS["CRM_MODULE_NOT_INSTALLED_REST"] = "Rest modülü yüklü değil.";
+$MESS["CRM_MODULE_NOT_INSTALLED_SALE"] = "E-Mağaza modülü kurulu değil.";
+$MESS["CRM_PERMISSION_DENIED"] = "Erişim reddedildi";
+$MESS["CRM_WEBFORM_EDIT_"] = "Ara";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_DOMAIN"] = "Alan adı";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_DOMAIN_DESC"] = "Formun gönderildiği alan adı";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_ID"] = "Form ID";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_ID_DESC"] = "Form ID";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_NAME"] = "Form adı";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_NAME_DESC"] = "Form adı";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_PARAM"] = "Parametre";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_PARAM_DESC"] = "Formu tanımak için kullanacağınız URL parametresinin adı";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_RESULT_ID"] = "Sonuç ID";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_RESULT_ID_DESC"] = "Form sonucuna atanan numarayı belirtir.";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_URL"] = "Sayfa adresi";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_URL_DESC"] = "Formun gönderildiği sayfa adresi";
+$MESS["CRM_WEBFORM_EDIT_SECOND_SHORT"] = "Sn";
+$MESS["CRM_WEBFORM_EDIT_TITLE"] = "CRM formunu düzenle";
+$MESS["CRM_WEBFORM_EDIT_TITLE_ADD"] = "CRM Formu Oluştur";
+$MESS["CRM_WEBFORM_EDIT_TITLE_VIEW"] = "CRM Formunu Görüntüle";
+$MESS["CRM_WEBFORM_SCENARIO_NAME_TEMPLATE"] = "#DATE# tarihli #NAME#";

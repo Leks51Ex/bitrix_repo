@@ -1,0 +1,31 @@
+<?
+$MESS["BPWI_DELETE_CONFIRM"] = "プロセスと関連するすべてのデータを削除してもよろしいですか?";
+$MESS["BPWI_DELETE_LABEL"] = "削除";
+$MESS["BPWI_DOCUMENT_NAME"] = "エレメント";
+$MESS["BPWI_FILTER_DOCTYPE_ALL"] = "全て";
+$MESS["BPWI_FILTER_DOCTYPE_CLAIMS"] = "ワークフロー";
+$MESS["BPWI_FILTER_DOCTYPE_CRM"] = "CRM";
+$MESS["BPWI_FILTER_DOCTYPE_DISK"] = "ファイル";
+$MESS["BPWI_FILTER_DOCTYPE_LISTS"] = "リスト";
+$MESS["BPWI_FILTER_PRESET_LOCKED"] = "掛けた";
+$MESS["BPWI_FILTER_STATUS"] = "ステータス";
+$MESS["BPWI_IS_LOCKED"] = "掛けた";
+$MESS["BPWI_MODIFIED"] = "変更日";
+$MESS["BPWI_MODULE_CRM"] = "CRM";
+$MESS["BPWI_MODULE_DISK"] = "ドライブ";
+$MESS["BPWI_MODULE_IBLOCK"] = "リスト";
+$MESS["BPWI_MODULE_LISTS"] = "社内掲示板";
+$MESS["BPWI_NO"] = "いいえ";
+$MESS["BPWI_NO_ACCESS"] = "ポータル管理者のみがこのページにアクセスできます";
+$MESS["BPWI_NO_DOCUMENT"] = "文書が見つかりませんでした";
+$MESS["BPWI_NO_MATTER"] = "(重要じゃない)";
+$MESS["BPWI_OPEN_DOCUMENT"] = "ドキュメント(新しいウィンドウで)";
+$MESS["BPWI_OWNED_UNTIL"] = "ロックされるまで";
+$MESS["BPWI_PAGE_TITLE"] = "実行中のワークフロー";
+$MESS["BPWI_WORKFLOW_ID_ANY"] = "(どれでも)";
+$MESS["BPWI_WS_MODULE_ID"] = "モジュール";
+$MESS["BPWI_WS_STARTED"] = "開始日時";
+$MESS["BPWI_WS_STARTED_BY"] = "始めた人";
+$MESS["BPWI_WS_WORKFLOW_TEMPLATE_ID"] = "ワークフロー";
+$MESS["BPWI_YES"] = "はい";
+?>

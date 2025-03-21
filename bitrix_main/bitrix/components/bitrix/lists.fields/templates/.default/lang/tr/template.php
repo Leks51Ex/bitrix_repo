@@ -1,0 +1,20 @@
+<?php
+$MESS["CT_BLF_DELETE_POPUP_ACCEPT_BUTTON"] = "Sil";
+$MESS["CT_BLF_DELETE_POPUP_CANCEL_BUTTON"] = "İptal";
+$MESS["CT_BLF_DELETE_POPUP_TITLE"] = "Silme İşlemini Onayla";
+$MESS["CT_BLF_LIST_CODE"] = "Kod";
+$MESS["CT_BLF_LIST_DEFAULT_VALUE"] = "Varsayılan değer";
+$MESS["CT_BLF_LIST_IS_REQUIRED"] = "Gerekli";
+$MESS["CT_BLF_LIST_MULTIPLE"] = "Çoklu";
+$MESS["CT_BLF_LIST_NAME"] = "Ad";
+$MESS["CT_BLF_LIST_SORT"] = "Sıralama";
+$MESS["CT_BLF_LIST_TYPE"] = "Tür";
+$MESS["CT_BLF_TOOLBAR_ADD"] = "Alan ekle";
+$MESS["CT_BLF_TOOLBAR_ADD_TITLE"] = "Yeni alan ekle";
+$MESS["CT_BLF_TOOLBAR_ELEMENTS_TITLE"] = "Liste ögelerini görüntüle ve düzenle";
+$MESS["CT_BLF_TOOLBAR_ELEMENT_DELETE_WARNING"] = "Alan silmek istediğinden emin misin?";
+$MESS["CT_BLF_TOOLBAR_LIST_EDIT"] = "Izgara Ayarları";
+$MESS["CT_BLF_TOOLBAR_LIST_EDIT_PROCESS"] = "İş akışını yapılandır";
+$MESS["CT_BLF_TOOLBAR_LIST_TITLE"] = "Liste ayarlarına geri dön";
+$MESS["CT_BLF_TOOLBAR_LIST_TITLE_PROCESS"] = "İş akışı yapılandırmasına geri dön";
+$MESS["CT_BLF_TOOLBAR_RETURN_LIST_ELEMENT"] = "Listeye Geri Dön";

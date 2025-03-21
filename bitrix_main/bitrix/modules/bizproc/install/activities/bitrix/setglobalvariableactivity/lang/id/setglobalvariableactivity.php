@@ -1,0 +1,24 @@
+<?php
+$MESS["BPSGCA_ACCESS_DENIED"] = "Hanya administrator Bitrix24 yang dapat mengakses properti tindakan.";
+$MESS["BPSGCA_EMPTY_VARIABLES"] = "Tidak ada nilai yang ditetapkan pada variabel global";
+$MESS["BPSGVA_BOOL_NO"] = "Tidak";
+$MESS["BPSGVA_BOOL_YES"] = "Ya";
+$MESS["BPSGVA_CLEAR"] = "Reset";
+$MESS["BPSGVA_CREATE_GCONSTANT"] = "Buat konstanta";
+$MESS["BPSGVA_CREATE_GCONSTANT_QUESTION"] = "Anda ingin membuat konstanta baru?";
+$MESS["BPSGVA_CREATE_GVARIABLE"] = "Buat variabel";
+$MESS["BPSGVA_CREATE_GVARIABLE_QUESTION"] = "Anda ingin membuat variabel baru?";
+$MESS["BPSGVA_DOCUMENT"] = "Nilai kolom";
+$MESS["BPSGVA_EMPTY"] = "Tidak dipilih";
+$MESS["BPSGVA_GCONSTANT_NOT_FOUND"] = "Konstanta tidak ditemukan";
+$MESS["BPSGVA_GCONSTANT_NO_EXIST"] = "Tidak ada konstanta";
+$MESS["BPSGVA_GLOBAL_CONST"] = "Konstanta global";
+$MESS["BPSGVA_GLOBAL_VAR"] = "Variabel global";
+$MESS["BPSGVA_GVARIABLE_NOT_FOUND"] = "Variabel tidak ditemukan";
+$MESS["BPSGVA_GVARIABLE_NO_EXIST"] = "Tidak ada variabel";
+$MESS["BPSGVA_INPUT_TEXT"] = "Masukkan nilai";
+$MESS["BPSGVA_LIST_OF_VALUES"] = "Nilai";
+$MESS["BPSGVA_PARAMETER"] = "Pilih parameter";
+$MESS["BPSGVA_TEXT"] = "Nilai kustom";
+$MESS["BPSGVA_TYPE_OF_PARAMETER"] = "Jenis parameter";
+$MESS["BPSGVA_VARIABLE"] = "Pilih variabel";

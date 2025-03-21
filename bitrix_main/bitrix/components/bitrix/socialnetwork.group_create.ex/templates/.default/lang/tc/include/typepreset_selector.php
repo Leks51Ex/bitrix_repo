@@ -1,0 +1,3 @@
+<?php
+$MESS["SONET_GCE_T_TYPEPRESET_NEW"] = "新";
+$MESS["SONET_GCE_T_TYPEPRESET_TITLE"] = "選取專案類型";

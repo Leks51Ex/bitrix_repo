@@ -1,0 +1,23 @@
+<?php
+$MESS["MP_ADD_APP_CLIENT_ID"] = "ID aplikasi";
+$MESS["MP_ADD_APP_CLIENT_SECRET"] = "Kunci aplikasi";
+$MESS["MP_ADD_APP_TITLE"] = "Aplikasi baru";
+$MESS["MP_APP_ADD_SUCCESS"] = "Aplikasi berjaya ditambah";
+$MESS["MP_APP_API"] = "Tersedia sebagai skrip sahaja";
+$MESS["MP_APP_API_DESC"] = "(aplikasi perkhidmatan tanpa antara muka)";
+$MESS["MP_APP_DOC"] = "<a target=_blank href=\"http://www.bitrixsoft.com/rest_help/\">Garis Panduan Reka Bentuk Aplikasi Bitrix24</a>";
+$MESS["MP_APP_EDIT_SUCCESS"] = "Aplikasi berjaya dikemas kini.";
+$MESS["MP_APP_INFO"] = "Setelah disimpan, anda boleh mengakses ID aplikasi dan kunci OAuth 2.0 yang boleh digunakan oleh aplikasi<br/>";
+$MESS["MP_APP_MENU_NAME"] = "Tajuk untuk menu Bitrix24";
+$MESS["MP_APP_MENU_NAME_EN"] = "Tajuk untuk menu Bitrix24 (Bahasa Inggeris)";
+$MESS["MP_APP_MOBILE"] = "Menyokong BitrixMobile";
+$MESS["MP_APP_NAME"] = "Nama aplikasi";
+$MESS["MP_APP_OR"] = "atau";
+$MESS["MP_APP_SAVE"] = "Simpan";
+$MESS["MP_APP_SCOPE"] = "Kebenaran akses";
+$MESS["MP_APP_SCOPE_DESC"] = "Pilih kebenaran akses data pengguna <br/>yang diperlukan oleh aplikasi anda";
+$MESS["MP_APP_UPLOAD"] = "Muat naik fail ZIP yang mengandungi aplikasi anda";
+$MESS["MP_APP_URL"] = "Tetapkan URL";
+$MESS["MP_APP_URL_DESC"] = "Tetapkan URL aplikasi anda <br/>jika ia dihoskan di pelayan pihak ketiga atau luaran";
+$MESS["MP_APP_URL_INSTALL"] = "Tetapkan URL pemasangan awal <br/>(pilihan)";
+$MESS["MP_APP_URL_INSTALL_API"] = "Tambah URL panggil balik untuk peristiwa pemasangan (pilihan)";

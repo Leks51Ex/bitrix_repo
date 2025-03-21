@@ -1,0 +1,5 @@
+<?
+$MESS["RPA_AUTOMATION_EDITROBOT_SCENARIO"] = "ประเภท";
+$MESS["RPA_AUTOMATION_EDITROBOT_TITLE"] = "เพิ่มงานที่มอบหมาย";
+$MESS["RPA_AUTOMATION_EDITROBOT_TITLE_EDIT"] = "กำหนดค่างานที่มอบหมาย";
+?>

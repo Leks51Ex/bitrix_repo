@@ -1,0 +1,38 @@
+<?
+$MESS["ACTIVE_DATE_FORMAT_TIP"] = "Chọn định dạng ngày tháng ở đây yêu cầu. Nếu bạn chọn <i><b>khác</b></i>, bạn có thể tạo ra định dạng của riêng bạn bằng cách sử dụng <i><b>ngày</b></i> PHP chức năng.";
+$MESS["ADD_SECTIONS_CHAIN_TIP"] = "Nếu tùy chọn đang hoạt động và các khối thông tin hiện nay bao gồm các mục, tên của họ sẽ được hiển thị trong chuỗi chuyển hướng.";
+$MESS["AJAX_MODE_TIP"] = "Kích hoạt AJAX trong thành phần.";
+$MESS["AJAX_OPTION_HISTORY_TIP"] = "Cho phép \"Trở về\" và \"Chuyển tiếp\" các nút trình duyệt cho AJAX transitions.";
+$MESS["AJAX_OPTION_JUMP_TIP"] = "Specifies to scroll to component when AJAX transition completes.";
+$MESS["AJAX_OPTION_SHADOW_TIP"] = "Specifies to shade modifiable area on AJAX transition.";
+$MESS["AJAX_OPTION_STYLE_TIP"] = "Xác định để tải về và xử lý các kiểu CSS của component trên AJAX transition.";
+$MESS["CACHE_FILTER_TIP"] = "Nếu được chọn, hệ thống sẽ lưu lại tất cả các kết quả lọc. Điều này có thể hữu ích nếu nhiều du khách thường xuyên sử dụng các thiết lập bộ lọc tương tự.";
+$MESS["CACHE_TIME_TIP"] = "Xác định ở đây khoảng thời gian trong đó bộ nhớ cache là hợp lệ.";
+$MESS["CACHE_TYPE_TIP"] = "<i>Auto</i>: bộ nhớ cache có giá trị trong thời gian xác định trước trong các thiết lập bộ nhớ cache; <br /> <i>Cache</i>: luôn luôn nhớ cache cho thời hạn quy định trong lĩnh vực tiếp theo; <br /> <i>Không nhớ cache</i>: không có bộ nhớ đệm được thực hiện.";
+$MESS["CHECK_DATES_TIP"] = "Chỉ định rằng chỉ có các yếu tố tích cực sẽ được hiển thị.";
+$MESS["DETAIL_URL_TIP"] = "URL của một trang xem chi tiết. Ví dụ: <b>news_detail.php ID = #ELEMENT_ID#</b>";
+$MESS["DISPLAY_BOTTOM_PAGER_TIP"] = "Nếu được chọn, các liên kết điều hướng phần tử sẽ được hiển thị ở phía trên dưới cùng của trang.";
+$MESS["DISPLAY_PANEL_TIP"] = "Nếu được chọn, các nút biên tập sẽ hiển thị trong trang web chế độ Edit trên thanh công cụ Control Panel, và trong khu vực hộp công cụ thành phần.";
+$MESS["DISPLAY_TOP_PAGER_TIP"] = "Nếu được chọn, các liên kết điều hướng phần tử sẽ được hiển thị trên đầu trang.";
+$MESS["FIELD_CODE_TIP"] = "Ở đây bạn có thể lựa chọn các lĩnh vực yếu tố ngăn chặn thông tin cần thiết mà các bộ lọc có thể được áp dụng. Bạn có thể thêm các trường tùy chỉnh như là một mã trong các lĩnh vực đầu vào dưới đây.";
+$MESS["FILTER_NAME_TIP"] = "Tên của một biến trong đó các thiết lập bộ lọc sẽ được thông qua. Bạn có thể rời sân trống để sử dụng tên mặc định.";
+$MESS["HIDE_LINK_WHEN_NO_DETAIL_TIP"] = "Quy định cụ thể để ẩn các liên kết nếu các chi tiết sản phẩm không có sẵn, hoặc nếu người dùng không có đủ quyền truy cập.";
+$MESS["IBLOCK_ID_TIP"] = "Chọn ở đây một trong những khối thông tin hiện có. Nếu bạn chọn <b><i>(khác)</i> </b>, bạn sẽ phải xác định mã số cấm thông tin trong lĩnh vực này bên cạnh. Ví dụ: <b>= {\$ _ YÊU [\"IBLOCK_ID\"]}</b>";
+$MESS["IBLOCK_TYPE_TIP"] = "Chọn một trong các loại khối thông tin hiện có trong danh sách và nhấp vào <b>OK</b>. Điều này sẽ được tải khối thông tin thuộc loại đã chọn. Tuy nhiên, trong thành phần này tham số này là tùy chọn.";
+$MESS["INCLUDE_IBLOCK_INTO_CHAIN_TIP"] = "Nếu được chọn, tên khối thông tin sẽ được thêm vào chuỗi chuyển hướng.";
+$MESS["NEWS_COUNT_TIP"] = "Xác định số phần tử trên một trang.";
+$MESS["PAGER_DESC_NUMBERING_CACHE_TIME_TIP"] = "Xác định thời gian bộ nhớ cache cho các trang (tính bằng giây) khi sử dụng chuyển hướng quay trở lại.";
+$MESS["PAGER_DESC_NUMBERING_TIP"] = "Sử dụng tùy chọn này nếu bạn muốn các yếu tố mới được đặt lên hàng đầu. Như vậy, chỉ trang cuối cùng trong việc điều khiển mẩu bánh mì được sửa đổi. Tất cả các trang khác có thể được lưu trữ trong một thời gian dài đáng kể.";
+$MESS["PAGER_SHOW_ALWAYS_TIP"] = "Nếu không được kiểm soát, các liên kết chuyển hướng mẩu bánh mì sẽ không có mặt nếu tất cả các mục phù hợp với một trang duy nhất. Nếu không, các liên kết điều hướng sẽ luôn luôn được hiển thị.";
+$MESS["PAGER_TEMPLATE_TIP"] = "Tên của mẫu chuyển hướng mẩu bánh mì. Bạn có thể rời sân trống để sử dụng mẫu mặc định (<b><i>.DEFAULT</i></b>). (Hệ thống cung cấp một mẫu thay thế:. <i>cam</i>)";
+$MESS["PAGER_TITLE_TIP"] = "Tên của một đơn vị sản phẩm để điều hướng. Ví dụ: trang, chương,...";
+$MESS["PARENT_SECTION_TIP"] = "Chỉ định phụ huynh phần ID có thể được sử dụng để hạn chế các yếu tố được lựa chọn để phần đó.";
+$MESS["PREVIEW_TRUNCATE_LEN_TIP"] = "Nếu xem trước phương tiện truyền thông khối thông tin văn bản, bạn có thể xác định số lượng tối đa của các biểu tượng ở đây. Bất kỳ văn bản vượt quá giới hạn này sẽ được rút ngắn.";
+$MESS["PROPERTY_CODE_TIP"] = "Chọn các thông tin thuộc tính khối mà bạn muốn hiển thị trong bộ lọc. Bạn cũng có thể thêm các lĩnh vực của riêng bạn trong các lĩnh vực dưới đây.";
+$MESS["SET_BROWSER_TITLE_TIP"] = "Nếu được chọn, một danh hiệu yếu tố ngăn chặn thông tin (hoặc tiêu đề SEO nếu hoạt động) sẽ được sử dụng làm tiêu đề cửa sổ trình duyệt.";
+$MESS["SET_TITLE_TIP"] = "Kiểm tra tùy chọn này sẽ thiết lập các tiêu đề tên của một khối thông tin hiện nay.";
+$MESS["SORT_BY1_TIP"] = "Chọn ở đây là lĩnh vực mà các mục tin tức sẽ được sắp xếp. Bạn có thể chọn <b><i>(khác)</i> </b> và xác định các lĩnh vực ID trong lĩnh vực này bên cạnh.";
+$MESS["SORT_BY2_TIP"] = "Chọn ở đây là lĩnh vực mà các mục tin tức sẽ được sắp xếp theo đèo thứ hai. Bạn có thể chọn <b><i>(khác)</i> </b> và xác định các lĩnh vực ID trong lĩnh vực này bên cạnh.";
+$MESS["SORT_ORDER1_TIP"] = "Tăng dần hoặc giảm dần";
+$MESS["SORT_ORDER2_TIP"] = "Tăng dần hoặc giảm dần";
+?>

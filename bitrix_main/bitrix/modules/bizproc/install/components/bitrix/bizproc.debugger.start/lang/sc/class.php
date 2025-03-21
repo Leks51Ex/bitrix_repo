@@ -1,0 +1,4 @@
+<?php
+$MESS["BIZPROC_DEBUGGER_START_ERROR_DOCUMENT_TYPE"] = "无法测试此项目";
+$MESS["BIZPROC_DEBUGGER_START_ERROR_RIGHTS"] = "权限不足，无法运行测试模式。请联系您的Bitrix24管理员或CRM负责人。";
+$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "未安装业务流程模块。";

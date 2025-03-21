@@ -1,0 +1,3 @@
+<?
+$MESS["DOCGEN_FEEDBACK_TITLE"] = "反馈";
+?>

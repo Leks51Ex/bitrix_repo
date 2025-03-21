@@ -1,0 +1,3 @@
+<?php
+$MESS["LANDING_CMP_PAR_LANDING_TYPE"] = "サイトの種類";
+$MESS["LANDING_CMP_PAR_PAGE_URL_FOLDER_EDIT"] = "フォルダ編集ページ";

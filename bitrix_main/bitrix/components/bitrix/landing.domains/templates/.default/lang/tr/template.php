@@ -1,0 +1,12 @@
+<?
+$MESS["LANDING_TPL_ACTION_ADD"] = "Yeni";
+$MESS["LANDING_TPL_ACTION_DELETE"] = "Sil";
+$MESS["LANDING_TPL_ACTION_EDIT"] = "Düzenle";
+$MESS["LANDING_TPL_COL_ACTIVE"] = "Aktif";
+$MESS["LANDING_TPL_COL_ACT_N"] = "Hayır";
+$MESS["LANDING_TPL_COL_ACT_Y"] = "Evet";
+$MESS["LANDING_TPL_COL_CREATED"] = "Oluşturulma tarihi";
+$MESS["LANDING_TPL_COL_DOMAIN"] = "Alan adı";
+$MESS["LANDING_TPL_COL_MODIFIED"] = "Değiştirme";
+$MESS["LANDING_TPL_TITLE"] = "Alan adları";
+?>

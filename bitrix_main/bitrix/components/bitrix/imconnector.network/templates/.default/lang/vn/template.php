@@ -1,0 +1,29 @@
+<?php
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_CODE"] = "Mã";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_CONNECT"] = "Kết nối";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_CONNECTED"] = "Bitrix24.Network được kết nối";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_CONNECTION"] = "Kết nối";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_CONNECTOR_ERROR_STATUS"] = "Lỗi xử lý rô-bốt. Vui lòng kiểm tra tất cả cài đặt và thử nghiệm lại rô-bốt của bạn.";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_COPY"] = "Sao chép";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_1"] = "Tên";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_2"] = "Mô tả ngắn gọn";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_3"] = "Thông điệp chào mừng";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_4"] = "Hình đại diện";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_4_DESCRIPTION_1"] = "Hình đại diện độc đáo sẽ cho phép khách hàng tìm bạn nhanh hơn.";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_4_DESCRIPTION_2"] = "Tải lên hình đại diện";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_4_DESCRIPTION_3"] = "Xóa ảnh";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_5"] = "Có thể tìm thấy";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_6"] = "Mã tìm kiếm";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_FIELD_6_TIP"] = "Mã này cho phép người dùng tìm thấy open channel của bạn trong trình nhắn tin, kể cả nếu nó không có trong danh sách tìm kiếm.";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INDEX_LIST_ITEM_1"] = "Lưu các liên hệ và lịch sử giao tiếp vào CRM";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INDEX_LIST_ITEM_2"] = "Hướng dẫn khách hàng qua phễu bán hàng trong CRM";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INDEX_LIST_ITEM_3"] = "Trả lời khách hàng tại thời điểm và qua kênh mà họ muốn";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INDEX_LIST_ITEM_4"] = "Các truy vấn của khách hàng sẽ được phân bổ cho các nhân viên bán hàng theo quy định xếp hàng";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INDEX_SUBTITLE"] = "Kết nối Bitrix24.Network để nhận truy vấn từ những khách hàng, đối tác và đồng nghiệp cũng sử dụng Bitrix24.";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INDEX_TITLE"] = "Sử dụng Bitrix24.Network để giao tiếp với các khách hàng cũng sử dụng Bitrix24";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_INFO"] = "Thông tin";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_NAME"] = "Tên";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_REST_HELP"] = "Bạn có thể tạo kênh hỗ trợ riêng tư không có trong danh sách tìm kiếm.<br> Vui lòng cung cấp mã cho khách hàng của bạn để họ có thể liên hệ với bạn hoặc kết nối đến kênh thông qua REST API.<br> Chi tiết về REST API của Open Channel có sẵn trong mục #LINK_START#tài liệu#LINK_END#";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_SIMPLE_FORM_DESCRIPTION_1"] = "Open channel đã được kết nối đến Bitrix24.Network.
+<br>Bạn có thể thay đổi các cài đặt nếu cần.";
+$MESS["IMCONNECTOR_COMPONENT_NETWORK_URL"] = "Liên kết";

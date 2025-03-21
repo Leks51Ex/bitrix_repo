@@ -1,0 +1,6 @@
+<?php
+$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_CANCEL"] = "Peristiwa telah dibatalkan";
+$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_EDIT"] = "Peristiwa telah diubah";
+$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_REPLY_ACCEPTED"] = "Jemputan diterima";
+$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_REPLY_DECLINED"] = "Jemputan ditolak";
+$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_REQUEST"] = "Jemputan";

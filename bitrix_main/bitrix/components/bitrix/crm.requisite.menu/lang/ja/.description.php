@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_NAME"] = "CRM";
+$MESS["CRM_REQUISITE_MENU_DESCRIPTION"] = "ツールバー";
+$MESS["CRM_REQUISITE_MENU_NAME"] = "ツールバー";
+$MESS["CRM_REQUISITE_NAME"] = "詳細";
+?>

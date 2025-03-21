@@ -1,0 +1,31 @@
+<?
+$MESS["HIDE_ON_BASKET_PAGES_TIP"] = "Bu seçenek alışveriş sepetinde ve ödeme sayfasın bileşeni gizler. Bu seçeneği etkin bırakman, bu sayfalarda ekstra sistem yüklenmesinden kaçınmak için, önemle tavsiye edilir.";
+$MESS["SBBL_AUTHOR"] = "Yetki Onayı";
+$MESS["SBBL_HIDE_ON_BASKET_PAGES"] = "Alışveriş sepeti ve ödeme sayfalarında gösterme";
+$MESS["SBBL_LIST"] = "Ürün listesi";
+$MESS["SBBL_PATH_TO_BASKET"] = "Sepet sayfası";
+$MESS["SBBL_PATH_TO_ORDER"] = "Sipariş sayfası";
+$MESS["SBBL_PATH_TO_PERSONAL"] = "Kişisel Bölüm";
+$MESS["SBBL_PATH_TO_PROFILE"] = "Profil Sayfası";
+$MESS["SBBL_PATH_TO_REGISTER"] = "Kayıt sayfası";
+$MESS["SBBL_PERSONAL"] = "Kişisel Bölüm";
+$MESS["SBBL_POSITION_CENTER"] = "Orta";
+$MESS["SBBL_POSITION_FIXED"] = "Bileşeni diğer ögelerin üzerinde göster";
+$MESS["SBBL_POSITION_HORIZONTAL"] = "Yatay hizalama";
+$MESS["SBBL_POSITION_HORIZONTAL_LEFT"] = "Sol";
+$MESS["SBBL_POSITION_HORIZONTAL_RIGHT"] = "Sağ";
+$MESS["SBBL_POSITION_VERTICAL"] = "Dikey hizalama";
+$MESS["SBBL_POSITION_VERTICAL_BOTTOM"] = "Alt";
+$MESS["SBBL_POSITION_VERTICAL_TOP"] = "üst";
+$MESS["SBBL_SHOW_AUTHOR"] = "Alışveriş sepetinde yetki onayına izin ver";
+$MESS["SBBL_SHOW_DELAY"] = "İstek listesini göster";
+$MESS["SBBL_SHOW_EMPTY_VALUES"] = "Boş sepetteki sıfır değerlerini göster";
+$MESS["SBBL_SHOW_IMAGE"] = "Ürünün resmini göster";
+$MESS["SBBL_SHOW_NOTAVAIL"] = "Mevcut olmayan ürünleri göster";
+$MESS["SBBL_SHOW_NUM_PRODUCTS"] = "Ürünlerin sayısını göster";
+$MESS["SBBL_SHOW_PERSONAL_LINK"] = "Kişisel Bölüme bağlantı göster";
+$MESS["SBBL_SHOW_PRICE"] = "Ürün fiyatını göster";
+$MESS["SBBL_SHOW_PRODUCTS"] = "Ürün listesini göster";
+$MESS["SBBL_SHOW_SUMMARY"] = "Her satırda ara toplamı göster";
+$MESS["SBBL_SHOW_TOTAL_PRICE"] = "Ürün bazında toplam tutarı göster";
+?>

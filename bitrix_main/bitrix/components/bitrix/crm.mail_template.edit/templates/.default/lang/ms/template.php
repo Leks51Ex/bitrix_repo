@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_MAIL_TEMPLATE_ENTITY_FIELD_SELECTOR"] = "Pilih medan";
+$MESS["CRM_MAIL_TEMPLATE_ENTITY_FIELD_SELECTOR_ADD_BTN"] = "Tambah";
+$MESS["CRM_MAIL_TEMPLATE_TAB_1"] = "Templat e-mel";
+$MESS["CRM_MAIL_TEMPLATE_TAB_1_TITLE"] = "Parameter templat e-mel";
+?>

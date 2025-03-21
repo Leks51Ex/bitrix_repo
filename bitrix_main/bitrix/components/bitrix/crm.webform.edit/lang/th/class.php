@@ -1,0 +1,27 @@
+<?php
+$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูลกระบวนการทางธุรกิจ";
+$MESS["CRM_MODULE_ERROR_NOT_FOUNT"] = "ไม่พบแบบฟอร์ม";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล CRM";
+$MESS["CRM_MODULE_NOT_INSTALLED_CATALOG"] = "โมดูลแค็ตตาล็อกเชิงพาณิชย์ไม่ได้ติดตั้ง";
+$MESS["CRM_MODULE_NOT_INSTALLED_CURRENCY"] = "ไม่ได้ติดตั้งโมดูลสกุลเงิน";
+$MESS["CRM_MODULE_NOT_INSTALLED_REST"] = "ไม่ได้ติดตั้งโมดูล REST";
+$MESS["CRM_MODULE_NOT_INSTALLED_SALE"] = "ไม่ได้ติดตั้งโมดูล e-Store";
+$MESS["CRM_PERMISSION_DENIED"] = "ปฏิเสธการเข้าใช้";
+$MESS["CRM_WEBFORM_EDIT_"] = "ค้นหา";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_DOMAIN"] = "ชื่อโดเมน";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_DOMAIN_DESC"] = "ชื่อโดเมนจากแบบฟอร์มที่ส่งไป";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_ID"] = "ไอดีแบบฟอร์ม";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_ID_DESC"] = "ไอดีแบบฟอร์ม";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_NAME"] = "ชื่อแบบฟอร์ม";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_FORM_NAME_DESC"] = "ชื่อแบบฟอร์ม";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_PARAM"] = "พารามิเตอร์";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_PARAM_DESC"] = "ชื่อพารามิเตอร์ URL ที่คุณจะใช้เพื่อรู้จำแบบฟอร์ม";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_RESULT_ID"] = "ไอดีผลลัพธ์";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_RESULT_ID_DESC"] = "ระบุหมายเลขที่กำหนดให้กับผลลัพธ์ของแบบฟอร์ม";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_URL"] = "ที่อยู่หน้าเว็บ";
+$MESS["CRM_WEBFORM_EDIT_PRESET_MACROS_URL_DESC"] = "ที่อยู่หน้าเว็บที่ส่งแบบฟอร์มมา";
+$MESS["CRM_WEBFORM_EDIT_SECOND_SHORT"] = "วินาที";
+$MESS["CRM_WEBFORM_EDIT_TITLE"] = "แก้ไขแบบฟอร์ม CRM";
+$MESS["CRM_WEBFORM_EDIT_TITLE_ADD"] = "สร้างแบบฟอร์ม CRM";
+$MESS["CRM_WEBFORM_EDIT_TITLE_VIEW"] = "ดูแบบฟอร์ม CRM";
+$MESS["CRM_WEBFORM_SCENARIO_NAME_TEMPLATE"] = "#NAME# ของ #DATE#";

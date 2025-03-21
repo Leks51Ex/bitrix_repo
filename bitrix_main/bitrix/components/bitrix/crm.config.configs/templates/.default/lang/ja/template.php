@@ -1,0 +1,26 @@
+<?php
+$MESS["CRM_TAB_ACTIVITY_CONFIG"] = "アクティビティ";
+$MESS["CRM_TAB_ACTIVITY_CONFIG_TITLE"] = "アクティビティパラメータ";
+$MESS["CRM_TAB_ACTIVITY_CONFIG_TITLE2"] = "アクティビティの設定";
+$MESS["CRM_TAB_CONFIG"] = "Eメールの送信";
+$MESS["CRM_TAB_CONFIG_TITLE"] = "電子メール送信パラメータを構成する";
+$MESS["CRM_TAB_DEAL_CONFIG"] = "取引";
+$MESS["CRM_TAB_DEAL_CONFIG_TITLE"] = "取引パラメータ";
+$MESS["CRM_TAB_DUPLICATE_CONTROL"] = "重複の管理";
+$MESS["CRM_TAB_DUPLICATE_CONTROL_TITLE"] = "重複する制御パラメータ";
+$MESS["CRM_TAB_FORMAT"] = "フォーマット";
+$MESS["CRM_TAB_FORMAT_TITLE"] = "フォーマットのパラメータ";
+$MESS["CRM_TAB_GENERAL"] = "共通";
+$MESS["CRM_TAB_GENERAL_TITLE"] = "共通パラメータ";
+$MESS["CRM_TAB_HISTORY"] = "履歴";
+$MESS["CRM_TAB_HISTORY_TITLE"] = "会社変更ログ";
+$MESS["CRM_TAB_LIVEFEED"] = "社内掲示板";
+$MESS["CRM_TAB_LIVEFEED2"] = "社内掲示板";
+$MESS["CRM_TAB_LIVEFEED_TITLE"] = "社内掲示板の設定";
+$MESS["CRM_TAB_LIVEFEED_TITLE2"] = "社内掲示板の設定";
+$MESS["CRM_TAB_RECYCLE_BIN_CONFIG"] = "ごみ箱";
+$MESS["CRM_TAB_RECYCLE_BIN_CONFIG_TITLE"] = "ごみ箱の設定";
+$MESS["CRM_TAB_REST_2"] = "Market";
+$MESS["CRM_TAB_REST_TITLE"] = "アプリケーション設定";
+$MESS["CRM_TAB_STATUS_CONFIG"] = "ステータスとドロップダウン";
+$MESS["CRM_TAB_STATUS_CONFIG_TITLE"] = "エンティティ選択コントロール";

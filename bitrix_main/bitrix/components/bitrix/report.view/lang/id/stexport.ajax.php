@@ -1,0 +1,7 @@
+<?
+$MESS["REPORT_VIEW_STEXPORT_COMPLETED_SUMMARY1"] = "File laporan telah dibuat.";
+$MESS["REPORT_VIEW_STEXPORT_COMPLETED_SUMMARY2"] = "Rekaman diproses: #PROCESSED_ITEMS#.";
+$MESS["REPORT_VIEW_STEXPORT_DOWNLOAD"] = "Unduh file ekspor";
+$MESS["REPORT_VIEW_STEXPORT_NO_DATA"] = "Tidak ada data untuk diekspor.";
+$MESS["REPORT_VIEW_STEXPORT_PROGRESS_SUMMARY"] = "Rekaman diproses: #PROCESSED_ITEMS# dari #TOTAL_ITEMS#.";
+?>

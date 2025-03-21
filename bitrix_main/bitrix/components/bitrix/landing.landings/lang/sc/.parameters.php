@@ -1,0 +1,3 @@
+<?php
+$MESS["LANDING_CMP_PAR_LANDING_TYPE"] = "站点类型";
+$MESS["LANDING_CMP_PAR_PAGE_URL_FOLDER_EDIT"] = "文件夹编辑页面";

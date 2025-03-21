@@ -1,0 +1,35 @@
+<?
+$MESS["FORUM_MAIN_WAIT"] = "Lütfen bekle...";
+$MESS["F_ANCHOR"] = "Bu gönderiye bağla";
+$MESS["F_ATTACH_FILES"] = "Ekli Dosyalar";
+$MESS["F_AUTHOR_PROFILE"] = "Mesaj Yazar Profili";
+$MESS["F_BAD_NEW_TOPIC"] = "Başlık seçilmedi. Geregli bir başlık konumlandırmak için &laquo;<b>...</b>&raquo; 'a tıkla.";
+$MESS["F_BAD_TOPIC"] = "Başlık bulunamadı.";
+$MESS["F_BUTTON_MOVE"] = "Taşı";
+$MESS["F_DATE_REGISTER"] = "Kayıt Tarihi:";
+$MESS["F_DELETE"] = "Sil";
+$MESS["F_DELETE_MESSAGES_CONFIRM"] = "Bu işlem, mesajları geri dönüşü olmayacak şekilde silecek. Devam edilsin mi?";
+$MESS["F_EDIT"] = "Değiştir";
+$MESS["F_EDIT_HEAD"] = "Düzenlendi:";
+$MESS["F_EMAIL_TITLE"] = "E-posta gönder";
+$MESS["F_HEAD_TO_EXIST_TOPIC"] = "mevcut konu";
+$MESS["F_HEAD_TO_NEW_TOPIC"] = "yeni bir başlık";
+$MESS["F_HIDE"] = "Gizle";
+$MESS["F_MOVE_TO"] = "Şuraya Taşı: ";
+$MESS["F_NUM_MESS"] = "Toplam Mesaj:";
+$MESS["F_POINTS"] = "Puanlar:";
+$MESS["F_PRIVATE_MESSAGE"] = "MESAJ";
+$MESS["F_PRIVATE_MESSAGE_TITLE"] = "Özel mesaj gönder";
+$MESS["F_REAL_IP"] = "/ gerçek";
+$MESS["F_SHOW"] = "Göster";
+$MESS["F_TITLE"] = "Gönderileri taşo";
+$MESS["F_TITLE_ON_FORUM"] = "forumda";
+$MESS["F_TOPIC_DESCR"] = "Başlık Açıklaması";
+$MESS["F_TOPIC_ID"] = "Başlık Kimliği";
+$MESS["F_TOPIC_NAME"] = "Başlık konusu";
+$MESS["F_TOPIC_NOT_FOUND"] = "başlık bulunamadı";
+$MESS["F_TOPIC_SEARCH_TITLE"] = "Başlık kimliğini gir ya da istenilen başlığa göz atmak için &laquo;...&raquo; tıkla.";
+$MESS["F_TOPIC_TAGS"] = "Etiketler";
+$MESS["F_USER_ID"] = "Kimlik Konuğu";
+$MESS["F_USER_ID_USER"] = "Kimlik Kullanıcısı";
+?>

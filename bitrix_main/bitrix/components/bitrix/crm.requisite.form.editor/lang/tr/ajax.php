@@ -1,0 +1,7 @@
+<?
+$MESS["CRM_REQUISITE_FORM_EDITOR_AJAX_ERROR_EMPTY_ACTION"] = "Eylem seçilmedi";
+$MESS["CRM_REQUISITE_FORM_EDITOR_AJAX_ERROR_REQUIRED_PARAMETER"] = "#PARAM# parametresi gerekli ancak yok";
+$MESS["CRM_REQUISITE_FORM_EDITOR_AJAX_ERROR_REQUISITE_DELETE"] = "Kişi ya da firma ayrıntıları silinemedi (ID = #ID#)";
+$MESS["CRM_REQUISITE_FORM_EDITOR_AJAX_ERROR_REQUISITE_NOT_FOUND"] = "Kişi ya da firma ayrıntıları bulunamadı (ID = #ID#)";
+$MESS["CRM_REQUISITE_FORM_EDITOR_AJAX_ERROR_UNKNOWN_ACTION"] = "Bilinmeyen eylem: #ACTION#.";
+?>

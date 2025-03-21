@@ -1,0 +1,26 @@
+<?php
+$MESS["VI_BACKUP_LINE_LABEL"] = "Şuradan gelen aramaları yedek numaraya yönlendir:";
+$MESS["VI_BACKUP_LINE_SAVE"] = "Kaydet";
+$MESS["VI_BACKUP_LINE_TITLE"] = "Yedek telefon numarası";
+$MESS["VI_BACKUP_NUMBER"] = "Aramayı yönlendir:";
+$MESS["VI_BACKUP_NUMBER_LABEL"] = "Bitrix24 hesabınız herhangi bir nedenden dolayı kullanılamıyorsa aramanın yönlendirileceği numarayı belirtin";
+$MESS["VI_COMBINATIONS_SAVE"] = "Kaydet";
+$MESS["VI_COMBINATIONS_TITLE"] = "Alan kodları";
+$MESS["VI_COMBINATION_INTERCEPT_GROUP"] = "Kuyruk grubundan arama yakalama:";
+$MESS["VI_CRM_INTEGRATION_SAVE"] = "Kaydet";
+$MESS["VI_CRM_INTEGRATION_TITLE"] = "CRM Entegrasyonu";
+$MESS["VI_CRM_INTEGRATION_WORKFLOW_EXECUTION_TITLE"] = "Yeni müşteri adayı oluşturma iş akışını başlat:";
+$MESS["VI_INTERFACE_CHAT_ADD"] = "Her arama için ayrı bir sohbet oluştur";
+$MESS["VI_INTERFACE_CHAT_APPEND"] = "Tüm aramalar için tek bir sohbet oluştur";
+$MESS["VI_INTERFACE_CHAT_NONE"] = "Messenger'daki telefon görüşmelerini görüntüleme";
+$MESS["VI_INTERFACE_CHAT_TITLE"] = "Messenger'daki telefon görüşmelerini görüntüle: ";
+$MESS["VI_INTERFACE_SAVE"] = "Kaydet";
+$MESS["VI_INTERFACE_TITLE"] = "Arama arayüzünü yapılandır";
+$MESS["VI_NUMBERS_APPLY"] = "Uygula";
+$MESS["VI_NUMBERS_CANCEL"] = "İptal";
+$MESS["VI_NUMBERS_CONFIG"] = "Yapılandır";
+$MESS["VI_NUMBERS_CONFIG_BACKPHONE"] = "Giden aramalar için varsayılan numara";
+$MESS["VI_NUMBERS_CONFIG_BACKPHONE_TITLE"] = "Karşı taraf, Bitrix24'ü kullanarak kendisini aradığınız zaman bu numarayı görecek";
+$MESS["VI_NUMBERS_EDIT"] = "Düzenle";
+$MESS["VI_NUMBERS_SAVE"] = "Kaydet";
+$MESS["VI_NUMBERS_TITLE_2"] = "Varsayılan numaraları yapılandır";

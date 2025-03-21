@@ -1,0 +1,17 @@
+<?
+$MESS["SONET_ACTIVITY_T_ALL"] = "tất cả";
+$MESS["SONET_ACTIVITY_T_BLOG"] = "blog/báo cáo";
+$MESS["SONET_ACTIVITY_T_CALENDAR"] = "lịch";
+$MESS["SONET_ACTIVITY_T_FILES"] = "các tập tin";
+$MESS["SONET_ACTIVITY_T_FORUM"] = "diễn đàn/thảo luận";
+$MESS["SONET_ACTIVITY_T_GROUP_TITLE"] = "Nhóm #NAME#";
+$MESS["SONET_ACTIVITY_T_NO_UPDATES"] = "Không có cập nhật nào cả";
+$MESS["SONET_ACTIVITY_T_PHOTO"] = "hình";
+$MESS["SONET_ACTIVITY_T_SWITCH1"] = "Ẩn";
+$MESS["SONET_ACTIVITY_T_SWITCH2"] = "Chi tiết";
+$MESS["SONET_ACTIVITY_T_SYSTEM"] = "hệ thống";
+$MESS["SONET_ACTIVITY_T_SYSTEM_FRIENDS"] = "bạn bè";
+$MESS["SONET_ACTIVITY_T_SYSTEM_GROUPS"] = "các nhóm";
+$MESS["SONET_ACTIVITY_T_TASKS"] = "tác vụ";
+$MESS["SONET_ACTIVITY_T_USER_TITLE1"] = "Người dùng";
+?>

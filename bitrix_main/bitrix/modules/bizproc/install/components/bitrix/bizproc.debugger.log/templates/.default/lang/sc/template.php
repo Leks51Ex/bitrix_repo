@@ -1,0 +1,2 @@
+<?php
+$MESS["BIZPROC_TMP_DEBUGGER_LOG_NO_LOG"] = "测试日志缺失";

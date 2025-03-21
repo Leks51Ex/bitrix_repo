@@ -1,0 +1,31 @@
+<?
+$MESS["BB_BLOG_TITLE"] = "談話";
+$MESS["BLOG_BLOG_BLOG_MES_DELED"] = "已成功刪除郵件";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_ERROR"] = "刪除郵件時，發生錯誤";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_NO_RIGHTS"] = "您的權限不足，無法刪除本郵件";
+$MESS["BLOG_BLOG_BLOG_MES_HIDE_ERROR"] = "隱藏文章時，發生錯誤";
+$MESS["BLOG_BLOG_BLOG_MES_HIDE_NO_RIGHTS"] = "您沒有隱藏本文章的權限";
+$MESS["BLOG_BLOG_SESSID_WRONG"] = "您的工作階段已經到期。請重試。";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "未安裝部落格模組。";
+$MESS["BLOG_SONET_MODULE_NOT_AVAIBLE"] = "本使用者無法使用部落格。";
+$MESS["B_B_MES_FR_ONLY"] = "您的權限不足，無法檢視本郵件。";
+$MESS["B_B_MES_NAME_TEMPLATE_DEFAULT"] = "#NOBR##NAME# #LAST_NAME##/NOBR#";
+$MESS["B_B_MES_NO_BLOG"] = "未找到部落格";
+$MESS["B_B_MES_NO_MES"] = "未找到郵件";
+$MESS["B_B_MES_NO_POST"] = "未找到文章。";
+$MESS["B_B_MES_NO_RIGHTS"] = "權限不足，無法檢視郵件";
+$MESS["B_B_MES_REQUEST_ADDED"] = "部落格作者已經將您的要求列入考量";
+$MESS["B_B_MES_REQUEST_ALREADY"] = "您的要求已經被部落格作者擱置";
+$MESS["B_B_MES_REQUEST_AUTH"] = "提交應用程式之前，請予以授權";
+$MESS["B_B_MES_REQUEST_ERROR"] = "新增要求時，發生錯誤";
+$MESS["B_B_MES_U_AUTH"] = "請授權以便提交檢視文章的要求。";
+$MESS["B_B_MES_U_CAN"] = "您可以套用";
+$MESS["B_B_MES_U_CAN1"] = "至部落格作者";
+$MESS["B_B_MES_U_CAN2"] = "，在閱讀他（她）的郵件時。";
+$MESS["B_B_SHARE"] = "共用對象： ";
+$MESS["B_B_SHARE_1"] = "共用對象： ";
+$MESS["B_B_SHARE_ALL"] = "全體員工";
+$MESS["B_B_SHARE_ALL_BUS"] = "所有使用者";
+$MESS["MICROBLOG_SONET_MODULE_NOT_AVAIBLE"] = "本使用者無法使用微型部落格。";
+$MESS["SBP_SHARE_PREMODERATION"] = "您不能新增收件人，因為所選的群組是預先審核的。";
+?>

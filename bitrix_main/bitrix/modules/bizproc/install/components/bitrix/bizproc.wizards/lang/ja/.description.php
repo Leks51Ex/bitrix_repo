@@ -1,0 +1,5 @@
+<?
+$MESS["BPWC_COMPONENT_NAME"] = "業務プロセス";
+$MESS["BPWC_COMPONENT_NAME_DESCRIPTION"] = "業務プロセス";
+$MESS["BPWC_GROUP"] = "業務プロセス";
+?>

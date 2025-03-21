@@ -1,0 +1,19 @@
+<?
+$MESS["CRM_ACT_CUST_TYPE_BUTTON_CANCEL"] = "キャンセル";
+$MESS["CRM_ACT_CUST_TYPE_BUTTON_SAVE"] = "保存";
+$MESS["CRM_ACT_CUST_TYPE_DEFAULT_NAME"] = "新しい活動タイプ";
+$MESS["CRM_ACT_CUST_TYPE_DELETE"] = "削除";
+$MESS["CRM_ACT_CUST_TYPE_DELETE_CONFIRM"] = "「#NAME#」を削除してもよろしいですか?";
+$MESS["CRM_ACT_CUST_TYPE_DELETE_TITLE"] = "パイプラインを削除する";
+$MESS["CRM_ACT_CUST_TYPE_EDIT"] = "編集";
+$MESS["CRM_ACT_CUST_TYPE_EDIT_TITLE"] = "アクティビティタイプを編集";
+$MESS["CRM_ACT_CUST_TYPE_ERROR_TITLE"] = "エラーを保存する";
+$MESS["CRM_ACT_CUST_TYPE_FIELD_NAME"] = "名前";
+$MESS["CRM_ACT_CUST_TYPE_FIELD_NAME_NOT_ASSIGNED_ERROR"] = "「名前」フィールドの値がありません";
+$MESS["CRM_ACT_CUST_TYPE_FIELD_SORT"] = "並べ替え";
+$MESS["CRM_ACT_CUST_TYPE_TITLE_CREATE"] = "新しいアクティビティタイプを作成する";
+$MESS["CRM_ACT_CUST_TYPE_TITLE_EDIT"] = "アクティビティタイプを編集";
+$MESS["CRM_ACT_CUST_TYPE_USER_FIELD_EDIT"] = "カスタムフィールドの編集";
+$MESS["CRM_ACT_CUST_TYPE_USER_FIELD_EDIT_TITLE"] = "このアクティビティタイプのカスタムフィールドを編集する";
+$MESS["CRM_ALL"] = "合計";
+?>

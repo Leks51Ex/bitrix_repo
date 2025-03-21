@@ -1,0 +1,3 @@
+<?
+$MESS["BIZPROC_AUTOMATION_TEMPLATE_TERMINATED"] = "狀態變更時自動完成。";
+?>

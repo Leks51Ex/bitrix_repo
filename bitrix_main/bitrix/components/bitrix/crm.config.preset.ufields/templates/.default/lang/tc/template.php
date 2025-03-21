@@ -1,0 +1,8 @@
+<?
+$MESS["CRM_ALL"] = "總計";
+$MESS["CRM_PRESET_UFIELDS_ACTION_MENU_DELETE"] = "刪除";
+$MESS["CRM_PRESET_UFIELDS_ACTION_MENU_DELETE_CONF"] = "刪除記錄？";
+$MESS["CRM_PRESET_UFIELDS_NOTE"] = "該清單包括未被任何範本使用的自訂欄位。這些欄位很可能不再需要了。刪除了一個欄位，也將不可逆地刪除與其有關的任何資料。";
+$MESS["CRM_PRESET_UFIELDS_TOOLBAR_LIST"] = "範本";
+$MESS["CRM_PRESET_UFIELDS_TOOLBAR_LIST_TITLE"] = "範本：#NAME#";
+?>

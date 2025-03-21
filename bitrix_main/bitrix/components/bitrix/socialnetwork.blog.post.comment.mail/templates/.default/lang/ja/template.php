@@ -1,0 +1,14 @@
+<?
+$MESS["BLOG_DESTINATION_ALL"] = "すべての社員宛て";
+$MESS["SBPCM_TEMPLATE_ADD_COMMENT_BUTTON"] = "コメントを追加";
+$MESS["SBPCM_TEMPLATE_ADD_COMMENT_LINK"] = "コメント";
+$MESS["SBPCM_TEMPLATE_AUTHOR_ACTION"] = "新しいコメントが追加されました";
+$MESS["SBPCM_TEMPLATE_AUTHOR_ACTION_F"] = "新しいコメントが追加されました";
+$MESS["SBPCM_TEMPLATE_AUTHOR_ACTION_M"] = "新しいコメントが追加されました";
+$MESS["SBPCM_TEMPLATE_DESCRIPTION"] = "元のメッセージの上または下のコメントをこのメールに返信してください";
+$MESS["SBPCM_TEMPLATE_FILES"] = "ファイル:";
+$MESS["SBPCM_TEMPLATE_LIKE"] = "いいね";
+$MESS["SBPCM_TEMPLATE_MORE"] = "もっと見る";
+$MESS["SBPCM_TEMPLATE_MORE_COMMENTS"] = "前のコメントを表示する(#NUM#)";
+$MESS["SBPCM_TEMPLATE_REPLY"] = "返信";
+?>

@@ -1,0 +1,21 @@
+<?php
+$MESS["LANDING_TPL_ACCEPT"] = "Kullanım Koşulları'nı kabul ediyorum";
+$MESS["LANDING_TPL_ACCEPTED"] = "Şartları zaten kabul ettiniz";
+$MESS["LANDING_TPL_ADD_PAGE"] = "Yeni Sayfa";
+$MESS["LANDING_TPL_ADD_SITE"] = "Site Oluştur";
+$MESS["LANDING_TPL_ADD_SITE_2"] = "Oluştur";
+$MESS["LANDING_TPL_ADD_SITE_KNOWLEDGE"] = "Bilgi tabanı oluştur";
+$MESS["LANDING_TPL_ADD_SITE_PAGE"] = "Site Oluştur";
+$MESS["LANDING_TPL_ADD_SITE_STORE"] = "E-Mağaza oluştur";
+$MESS["LANDING_TPL_DEV_SITE"] = "Geliştirme web sitesi oluşturun";
+$MESS["LANDING_TPL_FOLDER_EDIT"] = "Klasör ayarları";
+$MESS["LANDING_TPL_JS_PAY_TARIFF"] = "Ticari plana geç";
+$MESS["LANDING_TPL_JS_PAY_TARIFF_TITLE"] = "Plan kısıtlamaları";
+$MESS["LANDING_TPL_MENU_AGREEMENT"] = "Kullanım Şartları";
+$MESS["LANDING_TPL_MENU_FORMS"] = "CRM formları";
+$MESS["LANDING_TPL_MENU_MARKETING"] = "Pazarlama";
+$MESS["LANDING_TPL_MENU_RIGHTS"] = "Erişim İzinleri";
+$MESS["LANDING_TPL_MENU_SITES"] = "Siteler";
+$MESS["LANDING_TPL_MENU_SITES_KNOWLEDGE"] = "Bilgi tabanları";
+$MESS["LANDING_TPL_MENU_TRACKING"] = "Satış Zekası";
+$MESS["LANDING_TPL_SETTING"] = "Ayarlar";

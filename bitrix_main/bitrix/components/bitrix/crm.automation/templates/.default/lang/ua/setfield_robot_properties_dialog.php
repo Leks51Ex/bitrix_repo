@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_AUTOMATION_SFA_FIELDS_LIST"] = "Додати умову";
+$MESS["CRM_AUTOMATION_SFA_DELETE"] = "Видалити";
+$MESS["CRM_AUTOMATION_SFA_NOT_SELECTED"] = "не вибрано";
+?>

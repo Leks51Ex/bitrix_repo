@@ -1,0 +1,7 @@
+<?
+$MESS["TASKS_EMP_CURRENT_COUNT"] = "已选定";
+$MESS["TASKS_EMP_HEAD"] = "部长";
+$MESS["TASKS_LAST_SELECTED"] = "最近任务";
+$MESS["TASKS_USER_SEARCH"] = "搜索";
+$MESS["TASKS_USER_STRUCTURE"] = "从架构中选择";
+?>

@@ -1,0 +1,14 @@
+<?php
+$MESS["BPMC_PD_ACTIVITY_RESULTS"] = "附加结果";
+$MESS["BPMC_PD_ADD"] = "添加条件";
+$MESS["BPMC_PD_AND"] = "AND";
+$MESS["BPMC_PD_CONDITION"] = "条件";
+$MESS["BPMC_PD_CONSTANTS"] = "常数";
+$MESS["BPMC_PD_DELETE"] = "删除";
+$MESS["BPMC_PD_DOCUMENT_FIELDS"] = "元素字段";
+$MESS["BPMC_PD_FIELD"] = "来源";
+$MESS["BPMC_PD_FIELD_CHOOSE"] = "选择";
+$MESS["BPMC_PD_OR"] = "OR";
+$MESS["BPMC_PD_PARAMS"] = "参数";
+$MESS["BPMC_PD_VALUE"] = "值";
+$MESS["BPMC_PD_VARS"] = "变量";

@@ -1,0 +1,31 @@
+<?
+$MESS["BB_BLOG_TITLE"] = "การสนทนา";
+$MESS["BLOG_BLOG_BLOG_MES_DELED"] = "ข้อความถูกลบเรียบร้อยแล้ว";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_ERROR"] = "เกิดข้อผิดพลาดในการลบข้อความ";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_NO_RIGHTS"] = "คุณไม่มีสิทธิ์เพียงพอในการลบข้อความนี้";
+$MESS["BLOG_BLOG_BLOG_MES_HIDE_ERROR"] = "เกิดข้อผิดพลาดในการซ่อนโพสต์";
+$MESS["BLOG_BLOG_BLOG_MES_HIDE_NO_RIGHTS"] = "คุณไม่มีสิทธิ์ในการซ่อนโพสต์นี้";
+$MESS["BLOG_BLOG_SESSID_WRONG"] = "เซสชันของคุณหมดอายุแล้ว กรุณาลองอีกครั้ง";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "ไม่ได้ติดตั้งโมดูลบล็อก";
+$MESS["BLOG_SONET_MODULE_NOT_AVAIBLE"] = "บล็อกไม่สามารถใช้งานได้สำหรับผู้ใช้งานรายนี้";
+$MESS["B_B_MES_FR_ONLY"] = "คุณไม่มีสิทธิ์เพียงพอในการดูข้อความนี้";
+$MESS["B_B_MES_NAME_TEMPLATE_DEFAULT"] = "#NOBR##NAME# #LAST_NAME##/NOBR#";
+$MESS["B_B_MES_NO_BLOG"] = "ไม่พบบล็อก";
+$MESS["B_B_MES_NO_MES"] = "ไม่พบข้อความ";
+$MESS["B_B_MES_NO_POST"] = "ไม่พบโพสต์";
+$MESS["B_B_MES_NO_RIGHTS"] = "สิทธิ์ไม่เพียงพอในการดูข้อความ";
+$MESS["B_B_MES_REQUEST_ADDED"] = "คำร้องขอของคุณได้รับการรับไว้พิจารณาแล้วโดยผู้เขียนบล็อก";
+$MESS["B_B_MES_REQUEST_ALREADY"] = "คำร้องขอของคุณกำลังรอดำเนินการอยู่กับผู้เขียนบล็อก";
+$MESS["B_B_MES_REQUEST_AUTH"] = "กรุณาให้สิทธิ์ก่อนที่จะส่งแอปพลิเคชัน";
+$MESS["B_B_MES_REQUEST_ERROR"] = "เกิดข้อผิดพลาดในการเพิ่มคำร้องขอ";
+$MESS["B_B_MES_U_AUTH"] = "กรุณาให้สิทธิ์ในการส่งคำร้องขอดูโพสต์";
+$MESS["B_B_MES_U_CAN"] = "คุณสามารถสมัครได้";
+$MESS["B_B_MES_U_CAN1"] = "ถึงผู้เขียนบล็อก";
+$MESS["B_B_MES_U_CAN2"] = "เพื่ออ่านข้อความของเขา";
+$MESS["B_B_SHARE"] = "แชร์กับ: ";
+$MESS["B_B_SHARE_1"] = "แชร์กับ: ";
+$MESS["B_B_SHARE_ALL"] = "พนักงานทุกคน";
+$MESS["B_B_SHARE_ALL_BUS"] = "ผู้ใช้งานทุกคน";
+$MESS["MICROBLOG_SONET_MODULE_NOT_AVAIBLE"] = "ไมโครบล็อกไม่สามารถใช้งานได้สำหรับผู้ใช้งานรายนี้";
+$MESS["SBP_SHARE_PREMODERATION"] = "คุณไม่สามารถเพิ่มผู้รับได้ เนื่องจากกลุ่มที่เลือกไว้ได้รับการกลั่นกรองล่วงหน้าแล้ว";
+?>

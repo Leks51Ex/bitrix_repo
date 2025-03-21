@@ -1,0 +1,8 @@
+<?
+$MESS["DOCGEN_ROLE_ACTION"] = "Eylem";
+$MESS["DOCGEN_ROLE_CANCEL"] = "İptal";
+$MESS["DOCGEN_ROLE_ENTITY"] = "Giriş";
+$MESS["DOCGEN_ROLE_LABEL"] = "Rol";
+$MESS["DOCGEN_ROLE_PERMISSION"] = "İzin";
+$MESS["DOCGEN_ROLE_SAVE"] = "Kaydet";
+?>

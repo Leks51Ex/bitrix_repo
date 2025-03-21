@@ -1,0 +1,7 @@
+<?
+$MESS["UI_BUTTON_PANEL_APPLY"] = "Guna";
+$MESS["UI_BUTTON_PANEL_CANCEL"] = "Batal";
+$MESS["UI_BUTTON_PANEL_CLOSE"] = "Tutup";
+$MESS["UI_BUTTON_PANEL_REMOVE"] = "Hapus";
+$MESS["UI_BUTTON_PANEL_SAVE"] = "Simpan";
+?>

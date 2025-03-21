@@ -1,0 +1,37 @@
+<?
+$MESS["CRM_COMPANY_LINK"] = "Syarikat";
+$MESS["CRM_CONTACT_LINK"] = "Orang kenalan";
+$MESS["CRM_DEAL_CLIENT_NOT_ASSIGNED"] = "[tidak ditugaskan]";
+$MESS["CRM_DEAL_LINK"] = "Invois urusan";
+$MESS["CRM_DEAL_NOT_OPENED"] = "Melihat urusan ini ini terhad";
+$MESS["CRM_DEAL_OPENED"] = "Melihat kepada semua pengguna dibenarkan";
+$MESS["CRM_EDIT_BTN_TTL"] = "Klik untuk sunting";
+$MESS["CRM_INVOICE_CLIENT"] = "Kontraktor";
+$MESS["CRM_INVOICE_COMMENT"] = "Ulasan wakil jualan";
+$MESS["CRM_INVOICE_DATE_BILL"] = "Tarikh invois";
+$MESS["CRM_INVOICE_DATE_INSERT"] = "Dicipta pada";
+$MESS["CRM_INVOICE_DATE_PAY_BEFORE"] = "Bayar sebelum";
+$MESS["CRM_INVOICE_DATE_UPDATE"] = "Diubah suai pada";
+$MESS["CRM_INVOICE_FIELD_DATE_MARKED"] = "Tarikh pembatalan";
+$MESS["CRM_INVOICE_FIELD_PAY_VOUCHER_DATE"] = "Tarikh pembayaran";
+$MESS["CRM_INVOICE_FIELD_PAY_VOUCHER_NUM"] = "# Dokumen";
+$MESS["CRM_INVOICE_FIELD_REASON_MARKED"] = "Komen";
+$MESS["CRM_INVOICE_PRICE_SHORT"] = "Jumlah";
+$MESS["CRM_INVOICE_PUBLIC_LINK_COPY"] = "Salin";
+$MESS["CRM_INVOICE_RECUR_SHOW_TITLE"] = "Invois berulang ##ACCOUNT_NUMBER# &mdash; #ORDER_TOPIC#";
+$MESS["CRM_INVOICE_SHOW_LEGEND"] = "invois ##ACCOUNT_NUMBER#";
+$MESS["CRM_INVOICE_SHOW_TITLE"] = "Invois ##ACCOUNT_NUMBER# &mdash; #ORDER_TOPIC#";
+$MESS["CRM_INVOICE_SIDEBAR_STATUS"] = "Status";
+$MESS["CRM_INVOICE_TITLE"] = "Invois";
+$MESS["CRM_LOCK_BTN_TTL"] = "Tidak dapat sunting item ini";
+$MESS["CRM_QUOTE_LINK"] = "Sebut harga";
+$MESS["CRM_TAB_1"] = "Maklumat invois";
+$MESS["CRM_TAB_1_TITLE"] = "Parameter invois";
+$MESS["CRM_TAB_HISTORY"] = "Sejarah";
+$MESS["CRM_TAB_HISTORY_TITLE"] = "Sejarah perubahan invois";
+$MESS["CRM_TAB_PRODUCT_ROWS"] = "Produk";
+$MESS["CRM_TAB_PRODUCT_ROWS_TITLE"] = "Produk invois";
+$MESS["CRM_TAB_TREE"] = "Kebergantungan";
+$MESS["CRM_TAB_TREE_TITLE"] = "Pautan ke entiti dan item lain";
+$MESS["INVOICE_USER_DESCRIPTION"] = "Nota invois (muncul pada invois)";
+?>

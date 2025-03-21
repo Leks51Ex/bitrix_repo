@@ -1,0 +1,3 @@
+<?
+$MESS["CRM_EVENT_VIEW_ROW_COUNT"] = "Tổng: #ROW_COUNT#";
+?>

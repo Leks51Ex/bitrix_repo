@@ -1,0 +1,26 @@
+<?php
+$MESS["VI_BACKUP_LINE_LABEL"] = "從這裡的通話轉接到備用號碼";
+$MESS["VI_BACKUP_LINE_SAVE"] = "儲存";
+$MESS["VI_BACKUP_LINE_TITLE"] = "備用電話號碼";
+$MESS["VI_BACKUP_NUMBER"] = "將通話重新導向轉接到";
+$MESS["VI_BACKUP_NUMBER_LABEL"] = "如果您的 Bitrix24 帳戶出自任何原因而無法使用，請指定一個號碼以利通話重新導向";
+$MESS["VI_COMBINATIONS_SAVE"] = "儲存";
+$MESS["VI_COMBINATIONS_TITLE"] = "撥號代碼";
+$MESS["VI_COMBINATION_INTERCEPT_GROUP"] = "佇列群組內的通話攔截：";
+$MESS["VI_CRM_INTEGRATION_SAVE"] = "儲存";
+$MESS["VI_CRM_INTEGRATION_TITLE"] = "CRM 整合";
+$MESS["VI_CRM_INTEGRATION_WORKFLOW_EXECUTION_TITLE"] = "開始新的潛在客戶建立工作流程：";
+$MESS["VI_INTERFACE_CHAT_ADD"] = "為每通來電建立個別聊天室";
+$MESS["VI_INTERFACE_CHAT_APPEND"] = "為所有來電建立單獨聊天室";
+$MESS["VI_INTERFACE_CHAT_NONE"] = "不顯示 Messenger 中的電話通話";
+$MESS["VI_INTERFACE_CHAT_TITLE"] = "顯示 Messenger 中的電話通話：";
+$MESS["VI_INTERFACE_SAVE"] = "儲存";
+$MESS["VI_INTERFACE_TITLE"] = "設定通話介面";
+$MESS["VI_NUMBERS_APPLY"] = "套用";
+$MESS["VI_NUMBERS_CANCEL"] = "取消";
+$MESS["VI_NUMBERS_CONFIG"] = "設定";
+$MESS["VI_NUMBERS_CONFIG_BACKPHONE"] = "撥出電話的預設號碼";
+$MESS["VI_NUMBERS_CONFIG_BACKPHONE_TITLE"] = "當您使用 Bitrix24 撥號給對方時，對方將會看見此號碼";
+$MESS["VI_NUMBERS_EDIT"] = "編輯";
+$MESS["VI_NUMBERS_SAVE"] = "儲存";
+$MESS["VI_NUMBERS_TITLE_2"] = "設定預設號碼";

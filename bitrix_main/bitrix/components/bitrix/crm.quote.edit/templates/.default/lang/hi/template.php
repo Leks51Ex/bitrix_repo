@@ -1,0 +1,34 @@
+<?
+$MESS["CRM_QUOTE_CONV_ACCESS_DENIED"] = "आपको आगे बढ़ने के लिए डील व इनवॉइस बनाने की अनुमति की जरूरत है।";
+$MESS["CRM_QUOTE_CONV_DIALOG_CANCEL_BTN"] = "रद्द करें";
+$MESS["CRM_QUOTE_CONV_DIALOG_CONTINUE_BTN"] = "जारी रखें";
+$MESS["CRM_QUOTE_CONV_DIALOG_SYNC_ENTITY_LIST_TITLE"] = "वे एंटिटी चुनें जिनमें अतिरिक्त फ़ील्ड बनाए जाएंगे";
+$MESS["CRM_QUOTE_CONV_DIALOG_SYNC_FILED_LIST_TITLE"] = "कौन से फ़ील्ड बनाए जाएंगे";
+$MESS["CRM_QUOTE_CONV_DIALOG_SYNC_LEGEND"] = "चयनित एंटिटी में वे फ़ील्ड नहीं हैं जिनमें किसी SKU से डेटा भेजा जा सके। कृपया ऐसी एंटिटी चुनें जिनमें सभी उपलब्ध जानकारी सेव करने हेतु अतिरिक्त फ़ील्ड तैयार हो जाएँ। ";
+$MESS["CRM_QUOTE_CONV_DIALOG_TITLE"] = "कोट पर इनवॉइस बनाएँ";
+$MESS["CRM_QUOTE_CONV_GENERAL_ERROR"] = "जेनेरिक त्रुटि।";
+$MESS["CRM_QUOTE_CUSTOM_SAVE_BUTTON_TITLE"] = "सेव करें और वापस जाएँ";
+$MESS["CRM_QUOTE_DISK_ATTACHED_FILES"] = "अटैचमेंट";
+$MESS["CRM_QUOTE_DISK_ATTACH_FILE"] = "फाइलें अटैच करें";
+$MESS["CRM_QUOTE_DISK_SELECT_FILE"] = "Bitrix24 खोजें";
+$MESS["CRM_QUOTE_DISK_SELECT_FILE_LEGEND"] = "Bitrix24.Drive विंडो खोलें";
+$MESS["CRM_QUOTE_DISK_UPLOAD_FILE"] = "फाइल अपलोड करें";
+$MESS["CRM_QUOTE_DISK_UPLOAD_FILE_LEGEND"] = "अटैचमेंट यहाँ खींचें";
+$MESS["CRM_QUOTE_EDIT_BUTTON_CANCEL"] = "रद्द करें";
+$MESS["CRM_QUOTE_EDIT_BUTTON_SAVE"] = "सेव करें";
+$MESS["CRM_QUOTE_EDIT_CONV_DEAL_CATEGORY_DLG_FIELD"] = "पाइपलाइन";
+$MESS["CRM_QUOTE_EDIT_CONV_DEAL_CATEGORY_DLG_TITLE"] = "डील प्राथमिकताएँ";
+$MESS["CRM_QUOTE_SHOW_NEW_TITLE"] = "नया कोट";
+$MESS["CRM_QUOTE_SHOW_TITLE"] = "#BEGINDATE# से कोट ##QUOTE_NUMBER#";
+$MESS["CRM_QUOTE_WEBDAV_ATTACH_FILE"] = "फाइल अटैच करें";
+$MESS["CRM_QUOTE_WEBDAV_DRAG_FILE"] = "एक या अधिक फाइलों को खींचकर यहाँ छोड़ें";
+$MESS["CRM_QUOTE_WEBDAV_FILE_ACCESS_DENIED"] = "पहुँच नामंजूर।";
+$MESS["CRM_QUOTE_WEBDAV_FILE_ALREADY_EXISTS"] = "इस नाम वाली एक फाइल पहले से मौजूद है। आप अभी भी वर्तमान फोल्डर का उपयोग कर सकते हैं। इस स्थिति में डॉक्यूमेंट का मौजूदा वर्जन हिस्ट्री में सेव किया जाएगा।";
+$MESS["CRM_QUOTE_WEBDAV_FILE_LOADING"] = "लोड हो रहा है";
+$MESS["CRM_QUOTE_WEBDAV_LOAD_FILES"] = "फाइलें अपलोड करें";
+$MESS["CRM_QUOTE_WEBDAV_SELECT_FILE"] = "या अपने कंप्यूटर से कोई फाइल चुनें";
+$MESS["CRM_QUOTE_WEBDAV_SELECT_FROM_LIB"] = "लाइब्रेरी से चुनें";
+$MESS["CRM_QUOTE_WEBDAV_TITLE"] = "फाइलें";
+$MESS["CRM_TAB_1"] = "कोट";
+$MESS["CRM_TAB_1_TITLE"] = "कोट प्रॉपर्टीज";
+?>

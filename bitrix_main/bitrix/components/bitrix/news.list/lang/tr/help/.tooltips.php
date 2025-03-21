@@ -1,0 +1,38 @@
+<?
+$MESS["ACTIVE_DATE_FORMAT_TIP"] = "Burada gerekli tarih biçimini seçin. Eğer <i><b>diğer</b></i> i seçersen, <i><b>date</b></i> PHP fonksiyonu ile kendi biçimini oluşturabilirsin";
+$MESS["ADD_SECTIONS_CHAIN_TIP"] = "Seçenek aktifse ve geçerli bilgi bloğu bölümler içeriyorsa, isimleri navigasyon zincirinde gösterilir.";
+$MESS["AJAX_MODE_TIP"] = "Bileşenlerde AJAX'ı etkinleştirir.";
+$MESS["AJAX_OPTION_HISTORY_TIP"] = "Ajax geçişi için \"Geri\" ve \"İleri\" tarayıcı butonlarına izin verir.";
+$MESS["AJAX_OPTION_JUMP_TIP"] = "AJAX aktarımı bittiğinde bileşeni kaydırmayı belirtir.";
+$MESS["AJAX_OPTION_SHADOW_TIP"] = "AJAX aktarımında değiştirilebilir alanların gölgelenmesini belirtir.";
+$MESS["AJAX_OPTION_STYLE_TIP"] = "AJAX aktarımında bileşenlerin CSS stillerini indirip işlemeyi belirtir.";
+$MESS["CACHE_FILTER_TIP"] = "İşaretliyse, sistem her filtreleme sonucunu ön belleğe alacak. Eğer çok sayıda ziyaretçi aynı filtreleme ayarlarını kullanıyorsa faydalı olabilir.";
+$MESS["CACHE_TIME_TIP"] = "Önbelleğin geçerli olduğu süreyi burada belirt.";
+$MESS["CACHE_TYPE_TIP"] = "<i>Otomatik</i>: önbellek ayarlarında ön tanımı yapılmış zaman aralığı için önbellekleme geçerli;<br /><i>Önbellekle</i>: bir sonraki alanda belirtilecek zaman aralığı için daima önbellekleme yapar;<br /><i>Önbellekleme Yapma</i>: önbellekleme yapılmaz.";
+$MESS["CHECK_DATES_TIP"] = "Sadece aktif ögelerin gösterileceğini belirtir.";
+$MESS["DETAIL_URL_TIP"] = "Bir detay görüntüleme sayfasının URL'si. Örneğin: <b>news_detail.php?ID=#ELEMENT_ID#</b>";
+$MESS["DISPLAY_BOTTOM_PAGER_TIP"] = "İşaretliyse, öge navigasyon bağlantıları sayfanın altında en üstte gösterilecek.";
+$MESS["DISPLAY_PANEL_TIP"] = "İşaretliyse, editör butonları, Kontrol Paneli araç çubuğu ve bileşen araç kutusu alanlarında Site Düzenleme modunda gösterilecek.";
+$MESS["DISPLAY_TOP_PAGER_TIP"] = "İşaretliyse, öge navigasyon bağlantıları sayfada en üstte gösterilecek.";
+$MESS["FIELD_CODE_TIP"] = "Bilgi bloğununun filtre uygulanabilen zorunlu alanlarını buradan seçebilirsin. Özel alanları kod olarak aşağıdaki giriş alanlarına ekleyebilirsin.";
+$MESS["FILTER_NAME_TIP"] = "Filtre ayarlarının geçeceği bir değişkenin ismi. Varsayılan ismi kullanmak için bu alanı boş bırakabilirsin.";
+$MESS["HIDE_LINK_WHEN_NO_DETAIL_TIP"] = "Eğer öge ayrıntılarına erişilemiyorsa ya da bir kullanıcının yeterli izileri yoksa bağlantıyı gizlemeyi belirtir.";
+$MESS["IBLOCK_ID_TIP"] = "Burada mevcut bilgi bloklarından birini seç. Eğer <b><i>(diğer)</i></b> seçeneğini seçersen, yandaki alanda bilgi bloğu kimliğini belirtmen gerekir. Örnek: <b>={\$_REQUEST[\"IBLOCK_ID\"]}</b> ";
+$MESS["IBLOCK_TYPE_TIP"] = "Varolan bilgi bloğu türlerinden birini listeden seçin ve <b>Tamam</b>'a tıklayın. Bu seçili türdeki bilgi bloğunu yükleyecektir. Ancak, Bileşendeki bu parametre isteğe bağlıdır.";
+$MESS["INCLUDE_IBLOCK_INTO_CHAIN_TIP"] = "İşaretliyse, bilgi bloğu adı navigasyon zincirine eklenecek.";
+$MESS["NEWS_COUNT_TIP"] = "Her sayfadaki öge sayısını belirler.";
+$MESS["PAGER_DESC_NUMBERING_CACHE_TIME_TIP"] = "Geriye doğru gezinirken sayfalar için önbelleğe alma süresini belirler(saniye).";
+$MESS["PAGER_DESC_NUMBERING_TIP"] = "Üstte yerleştirilecek yeni unsurlar istiyorsanız bu seçeneği kullanın. Böylece, kırıntı yapısındaki son sayfa düzeltilmiş olcak. Tüm diğer sayfaları önemli ölçüde uzun bir süre için önbelleğe alınabilir.";
+$MESS["PAGER_SHOW_ALWAYS_TIP"] = "Seçili değilse, tüm ögeler bir sayfaya sığıyorsa breadcrumb navigasyon bağlantıları gösterilmeyecek. Aksi halde navigasyon bağlantıları her zaman gösterilir.";
+$MESS["PAGER_TEMPLATE_TIP"] = "Kırıntı gezinimi şablonunun ismi. Varsayılan şablonu (<b><i>.default</i></b>) kullanmak için bu alanı boş bırakabilirsin. (Sistem alternatif bir şablon sağlıyor: <i>orange</i>.)";
+$MESS["PAGER_TITLE_TIP"] = "Gezinti için bir öge ünitesinin ismi. Örneğin: sayfa, kısım vb.";
+$MESS["PARENT_SECTION_TIP"] = "Seçilen elemanları o bölüm için sınırlandırmakta kullanılabilecek üst bölüm kimliğini belirtir.";
+$MESS["PREVIEW_TRUNCATE_LEN_TIP"] = "Bilgi bloğu önizleme medyası metin ise, maksimum sembol sayısını burada belirtebilirsin. Bu sayının üzerindeki metinler kısaltılacaktır.";
+$MESS["PROPERTY_CODE_TIP"] = "Filtrede görüntülemek istediğin bilgi bloğu özelliklerini seç. Aşağıdaki alanlara kendi alanlarını da ekleyebilirsin.";
+$MESS["SET_BROWSER_TITLE_TIP"] = "Seçiliyse, bir bilgi bloğu eleman başlığı (ya da aktifse SEO başlığı) tarayıcı penceresi başlığı olarak kullanılacak.";
+$MESS["SET_TITLE_TIP"] = "Bu seçeneği işaretlemek başlığı, mevcut bilgi bloğunun adı olarak belirleyecektir.";
+$MESS["SORT_BY1_TIP"] = "Haber ögelerinin sıralandığı alanı buradan seç. <b><i>(diğer)</i></b> seçeneğini seçebilir ve yandaki alana alan kimliği belirtebilirsin.";
+$MESS["SORT_BY2_TIP"] = "Haber ögelerinin ikinci geçişte sıralandığı alanı buradan seç. <b><i>(diğer)</i></b> seçeneğini seçebilir ve yandaki alana alan kimliği belirtebilirsin.";
+$MESS["SORT_ORDER1_TIP"] = "Artarak veya azalarak";
+$MESS["SORT_ORDER2_TIP"] = "Artarak veya azalarak";
+?>

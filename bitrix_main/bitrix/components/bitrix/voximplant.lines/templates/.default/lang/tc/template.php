@@ -1,0 +1,17 @@
+<?
+$MESS["VOX_LINES_ADD_NUMBER_GROUP"] = "建立號碼池";
+$MESS["VOX_LINES_BUNDLE_WILL_BE_DELETED"] = "在 24 小時內，本搭售方案將停用。";
+$MESS["VOX_LINES_BUTTON_CANCEL"] = "取消";
+$MESS["VOX_LINES_BUTTON_CREATE"] = "建立";
+$MESS["VOX_LINES_CALLERID_DELETE_CONFIRM"] = "您是否確定要刪除號碼 #NUMBER#？";
+$MESS["VOX_LINES_CONFIRM_ACTION"] = "確認動作";
+$MESS["VOX_LINES_CONFIRM_BUNDLE_DISCONNECTION"] = "無法將一組號碼中的部分號碼單獨停用。您想要停用一組號碼中的所有號碼嗎？";
+$MESS["VOX_LINES_CREATE_NUMBER_GROUP"] = "建立號碼池";
+$MESS["VOX_LINES_ERROR"] = "錯誤";
+$MESS["VOX_LINES_NUMBER_DELETE_CONFIRM"] = "您是否確定要從您的 Bitrix24 停用號碼 #NUMBER#？";
+$MESS["VOX_LINES_NUMBER_GROUP_NAME"] = "號碼池名稱";
+$MESS["VOX_LINES_NUMBER_RENTED_IN_BUNDLE"] = "This number was rented as a bundle of #COUNT# numbers:";
+$MESS["VOX_LINES_NUMBER_WILL_BE_DELETED"] = "在 24 小時內，本號碼將停用。";
+$MESS["VOX_LINES_SELECT_UNASSIGNED_NUMBERS"] = "選擇要新增至號碼池的號碼";
+$MESS["VOX_LINES_SIP_DELETE_CONFIRM"] = "您是否確定要刪除本連線？";
+?>

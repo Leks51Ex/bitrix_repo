@@ -1,0 +1,7 @@
+<?
+$MESS["MAIN_UI_PAGINATION__ALL"] = "Tüm";
+$MESS["MAIN_UI_PAGINATION__NEXT"] = "Sonraki";
+$MESS["MAIN_UI_PAGINATION__PAGED"] = "Sayfalanmış";
+$MESS["MAIN_UI_PAGINATION__PAGES"] = "Sayfalar";
+$MESS["MAIN_UI_PAGINATION__PREV"] = "Önceki";
+?>

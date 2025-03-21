@@ -1,0 +1,36 @@
+<?
+$MESS["JS_CORE_TMP_EXPIRE"] = "未退勤";
+$MESS["JS_CORE_TMR_A"] = "変更日時：";
+$MESS["JS_CORE_TMR_APPROVE"] = "承認";
+$MESS["JS_CORE_TMR_CANCEL"] = "キャンセル";
+$MESS["JS_CORE_TMR_COMMENTS"] = "コメント";
+$MESS["JS_CORE_TMR_DEP"] = "退勤済み";
+$MESS["JS_CORE_TMR_DURATION"] = "時間";
+$MESS["JS_CORE_TMR_EDIT"] = "編集";
+$MESS["JS_CORE_TMR_FROM"] = "開始";
+$MESS["JS_CORE_TMR_NA"] = "未確認";
+$MESS["JS_CORE_TMR_PAUSE"] = "休憩";
+$MESS["JS_CORE_TMR_REPORT"] = "レポート";
+$MESS["JS_CORE_TMR_REPORT_DURATION"] = "変更理由（期間）";
+$MESS["JS_CORE_TMR_REPORT_FINISH"] = "変更理由（退勤時刻）";
+$MESS["JS_CORE_TMR_REPORT_NO"] = "指定なし";
+$MESS["JS_CORE_TMR_REPORT_ORIG"] = "元の日時：";
+$MESS["JS_CORE_TMR_REPORT_START"] = "変更理由（出勤時刻）";
+$MESS["JS_CORE_TMR_START_TITLE"] = "出勤";
+$MESS["JS_CORE_TMR_TITLE"] = "日報";
+$MESS["JS_CORE_TMR_TO"] = "終了";
+$MESS["JS_CORE_TMR_WORKTIME"] = "勤務時間";
+$MESS["TIMEMAN_BTN_CANCEL_TITLE"] = "閉じる";
+$MESS["TIMEMAN_BTN_SAVE_TITLE"] = "保存";
+$MESS["TIMEMAN_POPUP_WORK_TIME_TITLE"] = "勤務時間";
+$MESS["TM_APPROVE_FORM_ACCEPT_LABEL"] = "承認";
+$MESS["TM_RECORD_NOT_FOUND"] = "レコードが見つかりませんでした。";
+$MESS["TM_RECORD_READ_ACCESS_DENIED"] = "作業スケジュールのエントリを表示する権限がありません。";
+$MESS["TM_RECORD_REPORT_EVENTS_TITLE"] = "イベント";
+$MESS["TM_RECORD_REPORT_HINT_RECORD_IP_INFO"] = "出勤時のIPアドレス：<br><b>#IP_OPEN#</b><br>退勤時のIPアドレス：<br><b>#IP_CLOSE#</b>";
+$MESS["TM_RECORD_REPORT_HINT_RECORD_TIMEZONE_INFO"] = "従業員のタイムゾーン：<b>#TIME_OFFSET#</b><br><small>（あなたのタイムゾーン：#TIME_OFFSET_SELF#）</small>";
+$MESS["TM_RECORD_REPORT_MORE_EVENTS_TITLE"] = "その他#COUNT#件のイベント";
+$MESS["TM_RECORD_REPORT_MORE_TASKS_TITLE"] = "その他#COUNT#件のタスク";
+$MESS["TM_RECORD_REPORT_ROLL_UP_TITLE"] = "折り畳む";
+$MESS["TM_RECORD_REPORT_TASKS_TITLE"] = "タスク";
+?>

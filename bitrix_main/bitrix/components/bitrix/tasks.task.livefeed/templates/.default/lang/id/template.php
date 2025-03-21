@@ -1,0 +1,8 @@
+<?
+$MESS["TASKS_SONET_LOG_DESCRIPTION"] = "deskripsi";
+$MESS["TASKS_SONET_LOG_LABEL_TITLE"] = "Tugas";
+$MESS["TASKS_SONET_LOG_RESPONSIBLE_ID"] = "Penanggung jawab";
+$MESS["TASKS_SONET_LOG_STATUS"] = "Status";
+$MESS["TASKS_SONET_LOG_STATUS_CHANGED"] = "Status tugas diubah";
+$MESS["TASKS_SONET_LOG_TAGS"] = "Tag:";
+?>

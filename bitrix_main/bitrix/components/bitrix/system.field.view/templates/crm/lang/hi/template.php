@@ -1,0 +1,8 @@
+<?php
+$MESS["CRM_ENTITY_TYPE_COMPANY"] = "कंपनी";
+$MESS["CRM_ENTITY_TYPE_CONTACT"] = "संपर्क";
+$MESS["CRM_ENTITY_TYPE_DEAL"] = "डील";
+$MESS["CRM_ENTITY_TYPE_LEAD"] = "लीड";
+$MESS["CRM_ENTITY_TYPE_ORDER"] = "ऑर्डर";
+$MESS["CRM_SIP_MGR_MAKE_CALL"] = "कॉल";
+$MESS["CRM_SIP_MGR_UNKNOWN_RECIPIENT"] = "अनजान कॉलर";

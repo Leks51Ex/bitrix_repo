@@ -1,0 +1,18 @@
+<?
+$MESS["TASKS_ADD_SUBTASK"] = "创建子任务";
+$MESS["TASKS_ADD_TASK_TO_TIMEMAN"] = "添加到工作日计划";
+$MESS["TASKS_ADD_TASK_TO_TIMEMAN_EX"] = "添加到每日计划";
+$MESS["TASKS_COPY_TASK"] = "复制";
+$MESS["TASKS_COPY_TASK_EX"] = "重复任务";
+$MESS["TASKS_DEFER_TASK"] = "暂停";
+$MESS["TASKS_DELEGATE_TASK"] = "委托";
+$MESS["TASKS_DELETE_CONFIRM"] = "您确定要删除吗？";
+$MESS["TASKS_DELETE_TASK"] = "删除";
+$MESS["TASKS_MORE"] = "更多...";
+$MESS["TASKS_PAUSE_TASK_TIMER"] = "暂停";
+$MESS["TASKS_RENEW_TASK"] = "继续执行";
+$MESS["TASKS_START_TASK_TIMER"] = "开始时间追踪";
+$MESS["TASKS_TASK_CONFIRM_START_TIMER"] = "已经在对 \"{{TITLE}}\" 使用时间追踪。此任务将被暂停。继续?";
+$MESS["TASKS_TASK_CONFIRM_START_TIMER_TITLE"] = "目前正在对另一项任务进行时间追踪。";
+$MESS["TASKS_UNKNOWN"] = "未知";
+?>

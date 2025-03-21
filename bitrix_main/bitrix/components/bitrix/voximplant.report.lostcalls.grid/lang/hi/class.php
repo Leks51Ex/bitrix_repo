@@ -1,0 +1,2 @@
+<?php
+$MESS["TELEPHONY_REPORT_LOST_CALLS_DATE"] = "तारीख";

@@ -1,0 +1,6 @@
+<?
+$MESS["CP_CATALOG_STORE_CS_DESCRIPTION"] = "Depoları gösterir";
+$MESS["CP_CATALOG_STORE_CS_NAME"] = "Depo Listesi";
+$MESS["CP_CATALOG_STORE_MAIN_SECTION"] = "e-Mağaza";
+$MESS["CP_CATALOG_STORE_STORE_SECTION"] = "Depo Listesi";
+?>

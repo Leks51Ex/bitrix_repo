@@ -1,0 +1,9 @@
+<?
+$MESS["CATEGORY_NAME"] = "类别";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "未安装信息块模块。";
+$MESS["IBLOCK_NOT_ASSIGNED"] = "未选择信息块。";
+$MESS["SOCNET_MODULE_NOT_INSTALLED"] = "未安装社交网络模块。";
+$MESS["WIKI_ACCESS_DENIED"] = "访问被拒绝。";
+$MESS["WIKI_DEFAULT_PAGE_NAME"] = "索引页";
+$MESS["WIKI_MODULE_NOT_INSTALLED"] = "未安装 Wiki 模块。";
+?>

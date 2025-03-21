@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_INVOICE_LIST_SWITCHER_RECUR"] = "Berulang-ulang";
+$MESS["CRM_INVOICE_LIST_SWITCHER_STANDART"] = "Piawai";
+?>

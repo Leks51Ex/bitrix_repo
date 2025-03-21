@@ -1,0 +1,19 @@
+<?php
+$MESS["MD_COMPONENT_CALLTRACKER"] = "コールトラッカー";
+$MESS["MD_COMPONENT_IM_OPENLINES"] = "オープンチャネル";
+$MESS["MD_COMPONENT_IM_RECENT"] = "チャット";
+$MESS["MD_COMPONENT_MORE"] = "メニュー";
+$MESS["MD_COMPONENT_NOTIFY"] = "通知";
+$MESS["MD_COMPONENT_TASKS_LIST"] = "タスク";
+$MESS["MD_DISK_TABLE_FOLDERS_FILES"] = "フォルダ: #FOLDERS#  ファイル:#FILES#";
+$MESS["MD_EMPLOYEES_ALL"] = "すべての社員宛て";
+$MESS["MD_EMPLOYEES_TITLE"] = "従業員";
+$MESS["MD_EXTRANET"] = "エクストラネット";
+$MESS["MD_GENERATE_BY_MOBILE"] = "アプリケーションによって生成される";
+$MESS["MD_GROUPS_TITLE"] = "業務グループ";
+$MESS["MD_MOBILE_APPLICATION"] = "モバイルアプリ";
+$MESS["TASKS_ROLE_ACCOMPLICE"] = "支援中";
+$MESS["TASKS_ROLE_AUDITOR"] = "フォロー中";
+$MESS["TASKS_ROLE_ORIGINATOR"] = "自分が設定";
+$MESS["TASKS_ROLE_RESPONSIBLE"] = "進行中";
+$MESS["TASKS_ROLE_VIEW_ALL"] = "すべてのタスク";

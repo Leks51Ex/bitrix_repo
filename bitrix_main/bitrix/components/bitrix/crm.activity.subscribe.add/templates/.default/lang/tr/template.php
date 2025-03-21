@@ -1,0 +1,12 @@
+<?
+$MESS["CRM_NEW_TITLE"] = "Mesaj Gönder";
+$MESS["CRM_SUBSCRIBE_ADD_BUTTON"] = "Gönder";
+$MESS["CRM_SUBSCRIBE_ADD_FILE"] = "Dosya Ekle";
+$MESS["CRM_SUBSCRIBE_ADD_TITLE"] = "Mesaj Gönder";
+$MESS["CRM_SUBSCRIBE_FROM"] = "Kimden";
+$MESS["CRM_SUBSCRIBE_SUBJECT"] = "Başlık";
+$MESS["CRM_SUBSCRIBE_TITLE"] = "Konu";
+$MESS["CRM_SUBSCRIBE_TO"] = "Şuna";
+$MESS["CRM_SUBSCRIBE_TO_HIDE"] = "Gizle";
+$MESS["CRM_SUBSCRIBE_TO_SHOW"] = "Göster";
+?>

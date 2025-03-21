@@ -1,0 +1,28 @@
+<?
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_ADD"] = "रिमाइंडर सेट करें";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_ADD_ALT"] = "जोड़ें";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_ADD_REMARK"] = "इन्सटेंट मैसेंजर या ई-मेल के माध्यम से";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_DAYS"] = "दिन";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_DELETE"] = "डिलीट करें";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_HOURS"] = "घंटे";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_NO_DEADLINE"] = "डेडलाइन रिमाइंडर सेट करने के लिए, डेडलाइन निर्दिष्ट करें।";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_RECEPIENT_TYPE_O"] = "निर्माता को";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_RECEPIENT_TYPE_O_EX"] = "संदेश वर्तमान निर्माता को भेजा जाएगा";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_RECEPIENT_TYPE_R"] = "जिम्मेदार व्यक्ति को";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_RECEPIENT_TYPE_R_EX"] = "संदेश मौजूदा जिम्मेदार व्यक्ति को भेजा जाएगा";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_RECEPIENT_TYPE_S"] = "खुद को";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_RECEPIENT_TYPE_S_EX"] = "संदेश वर्तमान उपयोगकर्ता को भेजा जाएगा";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_REMIND_BY"] = "रिमाइंडर हेतु";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_TO_CREATOR"] = "निर्माता को";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_TO_RESPONSIBLE"] = "जिम्मेदार व्यक्ति को";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_TO_SELF"] = "खुद को";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_TRANSPORT_E"] = "ईमेल के माध्यम से";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_TRANSPORT_E_EX"] = "ई-मेल संदेश भेजें";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_TRANSPORT_J"] = "इन्सटेंट मैसेंजर के माध्यम से";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_TRANSPORT_J_EX"] = "त्वरित संदेश भेजें";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_TYPE_A"] = "तारीख";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_TYPE_A_EX"] = "संदेश एक विशेष तारीख को भेजा जाएगा";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_TYPE_D"] = "डेडलाइन";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_TYPE_D_EX"] = "संदेश डेडलाइन से पहले किसी निर्दिष्ट समय पर भेजा जाएगा";
+$MESS["TASKS_TTDP_TEMPLATE_REMINDER_UPDATE"] = "अपडेट";
+?>

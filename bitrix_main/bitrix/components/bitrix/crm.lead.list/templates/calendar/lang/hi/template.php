@@ -1,0 +1,3 @@
+<?
+$MESS["CRM_LEAD_LIST_FILTER_NAV_BUTTON_CALENDAR"] = "कैलेंडर";
+?>

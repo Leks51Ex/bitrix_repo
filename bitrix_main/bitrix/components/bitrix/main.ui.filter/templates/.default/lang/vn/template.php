@@ -1,0 +1,27 @@
+<?php
+$MESS["MAIN_UI_FILTER__ADDITIONAL_FILTER_PLACEHOLDER_HOW"] = "Trường này hoạt động thế nào?";
+$MESS["MAIN_UI_FILTER__ADD_FIELD"] = "Thêm trường";
+$MESS["MAIN_UI_FILTER__ADD_FILTER"] = "Lưu bộ lọc";
+$MESS["MAIN_UI_FILTER__BUTTON_CANCEL"] = "Hủy bỏ";
+$MESS["MAIN_UI_FILTER__BUTTON_SAVE"] = "Lưu";
+$MESS["MAIN_UI_FILTER__CONFIRM_APPLY_FOR_ALL_CHECKBOX"] = "Áp dụng cho tất cả người dùng";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_APPLY"] = "Tiếp tục";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_CANCEL"] = "Hủy bỏ";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_MESSAGE"] = "Việc này sẽ khôi phục các bộ lọc thiết lập sẵn, nhưng giữ nguyên các bộ lọc của bạn.";
+$MESS["MAIN_UI_FILTER__DRAG_TITLE"] = "Kéo để sắp xếp danh sách bộ lọc";
+$MESS["MAIN_UI_FILTER__EDIT_PRESET_TITLE"] = "Chỉnh sửa tên bộ lọc";
+$MESS["MAIN_UI_FILTER__FILTER"] = "Bộ lọc";
+$MESS["MAIN_UI_FILTER__FILTER_NAME_PLACEHOLDER"] = "Tên Bộ lọc";
+$MESS["MAIN_UI_FILTER__FILTER_SETTINGS_TITLE"] = "Cấu hình bộ lọc";
+$MESS["MAIN_UI_FILTER__FIND"] = "Tìm kiếm";
+$MESS["MAIN_UI_FILTER__IS_SET_AS_DEFAULT_PRESET"] = "Bộ lọc mặc định";
+$MESS["MAIN_UI_FILTER__ON"] = "thông qua";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER"] = "Bộ lọc";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER_DEFAULT"] = "Lọc và tìm kiếm";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER_WITH_FILTER"] = "Tìm kiếm";
+$MESS["MAIN_UI_FILTER__REMOVE_PRESET"] = "Xóa bộ lọc";
+$MESS["MAIN_UI_FILTER__RESET"] = "Đặt lại";
+$MESS["MAIN_UI_FILTER__RESET_LINK"] = "Đặt lại về mặc định";
+$MESS["MAIN_UI_FILTER__RESTORE_FIELDS"] = "Khôi phục các trường mặc định";
+$MESS["MAIN_UI_FILTER__RESTORE_PRESET"] = "Khôi phục bộ lọc";
+$MESS["MAIN_UI_FILTER__SET_AS_DEFAULT_PRESET"] = "Đặt làm bộ lọc mặc định";

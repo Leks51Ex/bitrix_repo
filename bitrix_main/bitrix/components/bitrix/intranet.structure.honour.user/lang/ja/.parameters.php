@@ -1,0 +1,4 @@
+<?
+$MESS["INTR_ISHU_PARAM_ID"] = "ユーザーID";
+$MESS["INTR_ISHU_PARAM_NUM_ENTRIES"] = "レコードを表示";
+?>

@@ -1,0 +1,36 @@
+<?
+$MESS["CRM_ADS_LEADADS_AFTER_DISABLE_FACEBOOK"] = "フォームがFacebookからリンク解除されると、編集可能になります。 フォームデータはCRMに送信されません。";
+$MESS["CRM_ADS_LEADADS_AFTER_ENABLE_FACEBOOK"] = "フォームがFacebookにリンクされたら、編集することはできません。 フォームデータがCRMに送信されます。";
+$MESS["CRM_ADS_LEADADS_APPLY"] = "走る";
+$MESS["CRM_ADS_LEADADS_BUTTON_EXPORTED_SUCCESS"] = "成功";
+$MESS["CRM_ADS_LEADADS_BUTTON_EXPORT_FACEBOOK"] = "Facebookへのリンク";
+$MESS["CRM_ADS_LEADADS_BUTTON_UNLINK_FACEBOOK"] = "Facebookからのリンク解除";
+$MESS["CRM_ADS_LEADADS_CABINET_FACEBOOK"] = "Facebookページ";
+$MESS["CRM_ADS_LEADADS_CANCEL"] = "キャンセル";
+$MESS["CRM_ADS_LEADADS_CAPTION_FACEBOOK"] = "Facebook広告フォーム";
+$MESS["CRM_ADS_LEADADS_CLOSE"] = "閉じる";
+$MESS["CRM_ADS_LEADADS_ERROR_ACTION"] = "エラーが発生したため、アクションはキャンセルされました。";
+$MESS["CRM_ADS_LEADADS_ERROR_NO_ACCOUNTS_FACEBOOK"] = "Facebookページは見つかりませんでした。%name%に進み、ページを作成してください。";
+$MESS["CRM_ADS_LEADADS_FORM_ID"] = "フォームID";
+$MESS["CRM_ADS_LEADADS_FORM_NAME_FACEBOOK"] = "Facebookのフォーム名";
+$MESS["CRM_ADS_LEADADS_FORM_SUCCESS_URL"] = "フォームの提出後にリダイレクトするURL";
+$MESS["CRM_ADS_LEADADS_GROUP_DO_AUTH_HINT_VKONTAKTE"] = "接続できるグループは1つだけです。";
+$MESS["CRM_ADS_LEADADS_GROUP_DO_AUTH_VKONTAKTE"] = "グループを接続";
+$MESS["CRM_ADS_LEADADS_GROUP_IS_AUTH_HINT_VKONTAKTE"] = "グループを変更するには、現在接続されているグループを切断してください。リンクされているすべてのフォームも切断されます。";
+$MESS["CRM_ADS_LEADADS_GROUP_IS_AUTH_VKONTAKTE"] = "グループを切断";
+$MESS["CRM_ADS_LEADADS_IS_LINKED"] = "リンクされた";
+$MESS["CRM_ADS_LEADADS_LINKS_ITEM_FACEBOOK"] = "ページ \"%account%\"の \"%name%\"";
+$MESS["CRM_ADS_LEADADS_LINKS_ITEM_VKONTAKTE"] = "グループ \"%account%\"の \"%name%\"";
+$MESS["CRM_ADS_LEADADS_LINKS_TITLE"] = "フォーム \"%name%\"はすでに追加されています";
+$MESS["CRM_ADS_LEADADS_LIST"] = "リスト";
+$MESS["CRM_ADS_LEADADS_LOCALE"] = "フォームの言語";
+$MESS["CRM_ADS_LEADADS_LOCALE_AUTO"] = "現在の言語";
+$MESS["CRM_ADS_LEADADS_LOGIN"] = "接続する";
+$MESS["CRM_ADS_LEADADS_LOGOUT"] = "切断";
+$MESS["CRM_ADS_LEADADS_MORE"] = "詳細";
+$MESS["CRM_ADS_LEADADS_NOW"] = "今すぐリンク";
+$MESS["CRM_ADS_LEADADS_REFRESH"] = "更新";
+$MESS["CRM_ADS_LEADADS_REFRESH_TEXT"] = "利用可能な環境設定を更新します。";
+$MESS["CRM_ADS_LEADADS_SELECT_ACCOUNT_FACEBOOK"] = "Facebookページのフォームを追加";
+$MESS["CRM_ADS_LEADADS_TITLE_FACEBOOK"] = "Bitrix4で追加したフォームをFacebook広告で表示できます。";
+?>

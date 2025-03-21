@@ -1,0 +1,17 @@
+<?php
+$MESS["CRM_COLUMN_ORDER_CHECK_DATE_CREATE"] = "Dibuat pada";
+$MESS["CRM_COLUMN_ORDER_CHECK_ID"] = "ID";
+$MESS["CRM_COLUMN_ORDER_CHECK_LINK"] = "Tautan tanda terima";
+$MESS["CRM_COLUMN_ORDER_CHECK_ORDER_ID"] = "ID Order";
+$MESS["CRM_COLUMN_ORDER_CHECK_PAYMENT_DESCR"] = "Pembayaran";
+$MESS["CRM_COLUMN_ORDER_CHECK_PAYMENT_ID"] = "ID Pembayaran";
+$MESS["CRM_COLUMN_ORDER_CHECK_SHIPMENT_DESCR"] = "Pengiriman";
+$MESS["CRM_COLUMN_ORDER_CHECK_SHIPMENT_ID"] = "ID Pengiriman";
+$MESS["CRM_COLUMN_ORDER_CHECK_STATUS"] = "Status tanda terima";
+$MESS["CRM_COLUMN_ORDER_CHECK_SUM"] = "Jumlah tanda terima";
+$MESS["CRM_COLUMN_ORDER_CHECK_TITLE"] = "Dokumen pembayaran";
+$MESS["CRM_COLUMN_ORDER_CHECK_TYPE"] = "Jenis tanda terima";
+$MESS["CRM_ERROR_WRONG_ORDER"] = "Order tidak ditemukan";
+$MESS["CRM_ERROR_WRONG_ORDER_ID"] = "ID order tidak valid";
+$MESS["CRM_ORDER_CHECK_LIST_TITLE"] = "Tanda terima pembayaran untuk ##ACCOUNT_NUMBER# of #DATE_BILL# (#PAY_SYSTEM_NAME#)";
+$MESS["CRM_PERMISSION_DENIED"] = "Akses ditolak";

@@ -1,0 +1,3 @@
+<?
+$MESS["SALESCENTER_ORDERS_TITLE"] = "顧客の注文";
+?>

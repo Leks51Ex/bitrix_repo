@@ -1,0 +1,8 @@
+<?php
+$MESS["CRM_COLUMN_DEAL_CATEGORY_CREATED_DATE"] = "Oluşturulma tarihi:";
+$MESS["CRM_COLUMN_DEAL_CATEGORY_ID"] = "ID";
+$MESS["CRM_COLUMN_DEAL_CATEGORY_NAME"] = "Ad";
+$MESS["CRM_COLUMN_DEAL_CATEGORY_SORT"] = "Sırala";
+$MESS["CRM_DEAL_CATEGORY_DEFAULT_NAME"] = "Yeni satış kanalı";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM modülü kurulu değil.";
+$MESS["CRM_PERMISSION_DENIED"] = "Erişim reddedildi";

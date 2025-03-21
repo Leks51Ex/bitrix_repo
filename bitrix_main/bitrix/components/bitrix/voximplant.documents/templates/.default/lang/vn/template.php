@@ -1,0 +1,21 @@
+<?php
+$MESS["VI_DOCS_BODY"] = "Tại một số quốc gia, luật pháp yêu cầu nhà cung cấp dịch vụ telephony phải xác minh trạng thái cư trú của bạn để cấp số điện thoại thuê.<br>Bạn có thể cần nộp tài liệu liên quan để thuê một số điện thoại trong toàn bộ thời gian thuê.";
+$MESS["VI_DOCS_BODY_2"] = "Tại một số quốc gia, luật pháp yêu cầu công ty viễn thông phải có tài liệu pháp lý từ bạn trước khi bạn có thể sử dụng số đã thuê.<br>Đây là một yêu cầu nếu bạn muốn giữ lại và sử dụng các số này trong thời gian thuê. Bạn sẽ không thể sử dụng các số điện thoại này cho đến khi đã tải lên tài liệu cần thiết và được phê duyệt.";
+$MESS["VI_DOCS_COUNTRY_RU"] = "Nga";
+$MESS["VI_DOCS_SERVICE_ERROR"] = "Lỗi gửi yêu cầu đến dịch vụ tải lên tài liệu";
+$MESS["VI_DOCS_SERVICE_UPLOAD"] = "Tải lên";
+$MESS["VI_DOCS_STATUS"] = "Trạng thái:";
+$MESS["VI_DOCS_TABLE_COMMENT"] = "Bình luận";
+$MESS["VI_DOCS_TABLE_LINK"] = "Lịch sử tải lên tài liệu";
+$MESS["VI_DOCS_TABLE_OWNER"] = "Chủ sở hữu";
+$MESS["VI_DOCS_TABLE_STATUS"] = "Kiểm tra trạng thái";
+$MESS["VI_DOCS_TABLE_TYPE"] = "Thực thể pháp lý";
+$MESS["VI_DOCS_TABLE_UPLOAD"] = "Ngày tải lên";
+$MESS["VI_DOCS_TITLE"] = "Tải lên tài liệu để thuê số điện thoại";
+$MESS["VI_DOCS_UNTIL_DATE"] = "Bạn phải tải lên tài liệu muộn nhất là ngày #DATE#";
+$MESS["VI_DOCS_UNTIL_DATE_NOTICE"] = "Sau ngày quy định, số được bảo lưu sẽ bị ngắt kết nối và tiền được trả về tài khoản của bạn.<br><br>Số thuê sẽ hoạt động cho đến hết thời hạn thuê.";
+$MESS["VI_DOCS_UPDATE_BTN"] = "Tải lên tài liệu mới";
+$MESS["VI_DOCS_UPLOAD_BTN"] = "Tải lên tài liệu";
+$MESS["VI_DOCS_UPLOAD_NOTICE"] = "Vui lòng lưu ý rằng các tài liệu bạn sắp gửi đi sẽ được tải trực tiếp lên Voximplant, Inc, và được xử lý theo luật pháp của quốc gia tương ứng. Bitrix24 sẽ không thu thập, lưu trữ, hoặc xử lý bất kỳ dữ liệu nào liên quan đến các tài liệu này.";
+$MESS["VI_DOCS_UPLOAD_WHILE_RENT"] = "Nếu tài liệu của bạn cần được xác minh để thuê một số điện thoại, giao diện người dùng thuê số sẽ hiển thị biểu mẫu tải lên tài liệu";
+$MESS["VI_DOCS_WAIT"] = "Đang tải lên... Vui lòng chờ";

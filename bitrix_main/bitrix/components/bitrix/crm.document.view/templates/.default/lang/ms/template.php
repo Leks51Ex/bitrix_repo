@@ -1,0 +1,34 @@
+<?php
+$MESS["CRM_DOCUMENT_VIEW_COPY_PUBLIC_URL_MESSAGE"] = "Pautan awam telah disalin ke Papan Keratan";
+$MESS["CRM_DOCUMENT_VIEW_CREATE_OR_EDIT_MY_COMPANY_REQUISITES"] = "<a href=\"#URL#\" target=\"_blank\" class=\"docs-preview-details-link\">Beri atau sunting</a>
+<span class=\"docs-preview-details-text\">butiran syarikat saya</span>";
+$MESS["CRM_DOCUMENT_VIEW_DOWNLOAD_IN"] = "Muat turun sebagai:";
+$MESS["CRM_DOCUMENT_VIEW_EDIT_DOCUMENT"] = "Sunting Dokumen";
+$MESS["CRM_DOCUMENT_VIEW_EDIT_TEMPLATE"] = "Sunting Templat";
+$MESS["CRM_DOCUMENT_VIEW_FEEDBACK"] = "Maklum balas";
+$MESS["CRM_DOCUMENT_VIEW_NO_AVAILABLE_FILES"] = "Tiada fail untuk dihantar yang tersedia";
+$MESS["CRM_DOCUMENT_VIEW_PAYMENT_BUTTON"] = "Terima bayaran";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_GENERATION_MESSAGE"] = "Menjana dokumen";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_MESSAGE_PREPARE"] = "Pratonton PDF dicipta";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_MESSAGE_READY"] = "Anda boleh memuat turun dokumen sebagai fail DOCX sekarang atau hantar pautan kepada pelanggan";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_READY_MESSAGE"] = "Kini, dokumen ini boleh didapati dalam format DOCX. Anda boleh mendapatkan pautan dokumen, muat turunnya atau mengirimnya kepada pelanggan anda.";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_TIME_MESSAGE"] = "Imej dokumen dan versi PDF akan mengambil kira-kira 20 saat";
+$MESS["CRM_DOCUMENT_VIEW_PUBLIC_LINK"] = "Pautan awam";
+$MESS["CRM_DOCUMENT_VIEW_PUBLIC_ON"] = "Hidupkan";
+$MESS["CRM_DOCUMENT_VIEW_PUBLIC_URL_VIEWED_TIME"] = "Pelanggan mengklik pautan awam di <span>#TIME#</span>";
+$MESS["CRM_DOCUMENT_VIEW_QR"] = "Kod QR pembayaran";
+$MESS["CRM_DOCUMENT_VIEW_REQUISITES_MY_COMPANY_TITLE"] = "Butiran syarikat saya";
+$MESS["CRM_DOCUMENT_VIEW_SEND"] = "Hantar";
+$MESS["CRM_DOCUMENT_VIEW_SEND_EMAIL"] = "melalui e-mel";
+$MESS["CRM_DOCUMENT_VIEW_SEND_SMS"] = "melalui sms";
+$MESS["CRM_DOCUMENT_VIEW_SHOW_FULL_DOCUMENT"] = "Tunjukkan dokumen penuh";
+$MESS["CRM_DOCUMENT_VIEW_SIGNED"] = "dengan tandatangan dan cap";
+$MESS["CRM_DOCUMENT_VIEW_SIGN_AND_STAMP"] = "Cap dan tandatangan";
+$MESS["CRM_DOCUMENT_VIEW_SIGN_BUTTON"] = "Tandatangan";
+$MESS["CRM_DOCUMENT_VIEW_SIGN_CLICKED"] = "Anda sudah mula menandatangani dokumen.";
+$MESS["CRM_DOCUMENT_VIEW_SMS_PUBLIC_URL_NECESSARY"] = "Pautan awam diperlukan untuk menghantar SMS";
+$MESS["CRM_DOCUMENT_VIEW_TRANSFORMATION_NO_PDF_ERROR"] = "Tidak dapat mencari versi PDF dokumen. Fail mungkin tidak berjaya ditukar.";
+$MESS["CRM_DOCUMENT_VIEW_TRANSFORMATION_PROGRESS"] = "Sila tunggu sehingga pertukaran selesai";
+$MESS["CRM_DOCUMENT_VIEW_TRANSFORM_ERROR"] = "Tidak boleh menghasilkan fail PDF untuk dokumen itu.";
+$MESS["CRM_DOCUMENT_VIEW_TRY_AGAIN"] = "Cuba lagi";
+$MESS["CRM_DOCUMENT_VIEW_TRY_LATER"] = "Sila cuba lagi kemudian.";

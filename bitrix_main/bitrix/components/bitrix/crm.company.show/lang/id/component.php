@@ -1,0 +1,23 @@
+<?php
+$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "Modul Proses Bisnis belum diinstal.";
+$MESS["CRM_FIELD_ADDRESS"] = "Alamat";
+$MESS["CRM_FIELD_ASSIGNED_BY_ID"] = "Bertanggung jawab";
+$MESS["CRM_FIELD_COMMENTS"] = "Komentar";
+$MESS["CRM_FIELD_COMPANY_CONTACTS"] = "Kontak";
+$MESS["CRM_FIELD_CREATED_BY_ID"] = "Dibuat oleh";
+$MESS["CRM_FIELD_CURRENCY_ID"] = "Mata Uang";
+$MESS["CRM_FIELD_EMAIL"] = "E-mail";
+$MESS["CRM_FIELD_ENTITY_TREE"] = "Dependensi";
+$MESS["CRM_FIELD_FIND"] = "Cari";
+$MESS["CRM_FIELD_LOGO"] = "Logo";
+$MESS["CRM_FIELD_MODIFY_BY_ID"] = "Dimodifikasi oleh";
+$MESS["CRM_FIELD_PHONE"] = "Telepon";
+$MESS["CRM_FIELD_TITLE"] = "Nama Perusahaan";
+$MESS["CRM_FIELD_UTM"] = "Parameter UTM";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Modul CRM belum diinstal.";
+$MESS["CRM_PERMISSION_DENIED"] = "Akses ditolak";
+$MESS["CRM_SECTION_ACTIVITIES"] = "Aktivitas";
+$MESS["CRM_SECTION_ADDITIONAL"] = "Selengkapnya";
+$MESS["CRM_SECTION_CONTACTS"] = "Kontak";
+$MESS["CRM_SECTION_DEALS"] = "Transaksi";
+$MESS["CRM_SECTION_LEADS"] = "Prospek";

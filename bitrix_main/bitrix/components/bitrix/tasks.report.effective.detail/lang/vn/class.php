@@ -1,0 +1,9 @@
+<?
+$MESS["TASKS_COLUMN_CREATED_DATE"] = "Ngày quá hạn";
+$MESS["TASKS_COLUMN_DEADLINE"] = "Hạn chót";
+$MESS["TASKS_COLUMN_GROUP"] = "Nhóm";
+$MESS["TASKS_COLUMN_ORIGINATOR"] = "Được tạo bởi";
+$MESS["TASKS_COLUMN_REPAIR_DATE"] = "Sửa ngày";
+$MESS["TASKS_COLUMN_TASK"] = "Tác vụ";
+$MESS["TASKS_COLUMN_USER_TYPE2"] = "Vai trò";
+?>

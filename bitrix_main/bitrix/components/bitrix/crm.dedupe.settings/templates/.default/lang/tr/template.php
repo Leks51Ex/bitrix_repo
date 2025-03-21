@@ -1,0 +1,6 @@
+<?php
+$MESS["CRM_DEDUPE_WIZARD_SCANNING_CONFIG_CRITERION"] = "Karşılaştırılacak alanları seçin";
+$MESS["CRM_DEDUPE_WIZARD_SCANNING_CONFIG_SCOPE"] = "Ülke";
+$MESS["CRM_DEDUPE_WIZARD_SCANNING_CONFIG_TITLE"] = "Kopya tarama ayarları";
+$MESS["CRM_DEDUPE_WIZARD_SELECT_ALL"] = "Tümünü seç";
+$MESS["CRM_DEDUPE_WIZARD_UNSELECT_ALL"] = "Tüm seçimi kaldır";

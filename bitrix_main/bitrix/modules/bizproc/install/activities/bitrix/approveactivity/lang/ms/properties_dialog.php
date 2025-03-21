@@ -1,0 +1,33 @@
+<?
+$MESS["BPAA_PD_APPROVERS"] = "Meluluskan pengundi";
+$MESS["BPAA_PD_DESCR"] = "Huraian tugasan";
+$MESS["BPAA_PD_NAME"] = "Nama tugasan";
+$MESS["BPAA_PD_NO"] = "Tidak";
+$MESS["BPAA_PD_PERCENT"] = "Peratus minimum pengguna yang mengambil bahagian diperlukan untuk penerimaan";
+$MESS["BPAA_PD_SET_STATUS_MESSAGE"] = "Tetapkan Mesej Status";
+$MESS["BPAA_PD_STATUS_MESSAGE"] = "Teks Status";
+$MESS["BPAA_PD_STATUS_MESSAGE_HINT"] = "Makro berikut boleh didapati: #PERC# - peratus, #REV# - orang yang berkenalan sekarang, #TOT# - jumlah orang yang berkenalan.";
+$MESS["BPAA_PD_STATUS_MESSAGE_HINT1"] = "Makro berikut boleh didapati: #PERCENT# - nisbah respons, #VOTED# - bilangan respons,#TOTAL# - jumlah orang yang ditugaskan, #APPROVERS# - pengguna yang meluluskan, #REJECTERS# - pengguna yang menolak item";
+$MESS["BPAA_PD_TIMEOUT_DURATION"] = "Had masa";
+$MESS["BPAA_PD_TIMEOUT_DURATION_HINT"] = "Sekiranya unsur tidak diluluskan atau ditolak sebelum tempoh ini tamat tempoh, ia akan ditolak secara automatik. Nilai kosong atau sifar menentukan bahawa tiada tempoh dikenakan.";
+$MESS["BPAA_PD_TIMEOUT_LIMIT"] = "Masa kelulusan minimum";
+$MESS["BPAA_PD_TIME_D"] = "hari";
+$MESS["BPAA_PD_TIME_H"] = "jam";
+$MESS["BPAA_PD_TIME_M"] = "minit";
+$MESS["BPAA_PD_TIME_S"] = "saat";
+$MESS["BPAA_PD_TYPE"] = "Jenis kelulusan";
+$MESS["BPAA_PD_TYPE_ALL"] = "Semua Orang";
+$MESS["BPAA_PD_TYPE_ANY"] = "Mana-mana Orang";
+$MESS["BPAA_PD_TYPE_VOTE"] = "Undi";
+$MESS["BPAA_PD_WAIT"] = "Menunggu jawapan dari semua peserta";
+$MESS["BPAA_PD_YES"] = "Ya";
+$MESS["BPAR_PD_ACCESS_CONTROL"] = "Tunjuk huraian tugasan hanya kepada orang yang bertanggungjawab";
+$MESS["BPAR_PD_COMMENT_LABEL_MESSAGE"] = "Label medan input komen";
+$MESS["BPAR_PD_COMMENT_REQUIRED"] = "Komen diperlukan";
+$MESS["BPAR_PD_COMMENT_REQUIRED_YA"] = "Hanya apabila diluluskan";
+$MESS["BPAR_PD_COMMENT_REQUIRED_YR"] = "Hanya apabila ditolak";
+$MESS["BPAR_PD_DELEGATION_TYPE"] = "Ditugaskan kepada";
+$MESS["BPAR_PD_SHOW_COMMENT"] = "Tunjuk medan input komen";
+$MESS["BPAR_PD_TASK_BUTTON1_MESSAGE"] = "Terima teks butang";
+$MESS["BPAR_PD_TASK_BUTTON2_MESSAGE"] = "Tolak teks butang";
+?>

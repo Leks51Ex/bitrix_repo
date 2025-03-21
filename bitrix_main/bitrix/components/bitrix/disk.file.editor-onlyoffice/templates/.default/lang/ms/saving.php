@@ -1,0 +1,3 @@
+<?php
+$MESS["DISK_FILE_EDITOR_ONLYOFFICE_WAITING_NEW_VERSION_DESC"] = "Sila tunggu versi terbaru tiba";
+$MESS["DISK_FILE_EDITOR_ONLYOFFICE_WAITING_NEW_VERSION_TITLE"] = "Dokumen telah diubah suai";

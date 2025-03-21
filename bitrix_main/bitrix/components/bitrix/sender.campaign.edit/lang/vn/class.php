@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_COMP_CAMPAIGN_EDIT_TITLE_ADD"] = "Tạo Chiến dịch";
+$MESS["SENDER_COMP_CAMPAIGN_EDIT_TITLE_EDIT"] = "Chỉnh sửa Chiến dịch";
+?>

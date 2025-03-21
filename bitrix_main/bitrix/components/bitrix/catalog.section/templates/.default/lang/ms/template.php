@@ -1,0 +1,27 @@
+<?php
+$MESS["ADD_TO_BASKET_OK"] = "Barang ditambah ke kart";
+$MESS["CP_BCS_TPL_MESS_PRODUCT_NOT_AVAILABLE_SERVICE"] = "Tidak tersedia";
+$MESS["CT_BCS_CATALOG_BASKET_UNKNOWN_ERROR"] = "Ralat yang tidak diketahui menambah item ke troli membeli-belah";
+$MESS["CT_BCS_CATALOG_BTN_MESSAGE_BASKET_REDIRECT"] = "Pergi ke troli membeli-belah";
+$MESS["CT_BCS_CATALOG_BTN_MESSAGE_CLOSE"] = "Tutup";
+$MESS["CT_BCS_CATALOG_BTN_MESSAGE_CLOSE_POPUP"] = "Terus membeli-belah";
+$MESS["CT_BCS_CATALOG_BTN_MESSAGE_COMPARE_REDIRECT"] = "Bandingkan produk";
+$MESS["CT_BCS_CATALOG_BTN_MESSAGE_LAZY_LOAD_WAITER"] = "Memuat";
+$MESS["CT_BCS_CATALOG_BTN_MESSAGE_SEND_PROPS"] = "Pilih";
+$MESS["CT_BCS_CATALOG_MESS_BTN_LAZY_LOAD"] = "Tunjuk lebih lagi";
+$MESS["CT_BCS_CATALOG_MESS_COMPARE_OK"] = "Produk telah ditambah ke carta perbandingan";
+$MESS["CT_BCS_CATALOG_MESS_COMPARE_TITLE"] = "Perbandingan produk";
+$MESS["CT_BCS_CATALOG_MESS_COMPARE_UNKNOWN_ERROR"] = "Ralat menambah produk ke carta perbandingan";
+$MESS["CT_BCS_CATALOG_PRICE_TOTAL_PREFIX"] = "jumlah";
+$MESS["CT_BCS_CATALOG_RELATIVE_QUANTITY_FEW"] = "hanya tinggal beberapa sahaja";
+$MESS["CT_BCS_CATALOG_RELATIVE_QUANTITY_MANY"] = "ada dalam stok";
+$MESS["CT_BCS_CATALOG_SHOW_MAX_QUANTITY"] = "Stok";
+$MESS["CT_BCS_CATALOG_TITLE_BASKET_PROPS"] = "Sifat item untuk dihantar kepada troli membeli-belah";
+$MESS["CT_BCS_CATALOG_TITLE_ERROR"] = "Ralat";
+$MESS["CT_BCS_TPL_ELEMENT_DELETE_CONFIRM"] = "Semua maklumat yang berkaitan dengan rekod ini akan dihapuskan. Masih teruskan?";
+$MESS["CT_BCS_TPL_MESS_BTN_ADD_TO_BASKET"] = "Tambah ke kart";
+$MESS["CT_BCS_TPL_MESS_BTN_BUY"] = "Beli";
+$MESS["CT_BCS_TPL_MESS_BTN_COMPARE"] = "Bandingkan";
+$MESS["CT_BCS_TPL_MESS_BTN_DETAIL"] = "Lebih lagi";
+$MESS["CT_BCS_TPL_MESS_BTN_SUBSCRIBE"] = "Beritahu apabila ada dalam stok";
+$MESS["CT_BCS_TPL_MESS_PRODUCT_NOT_AVAILABLE"] = "tidak tersedia daripada stok";

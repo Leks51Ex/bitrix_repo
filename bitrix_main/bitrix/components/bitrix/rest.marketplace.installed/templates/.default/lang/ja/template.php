@@ -1,0 +1,22 @@
+<?php
+$MESS["MARKETPLACE_APP_BUY"] = "購入";
+$MESS["MARKETPLACE_APP_CLEAN"] = "アプリケーションの設定とデータを削除する";
+$MESS["MARKETPLACE_APP_DELETE_CONFIRM"] = "アプリケーションを削除してもよろしいですか？";
+$MESS["MARKETPLACE_APP_DELETE_ERROR"] = "エラー！アプリケーションはアンインストールされませんでした。";
+$MESS["MARKETPLACE_APP_DEMO"] = "デモ";
+$MESS["MARKETPLACE_APP_FREE"] = "無料";
+$MESS["MARKETPLACE_APP_INACTIVE"] = "削除された";
+$MESS["MARKETPLACE_APP_INSTALL"] = "インストール";
+$MESS["MARKETPLACE_APP_INSTALL_CANCEL"] = "キャンセル";
+$MESS["MARKETPLACE_APP_INSTALL_PARTNER"] = "アプリケーションはもう利用できません。非表示のアプリケーションをインストールするには、<a href=\"http://www.bitrixsoft.com/personal/b24marketplace/\">パートナーアカウント</a>を使用してください。";
+$MESS["MARKETPLACE_APP_ISTALL_ERROR"] = "エラー！アプリケーションはインストールされませんでした。";
+$MESS["MARKETPLACE_APP_POPUP_LOAD"] = "読み込み中";
+$MESS["MARKETPLACE_APP_PRICE"] = "月額 #PRICE#";
+$MESS["MARKETPLACE_APP_PROLONG"] = "更新";
+$MESS["MARKETPLACE_APP_TRIAL"] = "試してみる";
+$MESS["MARKETPLACE_APP_TRIAL_FINISH"] = "トライアル期間は#NUM#で終了します";
+$MESS["MARKETPLACE_BUYS_EMPTY"] = "アプリケーションがありません";
+$MESS["MARKETPLACE_DELETE_BUTTON"] = "削除";
+$MESS["MARKETPLACE_INSTALL_BUTTON"] = "インストール";
+$MESS["MARKETPLACE_RIGHTS"] = "アクセス許可";
+$MESS["MARKETPLACE_UPDATE_BUTTON"] = "更新";

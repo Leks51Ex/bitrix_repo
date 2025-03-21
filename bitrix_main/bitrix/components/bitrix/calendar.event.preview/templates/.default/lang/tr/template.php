@@ -1,0 +1,11 @@
+<?php
+$MESS["CALENDAR_EVENT_PREVIEW_MORE_0"] = "#COUNT# katılımcı daha";
+$MESS["CALENDAR_EVENT_PREVIEW_MORE_1"] = "#COUNT# katılımcı daha";
+$MESS["CALENDAR_EVENT_PREVIEW_MORE_2"] = "#COUNT# katılımcı daha";
+$MESS["CALENDAR_EVENT_PREVIEW_MORE_3"] = "#COUNT# katılımcı daha";
+$MESS["CALENDAR_EVENT_PREVIEW_MORE_4"] = "#COUNT# katılımcı daha";
+$MESS["CALENDAR_EVENT_PREVIEW_MORE_5"] = "#COUNT# katılımcı daha";
+$MESS["CALENDAR_EVENT_PREVIEW_MORE_6"] = "#COUNT# katılımcı daha";
+$MESS["CALENDAR_EVENT_PREVIEW_MORE_7"] = "#COUNT# katılımcı daha";
+$MESS["CALENDAR_EVENT_PREVIEW_MORE_8"] = "#COUNT# katılımcı daha";
+$MESS["CALENDAR_EVENT_PREVIEW_MORE_9"] = "#COUNT# katılımcı daha";

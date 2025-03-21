@@ -1,0 +1,8 @@
+<?
+$MESS["CRM_SL_EVENT_EDIT_BUTTON_CANCEL"] = "キャンセル";
+$MESS["CRM_SL_EVENT_EDIT_BUTTON_SAVE"] = "送信";
+$MESS["CRM_SL_EVENT_EDIT_BUTTON_TITLE_LEGEND"] = "題名";
+$MESS["CRM_SL_EVENT_EDIT_DRAG_ATTACHMENTS2"] = "ファイルをアップロードしますか?";
+$MESS["CRM_SL_EVENT_EDIT_LINK_SHOW_NEW"] = "メッセージを送信&hellip;";
+$MESS["CRM_SL_EVENT_EDIT_MPF_DESTINATION_1"] = "顧客、会社、取引、リードまたは従業員を追加する";
+?>

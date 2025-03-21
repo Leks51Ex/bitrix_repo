@@ -1,0 +1,25 @@
+<?php
+$MESS["CRM_COLUMN_ORDER_CHECK_DATE_CREATE"] = "สร้างขึ้นเมื่อ";
+$MESS["CRM_COLUMN_ORDER_CHECK_ENTITY"] = "ไอดีเอนทีตี้ (#ENTITY_NAME#)";
+$MESS["CRM_COLUMN_ORDER_CHECK_ID"] = "ไอดี";
+$MESS["CRM_COLUMN_ORDER_CHECK_LINK"] = "ลิงก์ใบเสร็จรับเงิน";
+$MESS["CRM_COLUMN_ORDER_CHECK_ORDER_ID"] = "ไอดีคำสั่งซื้อ";
+$MESS["CRM_COLUMN_ORDER_CHECK_PAYMENT_DESCR"] = "การชำระเงิน";
+$MESS["CRM_COLUMN_ORDER_CHECK_SHIPMENT_DESCR"] = "การจัดส่ง";
+$MESS["CRM_COLUMN_ORDER_CHECK_STATUS"] = "สถานะใบเสร็จรับเงิน";
+$MESS["CRM_COLUMN_ORDER_CHECK_SUM"] = "จำนวนในใบเสร็จรับเงิน";
+$MESS["CRM_COLUMN_ORDER_CHECK_TYPE"] = "ประเภทใบเสร็จรับเงิน";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล CRM";
+$MESS["CRM_ORDER_CHECK_ADD_TITLE"] = "เพิ่มใบเสร็จรับเงินใหม่";
+$MESS["CRM_ORDER_CHECK_LINK"] = "ลิงก์ใบเสร็จรับเงิน";
+$MESS["CRM_ORDER_CHECK_TITLE"] = "ใบเสร็จรับเงิน ##ID# ของวันที่ #DATE_CREATE#";
+$MESS["CRM_ORDER_COPY_PAGE_TITLE"] = "คัดลอกใบเสร็จรับเงิน";
+$MESS["CRM_ORDER_NOT_FOUND"] = "ไม่พบคำสั่งซื้อ";
+$MESS["CRM_ORDER_PAYMENT"] = "การชำระเงิน ##PAYMENT_NUMBER#: #PAYSYSTEM_NAME#";
+$MESS["CRM_ORDER_PAYMENT_TITLE"] = "การชำระเงิน ##ACCOUNT_NUMBER# ของวันที่ #DATE_BILL#";
+$MESS["CRM_ORDER_SECTION_ADDITIONAL"] = "รายละเอียดการชำระเงิน";
+$MESS["CRM_ORDER_SECTION_MAIN"] = "รายละเอียดใบเสร็จรับเงิน";
+$MESS["CRM_ORDER_SHIPMENT"] = "การจัดส่ง ##SHIPMENT_NUMBER#: #DELIVERY_SYSTEM_NAME#";
+$MESS["CRM_ORDER_SHIPMENT_TITLE"] = "การจัดส่ง ##ACCOUNT_NUMBER# ของวันที่ #DATE_INSERT#";
+$MESS["CRM_PERMISSION_DENIED"] = "ปฏิเสธการเข้าใช้";
+$MESS["CRM_SALE_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล e-Store";

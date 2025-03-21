@@ -1,0 +1,5 @@
+<?
+$MESS["SONET_GROUP_CREATE_TEMPLATE_NAME"] = "Grup Oluşturma";
+$MESS["SONET_NAME"] = "Sosyal Ağ";
+$MESS["SONET_GROUP_CREATE_TEMPLATE_DESCRIPTION"] = "Yeni grup oluşturur";
+?>

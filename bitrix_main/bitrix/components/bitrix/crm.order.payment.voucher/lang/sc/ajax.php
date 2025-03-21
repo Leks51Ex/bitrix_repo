@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_ORDER_ACCESS_DENIED"] = "访问被拒绝。";
+$MESS["CRM_ORDER_PAYMENT_NOT_FOUND"] = "找不到付款";
+?>

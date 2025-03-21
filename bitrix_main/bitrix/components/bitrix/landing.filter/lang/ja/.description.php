@@ -1,0 +1,5 @@
+<?
+$MESS["LANDING_CMP_DESCRIPTION"] = "操作ボタン付きのフィルタです。";
+$MESS["LANDING_CMP_NAME"] = "フィルタ";
+$MESS["LANDING_CMP_NAMESPACE_NAME"] = "Sites24";
+?>

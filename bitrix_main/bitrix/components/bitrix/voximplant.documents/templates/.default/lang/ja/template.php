@@ -1,0 +1,21 @@
+<?php
+$MESS["VI_DOCS_BODY"] = "一部の国では、電話会社が賃貸した電話番号を授与するために居住地を確認することが法律で要求されています <br>電話帳の期間中電話番号を借りることができるようにするには、 リース";
+$MESS["VI_DOCS_BODY_2"] = "一部の国では、レンタルした番号を使用する前に電話会社が法的文書を要求することが法律で義務付けられています。<br>これは、リース期間中に番号を維持して使用する場合の要件となっています。必要な文書がアップロードされ、承認されるまで番号を使用することはできません。";
+$MESS["VI_DOCS_COUNTRY_RU"] = "ロシア";
+$MESS["VI_DOCS_SERVICE_ERROR"] = "ドキュメントアップロードサービスへのリクエストの送信中にエラーが発生しました";
+$MESS["VI_DOCS_SERVICE_UPLOAD"] = "アップロード";
+$MESS["VI_DOCS_STATUS"] = "ステータス:";
+$MESS["VI_DOCS_TABLE_COMMENT"] = "コメント";
+$MESS["VI_DOCS_TABLE_LINK"] = "ドキュメントアップロード履歴";
+$MESS["VI_DOCS_TABLE_OWNER"] = "オーナー";
+$MESS["VI_DOCS_TABLE_STATUS"] = "状態を確認する";
+$MESS["VI_DOCS_TABLE_TYPE"] = "法人";
+$MESS["VI_DOCS_TABLE_UPLOAD"] = "アップロードされた";
+$MESS["VI_DOCS_TITLE"] = "法的文書をアップロードし、電話番号をレンタルし使用開始しましょう。";
+$MESS["VI_DOCS_UNTIL_DATE"] = "#DATE#までドキュメントをアップロードする必要があります。";
+$MESS["VI_DOCS_UNTIL_DATE_NOTICE"] = "指定された日付の後、予約番号は切り離され、資金はあなたの口座に戻されます <br> <br>賃貸された番号は、リース期間の終了時まで有効になります";
+$MESS["VI_DOCS_UPDATE_BTN"] = "新しい文書をアップロードする";
+$MESS["VI_DOCS_UPLOAD_BTN"] = "ドキュメントをアップロードする";
+$MESS["VI_DOCS_UPLOAD_NOTICE"] = "提出しようとしている書類はVoximplant, Incに直接アップロードされ、対応する国の法律に従って扱われることに注意してください  Bitrix24は、これらの文書に関連するデータを収集、保存、または処理することはありません";
+$MESS["VI_DOCS_UPLOAD_WHILE_RENT"] = "電話番号のレンタルに際してドキュメントを確認する必要がある場合は、番号レンタルのユーザーインターフェースにドキュメントのアップロードフォームが表示されます。";
+$MESS["VI_DOCS_WAIT"] = "アップロード中...しばらくお待ちください";

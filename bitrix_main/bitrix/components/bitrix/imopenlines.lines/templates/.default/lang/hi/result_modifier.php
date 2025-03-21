@@ -1,0 +1,5 @@
+<?
+$MESS["OL_COMPONENT_LIST_ACTIONS_EDIT"] = "संपादित करें";
+$MESS["OL_COMPONENT_LIST_ACTIONS_REMOVE"] = "चैनल हटाएँ";
+$MESS["OL_COMPONENT_LIST_ACTIONS_VIEW"] = "देखें";
+?>

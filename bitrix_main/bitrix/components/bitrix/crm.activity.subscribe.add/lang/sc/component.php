@@ -1,0 +1,3 @@
+<?
+$MESS["CRM_SUBSCRIBE_SUBJECT"] = "标题";
+?>

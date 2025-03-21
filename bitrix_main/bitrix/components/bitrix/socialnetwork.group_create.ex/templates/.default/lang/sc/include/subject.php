@@ -1,0 +1,3 @@
+<?php
+$MESS["SONET_GCE_T_SUBJECT"] = "组主题";
+$MESS["SONET_GCE_T_SUBJECT_PROJECT"] = "项目主题";

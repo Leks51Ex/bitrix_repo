@@ -1,0 +1,12 @@
+<?
+$MESS["FORUM_MODULE_NOT_INSTALLED"] = "未安装论坛模块。";
+$MESS["SOCNET_MODULE_NOT_INSTALLED"] = "未安装\"社交网络\"模块。";
+$MESS["TASKS_ACCESS_DENIED"] = "您没有权限查看此任务列表";
+$MESS["TASKS_ACCESS_TO_GROUP_DENIED"] = "您不能查看此组的任务列表。";
+$MESS["TASKS_MODULE_NOT_AVAILABLE_IN_THIS_EDITION"] = "任务模块在此版本中不可用。";
+$MESS["TASKS_MODULE_NOT_FOUND"] = "未安装任务模块。";
+$MESS["TASKS_TITLE_GROUP_TASKS"] = "组任务";
+$MESS["TASKS_TITLE_MY_TASKS"] = "我的任务";
+$MESS["TASKS_TITLE_TASKS"] = "任务";
+$MESS["TASKS_UNEXPECTED_ERROR"] = "未定义的错误";
+?>

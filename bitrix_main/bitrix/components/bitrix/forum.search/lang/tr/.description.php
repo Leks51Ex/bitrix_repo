@@ -1,0 +1,5 @@
+<?
+$MESS["FORUM"] = "Forum";
+$MESS["FORUM_SEARCH"] = "Ara";
+$MESS["FORUM_SEARCH_DESCRIPTION"] = "Ara";
+?>

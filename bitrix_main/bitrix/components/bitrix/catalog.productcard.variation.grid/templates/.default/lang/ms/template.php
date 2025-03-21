@@ -1,0 +1,21 @@
+<?php
+$MESS["C_PVG_ADD_NEW_PROPERTY_VALUE_BUTTON"] = "tambah nilai baru";
+$MESS["C_PVG_CREATE_VARIATION"] = "Tambah kelainan";
+$MESS["C_PVG_CREATE_VARIATION_PROPERTY"] = "Cipta ciri kelainan";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_BUTTON_CLOSE"] = "Tutup";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_BUTTON_COPY"] = "Salin produk";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_DOC_LINK_INFO"] = "Ketahui lebih lanjut";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_TEXT"] = "Cipta produk katalog baharu atau salin #COPY_BUTTON_NAME# untuk menghasilkan klon produk dan ciri-cirinya kepada kemasukan produk baharu yang mana anda akan dapat menambah kelainan kepadanya. #LINK_INFO#";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_TITLE"] = "Tidak boleh menambah kelainan kepada produk kerana ia dicipta sebagai mudah.";
+$MESS["C_PVG_STORE_ADD_NEW_BARCODE"] = "Tambah kod palang";
+$MESS["C_PVG_STORE_ADD_ONE_MORE_BARCODE"] = "Tambah lagi";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_AMOUNT"] = "Tersedia";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_EMPTY"] = "Produk ini kehabisan stok di semua gudang.";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_OPEN_SLIDER_BUTTON"] = "Lihat semua (#STORE_COUNT#)";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_QUANTITY_AVAILABLE"] = "Stok tersedia";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_QUANTITY_COMMON"] = "Baki";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_QUANTITY_COMMON1"] = "Kuantiti di gudang";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_QUANTITY_RESERVED"] = "Tempahan";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_STORE"] = "Gudang";
+$MESS["C_PVG_STORE_CREATE_BARCODE_PLACEHOLDER"] = "Masukkan kod palang baharu";
+$MESS["C_PVG_VARIATIONS_TITLE"] = "Kelainan";

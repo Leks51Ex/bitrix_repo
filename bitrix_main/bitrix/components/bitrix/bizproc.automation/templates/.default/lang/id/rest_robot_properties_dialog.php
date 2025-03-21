@@ -1,0 +1,5 @@
+<?
+$MESS["BIZPROC_AUTOMATION_ADD_MULTIPLE"] = "tambahkan";
+$MESS["BIZPROC_AUTOMATION_CONFIGURE"] = "Konfigurasikan";
+$MESS["BIZPROC_AUTOMATION_NOT_SELECTED"] = "tidak dipilih";
+?>

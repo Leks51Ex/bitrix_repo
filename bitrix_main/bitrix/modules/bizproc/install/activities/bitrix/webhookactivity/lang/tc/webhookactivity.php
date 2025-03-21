@@ -1,0 +1,6 @@
+<?
+$MESS["BPWHA_EMPTY_TEXT"] = "未指定處理常式";
+$MESS["BPWHA_HANDLER_NAME"] = "處理常式";
+$MESS["BPWHA_HANDLER_WRONG_PROTOCOL"] = "不支援處理常式 URL 通訊協定";
+$MESS["BPWHA_HANDLER_WRONG_URL"] = "處理常式 URL 不正確";
+?>

@@ -1,0 +1,37 @@
+<?
+$MESS["CRM_COMPANY_LINK"] = "บริษัท";
+$MESS["CRM_CONTACT_LINK"] = "บุคคลที่ติดต่อ";
+$MESS["CRM_DEAL_CLIENT_NOT_ASSIGNED"] = "[ไม่ได้มอบหมาย]";
+$MESS["CRM_DEAL_LINK"] = "ใบแจ้งหนี้ดีล";
+$MESS["CRM_DEAL_NOT_OPENED"] = "การดูดีลนี้มีข้อจำกัด";
+$MESS["CRM_DEAL_OPENED"] = "การดูอนุญาตให้กับผู้ใช้งานทุกคน";
+$MESS["CRM_EDIT_BTN_TTL"] = "คลิกเพื่อแก้ไข";
+$MESS["CRM_INVOICE_CLIENT"] = "ผู้ทำสัญญา";
+$MESS["CRM_INVOICE_COMMENT"] = "ความคิดเห็นของตัวแทนขาย";
+$MESS["CRM_INVOICE_DATE_BILL"] = "วันที่ใบแจ้งหนี้";
+$MESS["CRM_INVOICE_DATE_INSERT"] = "สร้างขึ้นเมื่อ";
+$MESS["CRM_INVOICE_DATE_PAY_BEFORE"] = "ชำระก่อน";
+$MESS["CRM_INVOICE_DATE_UPDATE"] = "ถูกแก้ไขเมื่อ";
+$MESS["CRM_INVOICE_FIELD_DATE_MARKED"] = "วันที่ยกเลิก";
+$MESS["CRM_INVOICE_FIELD_PAY_VOUCHER_DATE"] = "วันชำระเงิน";
+$MESS["CRM_INVOICE_FIELD_PAY_VOUCHER_NUM"] = "เอกสาร #";
+$MESS["CRM_INVOICE_FIELD_REASON_MARKED"] = "ความคิดเห็น";
+$MESS["CRM_INVOICE_PRICE_SHORT"] = "ยอดรวม";
+$MESS["CRM_INVOICE_PUBLIC_LINK_COPY"] = "คัดลอก";
+$MESS["CRM_INVOICE_RECUR_SHOW_TITLE"] = "ใบแจ้งหนี้ที่เกิดซ้ำ ##ACCOUNT_NUMBER# &mdash; #ORDER_TOPIC#";
+$MESS["CRM_INVOICE_SHOW_LEGEND"] = "ใบแจ้งหนี้ ##ACCOUNT_NUMBER#";
+$MESS["CRM_INVOICE_SHOW_TITLE"] = "ใบแจ้งหนี้ ##ACCOUNT_NUMBER# &mdash; #ORDER_TOPIC#";
+$MESS["CRM_INVOICE_SIDEBAR_STATUS"] = "สถานะ";
+$MESS["CRM_INVOICE_TITLE"] = "ใบแจ้งหนี้";
+$MESS["CRM_LOCK_BTN_TTL"] = "ไม่สามารถแก้ไขรายการนี้ได้";
+$MESS["CRM_QUOTE_LINK"] = "ใบเสนอราคา";
+$MESS["CRM_TAB_1"] = "ข้อมูลใบแจ้งหนี้";
+$MESS["CRM_TAB_1_TITLE"] = "พารามิเตอร์ใบแจ้งหนี้";
+$MESS["CRM_TAB_HISTORY"] = "ประวัติ";
+$MESS["CRM_TAB_HISTORY_TITLE"] = "ประวัติการเปลี่ยนแปลงใบแจ้งหนี้";
+$MESS["CRM_TAB_PRODUCT_ROWS"] = "ผลิตภัณฑ์";
+$MESS["CRM_TAB_PRODUCT_ROWS_TITLE"] = "ผลิตภัณฑ์ใบแจ้งหนี้";
+$MESS["CRM_TAB_TREE"] = "การพึ่งพิงกัน";
+$MESS["CRM_TAB_TREE_TITLE"] = "ลิงก์ไปยังเอนทิตี้และรายการอื่น ๆ";
+$MESS["INVOICE_USER_DESCRIPTION"] = "บันทึกใบแจ้งหนี้ (ปรากฏในใบแจ้งหนี้)";
+?>

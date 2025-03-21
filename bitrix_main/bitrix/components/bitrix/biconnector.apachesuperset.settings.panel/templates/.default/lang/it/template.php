@@ -1,0 +1,27 @@
+<?php
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_BUTTON"] = "Aggiorna ora";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_BUTTON_HINT_TIME_LEFT_PLURAL_0"] = "L'aggiornamento sarà disponibile fra #COUNT# minuto.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_BUTTON_HINT_TIME_LEFT_PLURAL_1"] = "L'aggiornamento sarà disponibile fra #COUNT# minuti.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_BUTTON_HINT_TIME_LEFT_PLURAL_2"] = "L'aggiornamento sarà disponibile fra #COUNT# minuti.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_ERROR"] = "Impossibile aggiornare i dati delle dashboard.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_HINT_LINK"] = "I dati verranno aggiornati per tutte le dashboard. Potrai aggiornarli di nuovo allo scadere del timer di blocco. #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_CLEAR_CACHE_SUCCESS"] = "Dati delle dashboard aggiornati.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_KEY_COPIED"] = "La chiave è stata copiata.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_KEY_FIELD_HINT_LINK"] = "Questa chiave consente di crittografare i dati delle dashboard che il sistema invia da Bitrix24 a Generatore BI. Aggiorna la chiave se ritieni che sia stata violata. #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_KEY_FIELD_REFRESH_BUTTON"] = "Aggiorna";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_KEY_FIELD_REFRESH_BUTTON_MSGVER_1"] = "Aggiorna chiave";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_RANGE_FIELD_HINT"] = "Questo intervallo di date verrà utilizzato per tutte le dashboard senza un intervallo di date personalizzato. #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_RANGE_FIELD_HINT_LINK"] = "Scopri di più";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_RANGE_FROM_TITLE"] = "Data di inizio";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_RANGE_INCLUDE_LAST_DATE"] = "Inclusa";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_COMMON_RANGE_TO_TITLE"] = "Data di fine";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_DASHBOARD_HINT_LINK"] = "Scopri di più";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_DASHBOARD_RANGE_FIELD_HINT"] = "Il nuovo intervallo di date verrà applicato solamente a questa dashboard.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_DELETE_SUPERSET_FIELD_DELETE_BUTTON"] = "Disabilita";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_DELETE_SUPERSET_FIELD_HINT"] = "Le dashboard, i dataset e le impostazioni andranno irrevocabilmente perse se disabiliti Generatore BI. Dovrai configurare di nuovo l'ambiente di Generatore BI. #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_KEY_UPDATE_FAILED"] = "Errore durante l'aggiornamento della chiave.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_KEY_UPDATE_SUCCESS"] = "La chiave è stata generata.";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_NEW_DASHBOARD_NOTIFICATION_HINT_LINK"] = "Seleziona i dipendenti che riceveranno le notifiche quando è disponibile un aggiornamento o una nuova dashboard. #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_OWNER_HINT_LINK"] = "Il proprietario ha l'accesso completo alla dashboard. Cambiando il proprietario, potresti perdere l'accesso alla dashboard. #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_PARAMS_HINT_LINK"] = "La disponibilità di un parametro dipende dall'ambito selezionato. Se l'ambito non viene selezionato, l'unico parametro disponibile sarà \"ID utente\". #HINT_LINK#";
+$MESS["BICONNECTOR_SUPERSET_SETTINGS_SCOPE_HINT_LINK"] = "La dashboard sarà presente nelle aree selezionate di Bitrix24. #HINT_LINK#";

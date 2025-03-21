@@ -1,0 +1,4 @@
+<?
+$MESS["INTRANET_USER_PROFILE_SECURITY_URL"] = "2段階認証を有効にするURL";
+$MESS["INTRANET_USER_PROFILE_URL"] = "ユーザープロフィールのパス";
+?>

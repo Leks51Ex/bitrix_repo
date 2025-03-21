@@ -1,0 +1,8 @@
+<?
+$MESS["CP_BCCL_TPL_PARAM_POSITION_BOTTOM_LEFT"] = "dưới cùng bên trái";
+$MESS["CP_BCCL_TPL_PARAM_POSITION_BOTTOM_RIGHT"] = "dưới bên phải";
+$MESS["CP_BCCL_TPL_PARAM_POSITION_TOP_LEFT"] = "trên bên trái";
+$MESS["CP_BCCL_TPL_PARAM_POSITION_TOP_RIGHT"] = "trên bên phải";
+$MESS["CP_BCCL_TPL_PARAM_TITLE_POSITION"] = "Vị trí";
+$MESS["CP_BCCL_TPL_PARAM_TITLE_POSITION_FIXED"] = "Float biểu đồ so sánh trên trang";
+?>

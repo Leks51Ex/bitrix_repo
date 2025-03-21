@@ -1,0 +1,12 @@
+<?php
+$MESS["CATALOG_ADD"] = "添加到购物车";
+$MESS["CATALOG_BUY"] = "购买";
+$MESS["CATALOG_COMPARE"] = "对比";
+$MESS["CATALOG_NOT_AVAILABLE"] = "(无现货)";
+$MESS["CATALOG_QUANTITY"] = "数量";
+$MESS["CATALOG_QUANTITY_FROM"] = "#FROM#及更多";
+$MESS["CATALOG_QUANTITY_FROM_TO"] = "从 #FROM# 到 #TO#";
+$MESS["CATALOG_QUANTITY_TO"] = "至多#TO#";
+$MESS["CT_BCS_ELEMENT_DELETE_CONFIRM"] = "将删除与此记录相关联的所有信息。仍要继续？";
+$MESS["CT_BCS_QUANTITY"] = "数量";
+$MESS["PUB_DATE"] = "发布日期：";

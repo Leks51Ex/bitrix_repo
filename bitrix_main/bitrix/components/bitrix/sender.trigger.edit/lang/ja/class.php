@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_COMP_TRIGGER_EDIT_TITLE_ADD"] = "新規トリガーニュースレター";
+$MESS["SENDER_COMP_TRIGGER_EDIT_TITLE_EDIT"] = "トリガーニュースレターを編集";
+?>

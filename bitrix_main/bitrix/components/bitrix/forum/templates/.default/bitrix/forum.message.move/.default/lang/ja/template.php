@@ -1,0 +1,35 @@
+<?
+$MESS["FORUM_MAIN_WAIT"] = "お待ちください...";
+$MESS["F_ANCHOR"] = "この投稿へのリンク";
+$MESS["F_ATTACH_FILES"] = "添付ファイル";
+$MESS["F_AUTHOR_PROFILE"] = "送信者プロフィール";
+$MESS["F_BAD_NEW_TOPIC"] = "トピックが選択されていません  &laquo; <b>...</b>&raquo;をクリックします  必要なトピックを見つけることができます";
+$MESS["F_BAD_TOPIC"] = "トピックが見つかりません";
+$MESS["F_BUTTON_MOVE"] = "移動";
+$MESS["F_DATE_REGISTER"] = "参加者:";
+$MESS["F_DELETE"] = "削除";
+$MESS["F_DELETE_MESSAGES_CONFIRM"] = "これにより、メッセージが不可逆的に削除されます  持続する?";
+$MESS["F_EDIT"] = "変更";
+$MESS["F_EDIT_HEAD"] = "編集:";
+$MESS["F_EMAIL_TITLE"] = "電子メールメッセージを送信する";
+$MESS["F_HEAD_TO_EXIST_TOPIC"] = "既存のトピック";
+$MESS["F_HEAD_TO_NEW_TOPIC"] = "新しい話題";
+$MESS["F_HIDE"] = "非表示";
+$MESS["F_MOVE_TO"] = "へ引っ越す";
+$MESS["F_NUM_MESS"] = "投稿:";
+$MESS["F_POINTS"] = "ポイント:";
+$MESS["F_PRIVATE_MESSAGE"] = "メッセージ";
+$MESS["F_PRIVATE_MESSAGE_TITLE"] = "プライベートメッセージを送信する";
+$MESS["F_REAL_IP"] = "/実";
+$MESS["F_SHOW"] = "表示";
+$MESS["F_TITLE"] = "フォーラムのヘルプ";
+$MESS["F_TITLE_ON_FORUM"] = "フォーラムで";
+$MESS["F_TOPIC_DESCR"] = "トピックの説明";
+$MESS["F_TOPIC_ID"] = "トピックID";
+$MESS["F_TOPIC_NAME"] = "トピックの件名";
+$MESS["F_TOPIC_NOT_FOUND"] = "トピックが見つかりませんでした";
+$MESS["F_TOPIC_SEARCH_TITLE"] = "トピックIDを入力するか、&laquo;をクリックしてください &raquo; 必要なトピックを参照します";
+$MESS["F_TOPIC_TAGS"] = "タグ";
+$MESS["F_USER_ID"] = "ユーザーID";
+$MESS["F_USER_ID_USER"] = "IDユーザー";
+?>

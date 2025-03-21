@@ -1,0 +1,6 @@
+<?
+$MESS["VOXIMPLANT_PERM_ACCESS_DENIED"] = "不十分なアクセス許可";
+$MESS["VOXIMPLANT_PERM_LICENSING_ERROR"] = "お客様のライセンスでは、アクセス許可を編集できません。";
+$MESS["VOXIMPLANT_PERM_UNKNOWN_ACCESS_CODE"] = "(不明なアクセスID)";
+$MESS["VOXIMPLANT_PERM_UNKNOWN_SAVE_ERROR"] = "データの保存中にエラーが発生しました";
+?>

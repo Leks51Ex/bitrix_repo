@@ -1,0 +1,14 @@
+<?php
+$MESS["BIZPROC_RENDERED_RESULT_NO_RIGHTS_TOOLTIP"] = "Contatta il supervisore o l'amministratore dell'account Bitrix24 per visualizzare i risultati del flusso di lavoro.";
+$MESS["BIZPROC_RENDERED_RESULT_NO_RIGHTS_VIEW"] = "Autorizzazioni insufficienti per visualizzare il risultato.";
+$MESS["BIZPROC_RENDERED_RESULT_POSITIVE_RESULT_FOR"] = "Flusso di lavoro completato per #USER#.";
+$MESS["BIZPROC_RENDERED_RESULT_VALUE"] = "Risultato flusso di lavoro:";
+$MESS["BIZPROC_USER_PROCESSES_TEMPLATE_COUNTERS_COMMENT"] = "Commenti";
+$MESS["BIZPROC_USER_PROCESSES_TEMPLATE_COUNTERS_LABEL"] = "Assegnazioni:";
+$MESS["BIZPROC_USER_PROCESSES_TEMPLATE_COUNTERS_TASK"] = "In sospeso";
+$MESS["BIZPROC_USER_PROCESSES_TEMPLATE_DEFAULT_TASK_BUTTON"] = "Inizia";
+$MESS["BIZPROC_USER_PROCESSES_TEMPLATE_DESCRIPTION_MORE"] = "altro";
+$MESS["BIZPROC_USER_PROCESSES_TEMPLATE_ROW_ACTION_DOCUMENT"] = "Elemento del flusso di lavoro";
+$MESS["BIZPROC_USER_PROCESSES_TEMPLATE_ROW_ACTION_TASK"] = "Visualizza dettagli";
+$MESS["BIZPROC_USER_PROCESSES_TEMPLATE_TASKS_LABEL"] = "e altri #COUNT#";
+$MESS["BIZPROC_USER_PROCESSES_TEMPLATE_TASK_TOUCHED"] = "L'assegnazione #TASK_NAME# è stata completata";

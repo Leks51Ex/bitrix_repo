@@ -1,0 +1,19 @@
+<?
+$MESS["M_CRM_INVOICE_CONVERSION_NOTIFY"] = "Các trường bắt buộc";
+$MESS["M_CRM_INVOICE_EDIT_CANCEL_BTN"] = "Hủy bỏ";
+$MESS["M_CRM_INVOICE_EDIT_CONTINUE_BTN"] = "Tiếp tục";
+$MESS["M_CRM_INVOICE_EDIT_CONVERT_TITLE"] = "Hóa đơn";
+$MESS["M_CRM_INVOICE_EDIT_CREATE_TITLE"] = "Tạo hóa đơn";
+$MESS["M_CRM_INVOICE_EDIT_EDIT_TITLE"] = "Sửa";
+$MESS["M_CRM_INVOICE_EDIT_SAVE_BTN"] = "Lưu";
+$MESS["M_CRM_INVOICE_EDIT_VIEW_TITLE"] = "Xem hóa đơn";
+$MESS["M_CRM_INVOICE_MENU_CREATE_ON_BASE"] = "Tạo sử dụng nguồn";
+$MESS["M_CRM_INVOICE_MENU_DELETE"] = "Xoá";
+$MESS["M_CRM_INVOICE_MENU_EDIT"] = "Sửa";
+$MESS["M_CRM_INVOICE_MENU_HISTORY"] = "Lịch sử";
+$MESS["M_CRM_INVOICE_MENU_SEND_EMAIL"] = "Gửi e-mail";
+$MESS["M_CRM_INVOICE_SELECT"] = "Chọn";
+$MESS["M_DETAIL_DOWN_TEXT"] = "Nhả để làm mới ...";
+$MESS["M_DETAIL_LOAD_TEXT"] = "Đang cập nhật ...";
+$MESS["M_DETAIL_PULL_TEXT"] = "Kéo xuống để làm mới ...";
+?>

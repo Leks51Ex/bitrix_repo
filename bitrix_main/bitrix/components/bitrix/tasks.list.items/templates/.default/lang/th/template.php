@@ -1,0 +1,19 @@
+<?
+$MESS["TASKS_LIST_CRM_TYPE_C"] = "รายชื่อติดต่อ";
+$MESS["TASKS_LIST_CRM_TYPE_CO"] = "บริษัท";
+$MESS["TASKS_LIST_CRM_TYPE_D"] = "ดีล";
+$MESS["TASKS_LIST_CRM_TYPE_L"] = "ลีด";
+$MESS["TASKS_LIST_ITEMS_NO"] = "ไม่";
+$MESS["TASKS_LIST_ITEMS_PRIORITY_0"] = "ต่ำ";
+$MESS["TASKS_LIST_ITEMS_PRIORITY_1"] = "ปกติ";
+$MESS["TASKS_LIST_ITEMS_PRIORITY_2"] = "สูง";
+$MESS["TASKS_LIST_ITEMS_STATUS_1"] = "ใหม่";
+$MESS["TASKS_LIST_ITEMS_STATUS_2"] = "รอดำเนินการ";
+$MESS["TASKS_LIST_ITEMS_STATUS_3"] = "กำลังดำเนินการ";
+$MESS["TASKS_LIST_ITEMS_STATUS_4"] = "รอการตรวจสอบ";
+$MESS["TASKS_LIST_ITEMS_STATUS_5"] = "เสร็จสมบูรณ์";
+$MESS["TASKS_LIST_ITEMS_STATUS_6"] = "เลื่อนออกไป";
+$MESS["TASKS_LIST_ITEMS_STATUS_7"] = "ปฏิเสธ";
+$MESS["TASKS_LIST_ITEMS_YES"] = "ใช่";
+$MESS["TASKS_LIST_NOT_SET"] = "พนักงานใหม่";
+?>

@@ -1,0 +1,3 @@
+<?
+$MESS["MAIN_FEEDBACK_COMPONENT_NAME"] = "反馈表单";
+?>

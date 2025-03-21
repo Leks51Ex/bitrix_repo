@@ -1,0 +1,10 @@
+<?
+$MESS["CT_BCSF_DEL_FILTER"] = "Sıfırla";
+$MESS["CT_BCSF_FILTER_ALL"] = "Tüm";
+$MESS["CT_BCSF_FILTER_COUNT"] = "Seçili: #ELEMENT_COUNT#";
+$MESS["CT_BCSF_FILTER_FROM"] = "Kimden";
+$MESS["CT_BCSF_FILTER_SHOW"] = "Göster";
+$MESS["CT_BCSF_FILTER_TITLE"] = "Şununla seç:";
+$MESS["CT_BCSF_FILTER_TO"] = "Şuna";
+$MESS["CT_BCSF_SET_FILTER"] = "Göster";
+?>

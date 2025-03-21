@@ -1,0 +1,18 @@
+<?
+$MESS["LANDING_TPL_CREATE_FOLDER"] = "Buat folder";
+$MESS["LANDING_TPL_CREATE_FOLDER_ACTION"] = "Buat";
+$MESS["LANDING_TPL_FLT_CREATED_BY_ID"] = "Dibuat oleh";
+$MESS["LANDING_TPL_FLT_DATE_CREATE"] = "Dibuat pada";
+$MESS["LANDING_TPL_FLT_DATE_MODIFY"] = "Dimodifikasi pada";
+$MESS["LANDING_TPL_FLT_DELETED"] = "Di Tempat Sampah";
+$MESS["LANDING_TPL_FLT_MODIFIED_BY_ID"] = "Dimodifikasi oleh";
+$MESS["LANDING_TPL_FLT_N"] = "Tidak";
+$MESS["LANDING_TPL_FLT_STATUS"] = "Status";
+$MESS["LANDING_TPL_FLT_STATUS_ACTIVE"] = "Dipublikasikan";
+$MESS["LANDING_TPL_FLT_STATUS_ACTIVE_CHANGED"] = "Dipublikasikan, dimodifikasi";
+$MESS["LANDING_TPL_FLT_STATUS_NOT_ACTIVE"] = "Tidak dipublikasikan";
+$MESS["LANDING_TPL_FLT_Y"] = "Ya";
+$MESS["LANDING_TPL_PRS_ACTIVE"] = "Aktif";
+$MESS["LANDING_TPL_PRS_MY"] = "Saya";
+$MESS["LANDING_TPL_RECYCLE_BIN"] = "Tempat Sampah";
+?>

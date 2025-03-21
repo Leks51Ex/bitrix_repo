@@ -1,0 +1,22 @@
+<?php
+$MESS["MIB_APPLY_SETTING_MENU_ITEM"] = "Selesaikan kustomisasi";
+$MESS["MIB_CANCEL_BUTTON"] = "Batal";
+$MESS["MIB_DROPZONE_TEXT"] = "Sembunyikan item";
+$MESS["MIB_HIDDEN"] = "Tersembunyi";
+$MESS["MIB_LICENSE_BUY_BUTTON"] = "Beli";
+$MESS["MIB_LICENSE_TRIAL_BUTTON"] = "Coba secara gratis";
+$MESS["MIB_LICENSE_WINDOW_HEADER_TEXT"] = "Dapatkan akses";
+$MESS["MIB_LICENSE_WINDOW_TEXT"] = "Beli lisensi atau coba secara gratis";
+$MESS["MIB_MAIN_BUTTONS_LOADING"] = "Memuat...";
+$MESS["MIB_MAIN_BUTTONS_MORE"] = "Selengkapnya";
+$MESS["MIB_MANAGE"] = "Pengaturan";
+$MESS["MIB_NO_HIDDEN"] = "Tarik ke sini untuk menyembunyikan";
+$MESS["MIB_PIN_HINT"] = "Pindah ke menu atas";
+$MESS["MIB_RESET_ALERT"] = "Reset menu ke tampilan default?";
+$MESS["MIB_RESET_BUTTON"] = "Reset";
+$MESS["MIB_RESET_SETTINGS"] = "Menu reset";
+$MESS["MIB_SETTING_MENU_ITEM"] = "Konfigurasi menu";
+$MESS["MIB_SET_HIDE"] = "Sembunyikan";
+$MESS["MIB_SET_HOME"] = "Tetapkan sebagai beranda";
+$MESS["MIB_SET_SHOW"] = "Tunjukkan";
+$MESS["MIB_UNPIN_ITEM"] = "Pindah kembali ke \"#NAME#\"";

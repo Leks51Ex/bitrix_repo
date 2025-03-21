@@ -1,0 +1,4 @@
+<?
+$MESS["RPA_AUTOMATION_TASK_NOT_FOUND"] = "業務が見つかりませんでした";
+$MESS["RPA_AUTOMATION_TASK_TITLE"] = "業務";
+?>

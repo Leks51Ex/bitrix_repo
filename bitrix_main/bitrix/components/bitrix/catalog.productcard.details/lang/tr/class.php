@@ -1,0 +1,23 @@
+<?php
+$MESS["CPD_ACCESS_DENIED_ERROR_TITLE"] = "Ürünü görüntülemek için yeterli izin yok.";
+$MESS["CPD_ADD_PRODUCT_DENIED_ERROR_TITLE"] = "Ürün oluşturmak için izinler yetersiz.";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON"] = "Envanter nesnesi oluştur";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON_POPUP_ADJUSTMENT"] = "Stok makbuzu";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON_POPUP_DEDUCT"] = "Yazılan zarar";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON_POPUP_MOVING"] = "Aktarma";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON_POPUP_SHIPMENT"] = "Satış siparişi";
+$MESS["CPD_EDIT_PRODUCT_DENIED_ERROR_TITLE"] = "Ürün düzenlemek için izinler yetersiz.";
+$MESS["CPD_ENABLE_INVENTORY_MANAGEMENT_DENIED_ERROR_TITLE"] = "Envanter Yönetimini etkinleştirmek için yeterli izin yok.";
+$MESS["CPD_ERROR_ADD_HIGHLOAD_BLOCK"] = "Bu ada sahip bir sözlük oluşturulamadı";
+$MESS["CPD_ERROR_CATALOG_SERVICES_LIMIT_EDITION"] = "Ürün sürümünüz Hizmetler özelliğini içermiyor.";
+$MESS["CPD_ERROR_CATALOG_SERVICES_LIMIT_TARIFF"] = "<a onclick=\"#LINK#\" style=\"cursor: pointer\">Mevcut planınız</a>, hizmetleri desteklemiyor.";
+$MESS["CPD_ERROR_EMPTY_DIRECTORY_ITEMS"] = "Sözlük listesine ürünler ekleyin";
+$MESS["CPD_ERROR_EMPTY_LIST_ITEMS"] = "Liste öğesi ekle";
+$MESS["CPD_ERROR_NOT_SUPPORTED_PRODUCT_TYPE"] = "Seçtiğiniz \"#TYPE#\" ürün türü, yeni ürün formu tarafından desteklenmemektedir. Bu ürünü, Çevrimiçi Mağaza alanında görüntüleyip düzenleyebilirsiniz.<br>#LINK#";
+$MESS["CPD_ERROR_UNKNOWN_PRODUCT_TYPE"] = "Bilinmeyen ürün türü.";
+$MESS["CPD_NEW_LIST_ELEMENT_EMPTY_NAME"] = "Yeni öğe";
+$MESS["CPD_NEW_PRODUCT_TITLE"] = "Yeni ürün";
+$MESS["CPD_NEW_SERVICE_TITLE"] = "Yeni hizmet";
+$MESS["CPD_NOT_FOUND_ERROR_TITLE"] = "Ürün bulunamadı. Silinmiş olabilir.";
+$MESS["CPD_SETS_NOT_SUPPORTED_LINK"] = "Çevrimiçi Mağazaya git";
+$MESS["CPD_SETS_NOT_SUPPORTED_TITLE"] = "Seçtiğiniz Paket ürün türü, yeni ürün formu tarafından desteklenmemektedir. Setleri, Çevrimiçi Mağaza alanında görüntüleyip düzenleyebilirsiniz.<br>#LINK#";

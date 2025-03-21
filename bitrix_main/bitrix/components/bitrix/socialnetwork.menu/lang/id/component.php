@@ -1,0 +1,5 @@
+<?php
+$MESS["SONET_SM_FEATURES_FORM_CANCEL"] = "Batal";
+$MESS["SONET_SM_FEATURES_FORM_OK"] = "OKE";
+$MESS["SONET_SM_M_LOG"] = "Feed";
+$MESS["SONET_SM_M_LOG2"] = "Feed";

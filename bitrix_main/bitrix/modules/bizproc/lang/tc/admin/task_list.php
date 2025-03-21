@@ -1,0 +1,18 @@
+<?php
+$MESS["BPATL_DESCR"] = "描述";
+$MESS["BPATL_DESCR_FULL"] = "完整描述";
+$MESS["BPATL_F_MODIFIED"] = "已修改";
+$MESS["BPATL_F_NAME"] = "名稱";
+$MESS["BPATL_GROUP_ACTION_DELEGATE"] = "委派";
+$MESS["BPATL_MODIFIED"] = "已修改";
+$MESS["BPATL_NAME"] = "名稱";
+$MESS["BPATL_NAV"] = "任務";
+$MESS["BPATL_TITLE_1"] = "指派";
+$MESS["BPATL_USER"] = "使用者";
+$MESS["BPATL_USER_ID"] = "使用者 ID";
+$MESS["BPATL_USER_NOT_FOUND"] = "未找到使用者 ##USER_ID#。";
+$MESS["BPATL_VIEW"] = "檢視任務";
+$MESS["BPATL_WORKFLOW_NAME"] = "商務程序";
+$MESS["BPATL_WORKFLOW_STATE"] = "狀態";
+$MESS["MAIN_ADMIN_LIST_CHECKED"] = "已核取：";
+$MESS["MAIN_ADMIN_LIST_SELECTED"] = "已選取：";

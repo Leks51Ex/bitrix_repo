@@ -1,0 +1,35 @@
+<?
+$MESS["SALE_ADD_TO_BASKET"] = "Thêm vào giỏ hàng";
+$MESS["SALE_BASKET_ITEMS"] = "Có sẵn";
+$MESS["SALE_BASKET_ITEMS_DELAYED"] = "Lưu lại để sau này";
+$MESS["SALE_BASKET_ITEMS_NOT_AVAILABLE"] = "Không có sẵn";
+$MESS["SALE_BASKET_ITEMS_SUBSCRIBED"] = "Trở lại chứng khoán sớm";
+$MESS["SALE_CONTENT_DISCOUNT"] = "Giảm giá";
+$MESS["SALE_DELAY"] = "Hoãn lại";
+$MESS["SALE_DELAYED_TITLE"] = "Hoãn lại";
+$MESS["SALE_DELETE"] = "Xoá";
+$MESS["SALE_DISCOUNT"] = "Giảm giá";
+$MESS["SALE_ITEMS"] = "Giỏ hàng:";
+$MESS["SALE_NAME"] = "Tên";
+$MESS["SALE_NOTIFY_TITLE"] = "Bị giao trễ";
+$MESS["SALE_NO_ITEMS"] = "Hiện vẫn còn có mặt hàng trong giỏ của bạn.";
+$MESS["SALE_OR"] = "hoặc";
+$MESS["SALE_ORDER"] = "Thanh toán";
+$MESS["SALE_PRICE"] = "Giá";
+$MESS["SALE_PROPS"] = "Các thuộc tính";
+$MESS["SALE_QUANTITY"] = "Số lượng";
+$MESS["SALE_REFRESH"] = "Làm mới";
+$MESS["SALE_REFRESH_NOTIFY_DESCR"] = "Click vào nút này để loại bỏ sản phẩm.";
+$MESS["SALE_SUM"] = "Tổng cộng";
+$MESS["SALE_TOTAL"] = "Tổng:";
+$MESS["SALE_TOTAL_WEIGHT"] = "Tổng trọng lượng:";
+$MESS["SALE_TYPE"] = "Loại giá";
+$MESS["SALE_UNAVAIL_TITLE"] = "Hiện nay không có sẵn";
+$MESS["SALE_VAT"] = "Thuế:";
+$MESS["SALE_VAT_EXCLUDED"] = "Tổng tiền:";
+$MESS["SALE_VAT_INCLUDED"] = "Thuế bao gồm:";
+$MESS["SALE_WEIGHT"] = "Trọng lượng";
+$MESS["SALE_WEIGHT_G"] = "g";
+$MESS["STB_COUPON_PROMT"] = "Nếu bạn có phiếu mua hàng đặc biệt cho chiết khấu, xin vui lòng nhập vào đây:";
+$MESS["STB_ORDER_PROMT"] = "Click \"Thanh toán\" để hoàn thành đơn hàng của bạn";
+?>

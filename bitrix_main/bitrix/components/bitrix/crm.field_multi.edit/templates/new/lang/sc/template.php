@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_STATUS_LIST_ADD"] = "添加";
+$MESS["CRM_STATUS_LIST_DELETE"] = "删除";
+?>

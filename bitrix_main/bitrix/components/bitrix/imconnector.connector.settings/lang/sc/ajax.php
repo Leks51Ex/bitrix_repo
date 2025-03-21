@@ -1,0 +1,3 @@
+<?php
+$MESS["IMCONNECTOR_COMPONENT_CONNECTOR_LINE_ACTIVATION_ERROR_LIMIT"] = "您当前的计划限制了活动的 Open Channel 数量。请先停用其他任何当前活动的 Open Channel，然后打开此频道。";
+$MESS["IMCONNECTOR_COMPONENT_CONNECTOR_LINE_ACTIVATION_ERROR_PERMISSION"] = "没有足够权限来修订此 Open Channel。";

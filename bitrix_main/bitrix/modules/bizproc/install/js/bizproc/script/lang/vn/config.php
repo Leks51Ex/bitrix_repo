@@ -1,0 +1,8 @@
+<?php
+$MESS["BIZPROC_SCRIPT_MANAGER_START_BUTTON_SEND_PARAMS"] = "Gửi";
+$MESS["BIZPROC_SCRIPT_MANAGER_START_BUTTON_START"] = "Bắt đầu";
+$MESS["BIZPROC_SCRIPT_MANAGER_START_FINISHED"] = "Kịch bản đã hoàn tất";
+$MESS["BIZPROC_SCRIPT_MANAGER_START_NOTHING_SELECTED"] = "Không chọn gì";
+$MESS["BIZPROC_SCRIPT_MANAGER_START_PARAMS_POPUP_TITLE"] = "Tham số của kịch bản";
+$MESS["BIZPROC_SCRIPT_MANAGER_START_QUEUED"] = "Kịch bản được bắt đầu thành công";
+$MESS["BIZPROC_SCRIPT_MANAGER_START_TEXT_START"] = "Kịch bản sẽ được bắt đầu cho tất cả các mục đã chọn. Số mục đã chọn: #CNT#.";

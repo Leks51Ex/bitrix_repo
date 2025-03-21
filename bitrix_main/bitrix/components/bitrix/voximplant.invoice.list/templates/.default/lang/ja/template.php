@@ -1,0 +1,2 @@
+<?php
+$MESS["VOX_INVOICES_REQUEST_ORIGINAL"] = "原本をリクエスト";

@@ -1,0 +1,16 @@
+<?
+$MESS["TASKS_AUTOMATION_CMP_CHOOSE_GROUP"] = "选择...";
+$MESS["TASKS_AUTOMATION_CMP_ROBOT_HELP_TIP"] = "自动化规则是当任务被移至指定状态时自动执行的动作序列。
+这些规则能够改善业务绩效，提高员工的生产率并使得大型项目的流程简化。";
+$MESS["TASKS_AUTOMATION_CMP_SELECTOR_ITEM_PERSONAL"] = "状态";
+$MESS["TASKS_AUTOMATION_CMP_SELECTOR_ITEM_PLAN_1"] = "Planner";
+$MESS["TASKS_AUTOMATION_CMP_SELECTOR_ITEM_PROJECTS"] = "项目";
+$MESS["TASKS_AUTOMATION_CMP_TITLE_TASK_EDIT"] = "编辑所有项目任务的自动化规则";
+$MESS["TASKS_AUTOMATION_CMP_TITLE_TASK_EDIT_PLAN_1"] = "配置所有 Planner 任务的自动化规则";
+$MESS["TASKS_AUTOMATION_CMP_TITLE_TASK_EDIT_STATUSES"] = "配置您正在进行的所有任务的自动化规则";
+$MESS["TASKS_AUTOMATION_CMP_TITLE_TASK_VIEW"] = "当前任务状态：\"#TITLE#\"";
+$MESS["TASKS_AUTOMATION_CMP_TITLE_VIEW"] = "项目任务当前使用的自动化规则";
+$MESS["TASKS_AUTOMATION_CMP_TITLE_VIEW_PLAN_1"] = "当前所有 Planner 任务的自动化规则";
+$MESS["TASKS_AUTOMATION_CMP_TITLE_VIEW_STATUSES"] = "您正在进行的所有任务的当前自动化规则";
+$MESS["TASKS_AUTOMATION_CMP_TRIGGER_HELP_TIP_2"] = "触发器是指任何能够将导致任务移至指定状态的操作或情景。当发生这样的移动时，将执行自动化规则（如已指定）。";
+?>

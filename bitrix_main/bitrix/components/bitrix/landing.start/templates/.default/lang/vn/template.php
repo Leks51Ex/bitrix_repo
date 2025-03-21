@@ -1,0 +1,21 @@
+<?php
+$MESS["LANDING_TPL_ACCEPT"] = "Tôi chấp nhận các Điều khoản";
+$MESS["LANDING_TPL_ACCEPTED"] = "Bạn đã đồng ý với các Điều khoản";
+$MESS["LANDING_TPL_ADD_PAGE"] = "Trang Mới";
+$MESS["LANDING_TPL_ADD_SITE"] = "Tạo Website";
+$MESS["LANDING_TPL_ADD_SITE_2"] = "Tạo";
+$MESS["LANDING_TPL_ADD_SITE_KNOWLEDGE"] = "Tạo cơ sở tri thức";
+$MESS["LANDING_TPL_ADD_SITE_PAGE"] = "Tạo Website";
+$MESS["LANDING_TPL_ADD_SITE_STORE"] = "Tạo một cửa hàng trực tuyến";
+$MESS["LANDING_TPL_DEV_SITE"] = "Tạo website phát triển";
+$MESS["LANDING_TPL_FOLDER_EDIT"] = "Cài đặt thư mục";
+$MESS["LANDING_TPL_JS_PAY_TARIFF"] = "Chuyển sang gói thương mại";
+$MESS["LANDING_TPL_JS_PAY_TARIFF_TITLE"] = "Hạn chế của kế hoạch";
+$MESS["LANDING_TPL_MENU_AGREEMENT"] = "Điều khoản Sử dụng";
+$MESS["LANDING_TPL_MENU_FORMS"] = "Biểu mẫu CRM";
+$MESS["LANDING_TPL_MENU_MARKETING"] = "Tiếp thị";
+$MESS["LANDING_TPL_MENU_RIGHTS"] = "Quyền Truy cập";
+$MESS["LANDING_TPL_MENU_SITES"] = "Các site";
+$MESS["LANDING_TPL_MENU_SITES_KNOWLEDGE"] = "Cơ sở tri thức";
+$MESS["LANDING_TPL_MENU_TRACKING"] = "Trí tuệ Bán hàng";
+$MESS["LANDING_TPL_SETTING"] = "Cài đặt";

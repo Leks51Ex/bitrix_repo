@@ -1,0 +1,34 @@
+<?
+$MESS["F_ANCHOR"] = "Liên kết tới bài đăng này ";
+$MESS["F_ATTACH_FILES"] = "Đính kèm tập tin ";
+$MESS["F_AUTHOR_PROFILE"] = "Hồ sơ người dùng";
+$MESS["F_DATE_REGISTER"] = "Tham gia: ";
+$MESS["F_DELETE"] = "Xoá";
+$MESS["F_DELETE_CONFIRM"] = "Tin nhắn sẽ không được phục hồi khi xóa. Tiếp tục ? ";
+$MESS["F_DELETE_TOPIC"] = "Xóa chủ đề ";
+$MESS["F_DELETE_TOPIC_CONFIRM"] = "Điều này sẽ không được phục hồi khi xóa chủ đề này. Tiếp tục? ";
+$MESS["F_EDIT"] = "Chỉnh sửa";
+$MESS["F_EDIT_HEAD"] = "Chỉnh sửa: ";
+$MESS["F_EDIT_TOPIC"] = "Sửa đổi chủ đề ";
+$MESS["F_EMAIL_TITLE"] = "Gửi E-mail tin nhắn ";
+$MESS["F_GOTO"] = "Đi tới ";
+$MESS["F_HIDE"] = "Ẩn";
+$MESS["F_HIDE_TOPIC"] = "Ẩn chủ đề ";
+$MESS["F_INSERT_NAME"] = "Dán tên người dùng trong câu trả lời ";
+$MESS["F_NAME"] = "Tên";
+$MESS["F_NO_VOTE_DO"] = "Bình chọn ";
+$MESS["F_NO_VOTE_UNDO"] = "Bỏ bình chọn ";
+$MESS["F_NUM_MESS"] = "Bài đăng: ";
+$MESS["F_POINTS"] = "Điểm: ";
+$MESS["F_PRIVATE_MESSAGE"] = "Tin nhắn";
+$MESS["F_PRIVATE_MESSAGE_TITLE"] = "Gửi tin nhắn riêng ";
+$MESS["F_QUOTE"] = "Trích";
+$MESS["F_QUOTE_HINT"] = "Để trích dẫn tin nhắn trong hình thức trả lời chọn văn bản và nhấp vào đây ";
+$MESS["F_REAL_IP"] = "/ thực ";
+$MESS["F_REPLY"] = "Trả lời";
+$MESS["F_SHOW"] = "Hiển thị";
+$MESS["F_SHOW_TOPIC"] = "Hiển thị chủ đề ";
+$MESS["F_USER_ID"] = "ID guest ";
+$MESS["F_USER_ID_USER"] = "ID user ";
+$MESS["F_USER_PROFILE"] = "Hồ sơ người dùng";
+?>

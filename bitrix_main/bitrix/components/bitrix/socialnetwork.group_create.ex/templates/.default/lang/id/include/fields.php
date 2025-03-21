@@ -1,0 +1,8 @@
+<?php
+$MESS["SONET_GCE_T_PARAMETERS_TITLE"] = "Parameter grup kerja";
+$MESS["SONET_GCE_T_PARAMETERS_TITLE_PROJECT"] = "Parameter proyek";
+$MESS["SONET_GCE_T_PARAMETERS_TITLE_SCRUM"] = "Parameter tim Scrum";
+$MESS["SONET_GCE_T_SLIDE_FIELDS_SETTINGS_SWITCHER"] = "Parameter diperluas";
+$MESS["SONET_GCE_T_SLIDE_FIELDS_TITLE"] = "Tentang grup kerja";
+$MESS["SONET_GCE_T_SLIDE_FIELDS_TITLE_PROJECT"] = "Tentang proyek";
+$MESS["SONET_GCE_T_SLIDE_FIELDS_TITLE_SCRUM"] = "Tentang tim Scrum";

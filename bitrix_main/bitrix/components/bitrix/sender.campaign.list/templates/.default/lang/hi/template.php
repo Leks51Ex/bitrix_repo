@@ -1,0 +1,8 @@
+<?
+$MESS["SENDER_CAMPAIGN_LIST_BTN_ADD"] = "कैंपेन जोड़ें";
+$MESS["SENDER_CAMPAIGN_LIST_BTN_EDIT"] = "संपादित करें";
+$MESS["SENDER_CAMPAIGN_LIST_BTN_EDIT_TITLE"] = "कैंपेन संपादित करें";
+$MESS["SENDER_CAMPAIGN_LIST_BTN_REMOVE"] = "डिलीट करें";
+$MESS["SENDER_CAMPAIGN_LIST_BTN_REMOVE_TITLE"] = "कैंपेन हटाएँ";
+$MESS["SENDER_TEMPLATE_LIST_BTN_VIEW"] = "व्यू";
+?>

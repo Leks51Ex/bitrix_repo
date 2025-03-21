@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_ENTITY_ED_ADDITIONAL_FIELD_SECTION"] = "เพิ่มเติม";
+$MESS["CRM_ENTITY_ED_REQUIRED_FIELD_SECTION"] = "ฟิลด์ที่จำเป็น";
+?>

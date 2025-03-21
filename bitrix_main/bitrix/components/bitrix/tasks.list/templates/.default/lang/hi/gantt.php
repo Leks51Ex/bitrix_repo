@@ -1,0 +1,15 @@
+<?
+$MESS["TASKS_CANNOT_ADD_DEPENDENCY"] = "ये टास्क लिंक नहीं किए जा सकते";
+$MESS["TASKS_GANTT_MONTH_APR"] = "अप्रैल";
+$MESS["TASKS_GANTT_MONTH_AUG"] = "अगस्त";
+$MESS["TASKS_GANTT_MONTH_DEC"] = "दिसंबर";
+$MESS["TASKS_GANTT_MONTH_FEB"] = "फरवरी";
+$MESS["TASKS_GANTT_MONTH_JAN"] = "जनवरी";
+$MESS["TASKS_GANTT_MONTH_JUL"] = "जुलाई";
+$MESS["TASKS_GANTT_MONTH_JUN"] = "जून";
+$MESS["TASKS_GANTT_MONTH_MAR"] = "मार्च";
+$MESS["TASKS_GANTT_MONTH_MAY"] = "मई";
+$MESS["TASKS_GANTT_MONTH_NOV"] = "नवंबर";
+$MESS["TASKS_GANTT_MONTH_OCT"] = "अक्टूबर";
+$MESS["TASKS_GANTT_MONTH_SEP"] = "सितंबर";
+?>

@@ -1,0 +1,5 @@
+<?
+$MESS["LANDING_CMP_PAR_LANDING_ID"] = "ランディングID";
+$MESS["LANDING_CMP_PAR_LANDING_TYPE"] = "サイトの種類";
+$MESS["LANDING_CMP_PAR_SITE_ID"] = "WebサイトID";
+?>

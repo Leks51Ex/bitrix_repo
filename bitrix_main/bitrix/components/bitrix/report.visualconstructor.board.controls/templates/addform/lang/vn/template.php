@@ -1,0 +1,6 @@
+<?
+$MESS["ADD_TO_BOARD"] = "Thêm";
+$MESS["CREATE_REPORT_TYPE_TITLE_IN_ADD_FORM"] = "Tạo báo cáo";
+$MESS["SELECT_REPORT_CATEGORY"] = "Danh mục báo cáo";
+$MESS["SELECT_REPORT_TYPE_TITLE_IN_ADD_FORM"] = "Chọn báo cáo";
+?>

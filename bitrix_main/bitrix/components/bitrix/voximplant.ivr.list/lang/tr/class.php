@@ -1,0 +1,7 @@
+<?
+$MESS["VOX_IVR_LIST_CREATE_MENU"] = "Yeni menü";
+$MESS["VOX_IVR_LIST_DELETE"] = "Sil";
+$MESS["VOX_IVR_LIST_EDIT"] = "Düzenle";
+$MESS["VOX_IVR_LIST_ID"] = "ID";
+$MESS["VOX_IVR_LIST_NAME"] = "Ad";
+?>

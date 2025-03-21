@@ -1,0 +1,4 @@
+<?
+$MESS["IMOPENLINES_REPORT_PAGE_LIMITATION_POPUP_TEXT_1"] = "Gelişmiş Bitrix24 özelliklerine erişin";
+$MESS["IMOPENLINES_REPORT_PAGE_LIMITATION_POPUP_TEXT_2_NEW"] = "Açık kanal raporları, müşteri hizmetlerini ve müşteri deneyimini geliştirmenize yardımcı olacak şekilde tasarlanmıştır. Panellerimiz tüm önemli bilgileri tek bir yerde sunmaktadır: en verimli temsilciler, en çok talep edilen iletişim kanalları, müşterilerinizin memnuniyet dereceleri, ortalama yanıt süresi, iş gününün en yoğun zamanları vb. Ayrıca farklı rapor türlerini de seçebilirsiniz: mutlak değerler, tablolar, grafikler, histogramlar ve diğerleri.";
+?>

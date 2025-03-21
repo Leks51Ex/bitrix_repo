@@ -1,0 +1,3 @@
+<?php
+$MESS["SPG_CATALOG_MODULE_NOT_INSTALLED"] = "未安装商业目录模块。";
+$MESS["SPG_SALE_MODULE_NOT_INSTALLED"] = "未安装电子商店模块。";

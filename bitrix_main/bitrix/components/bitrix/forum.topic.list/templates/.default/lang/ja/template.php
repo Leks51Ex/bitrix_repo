@@ -1,0 +1,38 @@
+<?
+$MESS["F_AUTHOR"] = "著者";
+$MESS["F_CLOSED"] = "終了";
+$MESS["F_CLOSED_TOPIC"] = "トピックが閉じられました";
+$MESS["F_CREATE_NEW_TOPIC"] = "<noindex> <a rel='nofollow'href='#HREF#'>このトピックの最初のトピック</a> </noindex>を作成してください";
+$MESS["F_HAVE_NEW_MESS"] = "新しい投稿";
+$MESS["F_HEAD_AUTHOR"] = "著者";
+$MESS["F_HEAD_LAST_POST"] = "最後の投稿";
+$MESS["F_HEAD_POSTS"] = "投稿";
+$MESS["F_HEAD_TOPICS"] = "トピック";
+$MESS["F_HEAD_VIEWS"] = "表示数";
+$MESS["F_MANAGE_CLOSE"] = "トピックを閉じる";
+$MESS["F_MANAGE_DELETE"] = "トピックを削除する";
+$MESS["F_MANAGE_MOVE"] = "トピックを移動する";
+$MESS["F_MANAGE_OPEN"] = "オープントピック";
+$MESS["F_MANAGE_PIN"] = "ピントピック";
+$MESS["F_MANAGE_TOPICS"] = "トピックの管理";
+$MESS["F_MANAGE_UNPIN"] = "トピックを固定解除する";
+$MESS["F_MESSAGE_NOT_APPROVED"] = "非公開のメッセージ";
+$MESS["F_MOVED"] = "移動した";
+$MESS["F_MOVED_TOPIC"] = "トピックが移動されました";
+$MESS["F_NEW_TOPIC"] = "新しいトピックを追加";
+$MESS["F_NEW_TOPIC_TITLE"] = "このフォーラムに新しいトピックを追加";
+$MESS["F_NO_NEW_MESS"] = "新しい投稿はありません";
+$MESS["F_NO_TOPICS_HERE"] = "ここにはトピックはありません";
+$MESS["F_PINNED"] = "固定";
+$MESS["F_PINNED_CLOSED_TOPIC"] = "閉鎖されたトピック";
+$MESS["F_PINNED_TOPIC"] = "固定";
+$MESS["F_SELECT_ALL"] = "すべて選択";
+$MESS["F_SET_FORUM_READ"] = "すべての投稿を既読にする";
+$MESS["F_SUBSCRIBE"] = "購読";
+$MESS["F_SUBSCRIBE_TO_NEW_POSTS"] = "新しい投稿を購読する";
+$MESS["F_TOPIC_START"] = "開始日";
+$MESS["F_USER_PROFILE"] = "ユーザープロフィール";
+$MESS["JS_DEL_TOPICS"] = "これは、トピックを不可逆的に削除します  持続する?";
+$MESS["JS_NO_ACTION"] = "アクションは選択されていません  アクションを選択してください";
+$MESS["JS_NO_TOPICS"] = "トピックは選択されていません  トピックを選択してください";
+?>

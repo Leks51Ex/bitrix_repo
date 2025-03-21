@@ -1,0 +1,17 @@
+<?php
+$MESS["TASKS_PRESET_ACTIVE_REGULAR"] = "ที่เกิดซ้ำ";
+$MESS["TASKS_PRESET_NEW_USER"] = "สำหรับผู้ใช้งานใหม่";
+$MESS["TASKS_TEMPLATES_LIST_CLOSE"] = "ปิด";
+$MESS["TASKS_TEMPLATES_LIST_TITLE_ERROR"] = "ข้อผิดพลาด";
+$MESS["TASKS_TEMPLATES_NO"] = "ไม่";
+$MESS["TASKS_TEMPLATES_YES"] = "ใช่";
+$MESS["TASKS_TEMPLATE_CREATED_BY"] = "สร้างขึ้นโดย";
+$MESS["TASKS_TEMPLATE_DEADLINE_AFTER"] = "เส้นตาย";
+$MESS["TASKS_TEMPLATE_FOR_NEW_USER"] = "สำหรับผู้ใช้งานใหม่";
+$MESS["TASKS_TEMPLATE_GROUP_ID"] = "กลุ่ม";
+$MESS["TASKS_TEMPLATE_ID"] = "ไอดี";
+$MESS["TASKS_TEMPLATE_PRIORITY"] = "ลำดับความสำคัญ";
+$MESS["TASKS_TEMPLATE_REGULAR"] = "ที่เกิดซ้ำ";
+$MESS["TASKS_TEMPLATE_RESPONSIBLE_ID"] = "ผู้รับผิดชอบ";
+$MESS["TASKS_TEMPLATE_TAGS"] = "แท็ก";
+$MESS["TASKS_TEMPLATE_TITLE"] = "ชื่อ";

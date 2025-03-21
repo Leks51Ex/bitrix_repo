@@ -1,0 +1,10 @@
+<?
+$MESS["TIMEMAN_ACTION_READ"] = "देखें";
+$MESS["TIMEMAN_ACTION_UPDATE"] = "संपादित करें";
+$MESS["TIMEMAN_DEFAULT_OPERATION_TITLE"] = "पहुँच नामंजूर";
+$MESS["TIMEMAN_ROLE_CANCEL"] = "रद्द करें";
+$MESS["TIMEMAN_ROLE_ENTITY"] = "एंटिटी";
+$MESS["TIMEMAN_ROLE_LABEL"] = "नाम";
+$MESS["TIMEMAN_ROLE_PERMISSION"] = "अनुमति";
+$MESS["TIMEMAN_ROLE_SAVE"] = "सेव करें";
+?>

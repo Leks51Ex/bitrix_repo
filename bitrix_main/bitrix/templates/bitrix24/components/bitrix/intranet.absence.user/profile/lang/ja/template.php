@@ -1,0 +1,4 @@
+<?php
+$MESS["INTR_IAU_TPL_ALL_DAY"] = "終日";
+$MESS["INTR_IAU_TPL_IN_NEXT_DAYS"] = "次の数日:";
+$MESS["INTR_IAU_TPL_TODAY"] = "今日: #TIME_LIST#";

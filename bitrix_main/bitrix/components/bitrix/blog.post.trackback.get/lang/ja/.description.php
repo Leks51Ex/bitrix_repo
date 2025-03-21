@@ -1,0 +1,5 @@
+<?
+$MESS["BPTG_DEFAULT_TEMPLATE_DESCRIPTION"] = "トラックバックを投稿に登録する";
+$MESS["BPTG_DEFAULT_TEMPLATE_NAME"] = "後戻り";
+$MESS["BPTG_NAME"] = "ブログ";
+?>

@@ -1,0 +1,7 @@
+<?
+$MESS["SONET_SGCP_LOADING"] = "正在載入……";
+$MESS["SONET_SGCP_T_DO_CREATE"] = "建立群組";
+$MESS["SONET_SGCP_T_DO_EDIT"] = "編輯群組 #NAME#";
+$MESS["SONET_SGCP_T_DO_INVITE"] = "邀請加入 #NAME#";
+$MESS["SONET_SGCP_T_DO_INVITE_PROJECT"] = "邀請加入專案 #NAME#";
+?>

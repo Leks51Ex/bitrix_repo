@@ -1,0 +1,5 @@
+<?
+$MESS["SOF_DEFAULT_TEMPLATE_DESCRIPTION"] = "一步订购过程，无需重新加载页面";
+$MESS["SOF_DEFAULT_TEMPLATE_NAME1"] = "结账";
+$MESS["SOF_NAME"] = "订货流程";
+?>

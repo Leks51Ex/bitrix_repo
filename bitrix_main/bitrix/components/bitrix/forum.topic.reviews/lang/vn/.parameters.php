@@ -1,0 +1,24 @@
+<?php
+$MESS["F_DATE_TIME_FORMAT"] = "Định dạng ngày và giờ ";
+$MESS["F_DETAIL_TEMPLATE"] = "Trang yếu tố khối thông tin ";
+$MESS["F_EDITOR_CODE_DEFAULT"] = "Mặc định chế độ biên tập văn bản đơn giản ";
+$MESS["F_FORUM_ID"] = "Forum ID ";
+$MESS["F_IBLOCK_ID"] = "Khối thông tin ";
+$MESS["F_IBLOCK_TYPE"] = "Loại khối thông tin ";
+$MESS["F_MESSAGES_PER_PAGE"] = "Số tin nhắn của mỗi trang ";
+$MESS["F_PAGE_NAVIGATION_TEMPLATE"] = "Tên của mẫu máy nhắn tin ";
+$MESS["F_PREORDER"] = "Hiển thị các tin nhắn trong thứ tự chuyển tiếp ";
+$MESS["F_PROFILE_VIEW_TEMPLATE"] = "Trang hồ sơ ";
+$MESS["F_READ_TEMPLATE"] = "Trang đọc chủ đề ";
+$MESS["F_SHOW_AVATAR"] = "Hiển thị các avartar ";
+$MESS["F_SHOW_AVATAR_PHOTO"] = "Không, hiển thị các ảnh thay thế của avartar ";
+$MESS["F_USE_CAPTCHA"] = "Sử dụng CAPTCHA ";
+$MESS["IBLOCK_ELEMENT_ID"] = "Inf. block element ID";
+$MESS["RATING_TYPE"] = "Thiết kế của các nút đánh giá";
+$MESS["RATING_TYPE_CONFIG"] = "mặc định";
+$MESS["RATING_TYPE_LIKE_GRAPHIC"] = "Thích (hình)";
+$MESS["RATING_TYPE_LIKE_TEXT"] = "Thích (chữ)";
+$MESS["RATING_TYPE_STANDART_GRAPHIC"] = "Thích/Không thích (hình)";
+$MESS["RATING_TYPE_STANDART_TEXT"] = "Thích/Không thích (chữ)";
+$MESS["SHOW_RATING"] = "Kích hoạt đánh giá";
+$MESS["SHOW_RATING_CONFIG"] = "mặc định";

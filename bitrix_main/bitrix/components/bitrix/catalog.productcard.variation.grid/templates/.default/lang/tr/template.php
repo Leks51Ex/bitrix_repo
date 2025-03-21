@@ -1,0 +1,21 @@
+<?php
+$MESS["C_PVG_ADD_NEW_PROPERTY_VALUE_BUTTON"] = "yeni değişken ekle";
+$MESS["C_PVG_CREATE_VARIATION"] = "Değişken ekle";
+$MESS["C_PVG_CREATE_VARIATION_PROPERTY"] = "Değişken özelliği oluştur";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_BUTTON_CLOSE"] = "Kapat";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_BUTTON_COPY"] = "Ürünü kopyala";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_DOC_LINK_INFO"] = "Daha fazla bilgi";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_TEXT"] = "Yeni bir katalog ürünü oluşturun veya ürünü ve özelliklerini, değişken ekleyebileceğiniz yeni bir ürün girişine klonlamak için #COPY_BUTTON_NAME# düğmesine tıklayın. #LINK_INFO#";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_TITLE"] = "Ürün basit olarak oluşturulduğu için ürüne değişken eklenemiyor.";
+$MESS["C_PVG_STORE_ADD_NEW_BARCODE"] = "Barkod ekle";
+$MESS["C_PVG_STORE_ADD_ONE_MORE_BARCODE"] = "Daha fazla ekle";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_AMOUNT"] = "Mevcut";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_EMPTY"] = "Bu ürünün stoku, tüm depolarda tükenmiştir.";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_OPEN_SLIDER_BUTTON"] = "Tümünü görüntüle (#STORE_COUNT#)";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_QUANTITY_AVAILABLE"] = "Mevcut stok";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_QUANTITY_COMMON"] = "Bakiye";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_QUANTITY_COMMON1"] = "Depodaki miktar";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_QUANTITY_RESERVED"] = "Ayrılmış";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_STORE"] = "Depo";
+$MESS["C_PVG_STORE_CREATE_BARCODE_PLACEHOLDER"] = "Yeni barkodu girin";
+$MESS["C_PVG_VARIATIONS_TITLE"] = "Değişkenler";

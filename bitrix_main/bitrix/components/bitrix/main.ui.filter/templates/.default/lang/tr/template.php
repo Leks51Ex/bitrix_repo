@@ -1,0 +1,27 @@
+<?php
+$MESS["MAIN_UI_FILTER__ADDITIONAL_FILTER_PLACEHOLDER_HOW"] = "Bu alan nasıl çalışır?";
+$MESS["MAIN_UI_FILTER__ADD_FIELD"] = "Alan ekle";
+$MESS["MAIN_UI_FILTER__ADD_FILTER"] = "Filtreyi kaydet";
+$MESS["MAIN_UI_FILTER__BUTTON_CANCEL"] = "İptal";
+$MESS["MAIN_UI_FILTER__BUTTON_SAVE"] = "Kaydet";
+$MESS["MAIN_UI_FILTER__CONFIRM_APPLY_FOR_ALL_CHECKBOX"] = "Tüm kullanıcılara uygula";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_APPLY"] = "Devam et";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_CANCEL"] = "İptal";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_MESSAGE"] = "Bu işlem ön ayarlı filtreleri geri yükleyecek ancak senin kendi filtrelerini değiştirmeyecek.";
+$MESS["MAIN_UI_FILTER__DRAG_TITLE"] = "Filtreler listesini sıralamak için çek";
+$MESS["MAIN_UI_FILTER__EDIT_PRESET_TITLE"] = "Filtre adını düzenle";
+$MESS["MAIN_UI_FILTER__FILTER"] = "Filtreler";
+$MESS["MAIN_UI_FILTER__FILTER_NAME_PLACEHOLDER"] = "Filter Adı";
+$MESS["MAIN_UI_FILTER__FILTER_SETTINGS_TITLE"] = "Fitre yapılandır";
+$MESS["MAIN_UI_FILTER__FIND"] = "Ara";
+$MESS["MAIN_UI_FILTER__IS_SET_AS_DEFAULT_PRESET"] = "Varsayılan filtre";
+$MESS["MAIN_UI_FILTER__ON"] = "Aracılığıyla";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER"] = "Filtre";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER_DEFAULT"] = "Filtrele ve ara";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER_WITH_FILTER"] = "Ara";
+$MESS["MAIN_UI_FILTER__REMOVE_PRESET"] = "Filtreyi sil";
+$MESS["MAIN_UI_FILTER__RESET"] = "Sıfırla";
+$MESS["MAIN_UI_FILTER__RESET_LINK"] = "Varsayılana ayarla";
+$MESS["MAIN_UI_FILTER__RESTORE_FIELDS"] = "Varsayılan ayarları geri yükle";
+$MESS["MAIN_UI_FILTER__RESTORE_PRESET"] = "Filtreleri geri yükle";
+$MESS["MAIN_UI_FILTER__SET_AS_DEFAULT_PRESET"] = "Varsayılan filtre olarak ayarla";

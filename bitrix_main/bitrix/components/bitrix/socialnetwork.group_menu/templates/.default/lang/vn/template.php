@@ -1,0 +1,20 @@
+<?php
+$MESS["SONET_SGM_T_MODULE_NOT_INSTALLED"] = "Mô-đun Social Network không được cài đặt";
+$MESS["SONET_SGM_T_NOTIFY_HINT_OFF"] = "Bạn sẽ không còn nhận được <br> cập nhật nhóm trong messenger của bạn";
+$MESS["SONET_SGM_T_NOTIFY_HINT_ON"] = "Bạn sẽ nhận được bản cập nhật <br> nhóm trong messenger của bạn";
+$MESS["SONET_SGM_T_NOTIFY_TITLE_OFF"] = "Thông báo vô hiệu hóa";
+$MESS["SONET_SGM_T_NOTIFY_TITLE_ON"] = "Thông báo hoạt động";
+$MESS["SONET_SGM_T_NOT_ATHORIZED"] = "Bạn chưa đăng nhập.";
+$MESS["SONET_SGM_T_SESSION_WRONG"] = "Phiên truy cập của bạn. Vui lòng thử lại.";
+$MESS["SONET_SGM_T_WAIT"] = "Hãy chờ …";
+$MESS["SONET_UM_BLACKLIST"] = "Danh sách cấm";
+$MESS["SONET_UM_BLOG"] = "Blog";
+$MESS["SONET_UM_CALENDAR"] = "Lịch";
+$MESS["SONET_UM_FILES"] = "Tập tin";
+$MESS["SONET_UM_FORUM"] = "Forum";
+$MESS["SONET_UM_GENERAL"] = "Chung";
+$MESS["SONET_UM_MODS"] = "Người Điều Hành";
+$MESS["SONET_UM_PHOTO"] = "Ảnh";
+$MESS["SONET_UM_REQUESTS"] = "Các yêu cầu";
+$MESS["SONET_UM_SEARCH"] = "Tìm kiếm";
+$MESS["SONET_UM_USERS"] = "Các thành viên";

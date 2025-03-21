@@ -1,0 +1,21 @@
+<?php
+$MESS["VI_DOCS_BODY"] = "Untuk beberapa negara, hukum mengharuskan penyedia telefoni memverifikasi status tempat tinggal Anda untuk memberikan nomor telepon sewaan.<br>Anda mungkin diminta mengirim dokumen yang berhubungan agar dapat menyewa nomor telepon untuk selama masa sewa.";
+$MESS["VI_DOCS_BODY_2"] = "Hukum di beberapa negara mengharuskan perusahaan telepon harus meminta dokumen legal dari Anda sebelum Anda dapat menggunakan nomor sewaan.<br>Ini persyaratan jika Anda ingin menyimpan dan menggunakan nomor selama masa sewa. Anda tidak akan dapat menggunakan nomor ini hingga Anda mengunggah dokumen yang diperlukan dan membuatnya disetujui.";
+$MESS["VI_DOCS_COUNTRY_RU"] = "Rusia";
+$MESS["VI_DOCS_SERVICE_ERROR"] = "Kesalahan mengirim permintaan ke layanan pengunggahan dokumen";
+$MESS["VI_DOCS_SERVICE_UPLOAD"] = "Unggah";
+$MESS["VI_DOCS_STATUS"] = "Status:";
+$MESS["VI_DOCS_TABLE_COMMENT"] = "Komentar";
+$MESS["VI_DOCS_TABLE_LINK"] = "Riwayat pengunggahan dokumen";
+$MESS["VI_DOCS_TABLE_OWNER"] = "Pemilik";
+$MESS["VI_DOCS_TABLE_STATUS"] = "Periksa status";
+$MESS["VI_DOCS_TABLE_TYPE"] = "Entitas legal";
+$MESS["VI_DOCS_TABLE_UPLOAD"] = "Diunggah pada";
+$MESS["VI_DOCS_TITLE"] = "Unggah dokumen untuk menyewa nomor telepon";
+$MESS["VI_DOCS_UNTIL_DATE"] = "Anda harus mengunggah dokumen hingga #DATE#";
+$MESS["VI_DOCS_UNTIL_DATE_NOTICE"] = "Setelah tanggal ditentukan, nomor yang dipesan akan diputus, dana dikembalikan ke akun Anda.<br><br>Nomor sewaan akan aktif hingga akhir masa sewa.";
+$MESS["VI_DOCS_UPDATE_BTN"] = "Unggah dokumen baru";
+$MESS["VI_DOCS_UPLOAD_BTN"] = "Unggah dokumen";
+$MESS["VI_DOCS_UPLOAD_NOTICE"] = "Harap diperhatikan bahwa dokumen tertulis yang hendak Anda kirimkan akan diunggah langsung ke Voximplant, Inc., dan akan diperlakukan sesuai dengan perundang-undangan negara terkait. Bitrix24 tidak akan mengumpulkan, menyimpan, atau memproses data apa pun yang berhubungan dengan dokumen-dokumen ini.";
+$MESS["VI_DOCS_UPLOAD_WHILE_RENT"] = "Jika dokumen Anda perlu diverifikasi untuk menyewa nomor telepon, antarmuka pengguna nomor sewaan akan menampilkan formulir unggahan dokumen";
+$MESS["VI_DOCS_WAIT"] = "Mengunggah... Harap tunggu";

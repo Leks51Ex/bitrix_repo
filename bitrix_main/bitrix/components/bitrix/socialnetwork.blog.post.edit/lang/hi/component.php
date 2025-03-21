@@ -1,0 +1,26 @@
+<?php
+$MESS["BLG_GRP_NAME"] = "इसमें शुरू किया गया";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_ERROR"] = "संदेश डिलीट करने में त्रुटि";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_NO_RIGHTS"] = "आपको यह संदेश डिलीट करने की अनुमति नहीं है";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_OK"] = "संदेश हटा दिया गया था";
+$MESS["BLOG_BLOG_SESSID_WRONG"] = "आपका सत्र समाप्त हो गया है। कृपया फिर कोशिश करें।";
+$MESS["BLOG_EMPTY_TITLE_PLACEHOLDER"] = "तस्वीर";
+$MESS["BLOG_EMPTY_TITLE_PLACEHOLDER2"] = "फ़ाइल";
+$MESS["BLOG_ERR_NO_RIGHTS"] = "त्रुटि: संदेश देखने के लिए अपर्याप्त अनुमतियाँ";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "ब्लॉग मॉड्यूल इंस्टॉल नहीं है।";
+$MESS["BLOG_NEW_MESSAGE"] = "नया वार्तालाप";
+$MESS["BLOG_POST_EDIT"] = "पोस्ट संपादित करें";
+$MESS["BLOG_P_INSERT"] = "तस्वीर डालने के लिए क्लिक करें";
+$MESS["BLOG_SONET_GROUP_MODULE_NOT_AVAIBLE"] = "वार्तालाप इस उपयोगकर्ता ग्रुप के लिए उपलब्ध नहीं हैं।";
+$MESS["BLOG_SONET_MODULE_NOT_AVAIBLE"] = "वार्तालाप इस उपयोगकर्ता के लिए उपलब्ध नहीं हैं।";
+$MESS["BPE_COPY_DELETE_ERROR"] = "मूल पोस्ट को हटाने में त्रुटि।<br />";
+$MESS["BPE_HIDDEN_POSTED"] = "आपकी पोस्ट सफलतापूर्वक जोड़ दी गई है। इस वार्तालाप में पोस्टों को पहले से मॉडरेट किया गया है; मॉडरेटर द्वारा स्वीकृत होते ही आपकी पोस्ट दृश्यमान हो जाएगी।";
+$MESS["BPE_SESS"] = "आपका सत्र समाप्त हो गया है। कृपया अपना संदेश दुबारा पोस्ट करें।";
+$MESS["B_B_HIDDEN_DEPARTMENT"] = "छुपा हुआ विभाग";
+$MESS["B_B_HIDDEN_GROUP"] = "छुपा हुआ ग्रुप";
+$MESS["B_B_HIDDEN_USER"] = "छुपा हुआ उपयोगकर्ता";
+$MESS["B_B_MES_NO_BLOG"] = "संदेश नहीं मिला";
+$MESS["B_B_MES_NO_GROUP"] = "सोशल नेटवर्क ग्रुप नहीं मिला।";
+$MESS["B_B_MES_NO_GROUP_ACTIVE"] = "यह फीचर सोशल नेटवर्क ग्रुप के लिए अनुपलब्ध है।";
+$MESS["B_B_MES_NO_GROUP_RIGHTS"] = "सोशल नेटवर्क ग्रुप में पोस्ट बनाने के लिए अपर्याप्त अनुमति।";
+$MESS["B_B_PC_DUPLICATE_POST"] = "आप पहले ही अपनी पोस्ट जोड़ चुके हैं";

@@ -1,0 +1,3 @@
+<?
+$MESS["SALESCENTER_FEEDBACK"] = "回饋意見";
+?>

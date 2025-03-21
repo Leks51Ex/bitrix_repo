@@ -1,0 +1,16 @@
+<?
+$MESS["TASKS_PRESET_ACTIVE_REGULAR"] = "आवर्ती";
+$MESS["TASKS_PRESET_NEW_USER"] = "नए उपयोगकर्ताओं के लिए";
+$MESS["TASKS_TEMPLATES_NO"] = "नहीं";
+$MESS["TASKS_TEMPLATES_YES"] = "हाँ";
+$MESS["TASKS_TEMPLATE_CREATED_BY"] = "इनके द्वारा सृजित";
+$MESS["TASKS_TEMPLATE_DEADLINE_AFTER"] = "डेडलाइन";
+$MESS["TASKS_TEMPLATE_FOR_NEW_USER"] = "नए उपयोगकर्ताओं के लिए";
+$MESS["TASKS_TEMPLATE_GROUP_ID"] = "ग्रुप";
+$MESS["TASKS_TEMPLATE_ID"] = "आईडी";
+$MESS["TASKS_TEMPLATE_PRIORITY"] = "प्राथमिकता";
+$MESS["TASKS_TEMPLATE_REGULAR"] = "आवर्ती";
+$MESS["TASKS_TEMPLATE_RESPONSIBLE_ID"] = "जिम्मेदार व्यक्ति";
+$MESS["TASKS_TEMPLATE_TAGS"] = "टैग";
+$MESS["TASKS_TEMPLATE_TITLE"] = "नाम";
+?>

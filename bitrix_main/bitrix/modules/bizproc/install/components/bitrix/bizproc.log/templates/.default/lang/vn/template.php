@@ -1,0 +1,23 @@
+<?php
+$MESS["BPABL_LOG"] = "Lịch sử quy trình kinh doanh";
+$MESS["BPABL_RES_1"] = "Không";
+$MESS["BPABL_RES_2"] = "Thành công";
+$MESS["BPABL_RES_3"] = "Đã huỷ";
+$MESS["BPABL_RES_4"] = "Lỗi";
+$MESS["BPABL_RES_5"] = "Không được khởi tạo";
+$MESS["BPABL_RES_6"] = "Không xác định được";
+$MESS["BPABL_STATE_MODIFIED_1"] = "Ngày của trạng thái hiện tại";
+$MESS["BPABL_STATE_NAME_1"] = "Trạng thái hiện tại của quy trình kinh doanh";
+$MESS["BPABL_STATUS_1"] = "Khởi tạo";
+$MESS["BPABL_STATUS_2"] = "Trong tiến độ";
+$MESS["BPABL_STATUS_3"] = "Đang bị huỷ bỏ";
+$MESS["BPABL_STATUS_4"] = "Đã hoàn tất";
+$MESS["BPABL_STATUS_5"] = "Lỗi";
+$MESS["BPABL_STATUS_6"] = "Không xác định được";
+$MESS["BPABL_TYPE_1_1"] = "Hoạt động được triển khai '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_2_1"] = "Hoạt động được hoàn tất '#ACTIVITY#' trạng thái trả về: '#STATUS#' kết quả: '#RESULT#'#NOTE#";
+$MESS["BPABL_TYPE_3_1"] = "Hoạt động bị hủy bỏ '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_4_1"] = "Hoạt động '#ACTIVITY#'#NOTE# lỗi";
+$MESS["BPABL_TYPE_5_1"] = "Hoạt động '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_6_1"] = "Một hoạt động không xác định liên quan đến '#ACTIVITY#'#NOTE# đã được thực hiện";
+$MESS["BPWC_WLCT_TOTAL"] = "Tổng cộng";

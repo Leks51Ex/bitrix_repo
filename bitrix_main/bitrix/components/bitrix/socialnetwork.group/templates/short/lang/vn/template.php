@@ -1,0 +1,35 @@
+<?
+$MESS["SONET_C39_ARCHIVE_GROUP"] = "Lưu trữ Nhóm";
+$MESS["SONET_C39_SEND_MESSAGE_GROUP"] = "Viết tin nhắn";
+$MESS["SONET_C39_SEND_MESSAGE_GROUP_TITLE"] = "Viết tin nhắn cho thành viên nhóm";
+$MESS["SONET_C6_ACT_BAN"] = "Danh sách Ban";
+$MESS["SONET_C6_ACT_DELETE"] = "Xóa Nhóm";
+$MESS["SONET_C6_ACT_EDIT"] = "Chỉnh sửa Nhóm";
+$MESS["SONET_C6_ACT_EXIT"] = "Rời khỏi nhóm";
+$MESS["SONET_C6_ACT_FEAT"] = "Sửa thiết lập";
+$MESS["SONET_C6_ACT_JOIN"] = "Tham gia Nhóm";
+$MESS["SONET_C6_ACT_MOD"] = "Chỉnh sửa người điều hành";
+$MESS["SONET_C6_ACT_MOD1"] = "Người điều hành";
+$MESS["SONET_C6_ACT_REQU"] = "Mời vào nhóm";
+$MESS["SONET_C6_ACT_USER"] = "Chỉnh sửa người sử dụng";
+$MESS["SONET_C6_ACT_USER1"] = "Các thành viên";
+$MESS["SONET_C6_ACT_VREQU"] = "Xem yêu cầu tham gia";
+$MESS["SONET_C6_ACT_VREQU_OUT"] = "Thư mời nhóm";
+$MESS["SONET_C6_AL_USERS"] = "Tất cả thành viên";
+$MESS["SONET_C6_BLOG_T"] = "Blog";
+$MESS["SONET_C6_CREATED"] = "Được tạo";
+$MESS["SONET_C6_DESCR"] = "Mô tả";
+$MESS["SONET_C6_FORUM_T"] = "Forum";
+$MESS["SONET_C6_MODS_TITLE"] = "Người điều hành";
+$MESS["SONET_C6_NMEM"] = "Các thành viên";
+$MESS["SONET_C6_NO_MODS"] = "Không có người điều hành";
+$MESS["SONET_C6_NO_USERS"] = "Không có thành viên";
+$MESS["SONET_C6_PHOTO_T"] = "Các hình ảnh";
+$MESS["SONET_C6_TOPIC"] = "Chủ đề";
+$MESS["SONET_C6_TYPE"] = "Loại nhóm";
+$MESS["SONET_C6_TYPE_O1"] = "Đây là nhóm công khai. Bất kỳ ai cũng có thể tham gia.";
+$MESS["SONET_C6_TYPE_O2"] = "Đây là nhóm riêng tư. Người dùng thành viên phải được sự đồng ý của quản trị.";
+$MESS["SONET_C6_TYPE_V1"] = "Nhóm này có thể nhìn thấy bất cứ ai.";
+$MESS["SONET_C6_TYPE_V2"] = "Nhóm này ẩn. Chỉ thành viên nhóm mới có thể thấy.";
+$MESS["SONET_C6_USERS_T"] = "Các thành viên";
+?>

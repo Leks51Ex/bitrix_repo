@@ -1,0 +1,4 @@
+<?
+$MESS["SALE_LOCATION_MAP_CANCEL"] = "İptal";
+$MESS["SALE_LOCATION_MAP_CLOSE"] = "Kapat";
+?>

@@ -1,0 +1,10 @@
+<?
+$MESS["TIMEMAN_ACTION_READ"] = "ดู";
+$MESS["TIMEMAN_ACTION_UPDATE"] = "แก้ไข";
+$MESS["TIMEMAN_DEFAULT_OPERATION_TITLE"] = "ปฏิเสธการเข้าใช้";
+$MESS["TIMEMAN_ROLE_CANCEL"] = "ยกเลิก";
+$MESS["TIMEMAN_ROLE_ENTITY"] = "เอนทิตี้";
+$MESS["TIMEMAN_ROLE_LABEL"] = "ชื่อ";
+$MESS["TIMEMAN_ROLE_PERMISSION"] = "สิทธิ์";
+$MESS["TIMEMAN_ROLE_SAVE"] = "บันทึก";
+?>

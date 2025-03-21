@@ -1,0 +1,4 @@
+<?
+$MESS["MAIN_CALENDAR_COMPONENT_DESCR"] = "日付/時刻の設定";
+$MESS["MAIN_CALENDAR_COMPONENT_NAME"] = "カレンダーコントロール";
+?>

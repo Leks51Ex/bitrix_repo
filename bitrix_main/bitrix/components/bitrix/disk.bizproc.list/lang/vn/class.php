@@ -1,0 +1,24 @@
+<?php
+$MESS["BPATT_AE_CREATE"] = "Tạo";
+$MESS["BPATT_AE_DELETE"] = "Xóa";
+$MESS["BPATT_AE_EDIT"] = "Cập nhật";
+$MESS["BPATT_AE_NONE"] = "Không";
+$MESS["BPATT_DO_DELETE1"] = "Xóa";
+$MESS["BPATT_DO_DELETE1_CONFIRM"] = "Bạn có chắc bạn muốn xóa khuôn mẫu này không?";
+$MESS["BPATT_DO_EDIT1"] = "Chỉnh sửa";
+$MESS["BPATT_DO_EDIT_VARS"] = "Thay đổi các giá trị biến số ban đầu";
+$MESS["BPATT_DO_EDIT_VARS1"] = "Biến số";
+$MESS["BPATT_DO_LOAD_CREATE"] = "Thực thi trong quá trình tạo";
+$MESS["BPATT_DO_LOAD_CREATE_TITLE"] = "Thực thi một quy trình kinh doanh khi tạo một tài liệu";
+$MESS["BPATT_DO_LOAD_EDIT"] = "Thực thi trong quá trình sửa đổi";
+$MESS["BPATT_DO_LOAD_EDIT_TITLE"] = "Thực thi một quy trình kinh doanh khi sửa đổi một tài liệu";
+$MESS["BPATT_DO_N_LOAD_CREATE"] = "Không thực thi trong quá trình tạo";
+$MESS["BPATT_DO_N_LOAD_CREATE_TITLE"] = "Không thực thi một quy trình kinh doanh khi tạo một tài liệu";
+$MESS["BPATT_DO_N_LOAD_EDIT"] = "Không thực thi trong quá trình sửa đổi";
+$MESS["BPATT_DO_N_LOAD_EDIT_TITLE"] = "Không thực thi một quy trình kinh doanh khi sửa đổi một tài liệu";
+$MESS["BPATT_DO_OLD_TEMPLATE"] = "(phiên bản cũ)";
+$MESS["BPATT_NO_DOCUMENT_TYPE"] = "Cần nhập loại tập tin.";
+$MESS["BPATT_NO_ENTITY"] = "Không có thực thể nào được quy định để tạo quy trình kinh doanh.";
+$MESS["BPATT_NO_MODULE_ID"] = "Cần nhập ID mô-đun.";
+$MESS["BPATT_NO_PERMS"] = "Bạn không có quyền chạy quy trình kinh doanh cho yếu tố này.";
+$MESS["BPATT_TITLE"] = "Khuôn mẫu Quy trình Kinh doanh";

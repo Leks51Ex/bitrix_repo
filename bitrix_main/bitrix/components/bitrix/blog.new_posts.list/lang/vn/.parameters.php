@@ -1,0 +1,32 @@
+<?
+$MESS["BB_NAV_TEMPLATE"] = "Tên biểu mẫu Paging";
+$MESS["BB_PATH_TO_BLOG_CATEGORY"] = "Biểu mẫu URL Trang Blog Nhóm (lọc theo từ khóa)";
+$MESS["BC_DATE_TIME_FORMAT"] = "Định dạng ngày và giờ";
+$MESS["BLG_BLOG_URL"] = "Blog url";
+$MESS["BLG_GROUP_ID"] = "Nhóm Blogs";
+$MESS["BMNP_BLOG_VAR"] = "Biến nhận dạng Blog";
+$MESS["BMNP_MESSAGE_PER_PAGE"] = "Số tin nhắn trên một trang";
+$MESS["BMNP_NAME_TEMPLATE"] = "Tên Định dạng";
+$MESS["BMNP_NAME_TEMPLATE_DEFAULT"] = "#NOBR##NAME# #LAST_NAME##/NOBR#";
+$MESS["BMNP_PAGE_VAR"] = "Biến trang";
+$MESS["BMNP_PATH_TO_BLOG"] = "Biểu mẫu chứa đường dẫn đến trang blog";
+$MESS["BMNP_PATH_TO_GROUP_BLOG_POST"] = "Biểu mẫu URL Trang Bài viết trong Blog Nhóm";
+$MESS["BMNP_PATH_TO_POST"] = "Biểu mẫu của trang tin nhắn blog";
+$MESS["BMNP_PATH_TO_SMILE"] = "Đường dẫn vào thư mục có các biểu tượng mặc cười, liên quan đến gốc của trang";
+$MESS["BMNP_PATH_TO_USER"] = "Biểu mẫu của đường dẫn đến trang người dùng blog";
+$MESS["BMNP_POST_VAR"] = "Biến nhận dạng tin nhắn Blog";
+$MESS["BMNP_SHOW_LOGIN"] = "Hiển thị Tên Đăng nhập nếu không được yêu cầu các trường tên người dùng có sẵn";
+$MESS["BMNP_USER_VAR"] = "Biến nhận dạng người dùng Blog";
+$MESS["BPC_IMAGE_MAX_HEIGHT"] = "Chiều cao tối đa của hình";
+$MESS["BPC_IMAGE_MAX_WIDTH"] = "Chiều rộng tối đa của hình";
+$MESS["B_VARIABLE_ALIASES"] = "Các bí danh của biến";
+$MESS["POST_PROPERTY_LIST"] = "Hiển thị các đặc tính bài bổ sung trong Blog";
+$MESS["RATING_TYPE"] = "Thiết kế của các nút đánh giá";
+$MESS["RATING_TYPE_CONFIG"] = "mặc định";
+$MESS["RATING_TYPE_LIKE_GRAPHIC"] = "Thích (hình)";
+$MESS["RATING_TYPE_LIKE_TEXT"] = "Thích (chữ)";
+$MESS["RATING_TYPE_STANDART_GRAPHIC"] = "Thích/Không thích (hình)";
+$MESS["RATING_TYPE_STANDART_TEXT"] = "Thích/Không thích (chữ)";
+$MESS["SHOW_RATING"] = "Kích hoạt đánh giá";
+$MESS["SHOW_RATING_CONFIG"] = "mặc định";
+?>

@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_COMP_CAMPAIGN_EDIT_TITLE_ADD"] = "Kampanya Oluştur";
+$MESS["SENDER_COMP_CAMPAIGN_EDIT_TITLE_EDIT"] = "Kampanyayı Düzenle";
+?>

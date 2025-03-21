@@ -1,0 +1,6 @@
+<?
+$MESS["SENDER_CONTACT_SET_LIST_BTN_EDIT"] = "แก้ไข";
+$MESS["SENDER_CONTACT_SET_LIST_BTN_EDIT_TITLE"] = "แก้ไขรายชื่อผู้รับแบบคงที่";
+$MESS["SENDER_CONTACT_SET_LIST_BTN_REMOVE"] = "ลบ";
+$MESS["SENDER_CONTACT_SET_LIST_BTN_REMOVE_TITLE"] = "ลบรายชื่อผู้รับแบบคงที่";
+?>

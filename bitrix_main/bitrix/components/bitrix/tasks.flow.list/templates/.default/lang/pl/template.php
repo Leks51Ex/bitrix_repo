@@ -1,0 +1,25 @@
+<?php
+$MESS["TASKS_FLOW_ADD_BUTTON"] = "Nowy przepływ";
+$MESS["TASKS_FLOW_LIST_ABOUT_EFFICIENCY"] = "Wydajność to procent wykonania zadań <br>w ramach wyznaczonych terminów.";
+$MESS["TASKS_FLOW_LIST_ANALYTICS_BTN"] = "Analityka";
+$MESS["TASKS_FLOW_LIST_BI_ANALYTICS_BADLY"] = "Słaba";
+$MESS["TASKS_FLOW_LIST_BI_ANALYTICS_EMPTY_DASHBOARDS"] = "Pulpit nawigacyjny niedostępny.";
+$MESS["TASKS_FLOW_LIST_BI_ANALYTICS_GREAT"] = "Doskonała";
+$MESS["TASKS_FLOW_LIST_COLUMN_DEMO_LABEL"] = "Nieprzypisany";
+$MESS["TASKS_FLOW_LIST_COLUMN_MY_TASKS_PLURAL_0"] = "{number} zadanie";
+$MESS["TASKS_FLOW_LIST_COLUMN_MY_TASKS_PLURAL_1"] = "{number} zadania";
+$MESS["TASKS_FLOW_LIST_COLUMN_MY_TASKS_PLURAL_2"] = "{number} zadań";
+$MESS["TASKS_FLOW_LIST_COMING_SOON"] = "Już wkrótce";
+$MESS["TASKS_FLOW_LIST_CONFIRM_REMOVE_BUTTON"] = "Tak";
+$MESS["TASKS_FLOW_LIST_CONFIRM_REMOVE_MESSAGE"] = "Czy na pewno chcesz usunąć przepływ?";
+$MESS["TASKS_FLOW_LIST_COPILOT_NOT_ENOUGH_TASKS_POPUP_DESCRIPTION"] = "Gdy w przepływie będzie co najmniej 10 zadań, wówczas w tym miejscu wyświetlą się zalecenia CoPilota.";
+$MESS["TASKS_FLOW_LIST_COPILOT_NOT_ENOUGH_TASKS_POPUP_SHOW_EXAMPLE"] = "Wyświetl przykładowe zalecenia";
+$MESS["TASKS_FLOW_LIST_COPILOT_NOT_ENOUGH_TASKS_POPUP_TITLE"] = "Gromadzenie danych";
+$MESS["TASKS_FLOW_LIST_CREATE_TASK"] = "Utwórz zadanie";
+$MESS["TASKS_FLOW_LIST_FLOW_OFF"] = "Wyłączono przepływ.";
+$MESS["TASKS_FLOW_LIST_FLOW_PINNED"] = "Przypięto przepływ.";
+$MESS["TASKS_FLOW_LIST_FLOW_PIN_CANCEL"] = "Cofnij";
+$MESS["TASKS_FLOW_LIST_FLOW_UNPINNED"] = "Odpięto przepływ.";
+$MESS["TASKS_FLOW_LIST_GUIDE_BTN"] = "Szybki przewodnik po głównych przepływach";
+$MESS["TASKS_FLOW_LIST_NO_TASKS"] = "Brak zadań";
+$MESS["TASKS_FLOW_LIST_NO_YOUR_TASKS"] = "Brak";

@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_LEAD_WGT_PAGE_TITLE"] = "线索分析报告";
+$MESS["CRM_LEAD_WGT_PAGE_TITLE_SHORT"] = "线索报告";
+?>

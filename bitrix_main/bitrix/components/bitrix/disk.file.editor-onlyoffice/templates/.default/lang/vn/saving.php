@@ -1,0 +1,3 @@
+<?php
+$MESS["DISK_FILE_EDITOR_ONLYOFFICE_WAITING_NEW_VERSION_DESC"] = "Vui lòng chờ phiên bản mới hơn";
+$MESS["DISK_FILE_EDITOR_ONLYOFFICE_WAITING_NEW_VERSION_TITLE"] = "Tài liệu này đã được sửa đổi";

@@ -1,0 +1,9 @@
+<?
+$MESS["CRM_ACTIVITY_LIST_REBUILD_ACT_STATISTICS_COMPLETED_SUMMARY"] = "Selesai memproses data statistik untuk aktiviti. Aktiviti diproses: #PROCESSED_ITEMS#.";
+$MESS["CRM_ACTIVITY_LIST_REBUILD_ACT_STATISTICS_NOT_REQUIRED_SUMMARY"] = "Tiada statistik aktiviti perlu dikemas kini.";
+$MESS["CRM_ACTIVITY_LIST_REBUILD_ACT_STATISTICS_PROGRESS_SUMMARY"] = "Aktiviti diproses: #PROCESSED_ITEMS# daripada #TOTAL_ITEMS#.";
+$MESS["CRM_ACTIVITY_LIST_REBUILD_SEARCH_CONTENT_COMPLETED_SUMMARY"] = "Indeks carian aktiviti telah dicipta semula. Aktiviti diproses: #PROCESSED_ITEMS#.";
+$MESS["CRM_ACTIVITY_LIST_REBUILD_SEARCH_CONTENT_NOT_REQUIRED_SUMMARY"] = "Indeks carian aktiviti tidak perlu dicipta semula.";
+$MESS["CRM_ACTIVITY_LIST_REBUILD_SEARCH_CONTENT_PROGRESS_SUMMARY"] = "Aktiviti diproses: #PROCESSED_ITEMS# daripada #TOTAL_ITEMS#.";
+$MESS["CRM_ACTIVITY_LIST_ROW_COUNT"] = "Jumlah: #ROW_COUNT#";
+?>

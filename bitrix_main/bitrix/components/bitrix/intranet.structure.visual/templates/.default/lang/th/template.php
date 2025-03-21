@@ -1,0 +1,29 @@
+<?
+$MESS["ISV_ADD_DEPARTMENT"] = "เพิ่มแผนก";
+$MESS["ISV_B24_INVITE"] = "เชิญผู้ใช้งาน";
+$MESS["ISV_CHILDREN_COUNT_1"] = "อีก #NUM# แผนก";
+$MESS["ISV_CHILDREN_COUNT_2"] = "อีก #NUM# แผนก";
+$MESS["ISV_CHILDREN_COUNT_3"] = "อีก #NUM# แผนก";
+$MESS["ISV_CHILDREN_COUNT_4"] = "อีก #NUM# แผนก";
+$MESS["ISV_CHILDREN_COUNT_MUL"] = "อีก #NUM# แผนก";
+$MESS["ISV_EMPLOYEES"] = "พนักงาน";
+$MESS["ISV_EMP_COUNT_1"] = "พนักงาน #NUM# ราย";
+$MESS["ISV_EMP_COUNT_2"] = "พนักงาน #NUM# ราย";
+$MESS["ISV_EMP_COUNT_3"] = "พนักงาน #NUM# ราย";
+$MESS["ISV_EMP_COUNT_4"] = "พนักงาน #NUM# ราย";
+$MESS["ISV_EMP_COUNT_MUL"] = "พนักงาน #NUM# ราย";
+$MESS["ISV_EMP_LIST"] = "รายชื่อพนักงาน";
+$MESS["ISV_HINT_ADD"] = "เพิ่มแผนกลูก";
+$MESS["ISV_HINT_DELETE"] = "ลบแผนก";
+$MESS["ISV_HINT_EDIT"] = "แก้ไขแผนก";
+$MESS["ISV_SHOW_SUBTREE"] = "แสดงโครงสร้างของแผนก";
+$MESS["ISV_UNDO"] = "ยกเลิก";
+$MESS["ISV_add_dep"] = "เพิ่มแผนกย่อย";
+$MESS["ISV_add_emp"] = "เพิ่มพนักงาน";
+$MESS["ISV_confirm_change_department_0"] = "โอน #EMP_NAME# ให้ #DPT_NAME# หรือไม่?";
+$MESS["ISV_confirm_change_department_1"] = "มอบหมาย #EMP_NAME# ให้ #DPT_NAME# หรือไม่?";
+$MESS["ISV_confirm_delete_department"] = "คุณแน่ใจหรือไม่ ว่าต้องการลบแผนก? นี่จะเป็นการย้ายเอาแผนกย่อยกับพนักงานทั้งหมดที่อยู่ภายใต้แผนกนี้ออกไป";
+$MESS["ISV_confirm_move_department"] = "โอน #DPT_NAME# ให้ #DPT_NAME_TO# หรือไม่?";
+$MESS["ISV_confirm_set_head"] = "มอบหมาย #EMP_NAME# ให้เป็นหัวหน้าของแผนก #DPT_NAME# หรือไม่?";
+$MESS["ISV_set_head"] = "แต่งตั้งเป็นผู้ควบคุมดูแล";
+?>

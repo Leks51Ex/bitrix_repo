@@ -1,0 +1,8 @@
+<?php
+$MESS["SONET_GCE_T_IMAGE3"] = "ワークグループのアイコン";
+$MESS["SONET_GCE_T_IMAGE3_PROJECT"] = "プロジェクトのアイコン";
+$MESS["SONET_GCE_T_IMAGE3_SCRUM"] = "スクラムチームのアイコン";
+$MESS["SONET_GCE_T_IMAGE_DELETE_CONFIRM"] = "この画像を削除してもよろしいですか？";
+$MESS["SONET_GCE_T_IMAGE_DELETE_CONFIRM_NO"] = "いいえ";
+$MESS["SONET_GCE_T_IMAGE_DELETE_CONFIRM_YES"] = "はい";
+$MESS["SONET_GCE_T_UPLOAD"] = "アップロード";

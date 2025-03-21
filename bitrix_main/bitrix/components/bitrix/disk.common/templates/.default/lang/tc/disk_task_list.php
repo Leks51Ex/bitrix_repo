@@ -1,0 +1,4 @@
+<?
+$MESS["DISK_BIZPROC_BACK_TEXT"] = "上一步";
+$MESS["DISK_BIZPROC_BACK_TITLE"] = "上一步";
+?>

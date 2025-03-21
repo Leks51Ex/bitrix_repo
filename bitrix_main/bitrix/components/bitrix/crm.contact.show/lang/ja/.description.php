@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_CONTACT_NAME"] = "連絡先";
+$MESS["CRM_CONTACT_SHOW_DESCRIPTION"] = "連絡先を表示";
+$MESS["CRM_CONTACT_SHOW_NAME"] = "連絡先を表示";
+$MESS["CRM_NAME"] = "CRM";
+?>

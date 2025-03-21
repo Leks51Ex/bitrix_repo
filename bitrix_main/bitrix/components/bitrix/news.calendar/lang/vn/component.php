@@ -1,0 +1,29 @@
+<?
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "Mô-đun Information block chưa cài đặt";
+$MESS["IBL_NEWS_CAL_D_0"] = "Chủ Nhật";
+$MESS["IBL_NEWS_CAL_D_1"] = "Thứ hai";
+$MESS["IBL_NEWS_CAL_D_2"] = "Thứ ba";
+$MESS["IBL_NEWS_CAL_D_3"] = "Thứ tư";
+$MESS["IBL_NEWS_CAL_D_4"] = "Thứ năm";
+$MESS["IBL_NEWS_CAL_D_5"] = "Thứ sáu";
+$MESS["IBL_NEWS_CAL_D_6"] = "Thứ bảy";
+$MESS["IBL_NEWS_CAL_M_1"] = "Tháng 1";
+$MESS["IBL_NEWS_CAL_M_10"] = "Tháng 10";
+$MESS["IBL_NEWS_CAL_M_11"] = "Tháng 11";
+$MESS["IBL_NEWS_CAL_M_12"] = "Tháng 12";
+$MESS["IBL_NEWS_CAL_M_2"] = "Tháng 2";
+$MESS["IBL_NEWS_CAL_M_3"] = "Tháng 3";
+$MESS["IBL_NEWS_CAL_M_4"] = "Tháng 4";
+$MESS["IBL_NEWS_CAL_M_5"] = "Tháng 5";
+$MESS["IBL_NEWS_CAL_M_6"] = "Tháng 6";
+$MESS["IBL_NEWS_CAL_M_7"] = "Tháng 7";
+$MESS["IBL_NEWS_CAL_M_8"] = "Tháng 8";
+$MESS["IBL_NEWS_CAL_M_9"] = "Tháng 9";
+$MESS["IBL_NEWS_CAL_S_0"] = "CN";
+$MESS["IBL_NEWS_CAL_S_1"] = "T2";
+$MESS["IBL_NEWS_CAL_S_2"] = "T3";
+$MESS["IBL_NEWS_CAL_S_3"] = "T4";
+$MESS["IBL_NEWS_CAL_S_4"] = "T5";
+$MESS["IBL_NEWS_CAL_S_5"] = "T6";
+$MESS["IBL_NEWS_CAL_S_6"] = "T7";
+?>

@@ -1,0 +1,5 @@
+<?
+$MESS["DOCGEN_PLACEHOLDERS_COPY_PLACEHOLDER"] = "コードがクリップボードにコピーされました";
+$MESS["DOCGEN_PLACEHOLDERS_COPY_PLACEHOLDER_FAIL"] = "コードをコピーできません。手動でコピーしてください。";
+$MESS["DOCGEN_PLACEHOLDERS_FIELD_EMPTY"] = "未選択";
+?>

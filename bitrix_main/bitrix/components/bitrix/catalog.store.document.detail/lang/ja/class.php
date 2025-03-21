@@ -1,0 +1,22 @@
+<?php
+$MESS["CATALOG_STORE_DOCUMENT_BARCODE_EXIST_ERROR"] = "バーコード \"#BARCODE#\" はカタログ内の別の商品にすでに割り当てられています。";
+$MESS["CATALOG_STORE_DOCUMENT_CANCEL_CONDUCT_BUTTON"] = "処理をキャンセル";
+$MESS["CATALOG_STORE_DOCUMENT_CONDUCT_BUTTON"] = "処理する";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_CANCEL_ERROR"] = "処理をキャンセル中にエラーが発生しました";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_CONDUCT_ERROR"] = "処理エラー";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOCUMENT_BUTTON"] = "ドキュメント";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOCUMENT_NOT_FOUND_ERROR"] = "在庫物が見つかりません。";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOCUMENT_TYPE_NOT_SPECIFIED_ERROR"] = "在庫物タイプが必要です。";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOC_TYPE_A"] = "入庫伝票";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOC_TYPE_D"] = "除却伝票";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_DOC_TYPE_M"] = "在庫転送伝票";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_INCORRECT_VALUE"] = "\"#FIELD_NAME#\" の値が正しくありません";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_NO_VIEW_RIGHTS_ERROR"] = "在庫物を表示する権限がありません";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_NO_WRITE_RIGHTS_ERROR"] = "在庫物を保存する権限がありません";
+$MESS["CATALOG_STORE_DOCUMENT_DETAIL_SAVE_ERROR"] = "在庫物を保存中にエラーが発生しました";
+$MESS["CATALOG_STORE_DOCUMENT_ELEMENT_STORE_ACCESS_DENIED"] = "この倉庫にアクセスして \"#PRODUCT_NAME#\" のエンティティを保存する権限がありません。";
+$MESS["CATALOG_STORE_DOCUMENT_ERR_ACCESS_DENIED"] = "棚卸資産管理画面を表示する権限がありません。";
+$MESS["CATALOG_STORE_DOCUMENT_ERR_ACCESS_DENIED_BOX"] = "棚卸資産管理にアクセスする権限がありません。アクセスするには Bitrix24 管理者に連絡してください。<a href=\"https://training.bitrix24.com/support/training/course/index.php?COURSE_ID=178&LESSON_ID=25118\" target=\"_blank\">詳細</a>";
+$MESS["CATALOG_STORE_DOCUMENT_ERR_ACCESS_DENIED_CLOUD"] = "棚卸資産管理にアクセスする権限がありません。アクセスするには Bitrix24 管理者に連絡してください。管理者が CRM 設定であなたにマネージャーのロールを割り当てる必要があります。<a onclick=\"top.BX.Helper.show('redirect=detail&code=15955386')\" style=\"cursor: pointer; \">詳細</a>";
+$MESS["CATALOG_STORE_DOCUMENT_NO_PRODUCT"] = "在庫物を保存するには商品を選択または作成する必要があります";
+$MESS["CATALOG_STORE_DOCUMENT_SAVE_AND_CONDUCT_BUTTON"] = "保存して処理する";

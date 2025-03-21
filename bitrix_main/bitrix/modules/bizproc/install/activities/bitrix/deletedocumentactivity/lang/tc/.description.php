@@ -1,0 +1,6 @@
+<?php
+$MESS["BPDDA_DESCR_DESCR"] = "刪除文件";
+$MESS["BPDDA_DESCR_DESCR_1"] = "不再需要時刪除項目。";
+$MESS["BPDDA_DESCR_NAME"] = "刪除文件";
+$MESS["BPDDA_DESCR_ROBOT_TITLE"] = "刪除 CRM 記錄";
+$MESS["BPDDA_DESCR_ROBOT_TITLE_1"] = "刪除項目";

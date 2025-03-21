@@ -1,0 +1,7 @@
+<?
+$MESS["TASK_TOOLBAR_FILTER_BUTTON"] = "Tapis";
+$MESS["TASK_TOOLBAR_FILTER_GANTT"] = "Carta Gantt";
+$MESS["TASK_TOOLBAR_FILTER_LIST"] = "Pandangan rata";
+$MESS["TASK_TOOLBAR_FILTER_REPORTS"] = "Laporan";
+$MESS["TASK_TOOLBAR_FILTER_TREE"] = "Termasuk subtugas";
+?>

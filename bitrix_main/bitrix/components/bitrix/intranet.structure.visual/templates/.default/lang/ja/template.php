@@ -1,0 +1,29 @@
+<?
+$MESS["ISV_ADD_DEPARTMENT"] = "部門を追加する";
+$MESS["ISV_B24_INVITE"] = "ユーザー招待";
+$MESS["ISV_CHILDREN_COUNT_1"] = "#NUM#件以上の部門";
+$MESS["ISV_CHILDREN_COUNT_2"] = "#NUM#他の部門";
+$MESS["ISV_CHILDREN_COUNT_3"] = "#NUM#他の部門";
+$MESS["ISV_CHILDREN_COUNT_4"] = "#NUM#他の部門";
+$MESS["ISV_CHILDREN_COUNT_MUL"] = "#NUM#他の部門";
+$MESS["ISV_EMPLOYEES"] = "従業員";
+$MESS["ISV_EMP_COUNT_1"] = "#NUM#従業員";
+$MESS["ISV_EMP_COUNT_2"] = "#NUM#従業員";
+$MESS["ISV_EMP_COUNT_3"] = "#NUM#従業員";
+$MESS["ISV_EMP_COUNT_4"] = "#NUM#従業員";
+$MESS["ISV_EMP_COUNT_MUL"] = "#NUM#従業員";
+$MESS["ISV_EMP_LIST"] = "従業員リスト";
+$MESS["ISV_HINT_ADD"] = "子部門を追加する";
+$MESS["ISV_HINT_DELETE"] = "部門を削除する";
+$MESS["ISV_HINT_EDIT"] = "部門を編集する";
+$MESS["ISV_SHOW_SUBTREE"] = "部門構造を表示する";
+$MESS["ISV_UNDO"] = "キャンセル";
+$MESS["ISV_add_dep"] = "サブデパートを追加";
+$MESS["ISV_add_emp"] = "従業員を追加する";
+$MESS["ISV_confirm_change_department_0"] = "#EMP_NAME#を#DPT_NAME#へ異動?";
+$MESS["ISV_confirm_change_department_1"] = "#EMP_NAME#を#DPT_NAME#へ配属?";
+$MESS["ISV_confirm_delete_department"] = "あなたはその部門を削除してもよろしいですか? これにより、基礎となるすべてのサブデパートと従業員が移動します";
+$MESS["ISV_confirm_move_department"] = "#DPT_NAME#から#DPT_NAME_TO#へ異動しますか?";
+$MESS["ISV_confirm_set_head"] = "#EMP_NAME#を#DPT_NAME#の長に割り当てますか?";
+$MESS["ISV_set_head"] = "スーパーバイザーとして任命";
+?>

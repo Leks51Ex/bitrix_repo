@@ -1,0 +1,27 @@
+<?php
+$MESS["BPGUIA_DESCR_DESCR"] = "ข้อมูลพนักงาน";
+$MESS["BPGUIA_DESCR_DESCR_1"] = "ส่งข้อมูลพนักงานให้กฎการทำงานอัตโนมัติอื่นๆ";
+$MESS["BPGUIA_DESCR_NAME"] = "ข้อมูลพนักงาน";
+$MESS["BPGUIA_DESCR_NAME_1"] = "รับข้อมูลพนักงาน";
+$MESS["BPGUIA_IS_ABSENT"] = "ไม่อยู่สำนักงาน (ตามตารางเวลาที่ไม่อยู่)";
+$MESS["BPGUIA_TIMEMAN_STATUS"] = "สถานะวันทำงาน";
+$MESS["BPGUIA_USER_ACTIVE"] = "ใช้งานอยู่";
+$MESS["BPGUIA_USER_EMAIL"] = "อีเมล";
+$MESS["BPGUIA_USER_LAST_NAME"] = "นามสกุล";
+$MESS["BPGUIA_USER_LOGIN"] = "เข้าสู่ระบบ";
+$MESS["BPGUIA_USER_NAME"] = "ชื่อ";
+$MESS["BPGUIA_USER_PERSONAL_BIRTHDAY"] = "วันเกิด";
+$MESS["BPGUIA_USER_PERSONAL_CITY"] = "เมือง";
+$MESS["BPGUIA_USER_PERSONAL_MOBILE"] = "โทรศัพท์มือถือ";
+$MESS["BPGUIA_USER_PERSONAL_WWW"] = "เว็บไซต์";
+$MESS["BPGUIA_USER_SECOND_NAME"] = "ชื่อที่สอง";
+$MESS["BPGUIA_USER_UF_DEPARTMENT"] = "แผนก (รายการไอดี)";
+$MESS["BPGUIA_USER_UF_FACEBOOK"] = "เฟซบุ๊ก";
+$MESS["BPGUIA_USER_UF_LINKEDIN"] = "LinkedIn";
+$MESS["BPGUIA_USER_UF_PHONE_INNER"] = "โทรศัพท์ต่อพ่วง";
+$MESS["BPGUIA_USER_UF_SKYPE"] = "สไกป์";
+$MESS["BPGUIA_USER_UF_TWITTER"] = "ทวิตเตอร์";
+$MESS["BPGUIA_USER_UF_WEB_SITES"] = "เว็บไซต์อื่น ๆ";
+$MESS["BPGUIA_USER_UF_XING"] = "Xing";
+$MESS["BPGUIA_USER_WORK_PHONE"] = "โทรศัพท์ที่ทำงาน";
+$MESS["BPGUIA_USER_WORK_POSITION"] = "ตำแหน่งงาน";

@@ -1,0 +1,12 @@
+<?php
+$MESS["INTRANET_INVITE_DIALOG_MENU_ACTIVE_DIRECTORY"] = "Direktori Aktif";
+$MESS["INTRANET_INVITE_DIALOG_MENU_ADD"] = "Tambahkan pengguna baru";
+$MESS["INTRANET_INVITE_DIALOG_MENU_EXTRANET"] = "Undang pengguna ekstranet";
+$MESS["INTRANET_INVITE_DIALOG_MENU_INTEGRATOR"] = "Undang partner Bitrix24";
+$MESS["INTRANET_INVITE_DIALOG_MENU_INVITE_EMAIL"] = "Undang melalui email";
+$MESS["INTRANET_INVITE_DIALOG_MENU_INVITE_EMAIL_AND_PHONE"] = "Undang melalui email atau nomor telepon";
+$MESS["INTRANET_INVITE_DIALOG_MENU_INVITE_WITH_GROUP_DP"] = "Undang ke departemen atau grup kerja";
+$MESS["INTRANET_INVITE_DIALOG_MENU_MASS_INVITE"] = "Undangan massal";
+$MESS["INTRANET_INVITE_DIALOG_MENU_PHONE"] = "Undang melalui SMS";
+$MESS["INTRANET_INVITE_DIALOG_MENU_SELF"] = "Undang melalui tautan";
+$MESS["INTRANET_INVITE_DIALOG_MENU_SOON"] = "segera";

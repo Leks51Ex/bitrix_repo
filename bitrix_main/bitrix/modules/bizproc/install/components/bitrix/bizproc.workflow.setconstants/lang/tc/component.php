@@ -1,0 +1,6 @@
+<?
+$MESS["BPWFSC_ARGUMENT_ERROR"] = "#PARAM#: #ERROR#";
+$MESS["BPWFSC_ARGUMENT_NULL"] = "必要值 ('#PARAM#') 缺失。";
+$MESS["BPWFSC_ERROR"] = "錯誤";
+$MESS["BPWFSC_PAGE_TITLE"] = "#NAME#：工作流程常數";
+?>

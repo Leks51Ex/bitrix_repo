@@ -1,0 +1,5 @@
+<?
+$MESS["INTRANET_USER_PROFILE_SECURITY_OTP_TITLE"] = "ตัวเลือกการรักษาความปลอดภัยเพิ่มเติม";
+$MESS["INTRANET_USER_PROFILE_SECURITY_PASSWORDS_TITLE"] = "รหัสผ่านแอปพลิเคชัน";
+$MESS["INTRANET_USER_PROFILE_SYNCHRONIZE_TITLE"] = "ซิงโครไนซ์";
+?>

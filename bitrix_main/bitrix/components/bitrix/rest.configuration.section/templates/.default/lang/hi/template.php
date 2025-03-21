@@ -1,0 +1,4 @@
+<?
+$MESS["REST_CONFIGURATION_SECTION_LABEL"] = "पाइपलाइन्स चुनें";
+$MESS["REST_CONFIGURATION_SECTION_LINK_NAME"] = "खोलें";
+?>

@@ -1,0 +1,10 @@
+<?
+$MESS["REST_EVENT_LIST_TITLE"] = "Outgoing Webhook";
+$MESS["REST_HOOK_COMMENT"] = "コメント";
+$MESS["REST_HOOK_DATE_CREATE"] = "作成日";
+$MESS["REST_HOOK_DELETE"] = "削除";
+$MESS["REST_HOOK_EDIT"] = "編集";
+$MESS["REST_HOOK_EVENT_HANDLER"] = "ハンドラ";
+$MESS["REST_HOOK_EVENT_NAME"] = "イベント";
+$MESS["REST_HOOK_TITLE"] = "名前";
+?>

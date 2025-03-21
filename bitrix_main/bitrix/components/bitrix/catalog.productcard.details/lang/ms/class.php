@@ -1,0 +1,23 @@
+<?php
+$MESS["CPD_ACCESS_DENIED_ERROR_TITLE"] = "Kebenaran yang tidak mencukupi untuk melihat produk.";
+$MESS["CPD_ADD_PRODUCT_DENIED_ERROR_TITLE"] = "Kebenaran yang tidak mencukupi untuk mencipta produk.";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON"] = "Cipta objek inventori";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON_POPUP_ADJUSTMENT"] = "Resit stok";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON_POPUP_DEDUCT"] = "Hapus kira";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON_POPUP_MOVING"] = "Pindah";
+$MESS["CPD_CREATE_DOCUMENT_BUTTON_POPUP_SHIPMENT"] = "Pesanan jualan";
+$MESS["CPD_EDIT_PRODUCT_DENIED_ERROR_TITLE"] = "Kebenaran yang tidak mencukupi untuk menyunting produk.";
+$MESS["CPD_ENABLE_INVENTORY_MANAGEMENT_DENIED_ERROR_TITLE"] = "Kebenaran yang tidak mencukupi untuk membolehkan Pengurusan Inventori.";
+$MESS["CPD_ERROR_ADD_HIGHLOAD_BLOCK"] = "Tidak dapat membuat kamus dengan nama ini";
+$MESS["CPD_ERROR_CATALOG_SERVICES_LIMIT_EDITION"] = "Edisi produk anda tidak termasuk ciri Perkhidmatan.";
+$MESS["CPD_ERROR_CATALOG_SERVICES_LIMIT_TARIFF"] = "<a onclick=\"#LINK#\" style=\"cursor: pointer\">Pelan semasa anda</a>  tidak menyokong perkhidmatan.";
+$MESS["CPD_ERROR_EMPTY_DIRECTORY_ITEMS"] = "Tambah item ke senarai kamus";
+$MESS["CPD_ERROR_EMPTY_LIST_ITEMS"] = "Tambah item senarai";
+$MESS["CPD_ERROR_NOT_SUPPORTED_PRODUCT_TYPE"] = "Jenis produk \"#TYPE#\" yang dipilih oleh anda tidak disokong oleh bentuk produk baharu. Anda boleh melihat dan menyunting produk ini di kawasan Kedai Dalam Talian.<br>#LINK#";
+$MESS["CPD_ERROR_UNKNOWN_PRODUCT_TYPE"] = "Jenis produk tidak diketahui.";
+$MESS["CPD_NEW_LIST_ELEMENT_EMPTY_NAME"] = "Item baharu";
+$MESS["CPD_NEW_PRODUCT_TITLE"] = "Produk baru";
+$MESS["CPD_NEW_SERVICE_TITLE"] = "Perkhidmatan baharu";
+$MESS["CPD_NOT_FOUND_ERROR_TITLE"] = "Produk tidak ditemui. Ia mungkin telah dihapuskan.";
+$MESS["CPD_SETS_NOT_SUPPORTED_LINK"] = "Teruskan ke Kedai Dalam Talian sekarang";
+$MESS["CPD_SETS_NOT_SUPPORTED_TITLE"] = "Jenis produk Berkas yang anda pilih tidak disokong oleh bentuk produk baharu. Anda boleh melihat dan menyunting set di kawasan Kedai Dalam Talian.<br>#LINK#";

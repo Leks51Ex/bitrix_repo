@@ -1,0 +1,27 @@
+<?php
+$MESS["BPGUIA_ERROR_1"] = "Chưa nhập nhân viên mục tiêu.";
+$MESS["BPGUIA_ERROR_2"] = "Nhân viên mục tiêu không chính xác (không đủ quyền truy cập)";
+$MESS["BPGUIA_ERROR_USER_NOT_FOUND"] = "Không tìm thấy Nhân viên có ID=#ID#";
+$MESS["BPGUIA_IS_ABSENT"] = "Không ở văn phòng (theo lịch nghỉ phép)";
+$MESS["BPGUIA_TARGET_USER_NAME"] = "Nhân viên";
+$MESS["BPGUIA_TIMEMAN_STATUS"] = "Trạng thái ngày làm việc";
+$MESS["BPGUIA_USER_ACTIVE"] = "Hoạt động";
+$MESS["BPGUIA_USER_EMAIL"] = "Email";
+$MESS["BPGUIA_USER_LAST_NAME"] = "Họ";
+$MESS["BPGUIA_USER_LOGIN"] = "Đăng nhập";
+$MESS["BPGUIA_USER_NAME"] = "Tên";
+$MESS["BPGUIA_USER_PERSONAL_BIRTHDAY"] = "Ngày sinh";
+$MESS["BPGUIA_USER_PERSONAL_CITY"] = "Thành phố";
+$MESS["BPGUIA_USER_PERSONAL_MOBILE"] = "Điện thoại di động";
+$MESS["BPGUIA_USER_PERSONAL_WWW"] = "Website";
+$MESS["BPGUIA_USER_SECOND_NAME"] = "Tên thứ hai";
+$MESS["BPGUIA_USER_UF_DEPARTMENT"] = "Phòng ban (danh sách ID)";
+$MESS["BPGUIA_USER_UF_FACEBOOK"] = "Facebook";
+$MESS["BPGUIA_USER_UF_LINKEDIN"] = "LinkedIn";
+$MESS["BPGUIA_USER_UF_PHONE_INNER"] = "Số máy lẻ";
+$MESS["BPGUIA_USER_UF_SKYPE"] = "Skype";
+$MESS["BPGUIA_USER_UF_TWITTER"] = "Twitter";
+$MESS["BPGUIA_USER_UF_WEB_SITES"] = "Website khác";
+$MESS["BPGUIA_USER_UF_XING"] = "Xing";
+$MESS["BPGUIA_USER_WORK_PHONE"] = "Điện thoại cơ quan";
+$MESS["BPGUIA_USER_WORK_POSITION"] = "Chức danh công việc";

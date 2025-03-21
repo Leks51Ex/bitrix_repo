@@ -1,0 +1,12 @@
+<?php
+$MESS["INTRANET_INVITE_DIALOG_MENU_ACTIVE_DIRECTORY"] = "Active Directory";
+$MESS["INTRANET_INVITE_DIALOG_MENU_ADD"] = "Dodaj nowego użytkownika";
+$MESS["INTRANET_INVITE_DIALOG_MENU_EXTRANET"] = "Zaproś użytkownika ekstranetu";
+$MESS["INTRANET_INVITE_DIALOG_MENU_INTEGRATOR"] = "Zaproś partnera Bitrix24";
+$MESS["INTRANET_INVITE_DIALOG_MENU_INVITE_EMAIL"] = "Zaproś przez e-mail";
+$MESS["INTRANET_INVITE_DIALOG_MENU_INVITE_EMAIL_AND_PHONE"] = "Zaproś przez e-mail lub numer telefonu";
+$MESS["INTRANET_INVITE_DIALOG_MENU_INVITE_WITH_GROUP_DP"] = "Zaproś do działu lub grupy roboczej";
+$MESS["INTRANET_INVITE_DIALOG_MENU_MASS_INVITE"] = "Zaproszenie zbiorcze";
+$MESS["INTRANET_INVITE_DIALOG_MENU_PHONE"] = "Zaproś przez SMS";
+$MESS["INTRANET_INVITE_DIALOG_MENU_SELF"] = "Zaproś przez link";
+$MESS["INTRANET_INVITE_DIALOG_MENU_SOON"] = "wkrótce";

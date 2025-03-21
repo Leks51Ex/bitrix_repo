@@ -1,0 +1,8 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "未安裝 CRM 模組。";
+$MESS["CRM_REPORT_DEFAULT_1"] = "銷售代表的效率";
+$MESS["CRM_REPORT_DEFAULT_2"] = "最佳公司";
+$MESS["CRM_REPORT_DEFAULT_3"] = "最佳連絡人";
+$MESS["CRM_REPORT_DEFAULT_4"] = "最佳產品";
+$MESS["REPORT_MODULE_NOT_INSTALLED"] = "未安裝報表模組。";
+?>

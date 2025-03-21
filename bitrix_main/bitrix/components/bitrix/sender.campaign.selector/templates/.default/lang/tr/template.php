@@ -1,0 +1,8 @@
+<?
+$MESS["SENDER_CAMPAIGN_SELECTOR_BUTTON_SELECT"] = "kampanya seç";
+$MESS["SENDER_CAMPAIGN_SELECTOR_SEARCHER_TITLE"] = "Kampanyalar";
+$MESS["SENDER_CAMPAIGN_SELECTOR_SITE"] = "Web sitesi";
+$MESS["SENDER_CAMPAIGN_SELECTOR_SUBSCRIBER_COUNT"] = "Aboneler";
+$MESS["SENDER_CAMPAIGN_SELECTOR_SUBSCRIBER_COUNT_HINT"] = "Gönüllü olarak abonelik formunu kullanarak bu kampanyaya kayıt olan abone sayısı.";
+$MESS["SENDER_CAMPAIGN_SELECTOR_TITLE"] = "Kampanya";
+?>

@@ -1,0 +1,32 @@
+<?
+$MESS["VI_CONFIG_BUY"] = "เช่าหมายเลขโทรศัพท์";
+$MESS["VI_CONFIG_BUY_DESC_1"] = "เปลี่ยนเส้นทางสายโทรพนักงานทุกคน";
+$MESS["VI_CONFIG_BUY_DESC_2"] = "บันทึกการโทร";
+$MESS["VI_CONFIG_BUY_DESC_3"] = "การผสานรวม CRM แบบสมบูรณ์";
+$MESS["VI_CONFIG_BUY_DESC_4"] = "ราคาประหยัด";
+$MESS["VI_CONFIG_BUY_DESC_5"] = "หมายเลขโทรศัพท์ในกว่า 50 ประเทศ";
+$MESS["VI_CONFIG_LINK"] = "เชื่อมต่อกับหมายเลขของคุณ";
+$MESS["VI_CONFIG_LINK_DESC_1"] = "สายโทรออกเท่านั้น";
+$MESS["VI_CONFIG_LINK_DESC_2"] = "อย่าซื้อหมายเลขโทรศัพท์ใน Bitrix24";
+$MESS["VI_CONFIG_LINK_DESC_3"] = "บันทึกการโทรในโปรไฟล์ลูกค้า";
+$MESS["VI_CONFIG_LINK_DESC_4"] = "บันทึกสายโทรออก";
+$MESS["VI_CONFIG_LINK_DESC_5"] = "รองรับการโทรกลับ";
+$MESS["VI_CONFIG_NOTICE_NEW"] = "เลือกหมายเลขโทรออกเริ่มต้นได้ที่นี่: \"#LINK_CONFIG#\" ตั้งค่าหมายเลขต่อได้ที่นี่: \"#LINK_USERS#\"";
+$MESS["VI_CONFIG_OWN"] = "เชื่อมต่อ PBX ของคุณ";
+$MESS["VI_CONFIG_OWN_DESC_1"] = "เปลี่ยนเส้นทางสายโทรพนักงานทุกคน";
+$MESS["VI_CONFIG_OWN_DESC_2"] = "บันทึกการโทร";
+$MESS["VI_CONFIG_OWN_DESC_3"] = "การผสานรวม CRM แบบสมบูรณ์";
+$MESS["VI_CONFIG_OWN_DESC_4"] = "ชำระให้ผู้ให้บริการระบบโทรศัพท์ของคุณ";
+$MESS["VI_CONFIG_PAGE_CONFIG"] = "การตั้งค่าอื่น ๆ";
+$MESS["VI_CONFIG_PAGE_CONFIG_USERS"] = "ผู้ใช้งานระบบโทรศัพท์";
+$MESS["VI_CONFIG_PARTNERS_TITLE"] = "ระบบโทรศัพท์หุ้นส่วน";
+$MESS["VI_CONFIG_RENT"] = "เช่าหมายเลข";
+$MESS["VI_CONFIG_RENT_2_DESC"] = "เชื่อมต่อกับหมายเลขของคุณ โทรและรับสายใน Bitrix24 เพลิดเพลินกับความสะดวกสบาย จ่ายน้อยลง!";
+$MESS["VI_CONFIG_RENT_DESC"] = "เช่าหมายเลขจากผู้ให้บริการ แล้วรับสายโดยตรงภายใน Bitrix24 ง่ายดาย สะดวก และช่วยเหลือธุรกิจของคุณ!";
+$MESS["VI_CONFIG_SET"] = "เชื่อมต่อ";
+$MESS["VI_CONFIG_SET_ACTIVE"] = "เชื่อมต่อแล้ว";
+$MESS["VI_CONFIG_SET_OTHER"] = "เชื่อมต่อผ่านแอป Marketplace";
+$MESS["VI_CONFIG_SIP"] = "เชื่อมต่อ SIP PBX";
+$MESS["VI_CONFIG_SIP_DESC"] = "คุณมี PBX เป็นของตัวเองหรือไม่? เอามาเชื่อมต่อ แล้วโทรสายตรงได้จาก Bitrix24";
+$MESS["VI_CONFIG_WELCOME_MESSAGE"] = "โทรหาลูกค้าของคุณจาก Bitrix24 ที่อัตราประหยัด เช่าหมายเลขเพื่อรับสายเรียกเข้า บันทึกการสนทนา เพิ่มเหตุการณ์สายเรียกเข้าไปยัง CRM สร้างรายชื่อติดต่อจากสายเรียกเข้า และดูรายงานการโทรทั้งหมดกับ Bitrix24";
+?>

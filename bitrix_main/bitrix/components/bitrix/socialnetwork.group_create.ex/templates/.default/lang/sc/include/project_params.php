@@ -1,0 +1,2 @@
+<?php
+$MESS["SONET_GCE_T_PARAMS_PROJECT_DATE"] = "项目日期";

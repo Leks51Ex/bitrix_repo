@@ -1,0 +1,13 @@
+<?
+$MESS["SALE_DLV_SRV_SPSR_LOC_MAP"] = "地図";
+$MESS["SALE_LOCATION_MAP_ALL"] = "マッピング前に既存のマッピングを削除する";
+$MESS["SALE_LOCATION_MAP_ALL_B"] = "すべての場所を地図にする";
+$MESS["SALE_LOCATION_MAP_CANCEL"] = "キャンセル";
+$MESS["SALE_LOCATION_MAP_CLOSE"] = "閉じる";
+$MESS["SALE_LOCATION_MAP_LOC_COUNT"] = "登録された場所";
+$MESS["SALE_LOCATION_MAP_LOC_MAPPED"] = "マップされた場所";
+$MESS["SALE_LOCATION_MAP_LOC_MAPPING"] = "地図の場所";
+$MESS["SALE_LOCATION_MAP_NEW"] = "マッピングされていない場所のマップ";
+$MESS["SALE_LOCATION_MAP_NEW_B"] = "新しい場所を地図にする";
+$MESS["SALE_LOCATION_MAP_PREPARING"] = "準備する";
+?>

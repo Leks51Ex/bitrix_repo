@@ -1,0 +1,5 @@
+<?
+$MESS["TASKS_LAST_SELECTED"] = "Son Görevler";
+$MESS["TASKS_TASKS_CURRENT_COUNT"] = "Seçili";
+$MESS["TASKS_TASK_SEARCH"] = "Ara";
+?>

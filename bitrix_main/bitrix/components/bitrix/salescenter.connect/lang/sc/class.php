@@ -1,0 +1,4 @@
+<?php
+$MESS["SALESCENTER_CONNECT_TITLE"] = "连接";
+$MESS["SALESCENTER_IM_APP_ERROR"] = "无法安装即时聊天应用";
+$MESS["SALESCENTER_MODULE_ERROR"] = "未安装“销售中心”模块.";

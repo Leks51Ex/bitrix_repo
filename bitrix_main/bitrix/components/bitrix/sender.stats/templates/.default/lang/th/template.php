@@ -1,0 +1,25 @@
+<?
+$MESS["SENDER_STATS_CHART_CLICK"] = "คลิก";
+$MESS["SENDER_STATS_CHART_EFFICIENCY"] = "ไดนามิกส์ของประสิทธิภาพ";
+$MESS["SENDER_STATS_CHART_READ"] = "เข้าชม";
+$MESS["SENDER_STATS_CHART_UNSUB"] = "ยกเลิกการเป็นสมาชิกแล้ว";
+$MESS["SENDER_STATS_COUNTER_CLICK"] = "คลิก";
+$MESS["SENDER_STATS_COUNTER_POSTINGS"] = "จำนวนข้อความ";
+$MESS["SENDER_STATS_COUNTER_READ"] = "เข้าชม";
+$MESS["SENDER_STATS_COUNTER_SEND_ALL"] = "ข้อความทั้งหมดที่ส่งไป";
+$MESS["SENDER_STATS_COUNTER_SUBS"] = "สมัครสมาชิกแล้ว";
+$MESS["SENDER_STATS_COUNTER_UNSUB"] = "ยกเลิกการเป็นสมาชิกแล้ว";
+$MESS["SENDER_STATS_CREATE_NEW"] = "สร้างแคมเปญ";
+$MESS["SENDER_STATS_EFFICIENCY_LEVEL_1"] = "ไม่ดี";
+$MESS["SENDER_STATS_EFFICIENCY_LEVEL_2"] = "ปานกลาง";
+$MESS["SENDER_STATS_EFFICIENCY_LEVEL_3"] = "ยอมรับได้";
+$MESS["SENDER_STATS_EFFICIENCY_LEVEL_4"] = "ดี";
+$MESS["SENDER_STATS_EFFICIENCY_LEVEL_5"] = "ยอดเยี่ยม";
+$MESS["SENDER_STATS_EFFICIENCY_TITLE"] = "ประสิทธิภาพแคมเปญทางอีเมล";
+$MESS["SENDER_STATS_FILTER_FROM_AUTHOR"] = "จาก";
+$MESS["SENDER_STATS_FILTER_PERIOD_FOR"] = "สำหรับ";
+$MESS["SENDER_STATS_IN"] = "ไปยัง";
+$MESS["SENDER_STATS_NO_DATA"] = "ไม่มีข้อมูล";
+$MESS["SENDER_STATS_RECENT_POSTINGS"] = "แคมเปญล่าสุด";
+$MESS["SENDER_STATS_TITLE"] = "เริ่ม";
+?>

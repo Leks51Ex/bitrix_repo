@@ -1,0 +1,3 @@
+<?
+$MESS["TASKS_CHECKLIST_TEMPLATE_ADD_CHECKLIST"] = "新增檢查清單";
+?>

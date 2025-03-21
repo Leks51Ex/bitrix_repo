@@ -1,0 +1,23 @@
+<?php
+$MESS["BPABL_LOG"] = "Sejarah Proses Perniagaan";
+$MESS["BPABL_RES_1"] = "Tidak";
+$MESS["BPABL_RES_2"] = "Kejayaan";
+$MESS["BPABL_RES_3"] = "Dibatalkan";
+$MESS["BPABL_RES_4"] = "Ralat";
+$MESS["BPABL_RES_5"] = "Tidak Diasalkan";
+$MESS["BPABL_RES_6"] = "Tidak tertakrif";
+$MESS["BPABL_STATE_MODIFIED_1"] = "Tarikh Status Semasa";
+$MESS["BPABL_STATE_NAME_1"] = "Status Semasa Proses Perniagaan";
+$MESS["BPABL_STATUS_1"] = "Diasalkan";
+$MESS["BPABL_STATUS_2"] = "Sedang Dijalankan";
+$MESS["BPABL_STATUS_3"] = "Sedang Dibatalkan";
+$MESS["BPABL_STATUS_4"] = "Selesai";
+$MESS["BPABL_STATUS_5"] = "Ralat";
+$MESS["BPABL_STATUS_6"] = "Tidak tertakrif";
+$MESS["BPABL_TYPE_1_1"] = "Telah melancarkan aktiviti '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_2_1"] = "Aktiviti selesai '#ACTIVITY#' status kembali: '#STATUS#' keputusan: '#RESULT#'#NOTE#";
+$MESS["BPABL_TYPE_3_1"] = "Aktiviti dibatalkan '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_4_1"] = "Ralat aktiviti '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_5_1"] = "Aktiviti '#ACTIVITY#'#NOTE#";
+$MESS["BPABL_TYPE_6_1"] = "Aktiviti yang tidak diketahui berkaitan dengan '#ACTIVITY#'#NOTE# telah dijalankan";
+$MESS["BPWC_WLCT_TOTAL"] = "Jumlah";

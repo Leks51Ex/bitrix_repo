@@ -1,0 +1,6 @@
+<?
+$MESS["COMP_MAIN_USER_CONSENT_PARAM_ID"] = "同意";
+$MESS["COMP_MAIN_USER_CONSENT_PARAM_IS_AUTO_SAVE"] = "同意結果を自動的に保存する";
+$MESS["COMP_MAIN_USER_CONSENT_PARAM_IS_CHECKED"] = "同意チェックボックスはデフォルトでチェックされています";
+$MESS["COMP_MAIN_USER_CONSENT_PARAM_IS_IS_LOADED"] = "同意のテキストを一度に読み込む";
+?>

@@ -1,0 +1,24 @@
+<?php
+$MESS["BPAR_PD_TASK_BUTTON_CANCEL_MESSAGE"] = "Teks untuk tombol \"Tolak\" dalam tugas";
+$MESS["BPRIA_PD_CANCEL_TYPE"] = "Dapat ditolak oleh";
+$MESS["BPRIA_PD_CANCEL_TYPE_ALL"] = "Semua karyawan";
+$MESS["BPRIA_PD_CANCEL_TYPE_ANY"] = "Setiap karyawan";
+$MESS["BPRIA_PD_SAVE_VARIABLES"] = "Simpan nilai kegagalan";
+$MESS["BPRIOA_ACT_APPROVE_TRACK"] = "Pengguna #PERSON# sudah memberikan informasi tambahan #COMMENT#";
+$MESS["BPRIOA_ACT_BUTTON1"] = "Simpan";
+$MESS["BPRIOA_ACT_BUTTON2"] = "Tolak";
+$MESS["BPRIOA_ACT_CANCEL_TRACK"] = "Pengguna #PERSON# sudah membatalkan informasi tambahan #COMMENT#";
+$MESS["BPRIOA_ACT_COMMENT"] = "Komentar";
+$MESS["BPRIOA_ACT_COMMENT_ERROR"] = "Bidang '#COMMENT_LABEL#' wajib diisi.";
+$MESS["BPRIOA_ACT_INFO"] = "Menunggu informasi tambahan";
+$MESS["BPRIOA_ACT_PROP_EMPTY1"] = "Karakteristik 'Pengguna' tidak ditentukan.";
+$MESS["BPRIOA_ACT_PROP_EMPTY2"] = "Sedikitnya satu bidang diperlukan.";
+$MESS["BPRIOA_ACT_PROP_EMPTY4"] = "Karakteristik 'Nama' hilang.";
+$MESS["BPRIOA_ACT_TRACK1"] = "Informasi tambahan untuk diberikan oleh #VAL#";
+$MESS["BPRIOA_ARGUMENT_NULL"] = "Nilai yang diperlukan '#PARAM#' hilang.";
+$MESS["BPRIOA_LOG_COMMENTS"] = "Komentar";
+$MESS["BPSFA_COMMENT_REQUIRED_YA"] = "Hanya ketika disetujui";
+$MESS["BPSFA_COMMENT_REQUIRED_YR"] = "Hanya ketika ditolak";
+$MESS["BPSFA_PD_CANCEL"] = "Batal";
+$MESS["BPSFA_PD_NO"] = "Tidak";
+$MESS["BPSFA_PD_YES"] = "Ya";

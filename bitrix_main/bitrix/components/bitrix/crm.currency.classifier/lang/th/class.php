@@ -1,0 +1,14 @@
+<?
+$MESS["CRM_CURRENCY_CLASSIFIER_ADD_UNKNOWN_ERROR"] = "ข้อผิดพลาดที่ไม่รู้จักเมื่อสร้างสกุลเงิน";
+$MESS["CRM_CURRENCY_CLASSIFIER_CURRENCY_NOT_FOUND"] = "ไม่พบสกุลเงิน #currency#";
+$MESS["CRM_CURRENCY_CLASSIFIER_FIELD_FULL_NAME_ERROR"] = "ชื่อสกุลเงินต้องไม่เว้นว่างหรือเกิน 50 ตัวอักษร";
+$MESS["CRM_CURRENCY_CLASSIFIER_FIELD_INCORRECT_VALUE_ERROR"] = "ค่าไม่ถูกต้องหรือใหญ่เกินไป";
+$MESS["CRM_CURRENCY_CLASSIFIER_FIELD_MAX_LENGTH_ERROR"] = "ค่าต้องไม่เกิน #max_length# ตัวอักษร";
+$MESS["CRM_CURRENCY_CLASSIFIER_FIELD_SIGN_POSITION_AFTER"] = "จำนวนหลัง";
+$MESS["CRM_CURRENCY_CLASSIFIER_FIELD_SIGN_POSITION_BEFORE"] = "จำนวนก่อน";
+$MESS["CRM_CURRENCY_CLASSIFIER_FIELD_SYM_CODE_ERROR"] = "รหัสสัญลักษณ์ต้องเป็นตัวย่ออักษรละตินสามตัว";
+$MESS["CRM_CURRENCY_CLASSIFIER_FIELD_THOUSANDS_VARIANT_OWN"] = "ค่าอื่น ๆ";
+$MESS["CRM_CURRENCY_CLASSIFIER_MODULE_NOT_INSTALLED_CRM"] = "ไม่ได้ติดตั้งโมดูล CRM";
+$MESS["CRM_CURRENCY_CLASSIFIER_MODULE_NOT_INSTALLED_CURRENCY"] = "ไม่ได้ติดตั้งโมดูลสกุลเงิน";
+$MESS["CRM_CURRENCY_CLASSIFIER_UPDATE_UNKNOWN_ERROR"] = "ข้อผิดพลาดที่ไม่รู้จักเมื่ออัปเดตสกุลเงิน";
+?>

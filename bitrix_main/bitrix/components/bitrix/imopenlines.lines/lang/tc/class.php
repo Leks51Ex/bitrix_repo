@@ -1,0 +1,4 @@
+<?
+$MESS["OL_COMPONENT_MODULE_NOT_INSTALLED"] = "未安裝 Open Channels 模組。";
+$MESS["OL_COMPONENT_PERMISSION_DENIED"] = "已拒絕存取";
+?>

@@ -1,0 +1,32 @@
+<?
+$MESS["BITRIXTV_GROUP_PREVIEW_TV"] = "Cài đặt người chơi";
+$MESS["BITRIXTV_GROUP_PREVIEW_TV_PLAYER"] = "Thiết lập danh sách";
+$MESS["BITRIXTV_GROUP_SETTINGS"] = "Cài đặt chung";
+$MESS["BITRIXTV_SETTING_ALLOW_SWF"] = "Cho phép các tập tin SWF chạy (không khuyến khích)";
+$MESS["BITRIXTV_SETTING_DEFAULT_BIG_IMAGE"] = "Hình ảnh lớn (mặc định)";
+$MESS["BITRIXTV_SETTING_DEFAULT_SMALL_IMAGE"] = "Hình ảnh nhỏ (mặc định)";
+$MESS["BITRIXTV_SETTING_DURATION"] = "Thuộc tính có giá trị thời gian tập tin video";
+$MESS["BITRIXTV_SETTING_IBLOCK_ID"] = "Mã khối thông tin";
+$MESS["BITRIXTV_SETTING_IBLOCK_TYPE"] = "Loại khối thông tin";
+$MESS["BITRIXTV_SETTING_LOGO"] = "Biểu tượng";
+$MESS["BITRIXTV_SETTING_PATH_TO_FILE"] = "Thuộc tính đường dẫn đến tập tin video";
+$MESS["BITRIXTV_SETTING_PREVIEW_HEIGHT"] = "Độ rộng trình chơi nhạc";
+$MESS["BITRIXTV_SETTING_PREVIEW_TV_ELEMENT"] = "Yếu tố";
+$MESS["BITRIXTV_SETTING_PREVIEW_TV_SECTION"] = "Phần";
+$MESS["BITRIXTV_SETTING_PREVIEW_WIDTH"] = "Độ dài trình chơi nhạc";
+$MESS["BITRIXTV_SETTING_SHOW_COUNTER_EVENT"] = "Yếu tố tăng lượt xem truy cập";
+$MESS["BITRIXTV_SETTING_STAT"] = "Xem thống kê";
+$MESS["BITRIXTV_SETTING_STAT_EVENT"] = "Sự kiện theo dõi trong Web Analytics";
+$MESS["BITRIXTV_SETTING_STAT_EVENT1"] = "sự kiện 1";
+$MESS["BITRIXTV_SETTING_STAT_EVENT2"] = "sự kiện 2";
+$MESS["CP_BIT_CACHE_GROUPS"] = "Tôn trọng quyền truy cập";
+$MESS["T_IBLOCK_DESC_ASC"] = "Tăng dần";
+$MESS["T_IBLOCK_DESC_DESC"] = "Giảm dần";
+$MESS["T_IBLOCK_DESC_FACT"] = "Ngày bắt đầu";
+$MESS["T_IBLOCK_DESC_FID"] = "ID";
+$MESS["T_IBLOCK_DESC_FNAME"] = "Tên";
+$MESS["T_IBLOCK_DESC_FSORT"] = "Phân loại";
+$MESS["T_IBLOCK_DESC_FTSAMP"] = "Thay đổi lần cuối";
+$MESS["T_IBLOCK_DESC_IBBY1"] = "Thứ tự sắp xếp đầu tiên";
+$MESS["T_IBLOCK_DESC_IBORD1"] = "Trường loại đầu tiên";
+?>

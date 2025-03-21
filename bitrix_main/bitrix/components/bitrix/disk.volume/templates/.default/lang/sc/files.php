@@ -1,0 +1,4 @@
+<?
+$MESS["DISK_VOLUME_LIST_BACK"] = "文件夹列表";
+$MESS["DISK_VOLUME_LIST_DISK_BACK"] = "云盘清单";
+?>

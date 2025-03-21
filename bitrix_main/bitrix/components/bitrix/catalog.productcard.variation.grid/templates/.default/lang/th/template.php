@@ -1,0 +1,21 @@
+<?php
+$MESS["C_PVG_ADD_NEW_PROPERTY_VALUE_BUTTON"] = "เพิ่มค่าใหม่";
+$MESS["C_PVG_CREATE_VARIATION"] = "เพิ่มรูปแบบอื่น";
+$MESS["C_PVG_CREATE_VARIATION_PROPERTY"] = "สร้างคุณสมบัติรูปแบบอื่น";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_BUTTON_CLOSE"] = "ปิด";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_BUTTON_COPY"] = "คัดลอกผลิตภัณฑ์";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_DOC_LINK_INFO"] = "เรียนรู้เพิ่มเติม";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_TEXT"] = "สร้างผลิตภัณฑ์แค็ตตาล็อกใหม่ หรือคลิก #COPY_BUTTON_NAME# เพื่อโคลนผลิตภัณฑ์และคุณสมบัติของผลิตภัณฑ์ ให้กับรายการผลิตภัณฑ์ใหม่ ที่คุณจะสามารถเพิ่มรูปแบบอื่นลงไปได้ #LINK_INFO#";
+$MESS["C_PVG_SIMPLE_PRODUCT_POPUP_TITLE"] = "ไม่สามารถเพิ่มรูปแบบอื่นลงในผลิตภัณฑ์ได้ เนื่องจากถูกสร้างเป็นแบบเรียบง่าย";
+$MESS["C_PVG_STORE_ADD_NEW_BARCODE"] = "เพิ่มบาร์โค้ด";
+$MESS["C_PVG_STORE_ADD_ONE_MORE_BARCODE"] = "เพิ่มอีก";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_AMOUNT"] = "มีอยู่";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_EMPTY"] = "ผลิตภัณฑ์นี้ไม่มีในสต็อกที่คลังสินค้าทุกแห่ง";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_OPEN_SLIDER_BUTTON"] = "ดูทั้งหมด (#STORE_COUNT#)";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_QUANTITY_AVAILABLE"] = "สต็อกที่มี";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_QUANTITY_COMMON"] = "ยอดเงิน";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_QUANTITY_COMMON1"] = "ปริมาณที่คลังสินค้า";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_QUANTITY_RESERVED"] = "ที่เก็บสำรองไว้";
+$MESS["C_PVG_STORE_AMOUNT_POPUP_STORE"] = "คลังสินค้า";
+$MESS["C_PVG_STORE_CREATE_BARCODE_PLACEHOLDER"] = "ใส่บาร์โค้ดใหม่";
+$MESS["C_PVG_VARIATIONS_TITLE"] = "รูปแบบอื่น";

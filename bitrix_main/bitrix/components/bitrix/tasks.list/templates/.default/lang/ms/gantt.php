@@ -1,0 +1,15 @@
+<?
+$MESS["TASKS_CANNOT_ADD_DEPENDENCY"] = "Tidak dapat menghubungkan tugas tersebut";
+$MESS["TASKS_GANTT_MONTH_APR"] = "April";
+$MESS["TASKS_GANTT_MONTH_AUG"] = "Ogos";
+$MESS["TASKS_GANTT_MONTH_DEC"] = "Disember";
+$MESS["TASKS_GANTT_MONTH_FEB"] = "Februari";
+$MESS["TASKS_GANTT_MONTH_JAN"] = "Januari";
+$MESS["TASKS_GANTT_MONTH_JUL"] = "Julai";
+$MESS["TASKS_GANTT_MONTH_JUN"] = "Jun";
+$MESS["TASKS_GANTT_MONTH_MAR"] = "Mac";
+$MESS["TASKS_GANTT_MONTH_MAY"] = "Mei";
+$MESS["TASKS_GANTT_MONTH_NOV"] = "November";
+$MESS["TASKS_GANTT_MONTH_OCT"] = "Oktober";
+$MESS["TASKS_GANTT_MONTH_SEP"] = "September";
+?>

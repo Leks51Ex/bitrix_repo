@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_PRODUCT_SECTION_CRUMBS_AJAX_ERROR_EMPTY_ACTION"] = "Tidak ada tindakan dipilih.";
+$MESS["CRM_PRODUCT_SECTION_CRUMBS_AJAX_ERROR_REQUIRED_PARAMETER"] = "Parameter #PARAM# diperlukan tetapi hilang.";
+$MESS["CRM_PRODUCT_SECTION_CRUMBS_AJAX_ERROR_UNKNOWN_ACTION"] = "Tindakan tidak dikenal: #ACTION#.";
+?>

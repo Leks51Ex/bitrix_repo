@@ -1,0 +1,23 @@
+<?php
+$MESS["BP_V1ST_APPR"] = "承認済";
+$MESS["BP_V1ST_APPR_S"] = "ステータス:承認済";
+$MESS["BP_V1ST_DESC"] = "1人の回答者からの承認が十分である場合に推奨されます  投票に参加することを提案される人のリストを作成します  最初の投票が行われた時点で投票が完了しています";
+$MESS["BP_V1ST_MAIL2_NA"] = "{=ドキュメント:NAME}の投票:このドキュメントは拒否されました";
+$MESS["BP_V1ST_MAIL2_NA_TEXT"] = "「{ドキュメント:NAME}」への投票が完了しました";
+$MESS["BP_V1ST_MAIL_NAME"] = "メールメッセージ";
+$MESS["BP_V1ST_MAIL_SUBJ"] = "{=ドキュメント:NAME}の投票:このドキュメントは承認されました";
+$MESS["BP_V1ST_MAIL_TEXT"] = "「{ドキュメント:NAME}」への投票が完了しました";
+$MESS["BP_V1ST_NAME"] = "最初の承認";
+$MESS["BP_V1ST_PARAM1"] = "投票人";
+$MESS["BP_V1ST_PARAM1_DESC"] = "承認プロセスに参加しているユーザー";
+$MESS["BP_V1ST_S2_1"] = "一連のアクティビティ";
+$MESS["BP_V1ST_SEQ"] = "連続的な業務プロセス";
+$MESS["BP_V1ST_STAT_NA"] = "却下された";
+$MESS["BP_V1ST_STAT_NA_T"] = "ステータス:拒否";
+$MESS["BP_V1ST_T3"] = "ドキュメント発行";
+$MESS["BP_V1ST_TASK_DESC"] = "\"{=ドキュメント:NAME}\"というドキュメントを承認または拒否する必要があります";
+$MESS["BP_V1ST_TASK_NAME"] = "承認文書:「{=ドキュメント:NAME}」";
+$MESS["BP_V1ST_TASK_T"] = "文書を承認または却下してください";
+$MESS["BP_V1ST_TASK_TEXT"] = "\"{=ドキュメント:NAME}\"というドキュメントを承認または拒否する必要があります";
+$MESS["BP_V1ST_TNA"] = "ドキュメントは却下されました";
+$MESS["BP_V1ST_VNAME"] = "文書に関する賛成";

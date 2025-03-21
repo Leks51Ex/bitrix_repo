@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_CONFIG_NAME"] = " ";
+$MESS["CRM_EXCH1C_DESCRIPTION"] = " ";
+$MESS["CRM_EXCH1C_NAME"] = " ";
+$MESS["CRM_NAME"] = " ";
+?>

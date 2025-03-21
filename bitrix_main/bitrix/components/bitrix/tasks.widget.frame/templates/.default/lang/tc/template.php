@@ -1,0 +1,5 @@
+<?
+$MESS["TASKS_TWF_T_ADDITIONAL_CLOSE"] = "隱藏";
+$MESS["TASKS_TWF_T_ADDITIONAL_OPEN"] = "更多";
+$MESS["TASKS_TWF_T_PINNER_HINT"] = "釘選或取消釘選區塊";
+?>

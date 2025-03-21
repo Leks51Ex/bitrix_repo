@@ -1,0 +1,25 @@
+<?php
+$MESS["CRM_SCENARIO_SELECTION_ACTIVE_ORDERS"] = "Pesanan aktif: #ORDER_COUNT#";
+$MESS["CRM_SCENARIO_SELECTION_CONVERT_ACTIVE_ORDERS"] = "Konversikan pesanan aktif menjadi transaksi saat mengubah mode";
+$MESS["CRM_SCENARIO_SELECTION_DEALS"] = "Transaksi";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION"] = "Pilihan terbaik untuk penjualan pribadi";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_1"] = "Permintaan apa pun (dari panggilan, obrolan, formulir CRM, pesanan toko online, dll.) akan ditambahkan ke transaksi CRM";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_2"] = "Komunikasi pelanggan, status pembayaran, tahap pengiriman akan terlihat dalam linimasa transaksi.";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_3"] = "Perwakilan penjualan berkomunikasi dengan setiap pelanggan secara pribadi";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_ONLY_WARNING"] = "Pemrosesan pesanan tidak akan tersedia jika Anda memilih untuk menangani transaksi saja.";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS"] = "Transaksi dan pesanan";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION"] = "Ideal untuk pemrosesan pesanan otomatis";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_1"] = "Pesanan toko online hanya disimpan ke pesanan CRM, tidak ditambahkan ke transaksi";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_2"] = "Transaksi dibuat sebagai entitas terpisah (mis. untuk menyediakan layanan tambahan)";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_3"] = "Beberapa perwakilan penjualan menangani transaksi, sementara perwakilan penjualan lainnya memproses pesanan toko online";
+$MESS["CRM_SCENARIO_SELECTION_SAVE_ERROR"] = "Kesalahan mengubah mode";
+$MESS["CRM_SCENARIO_SELECTION_SELECT"] = "Pilih";
+$MESS["CRM_SCENARIO_SELECTION_SELECTED"] = "Dipilih";
+$MESS["CRM_SCENARIO_SELECTION_TITLE"] = "Mode penanganan pesanan";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_CANCEL_BUTTON"] = "Beralih ke mode Transaksi";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_OK_BUTTON"] = "Tetap di mode Transaksi & Pesanan";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_1"] = "Pesanan toko online Anda akan menjadi transaksi sehingga Anda bisa menerima pembayaran, melakukan pengiriman, dan mereservasi stok di gudang. Tidak akan ada area \"Pesanan\" mandiri.";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_2"] = "Perhatikan bahwa Anda tidak bisa beralih kembali ke mode Transaksi & Pesanan karena itu tidak lagi didukung.";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_3_PART_1"] = "Baca lebih lanjut";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_3_PART_2"] = "tentang dua mode ini sebelum Anda memilih salah satunya.";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TITLE"] = "Anda hendak beralih ke mode Transaksi";

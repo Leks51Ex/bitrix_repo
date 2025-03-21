@@ -1,0 +1,23 @@
+<?php
+$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูลกระบวนการทางธุรกิจ";
+$MESS["CRM_FIELD_ADDRESS"] = "ที่อยู่";
+$MESS["CRM_FIELD_ASSIGNED_BY_ID"] = "รับผิดชอบ";
+$MESS["CRM_FIELD_COMMENTS"] = "ความคิดเห็น";
+$MESS["CRM_FIELD_COMPANY_CONTACTS"] = "รายชื่อติดต่อ";
+$MESS["CRM_FIELD_CREATED_BY_ID"] = "สร้างขึ้นโดย";
+$MESS["CRM_FIELD_CURRENCY_ID"] = "สกุลเงิน";
+$MESS["CRM_FIELD_EMAIL"] = "อีเมล";
+$MESS["CRM_FIELD_ENTITY_TREE"] = "การพึ่งพิงกัน";
+$MESS["CRM_FIELD_FIND"] = "ค้นหา";
+$MESS["CRM_FIELD_LOGO"] = "โลโก้";
+$MESS["CRM_FIELD_MODIFY_BY_ID"] = "ถูกแก้ไขโดย";
+$MESS["CRM_FIELD_PHONE"] = "โทรศัพท์";
+$MESS["CRM_FIELD_TITLE"] = "ชื่อบริษัท";
+$MESS["CRM_FIELD_UTM"] = "พารามิเตอร์ UTM";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล CRM";
+$MESS["CRM_PERMISSION_DENIED"] = "ปฏิเสธการเข้าใช้";
+$MESS["CRM_SECTION_ACTIVITIES"] = "กิจกรรม";
+$MESS["CRM_SECTION_ADDITIONAL"] = "เพิ่มเติม";
+$MESS["CRM_SECTION_CONTACTS"] = "รายชื่อติดต่อ";
+$MESS["CRM_SECTION_DEALS"] = "ดีล";
+$MESS["CRM_SECTION_LEADS"] = "ลีด";

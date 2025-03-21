@@ -1,0 +1,21 @@
+<?
+$MESS["CRM_CONTACT_CREATE_TITLE"] = "新しい連絡先";
+$MESS["CRM_CONTACT_EDIT_DUP_CTRL_BANK_DETAIL_SUMMARY_TITLE"] = "銀行詳細";
+$MESS["CRM_CONTACT_EDIT_DUP_CTRL_EMAIL_SUMMARY_TITLE"] = "メールで";
+$MESS["CRM_CONTACT_EDIT_DUP_CTRL_FULL_NAME_SUMMARY_TITLE"] = "氏名で";
+$MESS["CRM_CONTACT_EDIT_DUP_CTRL_PHONE_SUMMARY_TITLE"] = "電話で";
+$MESS["CRM_CONTACT_EDIT_DUP_CTRL_REQUISITE_SUMMARY_TITLE"] = "お問い合わせ先";
+$MESS["CRM_CONTACT_EDIT_DUP_CTRL_SHORT_SUMMARY_TITLE"] = "見つけた";
+$MESS["CRM_CONTACT_EDIT_DUP_CTRL_SUMMARY_TITLE"] = "一致が見つかりました";
+$MESS["CRM_CONTACT_EDIT_DUP_CTRL_WARNING_ACCEPT_BTN_TITLE"] = "無視して保存する";
+$MESS["CRM_CONTACT_EDIT_DUP_CTRL_WARNING_CANCEL_BTN_TITLE"] = "キャンセル";
+$MESS["CRM_CONTACT_EDIT_DUP_CTRL_WARNING_DLG_TITLE"] = "可能なクローン";
+$MESS["CRM_CONTACT_EDIT_TITLE"] = "お問い合わせ##ID#&mdash;#名#";
+$MESS["CRM_IMPORT_SNS"] = "vCardを使用して連絡先を追加することもできます <br> <b>Microsoft Outlook</b>の[連絡先]を開き、必要な連絡先を選択します  トップバーで「<b>アクション%ARROW%名刺として送信</b>」を選択し、<b>%EMAIL%</b>に送信してください";
+$MESS["CRM_TAB_1"] = "連絡先";
+$MESS["CRM_TAB_1_TITLE"] = "会社の特性";
+$MESS["CRM_TAB_2"] = "履歴";
+$MESS["CRM_TAB_2_TITLE"] = "会社のログ";
+$MESS["CRM_TAB_3"] = "業務プロセス";
+$MESS["CRM_TAB_3_TITLE"] = "取引の業務プロセス";
+?>

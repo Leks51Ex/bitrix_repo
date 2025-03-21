@@ -1,0 +1,31 @@
+<?
+$MESS["BPWI_DELETE_CONFIRM"] = "İşlemi ve ona ilişkin tüm veriyi silmek istediğine emin misin?";
+$MESS["BPWI_DELETE_LABEL"] = "Sil";
+$MESS["BPWI_DOCUMENT_NAME"] = "Belge";
+$MESS["BPWI_FILTER_DOCTYPE_ALL"] = "Tüm";
+$MESS["BPWI_FILTER_DOCTYPE_CLAIMS"] = "İş Akışları";
+$MESS["BPWI_FILTER_DOCTYPE_CRM"] = "CRM";
+$MESS["BPWI_FILTER_DOCTYPE_DISK"] = "Dosyalar";
+$MESS["BPWI_FILTER_DOCTYPE_LISTS"] = "Listeler";
+$MESS["BPWI_FILTER_PRESET_LOCKED"] = "Askıda";
+$MESS["BPWI_FILTER_STATUS"] = "Durum";
+$MESS["BPWI_IS_LOCKED"] = "Askıda";
+$MESS["BPWI_MODIFIED"] = "Değiştirme Tarihi";
+$MESS["BPWI_MODULE_CRM"] = "CRM";
+$MESS["BPWI_MODULE_DISK"] = "Sürücü";
+$MESS["BPWI_MODULE_IBLOCK"] = "Listeler";
+$MESS["BPWI_MODULE_LISTS"] = "İş Akışları";
+$MESS["BPWI_NO"] = "Hayır";
+$MESS["BPWI_NO_ACCESS"] = "Bu sayfaya sadece portal yöneticisi erişebilir.";
+$MESS["BPWI_NO_DOCUMENT"] = "Belge bulunamadı.";
+$MESS["BPWI_NO_MATTER"] = "(önemsiz)";
+$MESS["BPWI_OPEN_DOCUMENT"] = "Belge (yeni pencerede)";
+$MESS["BPWI_OWNED_UNTIL"] = "Kilitli:";
+$MESS["BPWI_PAGE_TITLE"] = "Çalışan iş akışları";
+$MESS["BPWI_WORKFLOW_ID_ANY"] = "(herhangi)";
+$MESS["BPWI_WS_MODULE_ID"] = "Modül";
+$MESS["BPWI_WS_STARTED"] = "Şu Tarihte Başladı:";
+$MESS["BPWI_WS_STARTED_BY"] = "Şu Kişi Tarafından Başlatıldı:";
+$MESS["BPWI_WS_WORKFLOW_TEMPLATE_ID"] = "İş Akışı";
+$MESS["BPWI_YES"] = "Evet";
+?>

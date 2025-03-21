@@ -1,0 +1,5 @@
+<?
+$MESS["BIZPROC_EDIT_MENU_LIST_MESSAGE"] = "業務プロセス";
+$MESS["BIZPROC_EDIT_MENU_LIST_TITLE_MESSAGE"] = "業務プロセスの実行";
+$MESS["BPWC_WCT_EMPTY_BLOCK"] = "情報ブロックIDは指定されていません";
+?>

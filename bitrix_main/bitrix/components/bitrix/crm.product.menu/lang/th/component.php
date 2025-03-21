@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_ADD_PRODUCT_SECTION"] = "เพิ่มส่วน";
+$MESS["CRM_ADD_PRODUCT_SECTION_TITLE"] = "เพิ่มส่วนใหม่ในส่วนปัจจุบัน";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูล CRM";
+$MESS["CRM_MOVE_UP"] = "ขึ้น";
+$MESS["CRM_MOVE_UP_TITLE"] = "เรียกดูส่วนแม่";
+$MESS["CRM_PERMISSION_DENIED"] = "ปฏิเสธการเข้าใช้";
+$MESS["CRM_PRODUCT_ADD"] = "เพิ่มผลิตภัณฑ์";
+$MESS["CRM_PRODUCT_ADD_TITLE"] = "สร้างผลิตภัณฑ์ใหม่";
+$MESS["CRM_PRODUCT_COPY"] = "คัดลอก";
+$MESS["CRM_PRODUCT_COPY_TITLE"] = "เปิดหน้าการคัดลอกผลิตภัณฑ์";
+$MESS["CRM_PRODUCT_DELETE"] = "ลบผลิตภัณฑ์";
+$MESS["CRM_PRODUCT_DELETE_DLG_BTNTITLE"] = "ลบผลิตภัณฑ์";
+$MESS["CRM_PRODUCT_DELETE_DLG_MESSAGE"] = "คุณแน่ใจหรือไม่ ว่าต้องการลบผลิตภัณฑ์นี้?";
+$MESS["CRM_PRODUCT_DELETE_DLG_TITLE"] = "ลบผลิตภัณฑ์";
+$MESS["CRM_PRODUCT_DELETE_TITLE"] = "ลบผลิตภัณฑ์นี้";
+$MESS["CRM_PRODUCT_EDIT"] = "แก้ไข";
+$MESS["CRM_PRODUCT_EDIT_TITLE"] = "แก้ไขผลิตภัณฑ์";
+$MESS["CRM_PRODUCT_EXPORT_ALL_FIELDS"] = "ส่งออกทุกฟิลด์ของผลิตภัณฑ์";
+$MESS["CRM_PRODUCT_EXPORT_CSV"] = "ส่งออกผลิตภัณฑ์เป็น CSV";
+$MESS["CRM_PRODUCT_EXPORT_CSV_TITLE"] = "ส่งออกผลิตภัณฑ์เป็น CSV";
+$MESS["CRM_PRODUCT_EXPORT_EXCEL"] = "ส่งออกผลิตภัณฑ์เป็น Microsoft Excel";
+$MESS["CRM_PRODUCT_EXPORT_EXCEL_TITLE"] = "ส่งออกผลิตภัณฑ์เป็น Microsoft Excel";
+$MESS["CRM_PRODUCT_EXPORT_INCLUDE_SUBSECTIONS"] = "ส่งออกส่วนย่อย";
+$MESS["CRM_PRODUCT_IMPORT"] = "การนำเข้าผลิตภัณฑ์";
+$MESS["CRM_PRODUCT_IMPORT_TITLE"] = "การนำเข้าผลิตภัณฑ์";
+$MESS["CRM_PRODUCT_LIST"] = "ผลิตภัณฑ์";
+$MESS["CRM_PRODUCT_LIST_TITLE"] = "ดูผลิตภัณฑ์";
+$MESS["CRM_PRODUCT_SECTIONS"] = "การจัดการส่วน";
+$MESS["CRM_PRODUCT_SECTIONS_TITLE"] = "แก้ไขและลบส่วน";
+$MESS["CRM_PRODUCT_SHOW"] = "มุมมอง";
+$MESS["CRM_PRODUCT_SHOW_TITLE"] = "ดูผลิตภัณฑ์";
+$MESS["CRM_PRODUCT_STEXPORT_SUMMARY"] = "นี่จะเป็นการสร้างไฟล์ส่งออกผลิตภัณฑ์ การส่งออกผลิตภัณฑ์จำนวนมากอาจใช้เวลาสักระยะหนึ่ง";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูลบล็อกข้อมูล";
+?>

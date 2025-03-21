@@ -1,0 +1,3 @@
+<?
+$MESS["TASKS_CHECKLIST_COMPONENT_CLASS_CHECKLIST"] = "Danh sách kiểm tra";
+?>

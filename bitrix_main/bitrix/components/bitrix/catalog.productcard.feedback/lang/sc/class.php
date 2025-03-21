@@ -1,0 +1,2 @@
+<?php
+$MESS["CATALOG_PRODUCTCARD_FEEDBACK_MODULE_ERROR"] = "未安装商业目录模块。";

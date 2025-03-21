@@ -1,0 +1,4 @@
+<?
+$MESS["M_CRM_CLIENT_LIST_ACCEPT_BUTTON_TITLE"] = "सेव करें";
+$MESS["M_CRM_CLIENT_LIST_CANCEL_BUTTON_TITLE"] = "रद्द करें";
+?>

@@ -1,0 +1,11 @@
+<?
+$MESS["REQUISITE_ADD"] = "詳細を追加";
+$MESS["REQUISITE_ADD_TITLE"] = "詳細を追加";
+$MESS["REQUISITE_COPY"] = "コピー";
+$MESS["REQUISITE_COPY_TITLE"] = "詳細をコピーする";
+$MESS["REQUISITE_DELETE"] = "詳細を削除";
+$MESS["REQUISITE_DELETE_DLG_BTNTITLE"] = "削除";
+$MESS["REQUISITE_DELETE_DLG_MESSAGE"] = "アイテムを削除してもよろしいですか?";
+$MESS["REQUISITE_DELETE_DLG_TITLE"] = "詳細を削除";
+$MESS["REQUISITE_DELETE_TITLE"] = "詳細を削除";
+?>

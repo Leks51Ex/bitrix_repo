@@ -1,0 +1,8 @@
+<?
+$MESS["CRM_EVENT_EMPTY"] = "Kayıt Yok";
+$MESS["CRM_EVENT_ENTITY_COMPANY"] = "Şirket";
+$MESS["CRM_EVENT_ENTITY_CONTACT"] = "İletişim";
+$MESS["CRM_EVENT_ENTITY_DEAL"] = "Anlaşma";
+$MESS["CRM_EVENT_ENTITY_LEAD"] = "Müşteri adayı";
+$MESS["CRM_EVENT_ENTITY_QUOTE"] = "Teklif";
+?>

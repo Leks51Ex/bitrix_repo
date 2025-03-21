@@ -1,0 +1,25 @@
+<?php
+$MESS["CRM_SCENARIO_SELECTION_ACTIVE_ORDERS"] = "有効な注文: #ORDER_COUNT#";
+$MESS["CRM_SCENARIO_SELECTION_CONVERT_ACTIVE_ORDERS"] = "モード変更時に有効な注文を取引に変換する";
+$MESS["CRM_SCENARIO_SELECTION_DEALS"] = "取引";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION"] = "個人販売に最適";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_1"] = "(通話、チャット、CRMフォーム、オンラインショップの注文などからの) リクエストはすべて CRM の取引に追加されます";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_2"] = "顧客とのやりとり、支払いステータス、配送ステージは取引のタイムラインに表示されます。";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_DESCRIPTION_ITEM_3"] = "営業担当者は各顧客と個人的にやりとりします";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_ONLY_WARNING"] = "取引のみを処理する場合、注文処理は使用できません。";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS"] = "取引と注文";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION"] = "自動注文処理に最適";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_1"] = "オンラインショップの注文は CRM の注文にのみ保存され、取引には追加されません";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_2"] = "取引は (追加のサービスを提供するなどの目的で) 個別のエンティティとして作成されます";
+$MESS["CRM_SCENARIO_SELECTION_DEALS_PLUS_ORDERS_DESCRIPTION_ITEM_3"] = "取引を処理する営業担当者もいれば、オンラインショップの注文を処理する営業担当者もいます";
+$MESS["CRM_SCENARIO_SELECTION_SAVE_ERROR"] = "モードを変更中にエラーが発生しました";
+$MESS["CRM_SCENARIO_SELECTION_SELECT"] = "選択";
+$MESS["CRM_SCENARIO_SELECTION_SELECTED"] = "選択済み";
+$MESS["CRM_SCENARIO_SELECTION_TITLE"] = "注文処理モード";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_CANCEL_BUTTON"] = "\"取引\" モードに切り替え";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_OK_BUTTON"] = "\"取引と注文\" モードのままにする";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_1"] = "オンラインショップからの注文は取引になります。その取引の中では、支払いの受け取り、出荷の作成、倉庫への在庫の予約を行えます。独立した \"注文\" 画面はありません。";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_2"] = "\"取引と注文\" モードに戻すことはできません。もうサポートされていません。";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_3_PART_1"] = "重要！";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TEXT_3_PART_2"] = "切り替える前にこれらの 2 つのモードに関する詳細をお読みください。";
+$MESS["CRM_SCENARIO_SELECTION_TO_DEAL_MODE_TITLE"] = "'取引' モードに切り替えようとしています";

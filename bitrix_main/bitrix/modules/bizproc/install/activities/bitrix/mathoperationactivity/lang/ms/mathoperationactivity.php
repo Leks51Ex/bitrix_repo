@@ -1,0 +1,20 @@
+<?php
+$MESS["BPMOA_CHOOSE_PARAMETER"] = "Pilih parameter";
+$MESS["BPMOA_CHOOSE_VARIABLE"] = "Pilih pembolehubah";
+$MESS["BPMOA_CREATE_GCONSTANT"] = "Cipta pemalar";
+$MESS["BPMOA_CREATE_GCONSTANT_QUESTION"] = "Adakah anda mahu mencipta pemalar baharu?";
+$MESS["BPMOA_CREATE_GVARIABLE"] = "Cipta pembolehubah";
+$MESS["BPMOA_CREATE_GVARIABLE_QUESTION"] = "Adakah anda mahu mencipta pembolehubah baharu?";
+$MESS["BPMOA_DOCUMENT"] = "Nilai medan";
+$MESS["BPMOA_EMPTY"] = "Tidak terpilih";
+$MESS["BPMOA_EMPTY_OPERATION"] = "Operator tidak dinyatakan";
+$MESS["BPMOA_EMPTY_VARIABLE"] = "Tiada pembolehubah diberikan nilai";
+$MESS["BPMOA_GCONSTANT_NOT_FOUND"] = "Pemalar tidak ditemui";
+$MESS["BPMOA_GCONSTANT_NO_EXIST"] = "Tiada pemalar";
+$MESS["BPMOA_GVARIABLE_NOT_FOUND"] = "Pembolehubah tidak ditemui";
+$MESS["BPMOA_GVARIABLE_NO_EXIST"] = "Tiada pembolehubah";
+$MESS["BPMOA_INPUT_NUMBER"] = "Masukkan nombor";
+$MESS["BPMOA_INVALID_VALUE"] = "Salah satu nilai ungkapan adalah bukan nombor";
+$MESS["BPMOA_LIST_OF_VALUES"] = "Nilai";
+$MESS["BPMOA_NUMBER"] = "Nilai tersuai";
+$MESS["BPMOA_TYPE_OF_PARAMETER"] = "Jenis parameter";

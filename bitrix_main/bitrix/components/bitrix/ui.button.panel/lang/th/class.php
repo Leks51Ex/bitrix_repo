@@ -1,0 +1,7 @@
+<?
+$MESS["UI_BUTTON_PANEL_APPLY"] = "นำไปใช้";
+$MESS["UI_BUTTON_PANEL_CANCEL"] = "ยกเลิก";
+$MESS["UI_BUTTON_PANEL_CLOSE"] = "ปิด";
+$MESS["UI_BUTTON_PANEL_REMOVE"] = "ลบ";
+$MESS["UI_BUTTON_PANEL_SAVE"] = "บันทึก";
+?>

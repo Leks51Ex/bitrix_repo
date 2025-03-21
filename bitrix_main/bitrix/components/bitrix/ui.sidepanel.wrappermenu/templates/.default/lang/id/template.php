@@ -1,0 +1,5 @@
+<?
+$MESS["UI_SIDEPANEL_MENU_ADD_ITEM"] = "tambahkan halaman";
+$MESS["UI_SIDEPANEL_MENU_BUTTON_CLOSE"] = "Ciutkan";
+$MESS["UI_SIDEPANEL_MENU_BUTTON_OPEN"] = "Bentangkan";
+?>

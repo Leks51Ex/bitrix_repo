@@ -1,0 +1,23 @@
+<?php
+$MESS["ADD_TO_BASKET_OK"] = "Sản phẫm đã thêm vào giỏ hàng";
+$MESS["CATALOG_COMPARE"] = "So sánh";
+$MESS["CT_BCT_CATALOG_BASKET_UNKNOWN_ERROR"] = "Lỗi không xác định khi thêm sản phẩm vào giỏ hàng";
+$MESS["CT_BCT_CATALOG_BTN_MESSAGE_BASKET_REDIRECT"] = "Đi đến giỏ hàng";
+$MESS["CT_BCT_CATALOG_BTN_MESSAGE_CLOSE"] = "Đóng";
+$MESS["CT_BCT_CATALOG_BTN_MESSAGE_CLOSE_POPUP"] = "Tiếp tục mua hàng";
+$MESS["CT_BCT_CATALOG_BTN_MESSAGE_COMPARE_REDIRECT"] = "So sánh sản phẩm";
+$MESS["CT_BCT_CATALOG_BTN_MESSAGE_SEND_PROPS"] = "Chọn";
+$MESS["CT_BCT_CATALOG_MESS_COMPARE_OK"] = "Sản phẩm đã được thêm vào biểu đồ so sánh";
+$MESS["CT_BCT_CATALOG_MESS_COMPARE_TITLE"] = "So sánh sản phẩm";
+$MESS["CT_BCT_CATALOG_MESS_COMPARE_UNKNOWN_ERROR"] = "Lỗi khi thêm sản phẩm vào biểu đồ so sánh";
+$MESS["CT_BCT_CATALOG_TITLE_BASKET_PROPS"] = "Thuộc tính sản phẩm thông qua giỏ hàng";
+$MESS["CT_BCT_CATALOG_TITLE_ERROR"] = "Lỗi";
+$MESS["CT_BCT_ELEMENT_DELETE_CONFIRM"] = "Tất cả các thông tin liên quan đến hồ sơ này sẽ bị xóa. Tiếp tục không?";
+$MESS["CT_BCT_TPL_MESS_BTN_ADD_TO_BASKET"] = "Thêm vào giỏ hàng";
+$MESS["CT_BCT_TPL_MESS_BTN_BUY"] = "Mua";
+$MESS["CT_BCT_TPL_MESS_BTN_COMPARE"] = "So sánh";
+$MESS["CT_BCT_TPL_MESS_BTN_DETAIL"] = "Thêm";
+$MESS["CT_BCT_TPL_MESS_BTN_SUBSCRIBE"] = "Thông báo khi quay lại kho";
+$MESS["CT_BCT_TPL_MESS_PRICE_SIMPLE_MODE_SHORT"] = "từ #PRICE#";
+$MESS["CT_BCT_TPL_MESS_PRODUCT_NOT_AVAILABLE"] = "không có sẵn trong kho";
+$MESS["CT_BCT_TPL_MESS_PRODUCT_NOT_AVAILABLE_SERVICE"] = "Không có sẵn";

@@ -1,0 +1,22 @@
+<?php
+$MESS["SONET_GCE_T_IS_EXTRANET_GROUP2_HINT"] = "Pengguna eksternal dapat diundang ke grup kerja";
+$MESS["SONET_GCE_T_IS_EXTRANET_GROUP2_HINT_PROJECT"] = "Pengguna eksternal dapat diundang ke proyek";
+$MESS["SONET_GCE_T_IS_EXTRANET_GROUP3"] = "Izinkan akses untuk pengguna eksternal";
+$MESS["SONET_GCE_T_IS_EXTRANET_TITLE"] = "Pengguna Eksternal";
+$MESS["SONET_GCE_T_PARAMS_CLOSED2"] = "Diarsipkan";
+$MESS["SONET_GCE_T_PARAMS_CLOSED2_HINT"] = "Grup kerja diarsipkan";
+$MESS["SONET_GCE_T_PARAMS_CLOSED2_HINT_PROJECT"] = "Proyek diarsipkan";
+$MESS["SONET_GCE_T_PARAMS_CLOSED2_PROJECT"] = "Diarsipkan";
+$MESS["SONET_GCE_T_PARAMS_LANDING"] = "Sumber Situs Bitrix24";
+$MESS["SONET_GCE_T_PARAMS_OPEN2"] = "Terbuka";
+$MESS["SONET_GCE_T_PARAMS_OPEN2_HINT"] = "Siapa pun dapat menjadi anggota grup kerja tanpa persetujuan moderator";
+$MESS["SONET_GCE_T_PARAMS_OPEN2_HINT_PROJECT"] = "Keanggotaan proyek dapat diperoleh tanpa persetujuan dari pemilik atau moderator";
+$MESS["SONET_GCE_T_PARAMS_OPEN2_PROJECT"] = "Terbuka";
+$MESS["SONET_GCE_T_PARAMS_PROJECT"] = "Proyek";
+$MESS["SONET_GCE_T_PARAMS_VIS2"] = "Visibel";
+$MESS["SONET_GCE_T_PARAMS_VIS2_HINT"] = "Grup kerja dapat dilihat semua orang, bukan hanya anggota grup kerja";
+$MESS["SONET_GCE_T_PARAMS_VIS2_HINT_PROJECT"] = "Proyek dapat dilihat semua orang, bukan hanya anggota grup kerja";
+$MESS["SONET_GCE_T_PARAMS_VIS2_PROJECT"] = "Visibel";
+$MESS["SONET_GCE_T_TITLE_TYPE"] = "Jenis grup kerja";
+$MESS["SONET_GCE_T_TITLE_TYPE_PROJECT"] = "Jenis proyek";
+$MESS["SONET_GCE_T_TITLE_TYPE_SCRUM"] = "Jenis scrum";

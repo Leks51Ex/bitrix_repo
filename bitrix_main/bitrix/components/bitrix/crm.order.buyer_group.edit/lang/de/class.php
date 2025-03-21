@@ -1,0 +1,14 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Das Modul CRM ist nicht installiert.";
+$MESS["CRM_MODULE_NOT_INSTALLED_SALE"] = "Das Modul Onlineshop ist nicht installiert.";
+$MESS["CRM_PERMISSION_DENIED"] = "Zugriff verweigert";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_SAVE_ERROR"] = "Beim Speichern des Kunden ist ein Fehler aufgetreten.";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_TITLE"] = "Kundengruppe bearbeiten";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_CREATE_TITLE"] = "Kundengruppe erstellen";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_COLUMN_ID"] = "ID";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_COLUMN_ACTIVE"] = "Aktiv";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_COLUMN_C_SORT"] = "Sortierung";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_COLUMN_ANONYMOUS"] = "Anonym";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_COLUMN_NAME"] = "Name";
+$MESS["CRM_ORDER_BUYER_GROUP_EDIT_COLUMN_DESCRIPTION"] = "Beschreibung";
+?>

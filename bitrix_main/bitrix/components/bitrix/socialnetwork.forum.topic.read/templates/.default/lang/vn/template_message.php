@@ -1,0 +1,32 @@
+<?
+$MESS["F_ANCHOR"] = "Đường dẫn vào bài đăng này";
+$MESS["F_ATTACH_FILES"] = "Những file đính kèm";
+$MESS["F_AUTHOR_PROFILE"] = "Hồ sơ người dùng";
+$MESS["F_DATE_REGISTER"] = "Gia nhập";
+$MESS["F_DELETE"] = "Xoá";
+$MESS["F_DELETE_TOPIC"] = "Xóa chủ đề";
+$MESS["F_EDIT"] = "Chỉnh sửa";
+$MESS["F_EDIT_HEAD"] = "Sửa đổi";
+$MESS["F_EDIT_TOPIC"] = "Chỉnh sửa chủ đề";
+$MESS["F_EMAIL_ADD_INFO"] = "Thông tin thêm";
+$MESS["F_EMAIL_TITLE"] = "Gửi email";
+$MESS["F_HIDE"] = "Ẩn";
+$MESS["F_HIDE_TOPIC"] = "Ẩn chủ đề";
+$MESS["F_INSERT_NAME"] = "Hãy điền tên người dùng vào câu trả lời";
+$MESS["F_NAME"] = "Tên";
+$MESS["F_NO_VOTE_DO"] = "Bầu chọn";
+$MESS["F_NO_VOTE_UNDO"] = "Hủy bầu chọn";
+$MESS["F_NUM_MESS"] = "Những bài đăng:";
+$MESS["F_ORIGINAL_MESSAGE"] = "Tin nhắn gốc";
+$MESS["F_POINTS"] = "Những điểm";
+$MESS["F_QUOTE"] = "Trích";
+$MESS["F_QUOTE_HINT"] = "Để trích dẫn tin nhắn này qua việc trả lời hãy chọn nội dùng và nhấn vào đây";
+$MESS["F_REAL_IP"] = "/thực";
+$MESS["F_REPLY"] = "Trả lời";
+$MESS["F_SHOW"] = "Hiển thị";
+$MESS["F_SHOW_TOPIC"] = "Hiển thị chủ đề";
+$MESS["F_SOURCE_ID"] = "Nguồn";
+$MESS["F_SPAM"] = "Spam";
+$MESS["F_USER_ID"] = "ID của khách";
+$MESS["F_USER_ID_USER"] = "ID của người dùng";
+?>

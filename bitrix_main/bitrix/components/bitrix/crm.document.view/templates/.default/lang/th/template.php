@@ -1,0 +1,34 @@
+<?php
+$MESS["CRM_DOCUMENT_VIEW_COPY_PUBLIC_URL_MESSAGE"] = "ลิงก์สาธารณะคัดลอกไปยังคลิปบอร์ดแล้ว";
+$MESS["CRM_DOCUMENT_VIEW_CREATE_OR_EDIT_MY_COMPANY_REQUISITES"] = "<a href=\"#URL#\" target=\"_blank\" class=\"docs-preview-details-link\">ใส่หรือแก้ไข</a>
+<span class=\"docs-preview-details-text\">รายละเอียดบริษัทของฉัน</span>";
+$MESS["CRM_DOCUMENT_VIEW_DOWNLOAD_IN"] = "ดาวน์โหลดเป็น:";
+$MESS["CRM_DOCUMENT_VIEW_EDIT_DOCUMENT"] = "แก้ไขเอกสาร";
+$MESS["CRM_DOCUMENT_VIEW_EDIT_TEMPLATE"] = "แก้ไขเทมเพลต";
+$MESS["CRM_DOCUMENT_VIEW_FEEDBACK"] = "ข้อเสนอแนะ";
+$MESS["CRM_DOCUMENT_VIEW_NO_AVAILABLE_FILES"] = "ไม่มีไฟล์ที่จะส่ง";
+$MESS["CRM_DOCUMENT_VIEW_PAYMENT_BUTTON"] = "รับการชำระเงิน";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_GENERATION_MESSAGE"] = "สร้างเอกสาร";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_MESSAGE_PREPARE"] = "การดูตัวอย่าง PDF ถูกสร้างขึ้นแล้ว";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_MESSAGE_READY"] = "คุณสามารถดาวน์โหลดเอกสารเป็นไฟล์ DOCX ได้ตอนนี้ หรือส่งลิงก์ให้ลูกค้าก็ได้";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_READY_MESSAGE"] = "ขณะนี้เอกสารใช้ได้ในรูปแบบ DOCX คุณสามารถรับลิงก์เอกสาร ดาวน์โหลดมา หรือส่งไปหาลูกค้าของคุณได้";
+$MESS["CRM_DOCUMENT_VIEW_PREVIEW_TIME_MESSAGE"] = "ภาพเอกสารและรุ่น PDF จะใช้เวลาประมาณ 20 วินาที";
+$MESS["CRM_DOCUMENT_VIEW_PUBLIC_LINK"] = "ลิงก์สาธารณะ";
+$MESS["CRM_DOCUMENT_VIEW_PUBLIC_ON"] = "เปิด";
+$MESS["CRM_DOCUMENT_VIEW_PUBLIC_URL_VIEWED_TIME"] = "ลูกค้าคลิกลิงก์สาธารณะเมื่อ <span>#TIME#</span>";
+$MESS["CRM_DOCUMENT_VIEW_QR"] = "รหัส QR การชำระเงิน";
+$MESS["CRM_DOCUMENT_VIEW_REQUISITES_MY_COMPANY_TITLE"] = "รายละเอียดบริษัทของฉัน";
+$MESS["CRM_DOCUMENT_VIEW_SEND"] = "ส่ง";
+$MESS["CRM_DOCUMENT_VIEW_SEND_EMAIL"] = "ทางอีเมล";
+$MESS["CRM_DOCUMENT_VIEW_SEND_SMS"] = "ทาง sms";
+$MESS["CRM_DOCUMENT_VIEW_SHOW_FULL_DOCUMENT"] = "แสดงเอกสารฉบับเต็ม";
+$MESS["CRM_DOCUMENT_VIEW_SIGNED"] = "ด้วยลายมือชื่อและการประทับตรา";
+$MESS["CRM_DOCUMENT_VIEW_SIGN_AND_STAMP"] = "ตราประทับและลายเซ็น";
+$MESS["CRM_DOCUMENT_VIEW_SIGN_BUTTON"] = "ลงนาม";
+$MESS["CRM_DOCUMENT_VIEW_SIGN_CLICKED"] = "คุณเริ่มลงนามเอกสารแล้ว";
+$MESS["CRM_DOCUMENT_VIEW_SMS_PUBLIC_URL_NECESSARY"] = "จำเป็นต้องมีลิงก์สาธารณะในการส่ง SMS";
+$MESS["CRM_DOCUMENT_VIEW_TRANSFORMATION_NO_PDF_ERROR"] = "ไม่พบเวอร์ชัน PDF ของเอกสาร ไฟล์นี้อาจแปลงไม่สำเร็จ";
+$MESS["CRM_DOCUMENT_VIEW_TRANSFORMATION_PROGRESS"] = "กรุณารอจนกว่าการแปลงจะเสร็จสมบูรณ์";
+$MESS["CRM_DOCUMENT_VIEW_TRANSFORM_ERROR"] = "ไม่สามารถสร้างไฟล์ PDF สำหรับเอกสารได้";
+$MESS["CRM_DOCUMENT_VIEW_TRY_AGAIN"] = "ลองอีกครั้ง";
+$MESS["CRM_DOCUMENT_VIEW_TRY_LATER"] = "กรุณาลองอีกครั้งภายหลัง";

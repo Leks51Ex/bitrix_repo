@@ -1,0 +1,4 @@
+<?
+$MESS["RATING_COMMENT_LIKE_N"] = "取消赞";
+$MESS["RATING_COMMENT_LIKE_Y"] = "赞";
+?>

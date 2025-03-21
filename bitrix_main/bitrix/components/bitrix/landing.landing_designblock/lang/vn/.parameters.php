@@ -1,0 +1,5 @@
+<?php
+$MESS["LANDING_CMP_PAR_BLOCK_ID"] = "ID khối";
+$MESS["LANDING_CMP_PAR_LANDING_ID"] = "ID đích đến";
+$MESS["LANDING_CMP_PAR_LANDING_TYPE"] = "Loại website";
+$MESS["LANDING_CMP_PAR_SITE_ID"] = "ID Website";

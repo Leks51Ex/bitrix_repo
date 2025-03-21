@@ -1,0 +1,5 @@
+<?
+$MESS["CPSL_REQUEST_DEFAULT_ERROR"] = "それは誤りです";
+$MESS["CPSL_REQUEST_IDENTIFICATION_SUCCESS"] = "あなたが提供した連絡先に確認コードが送信されました";
+$MESS["CPSL_REQUEST_UNSUBSCRIBE_SUCCESS"] = "あなたは退会しました";
+?>

@@ -1,0 +1,3 @@
+<?
+$MESS["CRM_LEAD_DEDUPE_WIZARD_PAGE_TITLE"] = "重複するリードの検出とマージ";
+?>

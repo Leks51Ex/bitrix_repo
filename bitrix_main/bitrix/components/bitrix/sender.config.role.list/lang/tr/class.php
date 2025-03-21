@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_CONFIG_ROLE_LIST_COMP_TITLE"] = "Erişim İzinleri";
+$MESS["SENDER_CONFIG_ROLE_LIST_COMP_UNKNOWN_ACCESS_CODE"] = "(bilinmeyen erişim ID)";
+?>

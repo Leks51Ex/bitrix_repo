@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_ORDER_BUYER_GROUP_LIST_BTN_ADD"] = "เพิ่มกลุ่ม";
+$MESS["CRM_ORDER_BUYER_GROUP_LIST_DELETE"] = "ลบ";
+$MESS["CRM_ORDER_BUYER_GROUP_LIST_DELETE_CONFIRM"] = "คุณแน่ใจหรือไม่ ว่าต้องการลบรายการนี้?";
+$MESS["CRM_ORDER_BUYER_GROUP_LIST_DELETE_GROUP_TITLE"] = "ลบกลุ่ม";
+?>

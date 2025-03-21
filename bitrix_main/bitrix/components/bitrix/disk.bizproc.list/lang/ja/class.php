@@ -1,0 +1,24 @@
+<?php
+$MESS["BPATT_AE_CREATE"] = "作成";
+$MESS["BPATT_AE_DELETE"] = "削除";
+$MESS["BPATT_AE_EDIT"] = "更新";
+$MESS["BPATT_AE_NONE"] = "いいえ";
+$MESS["BPATT_DO_DELETE1"] = "削除";
+$MESS["BPATT_DO_DELETE1_CONFIRM"] = "このテンプレートを削除してもよろしいですか?";
+$MESS["BPATT_DO_EDIT1"] = "編集";
+$MESS["BPATT_DO_EDIT_VARS"] = "初期変数値を変更する";
+$MESS["BPATT_DO_EDIT_VARS1"] = "変数";
+$MESS["BPATT_DO_LOAD_CREATE"] = "作成中に実行する";
+$MESS["BPATT_DO_LOAD_CREATE_TITLE"] = "ドキュメントの作成時にビジネスプロセスを実行する";
+$MESS["BPATT_DO_LOAD_EDIT"] = "変更中に実行";
+$MESS["BPATT_DO_LOAD_EDIT_TITLE"] = "ドキュメントを変更する際にビジネスプロセスを実行する";
+$MESS["BPATT_DO_N_LOAD_CREATE"] = "作成中に実行しないでください";
+$MESS["BPATT_DO_N_LOAD_CREATE_TITLE"] = "ドキュメントの作成するときに業務プロセスを実行しない";
+$MESS["BPATT_DO_N_LOAD_EDIT"] = "変更中には実行しない";
+$MESS["BPATT_DO_N_LOAD_EDIT_TITLE"] = "ドキュメントを変更するときに業務プロセスを実行しない";
+$MESS["BPATT_DO_OLD_TEMPLATE"] = "(旧バージョン)";
+$MESS["BPATT_NO_DOCUMENT_TYPE"] = "文書タイプは必須です";
+$MESS["BPATT_NO_ENTITY"] = "ビジネスプロセスを作成するエンティティが指定されていません。";
+$MESS["BPATT_NO_MODULE_ID"] = "モジュールIDは必須です";
+$MESS["BPATT_NO_PERMS"] = "このドキュメントに対してビジネスプロセスを実行する権限がありません。";
+$MESS["BPATT_TITLE"] = "業務プロセステンプレート";

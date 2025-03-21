@@ -1,0 +1,36 @@
+<?
+$MESS["CRM_ADS_LEADADS_AFTER_DISABLE_FACEBOOK"] = "Sau khi biểu mẫu được bỏ liên kết với Facebook, nó sẽ có thể được chỉnh sửa; dữ liệu biểu mẫu sẽ không được gửi đến CRM.";
+$MESS["CRM_ADS_LEADADS_AFTER_ENABLE_FACEBOOK"] = "Sau khi biểu mẫu được liên kết với Facebook, nó sẽ không thể được chỉnh sửa; dữ liệu biểu mẫu sẽ được gửi đến CRM.";
+$MESS["CRM_ADS_LEADADS_APPLY"] = "Chạy";
+$MESS["CRM_ADS_LEADADS_BUTTON_EXPORTED_SUCCESS"] = "Thành công";
+$MESS["CRM_ADS_LEADADS_BUTTON_EXPORT_FACEBOOK"] = "Liên kết đến Facebook";
+$MESS["CRM_ADS_LEADADS_BUTTON_UNLINK_FACEBOOK"] = "Bỏ liên kết với Facebook";
+$MESS["CRM_ADS_LEADADS_CABINET_FACEBOOK"] = "Trang Facebook";
+$MESS["CRM_ADS_LEADADS_CANCEL"] = "Hủy bỏ";
+$MESS["CRM_ADS_LEADADS_CAPTION_FACEBOOK"] = "Biểu mẫu Facebook Ad";
+$MESS["CRM_ADS_LEADADS_CLOSE"] = "Đóng";
+$MESS["CRM_ADS_LEADADS_ERROR_ACTION"] = "Hành động đã bị hủy bỏ bởi có lỗi xảy ra.";
+$MESS["CRM_ADS_LEADADS_ERROR_NO_ACCOUNTS_FACEBOOK"] = "Không tìm thấy trang Facebook nào. Vui lòng chuyển đến %name% và tạo một trang.";
+$MESS["CRM_ADS_LEADADS_FORM_ID"] = "ID Biểu mẫu";
+$MESS["CRM_ADS_LEADADS_FORM_NAME_FACEBOOK"] = "Tên biểu mẫu Facebook";
+$MESS["CRM_ADS_LEADADS_FORM_SUCCESS_URL"] = "URL để điều hướng sau khi gửi biểu mẫu";
+$MESS["CRM_ADS_LEADADS_GROUP_DO_AUTH_HINT_VKONTAKTE"] = "Chỉ một nhóm có thể được kết nối.";
+$MESS["CRM_ADS_LEADADS_GROUP_DO_AUTH_VKONTAKTE"] = "Kết nối nhóm";
+$MESS["CRM_ADS_LEADADS_GROUP_IS_AUTH_HINT_VKONTAKTE"] = "Để thay đổi một nhóm, hãy ngắt kết nối nhóm đang được kết nối. Mọi biểu mẫu liên kết cũng sẽ bị ngắt kết nối.";
+$MESS["CRM_ADS_LEADADS_GROUP_IS_AUTH_VKONTAKTE"] = "Ngắt kết nối nhóm";
+$MESS["CRM_ADS_LEADADS_IS_LINKED"] = "đã liên kết";
+$MESS["CRM_ADS_LEADADS_LINKS_ITEM_FACEBOOK"] = "cho trang \"%account%\" với tên \"%name%\"";
+$MESS["CRM_ADS_LEADADS_LINKS_ITEM_VKONTAKTE"] = "cho nhóm \"%account%\" với tên \"%name%\"";
+$MESS["CRM_ADS_LEADADS_LINKS_TITLE"] = "Biểu mẫu \"%name%\" đã được bổ sung";
+$MESS["CRM_ADS_LEADADS_LIST"] = "danh sách";
+$MESS["CRM_ADS_LEADADS_LOCALE"] = "Ngôn ngữ biểu mẫu";
+$MESS["CRM_ADS_LEADADS_LOCALE_AUTO"] = "Ngôn ngữ hiện tại";
+$MESS["CRM_ADS_LEADADS_LOGIN"] = "Kết nối";
+$MESS["CRM_ADS_LEADADS_LOGOUT"] = "Ngắt kết nối";
+$MESS["CRM_ADS_LEADADS_MORE"] = "Chi tiết";
+$MESS["CRM_ADS_LEADADS_NOW"] = "hiện đang liên kết";
+$MESS["CRM_ADS_LEADADS_REFRESH"] = "Làm mới";
+$MESS["CRM_ADS_LEADADS_REFRESH_TEXT"] = "Làm mới các tùy chọn sẵn có.";
+$MESS["CRM_ADS_LEADADS_SELECT_ACCOUNT_FACEBOOK"] = "Bổ sung một biểu mẫu cho các trang Facebook";
+$MESS["CRM_ADS_LEADADS_TITLE_FACEBOOK"] = "Quảng cáo Facebook có thể hiển thị các biểu mẫu mà bạn thêm vào Bitrix24.";
+?>

@@ -1,0 +1,6 @@
+<?php
+$MESS["CRM_DEDUPE_WIZARD_SCANNING_CONFIG_CRITERION"] = "Pilih medan untuk membandingkan";
+$MESS["CRM_DEDUPE_WIZARD_SCANNING_CONFIG_SCOPE"] = "Negara";
+$MESS["CRM_DEDUPE_WIZARD_SCANNING_CONFIG_TITLE"] = "Tetapan imbasan pendua";
+$MESS["CRM_DEDUPE_WIZARD_SELECT_ALL"] = "Pilih semua";
+$MESS["CRM_DEDUPE_WIZARD_UNSELECT_ALL"] = "Nyahpilih semua";

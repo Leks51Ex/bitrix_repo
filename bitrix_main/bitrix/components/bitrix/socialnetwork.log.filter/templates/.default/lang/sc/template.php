@@ -1,0 +1,22 @@
+<?php
+$MESS["SONET_C30_EXPERT_MODE_HINT"] = "\"隐藏任务\"模式现在已启用。您的任务将在事项动态中不可见，但您将能在任务部分直接访问它们。<br /><br />您仍然会收到任务通知即时消息。";
+$MESS["SONET_C30_EXTRANET_ROOT"] = "外部网络";
+$MESS["SONET_C30_F_DIALOG_CLOSE_BUTTON"] = "关闭";
+$MESS["SONET_C30_F_DIALOG_READ_BUTTON"] = "标记为已读";
+$MESS["SONET_C30_F_EXPERT_MODE_IMAGENAME"] = "sc";
+$MESS["SONET_C30_F_VIDEO_TRANSFORMATION_POPUP_TEXT"] = "我们现在正在转换您的视频以使其在所有设备上可用。在转换过程中，该#A_START#消息#A_END#仅对您可见。";
+$MESS["SONET_C30_F_VIDEO_TRANSFORMATION_POPUP_TITLE"] = "视频转换器";
+$MESS["SONET_C30_PRESET_FILTER_ALL"] = "所有事件";
+$MESS["SONET_C30_SMART_EXPERT_MODE"] = "隐藏任务";
+$MESS["SONET_C30_SMART_FOLLOW"] = "智能关注模式";
+$MESS["SONET_C30_SMART_FOLLOW_HINT"] = "智能关注模式已开启。只有您作为作者、收件人或您在正文中被提及的帖子将移到顶部。您将自动关注您评论的任何帖子。";
+$MESS["SONET_C30_T_FILTER_COMMENTS"] = "并搜索评论";
+$MESS["SONET_C30_T_FILTER_CREATED_BY"] = "作者";
+$MESS["SONET_C30_T_FILTER_DATE"] = "日期";
+$MESS["SONET_C30_T_FILTER_GROUP"] = "组";
+$MESS["SONET_C30_T_FILTER_TITLE"] = "搜索";
+$MESS["SONET_C30_T_FILTER_TO"] = "收件人";
+$MESS["SONET_C30_T_FILTER_USER"] = "收件人";
+$MESS["SONET_C30_T_RESET"] = "重置";
+$MESS["SONET_C30_T_SHOW_HIDDEN"] = "显示隐藏的类别";
+$MESS["SONET_C30_T_SUBMIT"] = "选择";

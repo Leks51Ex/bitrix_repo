@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_LEAD_CONVERT_CFG_NOT_SELECTED"] = "[seçili değil]";
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "CRM modülü kurulu değil.";
+$MESS["CRM_PERMISSION_DENIED"] = "Erişim reddedildi";
+?>

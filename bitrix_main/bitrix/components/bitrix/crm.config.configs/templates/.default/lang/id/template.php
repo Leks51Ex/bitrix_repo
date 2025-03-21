@@ -1,0 +1,26 @@
+<?php
+$MESS["CRM_TAB_ACTIVITY_CONFIG"] = "Aktivitas";
+$MESS["CRM_TAB_ACTIVITY_CONFIG_TITLE"] = "Parameter Aktivitas";
+$MESS["CRM_TAB_ACTIVITY_CONFIG_TITLE2"] = "Preferensi aktivitas";
+$MESS["CRM_TAB_CONFIG"] = "Pengiriman e-mail";
+$MESS["CRM_TAB_CONFIG_TITLE"] = "Konfigurasi parameter pengiriman e-mail";
+$MESS["CRM_TAB_DEAL_CONFIG"] = "Transaksi";
+$MESS["CRM_TAB_DEAL_CONFIG_TITLE"] = "Parameter transaksi";
+$MESS["CRM_TAB_DUPLICATE_CONTROL"] = "Kontrol duplikat";
+$MESS["CRM_TAB_DUPLICATE_CONTROL_TITLE"] = "Parameter kontrol duplikat";
+$MESS["CRM_TAB_FORMAT"] = "Format";
+$MESS["CRM_TAB_FORMAT_TITLE"] = "Parameter Format";
+$MESS["CRM_TAB_GENERAL"] = "Umum";
+$MESS["CRM_TAB_GENERAL_TITLE"] = "Parameter umum";
+$MESS["CRM_TAB_HISTORY"] = "Riwayat";
+$MESS["CRM_TAB_HISTORY_TITLE"] = "Pengaturan riwayat";
+$MESS["CRM_TAB_LIVEFEED"] = "Feed";
+$MESS["CRM_TAB_LIVEFEED2"] = "Umpan";
+$MESS["CRM_TAB_LIVEFEED_TITLE"] = "Pengaturan Feed";
+$MESS["CRM_TAB_LIVEFEED_TITLE2"] = "Pengaturan umpan";
+$MESS["CRM_TAB_RECYCLE_BIN_CONFIG"] = "Tempat Sampah";
+$MESS["CRM_TAB_RECYCLE_BIN_CONFIG_TITLE"] = "Pengaturan Tempat Sampah";
+$MESS["CRM_TAB_REST_2"] = "Market";
+$MESS["CRM_TAB_REST_TITLE"] = "Pengaturan aplikasi";
+$MESS["CRM_TAB_STATUS_CONFIG"] = "Status dan Dropdown";
+$MESS["CRM_TAB_STATUS_CONFIG_TITLE"] = "Kontrol pemilihan entitas";

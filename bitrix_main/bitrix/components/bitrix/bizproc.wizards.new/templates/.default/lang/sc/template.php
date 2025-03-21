@@ -1,0 +1,26 @@
+<?php
+$MESS["BPWC_WNCT_2LIST"] = "业务流程";
+$MESS["BPWC_WNCT_CANCEL"] = "取消";
+$MESS["BPWC_WNCT_COMP_LIST_TPL"] = "业务流程列表组件模板";
+$MESS["BPWC_WNCT_COMP_START_TPL"] = "业务流程启动组件模板";
+$MESS["BPWC_WNCT_COMP_TPL_DEF"] = "（默认值）";
+$MESS["BPWC_WNCT_COMP_VIEW_TPL"] = "业务流程组件模板";
+$MESS["BPWC_WNCT_DESCR"] = "业务流程描述";
+$MESS["BPWC_WNCT_EADD"] = "\"添加元素\"标题";
+$MESS["BPWC_WNCT_FILTERABLEFIELDS"] = "可用的筛选器";
+$MESS["BPWC_WNCT_ICON"] = "业务过程图标";
+$MESS["BPWC_WNCT_NAME"] = "业务流程名称";
+$MESS["BPWC_WNCT_NEW_TMPL"] = "创建模板（序列驱动型业务流程）";
+$MESS["BPWC_WNCT_NEW_TMPL_1"] = "创建模板（状态驱动型业务流程）";
+$MESS["BPWC_WNCT_P"] = "业务流程元素的唯一名称";
+$MESS["BPWC_WNCT_PERMS"] = "业务流程可用于";
+$MESS["BPWC_WNCT_PS"] = "业务流程元素的多个名称";
+$MESS["BPWC_WNCT_SAVE0"] = "编辑";
+$MESS["BPWC_WNCT_SAVE1"] = "创建业务流程";
+$MESS["BPWC_WNCT_SAVE2"] = "下一个";
+$MESS["BPWC_WNCT_SORT"] = "业务流程排序顺序";
+$MESS["BPWC_WNCT_SUBTITLE1"] = "新业务流程";
+$MESS["BPWC_WNCT_SUBTITLE2"] = "新业务流程设置";
+$MESS["BPWC_WNCT_SUBTITLE11"] = "编辑业务流程";
+$MESS["BPWC_WNCT_TMPL"] = "业务流程模板";
+$MESS["BPWC_WNCT_VISIBLEFIELDS"] = "可查看的字段";

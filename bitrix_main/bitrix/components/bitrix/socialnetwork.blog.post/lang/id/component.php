@@ -1,0 +1,31 @@
+<?
+$MESS["BB_BLOG_TITLE"] = "Percakapan";
+$MESS["BLOG_BLOG_BLOG_MES_DELED"] = "Pesan sudah berhasil dihapus";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_ERROR"] = "Kesalahan menghapus pesan";
+$MESS["BLOG_BLOG_BLOG_MES_DEL_NO_RIGHTS"] = "Anda tidak memiliki cukup izin untuk menghapus pesan ini";
+$MESS["BLOG_BLOG_BLOG_MES_HIDE_ERROR"] = "Kesalahan menyembunyikan posting";
+$MESS["BLOG_BLOG_BLOG_MES_HIDE_NO_RIGHTS"] = "Anda tidak memiliki izin untuk menyembunyikan posting ini";
+$MESS["BLOG_BLOG_SESSID_WRONG"] = "Sesi Anda sudah kedaluwarsa. Silakan coba lagi.";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "Modul blog belum diinstal.";
+$MESS["BLOG_SONET_MODULE_NOT_AVAIBLE"] = "Blog tidak tersedia untuk pengguna ini.";
+$MESS["B_B_MES_FR_ONLY"] = "Anda tidak memiliki cukup izin untuk menampilkan pesan ini.";
+$MESS["B_B_MES_NAME_TEMPLATE_DEFAULT"] = "#NOBR##NAME# #LAST_NAME##/NOBR#";
+$MESS["B_B_MES_NO_BLOG"] = "Blog tidak ditemukan";
+$MESS["B_B_MES_NO_MES"] = "Pesan tidak ditemukan";
+$MESS["B_B_MES_NO_POST"] = "Posting tidak ditemukan.";
+$MESS["B_B_MES_NO_RIGHTS"] = "Izin tidak mencukupi untuk menampilkan pesan";
+$MESS["B_B_MES_REQUEST_ADDED"] = "Permintaan Anda sudah dipertimbangkan oleh penulis blog";
+$MESS["B_B_MES_REQUEST_ALREADY"] = "Permintaan Anda sudah ditunda oleh penulis blog";
+$MESS["B_B_MES_REQUEST_AUTH"] = "Silakan mengotorisasi sebelum mengirimkan aplikasi";
+$MESS["B_B_MES_REQUEST_ERROR"] = "Kesalahan menambahkan permintaan";
+$MESS["B_B_MES_U_AUTH"] = "Silakan mengotorisasi untuk mengirim permintaan untuk menampilkan posting.";
+$MESS["B_B_MES_U_CAN"] = "Anda dapat mengajukan";
+$MESS["B_B_MES_U_CAN1"] = "ke penulis blog";
+$MESS["B_B_MES_U_CAN2"] = "untuk membaca pesan-pesannya.";
+$MESS["B_B_SHARE"] = "Dibagikan dengan: ";
+$MESS["B_B_SHARE_1"] = "Dibagikan dengan: ";
+$MESS["B_B_SHARE_ALL"] = "Semua karyawan";
+$MESS["B_B_SHARE_ALL_BUS"] = "Semua pengguna";
+$MESS["MICROBLOG_SONET_MODULE_NOT_AVAIBLE"] = "Blog mikro tidak tersedia untuk pengguna ini.";
+$MESS["SBP_SHARE_PREMODERATION"] = "Anda tidak dapat menambahkan penerima karena grup yang dipilih sudah dipramoderasi.";
+?>

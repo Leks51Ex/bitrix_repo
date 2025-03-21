@@ -1,0 +1,21 @@
+<?php
+$MESS["BX_CPS_COMP_ERR_CATALOG_MODULE_NOT_INSTALL"] = "โมดูลแค็ตตาล็อกเชิงพาณิชย์ไม่ได้ติดตั้ง";
+$MESS["SOPS_ACTIVE"] = "ใช้งานอยู่";
+$MESS["SOPS_BALANCE2"] = "ยอดเงิน";
+$MESS["SPS_CODE"] = "รหัสสัญลักษณ์";
+$MESS["SPS_COLLAPSE"] = "ซ่อน";
+$MESS["SPS_EXPAND"] = "ขยาย";
+$MESS["SPS_FIELD_ACTION"] = "การกระทำ";
+$MESS["SPS_FIELD_CODE"] = "รหัสสัญลักษณ์";
+$MESS["SPS_FIELD_DETAIL_PICTURE"] = "ภาพโดยละเอียด";
+$MESS["SPS_FIELD_XML_ID"] = "ไอดีภายนอก";
+$MESS["SPS_NAME"] = "ชื่อ";
+$MESS["SPS_NO"] = "ไม่";
+$MESS["SPS_PRODUCT_ACTIVE"] = "ใช่";
+$MESS["SPS_PRODUCT_NO_ACTIVE"] = "ไม่";
+$MESS["SPS_SELECT"] = "เลือก";
+$MESS["SPS_SKU_HIDE"] = "ซ่อน";
+$MESS["SPS_SKU_SHOW"] = "ขยาย";
+$MESS["SPS_TIMESTAMP"] = "ถูกแก้ไขเมื่อ";
+$MESS["SPS_XML_ID"] = "ไอดีภายนอก";
+$MESS["SPS_YES"] = "ใช่";

@@ -1,0 +1,4 @@
+<?
+$MESS["SENDER_IM_MESSAGE_TEXT_COUNT"] = "สัญลักษณ์";
+$MESS["SENDER_IM_MESSAGE_TEXT_TITLE"] = "ข้อความ";
+?>

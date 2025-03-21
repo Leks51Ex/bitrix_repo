@@ -1,0 +1,7 @@
+<?
+$MESS["MOBILE_MFU_CONFIRM_YES"] = "Evet";
+$MESS["MOBILE_MFU_CONFIRM_NO"] = "Hayır";
+$MESS["MOBILE_MFU_DELETE"] = "Sil";
+$MESS["MOBILE_MFU_CONFIRM_TITLE"] = "Uyarı";
+$MESS["MOBILE_MFU_CONFIRM_MESSAGE"] = "Yüklenen görsel silinsin mi?";
+?>

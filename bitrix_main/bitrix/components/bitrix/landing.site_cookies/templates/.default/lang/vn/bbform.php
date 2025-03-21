@@ -1,0 +1,4 @@
+<?php
+$MESS["LANDING_TPL_LABEL_DESC"] = "Mô tả";
+$MESS["LANDING_TPL_NEW_COOKIES"] = "Loại cookie mới";
+$MESS["LANDING_TPL_TITLE_SHOW_COOKIES"] = "Hiển thị khối #BLOCK_NAME#";

@@ -1,0 +1,38 @@
+<?
+$MESS["CATEGORY_NAME"] = "หมวดหมู่";
+$MESS["FILE_NAME"] = "ไฟล์";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูลบล็อกข้อมูล";
+$MESS["IBLOCK_NOT_ASSIGNED"] = "ไม่ได้เลือกบล็อกข้อมูล";
+$MESS["SOCNET_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูลโซเชียลเน็ตเวิร์ก";
+$MESS["WIKI_ACCESS_DENIED"] = "ปฏิเสธการเข้าใช้";
+$MESS["WIKI_BUTTON_DELETE"] = "ลบ";
+$MESS["WIKI_CHOISE_CATEGORY"] = "เลือกหมวดหมู่";
+$MESS["WIKI_DEFAULT_DETAIL_TEXT"] = "%NEWLINE%%HEAD%%NEWLINE%%NEWLINE%ไม่มีข้อความในหน้านี้";
+$MESS["WIKI_DELETE_CONFIRM"] = "คุณแน่ใจหรือไม่ ว่าต้องการลบออกไป?";
+$MESS["WIKI_DELETE_ERROR"] = "เกิดข้อผิดพลาดในการลบหน้าเว็บ";
+$MESS["WIKI_DELETE_PAGE"] = "คุณแน่ใจหรือไม่ ว่าต้องการลบทั้งหน้า และล็อกการเปลี่ยนแปลงทั้งหมด?";
+$MESS["WIKI_DEL_SONET_LOG_TITLE_TEMPLATE"] = "บทความวิกิ \"#TITLE#\" ถูกลบแล้ว";
+$MESS["WIKI_DIALOG_RENAME_BUT_RENAME"] = "เปลี่ยนชื่อ";
+$MESS["WIKI_DIALOG_RENAME_ERROR"] = "ไม่สามารถเปลี่ยนชื่อได้";
+$MESS["WIKI_DIALOG_RENAME_PAGE_NAME"] = "ชื่อใหม่";
+$MESS["WIKI_DIALOG_RENAME_TITLE"] = "เปลี่ยนชื่อ";
+$MESS["WIKI_ERROR_NAME_BAD_SYMBOL"] = "ชื่อประกอบด้วยสัญลักษณ์ที่ไม่ถูกต้อง (/)";
+$MESS["WIKI_ERROR_NAME_EMPTY"] = "ชื่อหน้าขาดหายไป";
+$MESS["WIKI_ERROR_RENAME"] = "หน้าที่มีชื่อดังกล่าวมีอยู่แล้ว";
+$MESS["WIKI_ERROR_TEXT_EMPTY"] = "ข้อความของหน้าว่างเปล่า";
+$MESS["WIKI_IMAGE_INSERT"] = "แทรกภาพ";
+$MESS["WIKI_IMAGE_UPLOAD_ERROR"] = "มีเพียงภาพเท่านั้น จึงจะสามารถอัปโหลดได้ (JPG, JPEG, JPE, PNG, GIF, BMP)";
+$MESS["WIKI_MODIFY_COMMENT"] = "ความคิดเห็นในอัปเดต";
+$MESS["WIKI_MODIFY_COMMENT_ABSENT"] = "ไม่มีเลย";
+$MESS["WIKI_MODULE_NOT_INSTALLED"] = "ไม่ได้ติดตั้งโมดูลวิกิ";
+$MESS["WIKI_PAGE_NOT_FIND"] = "ไม่มีข้อความ หรือไม่มีหน้าเว็บอยู่ คุณสามารถ <a href=\"%LINK%\">สร้างหน้าใหม่ด้วยชื่อนี้ตอนนี้</a> ได้";
+$MESS["WIKI_PAGE_RENAMED"] = "หน้า %OLD_NAME% ได้เปลี่ยนชื่อเป็น %NEW_NAME%";
+$MESS["WIKI_REDIRECT"] = "เปลี่ยนเส้นทาง";
+$MESS["WIKI_SESS_TIMEOUT"] = "เซสชันของคุณหมดอายุแล้ว กรุณาบันทึกหน้าเว็บอีกครั้ง";
+$MESS["WIKI_SOCNET_INITIALIZING_FAILED"] = "เริ่มต้นโซเชียลเน็ตเวิร์กไม่สำเร็จ";
+$MESS["WIKI_SONET_IM_ADD"] = "หน้าวิกิใหม่ \"#title#\" ถูกเพิ่มลงใน #group_name# แล้ว";
+$MESS["WIKI_SONET_IM_DELETE"] = "หน้าวิกิ \"#title#\" ถูกเอาออกไปแล้วใน #group_name#";
+$MESS["WIKI_SONET_IM_EDIT"] = "หน้าวิกิ \"#title#\" อัปเดตแล้วใน #group_name#";
+$MESS["WIKI_SONET_IM_RENAME"] = "หน้าวิกิ \"#title_old#\" ถูกเปลี่ยนชื่อไปเป็น \"#title_new#\" แล้วใน #group_name#";
+$MESS["WIKI_SONET_LOG_TITLE_TEMPLATE"] = "บทความ \"#TITLE#\" ได้เพิ่มหรืออัปเดตแล้ว";
+?>

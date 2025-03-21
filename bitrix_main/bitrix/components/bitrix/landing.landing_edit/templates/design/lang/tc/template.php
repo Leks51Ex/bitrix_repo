@@ -1,0 +1,16 @@
+<?php
+$MESS["LANDING_DSGN_TPL_ADDITIONAL_BG"] = "背景";
+$MESS["LANDING_DSGN_TPL_BUTTON_ADD"] = "新增";
+$MESS["LANDING_DSGN_TPL_BUTTON_CANCEL"] = "取消";
+$MESS["LANDING_DSGN_TPL_BUTTON_SAVE"] = "儲存";
+$MESS["LANDING_DSGN_TPL_FONTS_PAGE"] = "文字";
+$MESS["LANDING_DSGN_TPL_MY_COLOR"] = "自訂色彩";
+$MESS["LANDING_DSGN_TPL_OTHER_COLORS"] = "更多色彩";
+$MESS["LANDING_DSGN_TPL_TITLE_ADD"] = "新頁面";
+$MESS["LANDING_DSGN_TPL_TITLE_EDIT"] = "頁面設計";
+$MESS["LANDING_FORM_BUTTON"] = "按鈕";
+$MESS["LANDING_FORM_SUBTITLE"] = "一般設計參數";
+$MESS["LANDING_FORM_TEXT_1"] = "選擇#LINK1#搭配您企業形象的顏色#LINK2#。該色彩將用於您網站的按鈕和其他醒目元素。";
+$MESS["LANDING_FORM_TEXT_2"] = "選擇文字和標題的定義屬性，例如顏色和行間距。
+這些屬性將套用於新增至您網站的所有新區塊。";
+$MESS["LANDING_FORM_TITLE"] = "頁面設計";

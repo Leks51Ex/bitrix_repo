@@ -1,0 +1,22 @@
+<?php
+$MESS["MARKETPLACE_APP_FREE"] = "Ücretsiz";
+$MESS["MARKETPLACE_APP_PRICE"] = "Aylık #PRICE#";
+$MESS["MARKETPLACE_COLLECTION"] = "Seçim";
+$MESS["MARKETPLACE_EMPTY_CATEGORY"] = "Uygulama bulunamadı.";
+$MESS["MARKETPLACE_INSTALLED"] = "yüklü";
+$MESS["MARKETPLACE_MORE_APPS"] = "Daha fazla uygulama göster";
+$MESS["MARKETPLACE_PRICE_FREE"] = "Uygun";
+$MESS["MARKETPLACE_PRICE_PAID"] = "Ödendi";
+$MESS["MARKETPLACE_PRICE_SUBSCRIPTION"] = "Abonelik";
+$MESS["MARKETPLACE_SALE"] = "İndirim";
+$MESS["MARKETPLACE_SHOW_ALL_LINK"] = "tümünü göster";
+$MESS["MARKETPLACE_SHOW_APP"] = "Görünüm";
+$MESS["MARKETPLACE_TITLE_BEST"] = "En İyi";
+$MESS["MARKETPLACE_TITLE_NEW"] = "Yeni";
+$MESS["MARKETPLACE_TITLE_SALE_OUT"] = "İndirim";
+$MESS["MARKETPLACE_TITLE_SALE_OUT_WITH_NAME"] = "Satış \"#ACTION_NAME#\"";
+$MESS["MENU_MARKETPLACE_ADD"] = "Uygulama ekle";
+$MESS["MENU_MARKETPLACE_ADD_WIDGET"] = "Widget ekle";
+$MESS["MENU_MARKETPLACE_TITLE"] = "işletmeniz için kullanıma hazır çözümler";
+$MESS["REST_MARKETPLACE_ERROR_404_DESCRIPTION"] = "İç hata. Lütfen sayfayı yeniden yükleyerek tekrar deneyin. Sorunun devam etmesi durumunda, lütfen Yardım Masasına başvurun.";
+$MESS["REST_MARKETPLACE_ERROR_404_TITLE"] = "Bir şeyler ters gitti...";

@@ -1,0 +1,7 @@
+<?php
+$MESS["BIZPROC_SCRIPT_EDIT_BTN_CHANGE"] = "Düzenle";
+$MESS["BIZPROC_SCRIPT_EDIT_MENU_GENERAL"] = "Açıklama";
+$MESS["BIZPROC_SCRIPT_EDIT_MENU_ROBOTS"] = "Otomasyon kuralları";
+$MESS["BIZPROC_SCRIPT_EDIT_MENU_TITLE"] = "Akıllı komut dosyaları";
+$MESS["BIZPROC_SCRIPT_EDIT_SCRIPT_DESCRIPTION"] = "Açıklama";
+$MESS["BIZPROC_SCRIPT_EDIT_SECTION_ROBOTS"] = "Otomasyon kurallarını yapılandır";

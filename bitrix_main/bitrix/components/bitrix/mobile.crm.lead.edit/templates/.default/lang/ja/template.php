@@ -1,0 +1,17 @@
+<?
+$MESS["M_CRM_LEAD_CONV_OPEN_ENTITY_SEL_COMPANY"] = "リストから会社を選択...";
+$MESS["M_CRM_LEAD_CONV_OPEN_ENTITY_SEL_CONTACT"] = "リストから連絡先を選択...";
+$MESS["M_CRM_LEAD_EDIT_CANCEL_BTN"] = "キャンセル";
+$MESS["M_CRM_LEAD_EDIT_CREATE_TITLE"] = "新規リード";
+$MESS["M_CRM_LEAD_EDIT_EDIT_TITLE"] = "編集";
+$MESS["M_CRM_LEAD_EDIT_SAVE_BTN"] = "保存";
+$MESS["M_CRM_LEAD_EDIT_VIEW_TITLE"] = "リードを表示";
+$MESS["M_CRM_LEAD_MENU_ACTIVITY"] = "アクティビティ";
+$MESS["M_CRM_LEAD_MENU_CREATE_ON_BASE"] = "ソースを使用して作成";
+$MESS["M_CRM_LEAD_MENU_DELETE"] = "削除";
+$MESS["M_CRM_LEAD_MENU_EDIT"] = "編集";
+$MESS["M_CRM_LEAD_MENU_HISTORY"] = "履歴";
+$MESS["M_DETAIL_DOWN_TEXT"] = "離すと更新されます";
+$MESS["M_DETAIL_LOAD_TEXT"] = "更新中...";
+$MESS["M_DETAIL_PULL_TEXT"] = "下に引っ張ると更新されます";
+?>
